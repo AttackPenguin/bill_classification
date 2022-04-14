@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Pedestrians and bicycling</name>
+          </item>
+          <item>
+            <name>Public transit</name>
+          </item>
+          <item>
+            <name>Roads and highways</name>
+          </item>
+          <item>
+            <name>Transportation programs funding</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Transportation and Public Works</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <relatedBills />
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-19T14:01:30Z</date>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <name>Highways and Transit Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-07-20T17:11:33Z</date>
+                </item>
+              </activities>
+              <systemCode>hspw12</systemCode>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><b>Bikeshare Transit Act of 2017</b></p> <p>This bill makes a bikeshare project eligible to be an associated transit improvement project, including one carried out to facilitate a bicycle rental operation that makes bicycles available for public transportation, allows riders to pick up and drop off bicycles, serves a defined geographic area, and facilitates the transit of individuals between various points in the area. </p> <p>Public transportation capital projects shall include any project for the acquisition or replacement of bicycles and related equipment, including technology and vehicles needed to restock stations, and the construction of bicycle-related facilities to facilitate a bikeshare project. </p> <p>The bill also makes eligible for funds under the congestion mitigation air quality improvement program projects or programs that reduce demand for roads through bikesharing. </p>]]></text>
+          <actionDate>2017-07-19</actionDate>
+          <lastSummaryUpdateDate>2017-11-13T19:51:50Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2017-07-19T04:00:00Z</updateDate>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <version>1.0.0</version>
+    <originChamber>House</originChamber>
+    <congress>115</congress>
+    <latestAction>
+      <actionDate>2017-07-20</actionDate>
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+      <links />
+    </latestAction>
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForB>1</placeholderTextForB>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-07-20</actionDate>
+        <committee>
+          <systemCode>hspw12</systemCode>
+          <name>Highways and Transit Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Highways and Transit.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-07-19</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <committee>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+        </committee>
+      </item>
+      <item>
+        <actionCode>B00100</actionCode>
+        <text>Sponsor introductory remarks on measure. (CR E1018)</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-07-19</actionDate>
+        <type>IntroReferral</type>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/extensions-of-remarks-section/page/E1018</url>
+            <name>E1018</name>
+          </link>
+        </links>
+        <committee />
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-07-19</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-07-19</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <createDate>2017-07-20T03:11:32Z</createDate>
+    <laws />
+    <titles>
+      <item>
+        <title>To amend titles 23 and 49, United States Code, with respect to bikeshare projects, and for other purposes.</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>Bikeshare Transit Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>Bikeshare Transit Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>Bikeshare Transit Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 122 (Wednesday, July 19, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. BLUMENAUER:H.R. 3305.Congress has the power to enact this legislation pursuantto the following:Article I, Section VIII, Clause VII[Page H6042]</pre>]]></constitutionalAuthorityStatementText>
+    <introducedDate>2017-07-19</introducedDate>
+    <calendarNumbers />
+    <recordedVotes />
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr3305ih/xml/BILLS-115hr3305ih.xml</url>
+          </item>
+        </formats>
+        <date>2017-07-19T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <cosponsors>
+      <item>
+        <firstName>Vern</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Buchanan</lastName>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+        <middleName />
+        <district>16</district>
+        <state>FL</state>
+        <identifiers>
+          <lisID>1840</lisID>
+          <gpoId>7885</gpoId>
+          <bioguideId>B001260</bioguideId>
+        </identifiers>
+        <bioguideId>B001260</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Buchanan, Vern [R-FL-16]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>ZOE</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>LOFGREN</lastName>
+        <sponsorshipDate>2017-09-05</sponsorshipDate>
+        <middleName />
+        <district>19</district>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>L000397</bioguideId>
+          <gpoId>7821</gpoId>
+          <lisID>701</lisID>
+        </identifiers>
+        <bioguideId>L000397</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Lofgren, Zoe [D-CA-19]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>ELEANOR</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>NORTON</lastName>
+        <sponsorshipDate>2018-05-07</sponsorshipDate>
+        <middleName>HOLMES</middleName>
+        <district>0</district>
+        <state>DC</state>
+        <identifiers>
+          <lisID>868</lisID>
+          <gpoId>7871</gpoId>
+          <bioguideId>N000147</bioguideId>
+        </identifiers>
+        <bioguideId>N000147</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>Albio</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Sires</lastName>
+        <sponsorshipDate>2018-05-07</sponsorshipDate>
+        <middleName />
+        <district>8</district>
+        <state>NJ</state>
+        <identifiers>
+          <lisID>1818</lisID>
+          <gpoId>8055</gpoId>
+          <bioguideId>S001165</bioguideId>
+        </identifiers>
+        <bioguideId>S001165</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Sires, Albio [D-NJ-8]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>Carol</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Shea-Porter</lastName>
+        <sponsorshipDate>2018-06-05</sponsorshipDate>
+        <middleName />
+        <district>1</district>
+        <state>NH</state>
+        <identifiers>
+          <lisID>1861</lisID>
+          <gpoId>7528</gpoId>
+          <bioguideId>S001170</bioguideId>
+        </identifiers>
+        <bioguideId>S001170</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Shea-Porter, Carol [D-NH-1]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>Matt</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Cartwright</lastName>
+        <sponsorshipDate>2018-06-07</sponsorshipDate>
+        <middleName />
+        <district>17</district>
+        <state>PA</state>
+        <identifiers>
+          <lisID>2159</lisID>
+          <gpoId />
+          <bioguideId>C001090</bioguideId>
+        </identifiers>
+        <bioguideId>C001090</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Cartwright, Matt [D-PA-17]</fullName>
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <amendments />
+    <billNumber>3305</billNumber>
+    <updateDate>2019-11-15T21:37:25Z</updateDate>
+    <cboCostEstimates />
+    <title>Bikeshare Transit Act of 2017</title>
+    <committeeReports />
+    <policyArea>
+      <name>Transportation and Public Works</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <district>3</district>
+        <lastName>BLUMENAUER</lastName>
+        <firstName>EARL</firstName>
+        <state>OR</state>
+        <fullName>Rep. Blumenauer, Earl [D-OR-3]</fullName>
+        <identifiers>
+          <lisID>99</lisID>
+          <gpoId>8116</gpoId>
+          <bioguideId>B000574</bioguideId>
+        </identifiers>
+        <middleName />
+        <bioguideId>B000574</bioguideId>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

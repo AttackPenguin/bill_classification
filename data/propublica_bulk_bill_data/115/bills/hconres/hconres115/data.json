@@ -1,0 +1,265 @@
+{
+  "actions": [
+    {
+      "acted_at": "2018-03-15", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-03-15", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Transportation and Infrastructure.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2018-03-16", 
+      "action_code": "", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2018-03-16", 
+      "action_code": "", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "text": "Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-04-12", 
+      "action_code": "", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-04-12", 
+      "action_code": "", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2018-04-17T17:23:00-04:00", 
+      "action_code": "H30200", 
+      "references": [], 
+      "text": "Mr. Barletta asked unanimous consent to discharge from committee and consider.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-04-17", 
+      "action_code": "H12300", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "text": "Committee on Transportation discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-04-17T17:23:34-04:00", 
+      "action_code": "H30000", 
+      "links": [
+        {
+          "name": "H3381", 
+          "url": "https://www.congress.gov/congressional-record/volume-164/house-section/page/H3381"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H3381", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-04-17T17:23:36-04:00", 
+      "action_code": "H37100", 
+      "how": "without objection", 
+      "links": [
+        {
+          "name": "H3381", 
+          "url": "https://www.congress.gov/congressional-record/volume-164/house-section/page/H3381"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H3381", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On agreeing to the resolution Agreed to without objection.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2018-04-17T17:23:40-04:00", 
+      "action_code": "H38310", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-04-18", 
+      "action_code": "", 
+      "references": [], 
+      "text": "Received in the Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-04-19", 
+      "action_code": "", 
+      "how": "by Unanimous Consent", 
+      "links": [
+        {
+          "name": "S2330", 
+          "url": "https://www.congress.gov/congressional-record/volume-164/senate-section/page/S2330"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR S2330", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:CONCURRENTRES", 
+      "text": "Resolution agreed to in Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2018-04-23", 
+      "action_code": "", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hconres115-115", 
+  "bill_type": "hconres", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "discharged", 
+        "markup", 
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "discharged", 
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Economic Development, Public Buildings, and Emergency Management", 
+      "subcommittee_id": "13"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "T000468", 
+      "district": "1", 
+      "name": "Titus, Dina", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2018-03-15", 
+      "state": "NV", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2018-03-16", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2018-04-17T17:23:36-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2018-04-19", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2018-03-15", 
+  "number": "115", 
+  "official_title": "Authorizing the use of the Capitol Grounds for the National Peace Officers Memorial Service and the National Honor Guard and Pipe Band Exhibition.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hconres35-115", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "B001269", 
+    "district": "11", 
+    "name": "Barletta, Lou", 
+    "state": "PA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:CONCURRENTRES", 
+  "status_at": "2018-04-19", 
+  "subjects": [
+    "Congress"
+  ], 
+  "subjects_top_term": "Congress", 
+  "summary": {
+    "as": "Passed Senate without amendment", 
+    "date": "2018-04-19T20:56:05Z", 
+    "text": "(Sec. 1) Permits the Grand Lodge of the Fraternal Order of Police and its auxiliary to sponsor as free public events on the Capitol grounds:\n\n the 37th Annual National Peace Officers' Memorial Service, on May 15, 2018, to honor the law enforcement officers who died in the line of duty during 2017; and the National Honor Guard and Pipe Band Exhibition, on May 14, 2018, to allow law enforcement representatives to exhibit their ability to demonstrate Honor Guard programs and provide for a bag pipe exhibition."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Authorizing the use of the Capitol Grounds for the National Peace Officers Memorial Service and the National Honor Guard and Pipe Band Exhibition.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Authorizing the use of the Capitol Grounds for the National Peace Officers Memorial Service and the National Honor Guard and Pipe Band Exhibition.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-11-15T21:40:02Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/115/hconres/BILLSTATUS-115hconres115.xml"
+}

@@ -1,0 +1,94 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-12-11", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-11", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5871-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-12-11", 
+  "number": "5871", 
+  "official_title": "To tax capital gains at the same rate as ordinary income.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Dollar is a Dollar Act", 
+  "sponsor": {
+    "bioguide_id": "G000556", 
+    "district": "9", 
+    "name": "Grayson, Alan", 
+    "state": "FL", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-12-11", 
+  "subjects": [
+    "Capital gains tax", 
+    "Income tax rates", 
+    "Taxation"
+  ], 
+  "subjects_top_term": "Taxation", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2014-12-11T05:00:00Z", 
+    "text": "Dollar is a Dollar Act - Amends the Internal Revenue Code to repeal provisions allowing a lower income tax rate for capital gains income."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Dollar is a Dollar Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To tax capital gains at the same rate as ordinary income.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Dollar is a Dollar Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2016-10-25T16:17:52Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/113/hr/BILLSTATUS-113hr5871.xml"
+}

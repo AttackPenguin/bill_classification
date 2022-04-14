@@ -1,0 +1,114 @@
+{
+  "actions": [
+    {
+      "acted_at": "2018-03-29", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-03-29", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hres809-115", 
+  "bill_type": "hres", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001299", 
+      "district": "3", 
+      "name": "Banks, Jim", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2018-11-02", 
+      "state": "IN", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001094", 
+      "district": "8", 
+      "name": "Cook, Paul", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2018-03-29", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2018-03-29", 
+  "number": "809", 
+  "official_title": "Expressing support for designation of a Welcome Home Vietnam Veterans Day.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hres214-115", 
+      "identified_by": "CRS", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "S001156", 
+    "district": "38", 
+    "name": "Sanchez, Linda T.", 
+    "state": "CA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2018-03-29", 
+  "subjects": [
+    "Armed forces and national security"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2018-03-29T04:00:00Z", 
+    "text": "Expresses support for the designation of Welcome Home Vietnam Veterans Day.\n\n Honors and recognizes the contributions of veterans who served in Vietnam."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Expressing support for designation of a Welcome Home Vietnam Veterans Day.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Expressing support for designation of a Welcome Home Vietnam Veterans Day.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-04-18T15:55:12Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/115/hres/BILLSTATUS-115hres809.xml"
+}

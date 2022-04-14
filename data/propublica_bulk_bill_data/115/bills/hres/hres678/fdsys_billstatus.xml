@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <congress>115</congress>
+    <originChamber>House</originChamber>
+    <constitutionalAuthorityStatementText />
+    <committees>
+      <billCommittees />
+    </committees>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <latestAction>
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      <links />
+      <actionTime>18:56:26</actionTime>
+      <actionDate>2018-01-08</actionDate>
+    </latestAction>
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>Directs the Clerk of the House of Representatives to inform the Senate that a quorum of the House is present and that the House is ready to proceed with business.</p>]]></text>
+          <lastSummaryUpdateDate>2018-02-05T22:07:16Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2018-01-08</actionDate>
+          <updateDate>2018-01-08T05:00:00Z</updateDate>
+        </item>
+        <item>
+          <name>Passed House without amendment</name>
+          <versionCode>81</versionCode>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</p> <p>Directs the Clerk of the House of Representatives to inform the Senate that a quorum of the House is present and that the House is ready to proceed with business.</p>]]></text>
+          <lastSummaryUpdateDate>2018-02-05T22:07:26Z</lastSummaryUpdateDate>
+          <actionDesc>Passed House without amendment</actionDesc>
+          <actionDate>2018-01-08</actionDate>
+          <updateDate>2018-01-08T16:48:23Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To inform the Senate that a quorum of the House has assembled.</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>To inform the Senate that a quorum of the House has assembled.</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <laws />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionCode>H38310</actionCode>
+        <actionTime>18:56:26</actionTime>
+        <committee />
+        <actionDate>2018-01-08</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <type>Floor</type>
+        <links />
+      </item>
+      <item>
+        <actionCode>H37100</actionCode>
+        <actionTime>18:56:21</actionTime>
+        <committee />
+        <actionDate>2018-01-08</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>On agreeing to the resolution Agreed to without objection. (text: CR H6)</text>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H6</name>
+            <url>https://www.congress.gov/congressional-record/volume-164/house-section/page/H6</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <actionCode>8000</actionCode>
+        <actionTime>18:56:21</actionTime>
+        <committee />
+        <actionDate>2018-01-08</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H6)</text>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H6</name>
+            <url>https://www.congress.gov/congressional-record/volume-164/house-section/page/H6</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <actionCode>H30000</actionCode>
+        <actionTime>18:56:07</actionTime>
+        <committee />
+        <actionDate>2018-01-08</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Considered as privileged matter. (consideration: CR H6)</text>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H6</name>
+            <url>https://www.congress.gov/congressional-record/volume-164/house-section/page/H6</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <actionDate>2018-01-08</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <committee />
+        <actionDate>2018-01-08</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <considerationByHouse>1</considerationByHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+      </actionTypeCounts>
+    </actions>
+    <version>1.0.0</version>
+    <cboCostEstimates />
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <calendarNumbers />
+    <cosponsors />
+    <billType>HRES</billType>
+    <sponsors>
+      <item>
+        <firstName>Kevin</firstName>
+        <fullName>Rep. McCarthy, Kevin [R-CA-23]</fullName>
+        <middleName />
+        <bioguideId>M001165</bioguideId>
+        <lastName>McCarthy</lastName>
+        <state>CA</state>
+        <party>R</party>
+        <identifiers>
+          <lisID>1833</lisID>
+          <bioguideId>M001165</bioguideId>
+          <gpoId>7827</gpoId>
+        </identifiers>
+        <district>23</district>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <recordedVotes />
+    <notes />
+    <billNumber>678</billNumber>
+    <updateDate>2019-04-18T15:54:50Z</updateDate>
+    <relatedBills />
+    <amendments />
+    <textVersions>
+      <item>
+        <type>Engrossed in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hres678eh/xml/BILLS-115hres678eh.xml</url>
+          </item>
+        </formats>
+        <date>2018-01-08T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <createDate>2018-01-09T03:11:02Z</createDate>
+    <introducedDate>2018-01-08</introducedDate>
+    <committeeReports />
+    <title>To inform the Senate that a quorum of the House has assembled.</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

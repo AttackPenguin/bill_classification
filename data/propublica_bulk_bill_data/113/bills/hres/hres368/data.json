@@ -1,0 +1,232 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-09-30", 
+      "action_code": "1000", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-09-30", 
+      "action_code": "H12100", 
+      "committees": [
+        "HSRU"
+      ], 
+      "links": [
+        {
+          "name": "H. Rept. 113-240", 
+          "url": "https://www.congress.gov/congressional-report/113th-congress/house-report/240"
+        }
+      ], 
+      "references": [], 
+      "text": "The House Committee on Rules reported an original measure, H. Rept. 113-240, by Mr. Sessions.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-09-30T23:37:02-04:00", 
+      "action_code": "H12700", 
+      "bill_ids": [
+        "hjres59-113"
+      ], 
+      "links": [
+        {
+          "name": "H.J.Res. 59", 
+          "url": "https://www.congress.gov/bill/113th-congress/house-joint-resolution/59"
+        }
+      ], 
+      "references": [], 
+      "text": "Rule makes in order for the House to take H.J.Res. 59 from the Speaker's table, with the House amendment to the senate amendment thereto, insist on its amendment, and request a conference with the Senate thereon. Section 2 makes it in order for any motion pursuant to clause 4 of rule XXII relating to H.J.Res. 59 be offered only by the Majority Leader or his designee.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-09-30", 
+      "action_code": "H12420", 
+      "calendar": "House", 
+      "number": "63", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Placed on the House Calendar, Calendar No. 63.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2013-09-30T23:37:04-04:00", 
+      "action_code": "H30000", 
+      "links": [
+        {
+          "name": "H6041-6049", 
+          "url": "https://www.congress.gov/congressional-record/volume-159/house-section/page/H6041-6049"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H6041-6049", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as privileged matter.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-09-30T23:37:31-04:00", 
+      "action_code": "H8D000", 
+      "links": [
+        {
+          "name": "H. Res. 368", 
+          "url": "https://www.congress.gov/bill/113th-congress/house-resolution/368"
+        }
+      ], 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with one hour of debate on H. Res. 368.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-09-30T23:55:45-04:00", 
+      "action_code": "H8D000", 
+      "links": [
+        {
+          "name": "H. Res. 368", 
+          "url": "https://www.congress.gov/bill/113th-congress/house-resolution/368"
+        }
+      ], 
+      "references": [], 
+      "text": "DEBATE - The House continued with further debate on H. Res. 368.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-10-01T00:45:32-04:00", 
+      "action_code": "H35000", 
+      "links": [
+        {
+          "name": "H6048", 
+          "url": "https://www.congress.gov/congressional-record/volume-159/house-section/page/H6048"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H6048", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "The previous question was ordered pursuant to the rule.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-10-01T01:11:30-04:00", 
+      "action_code": "H37100", 
+      "how": "roll", 
+      "links": [
+        {
+          "name": "H6041", 
+          "url": "https://www.congress.gov/congressional-record/volume-159/house-section/page/H6041"
+        }, 
+        {
+          "name": "Roll no. 505", 
+          "url": "http://clerk.house.gov/evs/2013/roll505.xml"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H6041", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "505", 
+      "status": "PASSED:SIMPLERES", 
+      "suspension": null, 
+      "text": "On agreeing to the resolution Agreed to by the Yeas and Nays: 228 - 199 (Roll no. 505).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2013-10-01T01:11:31-04:00", 
+      "action_code": "H38310", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hres368-113", 
+  "bill_type": "hres", 
+  "by_request": false, 
+  "committee_reports": [
+    "H. Rept. 113-240"
+  ], 
+  "committees": [
+    {
+      "activity": [
+        "origin", 
+        "reporting"
+      ], 
+      "committee": "House Rules", 
+      "committee_id": "HSRU"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2013-09-30", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2013-10-01T01:11:30-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2013-09-30", 
+  "number": "368", 
+  "official_title": "Relating to consideration of the joint resolution (H.J. Res. 59) making continuing appropriations for fiscal year 2014, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hjres59-113", 
+      "identified_by": "House", 
+      "reason": "procedurally-related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "S000250", 
+    "district": "32", 
+    "name": "Sessions, Pete", 
+    "state": "TX", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:SIMPLERES", 
+  "status_at": "2013-10-01T01:11:30-04:00", 
+  "subjects": [
+    "Appropriations", 
+    "Congress", 
+    "House of Representatives", 
+    "Legislative rules and procedure"
+  ], 
+  "subjects_top_term": "Congress", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2013-10-01T12:23:36Z", 
+    "text": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.)\n\nTakes from the Speaker's table H.J. Res. 59, making continuing appropriations for FY2014, and for other purposes, with the House amendment to the Senate amendment thereto, insists on the House amendment, and requests a conference with the Senate.\n\n Limits to the Majority Leader or the designee of the Majority Leader the offering of a motion pursuant to clause 4 of Rule XXII (House and Senate Relations) of the Rules of the House of Representatives relating to H.J. Res. 59. (Clause 4 makes privileged a motion to dispose of any amendment when the stage of disagreement has been reached on a bill or resolution with House or Senate amendments.)"
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Relating to consideration of the joint resolution (H.J. Res. 59) making continuing appropriations for fiscal year 2014, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Relating to consideration of the joint resolution (H.J. Res. 59) making continuing appropriations for fiscal year 2014, and for other purposes.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2018-06-05T15:48:15Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/113/hres/BILLSTATUS-113hres368.xml"
+}

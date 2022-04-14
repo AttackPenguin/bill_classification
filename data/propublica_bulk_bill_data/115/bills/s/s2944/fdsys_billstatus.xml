@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <committeeReports />
+    <recordedVotes />
+    <notes />
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <number>2673</number>
+        <type>S</type>
+        <latestTitle>PAPER Act of 2018</latestTitle>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Rules and Administration.</text>
+          <actionDate>2018-04-16</actionDate>
+        </latestAction>
+      </item>
+      <item>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <number>6708</number>
+        <type>HR</type>
+        <latestTitle>PAPER Act of 2018</latestTitle>
+        <latestAction>
+          <text>Referred to the House Committee on House Administration.</text>
+          <actionDate>2018-09-05</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <version>1.0.0</version>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <systemCode>ssra00</systemCode>
+          <name>Rules and Administration Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-05-23T22:23:10Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>Senate</originChamber>
+    <cboCostEstimates />
+    <createDate>2018-05-24T04:41:03Z</createDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <billNumber>2944</billNumber>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>Jones</lastName>
+        <bioguideId>J000300</bioguideId>
+        <firstName>Doug</firstName>
+        <fullName>Sen. Jones, Doug  [D-AL]</fullName>
+        <state>AL</state>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>J000300</bioguideId>
+          <lisID>2364</lisID>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <sponsorshipDate>2018-05-23</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>McCaskill</lastName>
+        <bioguideId>M001170</bioguideId>
+        <firstName>Claire</firstName>
+        <fullName>Sen. McCaskill, Claire [D-MO]</fullName>
+        <state>MO</state>
+        <party>D</party>
+        <identifiers>
+          <lisID>1820</lisID>
+          <gpoId>8252</gpoId>
+          <bioguideId>M001170</bioguideId>
+        </identifiers>
+        <middleName />
+        <sponsorshipDate>2018-05-23</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <amendments />
+    <textVersions>
+      <item>
+        <date>2018-05-23T04:00:00Z</date>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115s2944is/xml/BILLS-115s2944is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <titles>
+      <item>
+        <chamberCode />
+        <title>A bill to limit the printing of the Congressional Record and the Senate Calendars, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Preventing Additional Printing of Electronic Records Act of 2018</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>PAPER Act of 2018</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>PAPER Act of 2018</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>PAPER Act of 2018</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Preventing Additional Printing of Electronic Records Act of 2018</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <calendarNumbers />
+    <laws />
+    <updateDate>2019-10-18T16:08:11Z</updateDate>
+    <title>PAPER Act of 2018</title>
+    <congress>115</congress>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2018-05-23</actionDate>
+        <committee>
+          <systemCode>ssra00</systemCode>
+          <name>Rules and Administration Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Rules and Administration.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>10000</actionCode>
+        <links />
+        <actionDate>2018-05-23</actionDate>
+        <text>Introduced in Senate</text>
+      </item>
+    </actions>
+    <billType>S</billType>
+    <latestAction>
+      <links />
+      <actionDate>2018-05-23</actionDate>
+      <text>Read twice and referred to the Committee on Rules and Administration.</text>
+    </latestAction>
+    <introducedDate>2018-05-23</introducedDate>
+    <sponsors>
+      <item>
+        <bioguideId>C001075</bioguideId>
+        <state>LA</state>
+        <party>R</party>
+        <middleName />
+        <lastName>Cassidy</lastName>
+        <fullName>Sen. Cassidy, Bill [R-LA]</fullName>
+        <firstName>Bill</firstName>
+        <byRequestType />
+        <identifiers>
+          <lisID>1925</lisID>
+          <gpoId>7964</gpoId>
+          <bioguideId>C001075</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in Senate</name>
+          <lastSummaryUpdateDate>2019-09-09T13:11:11Z</lastSummaryUpdateDate>
+          <updateDate>2018-05-23T04:00:00Z</updateDate>
+          <text><![CDATA[<p><b>Preventing Additional Printing of Electronic Records Act of 2018 or the PAPER Act of 2018</b></p> <p>This bill limits the printing of the Congressional Record, the Senate Calendar of Business, and the Senate Executive Calendar by requiring the offices that receive printed copies to request the copies. </p>]]></text>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <actionDate>2018-05-23</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

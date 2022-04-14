@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <calendarNumbers />
+    <actions>
+      <actionTypeCounts>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <agreedToInSenate>1</agreedToInSenate>
+        <introducedInHouse>1</introducedInHouse>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <considerationByHouse>1</considerationByHouse>
+        <committeeDischarged>1</committeeDischarged>
+        <unanimousConsentRequestToConsider>1</unanimousConsentRequestToConsider>
+        <houseCommitteeDischarged>1</houseCommitteeDischarged>
+        <introducedInSenate>1</introducedInSenate>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <sentToHouse>1</sentToHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2018-02-27</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2018-02-26</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S1222</name>
+            <url>https://www.congress.gov/congressional-record/volume-164/senate-section/page/S1222</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S1222)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <type>Floor</type>
+        <actionDate>2018-02-26</actionDate>
+        <text>Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.(consideration: CR S1222)</text>
+        <links>
+          <link>
+            <name>S1222</name>
+            <url>https://www.congress.gov/congressional-record/volume-164/senate-section/page/S1222</url>
+          </link>
+        </links>
+        <actionCode>17000</actionCode>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2018-02-15</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Received in the Senate.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionTime>14:07:05</actionTime>
+        <type>Floor</type>
+        <actionDate>2018-02-14</actionDate>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <links />
+        <actionCode>H38310</actionCode>
+        <committee />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionTime>14:06:50</actionTime>
+        <type>Floor</type>
+        <actionDate>2018-02-14</actionDate>
+        <text>On agreeing to the resolution Agreed to without objection. (text: CR H1147)</text>
+        <links>
+          <link>
+            <name>H1147</name>
+            <url>https://www.congress.gov/congressional-record/volume-164/house-section/page/H1147</url>
+          </link>
+        </links>
+        <actionCode>H37100</actionCode>
+        <committee />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionTime>14:06:50</actionTime>
+        <type>Floor</type>
+        <actionDate>2018-02-14</actionDate>
+        <text>Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H1147)</text>
+        <links>
+          <link>
+            <name>H1147</name>
+            <url>https://www.congress.gov/congressional-record/volume-164/house-section/page/H1147</url>
+          </link>
+        </links>
+        <actionCode>8000</actionCode>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionTime>14:06:30</actionTime>
+        <type>Floor</type>
+        <actionDate>2018-02-14</actionDate>
+        <text>Considered by unanimous consent. (consideration: CR H1147)</text>
+        <links>
+          <link>
+            <name>H1147</name>
+            <url>https://www.congress.gov/congressional-record/volume-164/house-section/page/H1147</url>
+          </link>
+        </links>
+        <actionCode>H30000</actionCode>
+        <committee />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <type>Discharge</type>
+        <actionDate>2018-02-14</actionDate>
+        <text>Committee on House Administration discharged.</text>
+        <links />
+        <actionCode>H12300</actionCode>
+        <committee>
+          <name>House Administration Committee</name>
+          <systemCode>hsha00</systemCode>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <type>Committee</type>
+        <actionDate>2018-02-14</actionDate>
+        <text>Committee on House Administration discharged.</text>
+        <links />
+        <actionCode>5500</actionCode>
+        <committee>
+          <name>House Administration Committee</name>
+          <systemCode>hsha00</systemCode>
+        </committee>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionTime>14:06:23</actionTime>
+        <type>Floor</type>
+        <actionDate>2018-02-14</actionDate>
+        <text>Mr. Harper asked unanimous consent to discharge from committee and consider.</text>
+        <links />
+        <actionCode>H30200</actionCode>
+        <committee />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2018-02-05</actionDate>
+        <text>Referred to the House Committee on House Administration.</text>
+        <links />
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>House Administration Committee</name>
+          <systemCode>hsha00</systemCode>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2018-02-05</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2018-02-05</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <actionCode>1000</actionCode>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>10</houseOfRepresentatives>
+        <senate>4</senate>
+      </actionByCounts>
+    </actions>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>Authorizing the use of Emancipation Hall for a ceremony as part of the commemoration of the days of remembrance of victims of the Holocaust.</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Authorizing the use of Emancipation Hall for a ceremony as part of the commemoration of the days of remembrance of victims of the Holocaust.</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <title>Authorizing the use of Emancipation Hall for a ceremony as part of the commemoration of the days of remembrance of victims of the Holocaust.</title>
+    <committeeReports />
+    <latestAction>
+      <text>Message on Senate action sent to the House.</text>
+      <actionDate>2018-02-27</actionDate>
+      <links />
+    </latestAction>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2018-02-23T17:33:53Z</lastSummaryUpdateDate>
+          <actionDate>2018-02-05</actionDate>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[<p>Authorizes the use of Emancipation Hall in the Capitol Visitor Center on April 9, 2018, for a ceremony as part of the commemoration of the days of remembrance of victims of the Holocaust.</p>]]></text>
+          <updateDate>2018-02-05T05:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+        </item>
+        <item>
+          <lastSummaryUpdateDate>2018-02-28T20:19:52Z</lastSummaryUpdateDate>
+          <actionDate>2018-02-14</actionDate>
+          <name>Passed House without amendment</name>
+          <actionDesc>Passed House without amendment</actionDesc>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)</p> <p>(Sec. 1) Authorizes the use of Emancipation Hall in the Capitol Visitor Center on April 9, 2018, for a ceremony as part of the commemoration of the days of remembrance of victims of the Holocaust.</p>]]></text>
+          <updateDate>2018-02-14T14:36:57Z</updateDate>
+          <versionCode>81</versionCode>
+        </item>
+        <item>
+          <lastSummaryUpdateDate>2018-02-28T20:22:53Z</lastSummaryUpdateDate>
+          <actionDate>2018-02-26</actionDate>
+          <name>Passed Senate without amendment</name>
+          <actionDesc>Passed Senate without amendment</actionDesc>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The expanded summary of the House passed version is repeated here.)</p> <p>(Sec. 1) Authorizes the use of Emancipation Hall in the Capitol Visitor Center on April 9, 2018, for a ceremony as part of the commemoration of the days of remembrance of victims of the Holocaust.</p>]]></text>
+          <updateDate>2018-02-26T14:32:44Z</updateDate>
+          <versionCode>82</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <sponsors>
+      <item>
+        <state>FL</state>
+        <identifiers>
+          <lisID>985</lisID>
+          <bioguideId>R000435</bioguideId>
+          <gpoId>7890</gpoId>
+        </identifiers>
+        <bioguideId>R000435</bioguideId>
+        <middleName />
+        <fullName>Rep. Ros-Lehtinen, Ileana [R-FL-27]</fullName>
+        <firstName>ILEANA</firstName>
+        <party>R</party>
+        <lastName>ROS-LEHTINEN</lastName>
+        <district>27</district>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <updateDate>2019-04-18T15:52:49Z</updateDate>
+    <relatedBills />
+    <billType>HCONRES</billType>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>House Administration Committee</name>
+          <systemCode>hsha00</systemCode>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2018-02-14T19:06:25Z</date>
+              <name>Discharged from</name>
+            </item>
+            <item>
+              <date>2018-02-05T17:02:05Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <createDate>2018-02-06T03:10:59Z</createDate>
+    <introducedDate>2018-02-05</introducedDate>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <recordedVotes />
+    <billNumber>103</billNumber>
+    <cosponsors>
+      <item>
+        <bioguideId>D000610</bioguideId>
+        <sponsorshipDate>2018-02-05</sponsorshipDate>
+        <firstName>Theodore</firstName>
+        <lastName>Deutch</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <state>FL</state>
+        <district>22</district>
+        <identifiers>
+          <bioguideId>D000610</bioguideId>
+          <lisID>1976</lisID>
+          <gpoId>7891</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <middleName>E.</middleName>
+        <fullName>Rep. Deutch, Theodore E. [D-FL-22]</fullName>
+      </item>
+      <item>
+        <bioguideId>Z000017</bioguideId>
+        <sponsorshipDate>2018-02-05</sponsorshipDate>
+        <firstName>Lee</firstName>
+        <lastName>Zeldin</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <state>NY</state>
+        <district>1</district>
+        <identifiers>
+          <lisID>2261</lisID>
+          <bioguideId>Z000017</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <middleName>M.</middleName>
+        <fullName>Rep. Zeldin, Lee M. [R-NY-1]</fullName>
+      </item>
+      <item>
+        <bioguideId>S001190</bioguideId>
+        <sponsorshipDate>2018-02-05</sponsorshipDate>
+        <firstName>Bradley</firstName>
+        <lastName>Schneider</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <state>IL</state>
+        <district>10</district>
+        <identifiers>
+          <bioguideId>S001190</bioguideId>
+          <lisID>2124</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <middleName>Scott</middleName>
+        <fullName>Rep. Schneider, Bradley Scott [D-IL-10]</fullName>
+      </item>
+      <item>
+        <bioguideId>K000392</bioguideId>
+        <sponsorshipDate>2018-02-05</sponsorshipDate>
+        <firstName>David</firstName>
+        <lastName>Kustoff</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <state>TN</state>
+        <district>8</district>
+        <identifiers>
+          <gpoId />
+          <lisID>2348</lisID>
+          <bioguideId>K000392</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Kustoff, David [R-TN-8]</fullName>
+      </item>
+      <item>
+        <bioguideId>L000480</bioguideId>
+        <sponsorshipDate>2018-02-05</sponsorshipDate>
+        <firstName>NITA</firstName>
+        <lastName>LOWEY</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <state>NY</state>
+        <district>17</district>
+        <identifiers>
+          <gpoId>8079</gpoId>
+          <lisID>709</lisID>
+          <bioguideId>L000480</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <middleName>M.</middleName>
+        <fullName>Rep. Lowey, Nita M. [D-NY-17]</fullName>
+      </item>
+      <item>
+        <bioguideId>G000377</bioguideId>
+        <sponsorshipDate>2018-02-05</sponsorshipDate>
+        <firstName>KAY</firstName>
+        <lastName>GRANGER</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <state>TX</state>
+        <district>12</district>
+        <identifiers>
+          <bioguideId>G000377</bioguideId>
+          <lisID>1487</lisID>
+          <gpoId>8168</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Granger, Kay [R-TX-12]</fullName>
+      </item>
+      <item>
+        <bioguideId>E000179</bioguideId>
+        <sponsorshipDate>2018-02-05</sponsorshipDate>
+        <firstName>ELIOT</firstName>
+        <lastName>ENGEL</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <state>NY</state>
+        <district>16</district>
+        <identifiers>
+          <gpoId>8078</gpoId>
+          <bioguideId>E000179</bioguideId>
+          <lisID>344</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <middleName>L.</middleName>
+        <fullName>Rep. Engel, Eliot L. [D-NY-16]</fullName>
+      </item>
+      <item>
+        <bioguideId>R000580</bioguideId>
+        <sponsorshipDate>2018-02-05</sponsorshipDate>
+        <firstName>Peter</firstName>
+        <lastName>Roskam</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <state>IL</state>
+        <district>6</district>
+        <identifiers>
+          <gpoId>7926</gpoId>
+          <lisID>1848</lisID>
+          <bioguideId>R000580</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <middleName>J.</middleName>
+        <fullName>Rep. Roskam, Peter J. [R-IL-6]</fullName>
+      </item>
+      <item>
+        <bioguideId>V000131</bioguideId>
+        <sponsorshipDate>2018-02-05</sponsorshipDate>
+        <firstName>Marc</firstName>
+        <lastName>Veasey</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <state>TX</state>
+        <district>33</district>
+        <identifiers>
+          <bioguideId>V000131</bioguideId>
+          <gpoId />
+          <lisID>2166</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <middleName>A.</middleName>
+        <fullName>Rep. Veasey, Marc A. [D-TX-33]</fullName>
+      </item>
+      <item>
+        <bioguideId>S000522</bioguideId>
+        <sponsorshipDate>2018-02-05</sponsorshipDate>
+        <firstName>CHRISTOPHER</firstName>
+        <lastName>SMITH</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <state>NJ</state>
+        <district>4</district>
+        <identifiers>
+          <gpoId>8046</gpoId>
+          <lisID>1071</lisID>
+          <bioguideId>S000522</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <middleName>H.</middleName>
+        <fullName>Rep. Smith, Christopher H. [R-NJ-4]</fullName>
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <originChamber>House</originChamber>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Crime victims</name>
+          </item>
+          <item>
+            <name>Europe</name>
+          </item>
+          <item>
+            <name>Germany</name>
+          </item>
+          <item>
+            <name>Religion</name>
+          </item>
+          <item>
+            <name>U.S. Capitol</name>
+          </item>
+          <item>
+            <name>War crimes, genocide, crimes against humanity</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <notes />
+    <constitutionalAuthorityStatementText />
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hconres103enr/xml/BILLS-115hconres103enr.xml</url>
+          </item>
+        </formats>
+        <type>Enrolled Bill</type>
+        <date />
+      </item>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hconres103rds/xml/BILLS-115hconres103rds.xml</url>
+          </item>
+        </formats>
+        <type>Received in Senate</type>
+        <date>2018-02-15T05:00:00Z</date>
+      </item>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hconres103eh/xml/BILLS-115hconres103eh.xml</url>
+          </item>
+        </formats>
+        <type>Engrossed in House</type>
+        <date>2018-02-14T05:00:00Z</date>
+      </item>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hconres103ih/xml/BILLS-115hconres103ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+        <date>2018-02-05T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <laws />
+    <version>1.0.0</version>
+    <congress>115</congress>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

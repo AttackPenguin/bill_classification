@@ -1,0 +1,105 @@
+{
+  "actions": [
+    {
+      "acted_at": "2018-09-13", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-09-13", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr6823-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2018-09-13", 
+  "number": "6823", 
+  "official_title": "To amend title XIX of the Social Security Act to require States to suspend, rather than terminate, an individual's eligibility for medical assistance under the State Medicaid plan while such individual is an inmate of a public institution.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s3445-115", 
+      "identified_by": "CRS", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Supporting Positive Outcomes After Release Act", 
+  "sponsor": {
+    "bioguide_id": "S000185", 
+    "district": "3", 
+    "name": "Scott, Robert C. \"Bobby\"", 
+    "state": "VA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2018-09-13", 
+  "subjects": [
+    "Health"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2018-09-13T04:00:00Z", 
+    "text": "Supporting Positive Outcomes After Release Act\n\nThis bill prohibits a state\u00a0Medicaid program\u00a0from terminating an individual's medical assistance enrollment because the individual is incarcerated, if the individual was enrolled in medical assistance immediately before becoming an inmate or becomes eligible to enroll while an inmate.\u00a0However, a state may still suspend an inmate's enrollment."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title XIX of the Social Security Act to require States to suspend, rather than terminate, an individual's eligibility for medical assistance under the State Medicaid plan while such individual is an inmate of a public institution.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Supporting Positive Outcomes After Release Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Supporting Positive Outcomes After Release Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Supporting Positive Outcomes After Release Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-04-18T16:27:28Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr6823.xml"
+}

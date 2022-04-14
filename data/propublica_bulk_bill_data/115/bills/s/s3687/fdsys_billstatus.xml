@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>S</billType>
+    <cboCostEstimates />
+    <laws />
+    <amendments />
+    <introducedDate>2018-11-29</introducedDate>
+    <notes />
+    <recordedVotes />
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <name>Finance Committee</name>
+          <subcommittees />
+          <type>Standing</type>
+          <systemCode>ssfi00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-11-29T19:38:43Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <sponsors>
+      <item>
+        <firstName>Tammy</firstName>
+        <middleName />
+        <fullName>Sen. Duckworth, Tammy [D-IL]</fullName>
+        <byRequestType />
+        <state>IL</state>
+        <party>D</party>
+        <identifiers>
+          <gpoId />
+          <lisID>2123</lisID>
+          <bioguideId>D000622</bioguideId>
+        </identifiers>
+        <bioguideId>D000622</bioguideId>
+        <lastName>Duckworth</lastName>
+      </item>
+    </sponsors>
+    <congress>115</congress>
+    <title>Breast Cancer Patient Equity Act</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><b>Breast Cancer Patient Equity Act</b></p> <p>This bill provides for Medicare coverage of custom fabricated breast prostheses following the surgical removal of the breast (i.e., a mastectomy), including replacements of such prostheses. Currently, Medicare covers surgically implanted breast prostheses, as well as some external breast prostheses (e.g., post-surgical bras).</p>]]></text>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2019-04-24T15:02:41Z</lastSummaryUpdateDate>
+          <updateDate>2018-11-29T05:00:00Z</updateDate>
+          <actionDate>2018-11-29</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <name>Introduced in Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committeeReports />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <latestAction>
+          <text>Referred to the Subcommittee on Health.</text>
+          <actionDate>2018-10-11</actionDate>
+        </latestAction>
+        <congress>115</congress>
+        <number>6980</number>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Breast Cancer Patient Equity Act</latestTitle>
+      </item>
+    </relatedBills>
+    <titles>
+      <item>
+        <title>A bill to amend title XVIII of the Social Security Act to provide coverage for custom fabricated breast prostheses following a mastectomy.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Breast Cancer Patient Equity Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Breast Cancer Patient Equity Act</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Breast Cancer Patient Equity Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <updateDate>2019-05-01T14:27:32Z</updateDate>
+    <billNumber>3687</billNumber>
+    <cosponsors />
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115s3687is/xml/BILLS-115s3687is.xml</url>
+          </item>
+        </formats>
+        <date>2018-11-29T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <calendarNumbers />
+    <latestAction>
+      <actionDate>2018-11-29</actionDate>
+      <links />
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </latestAction>
+    <createDate>2018-11-30T05:25:22Z</createDate>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2018-11-29</actionDate>
+        <committee>
+          <name>Finance Committee</name>
+          <systemCode>ssfi00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in Senate</text>
+        <actionDate>2018-11-29</actionDate>
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+    </actions>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

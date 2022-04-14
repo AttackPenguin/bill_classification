@@ -1,0 +1,114 @@
+{
+  "actions": [
+    {
+      "acted_at": "2018-12-20", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-12-20", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr7365-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "G000558", 
+      "district": "2", 
+      "name": "Guthrie, Brett", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2018-12-20", 
+      "state": "KY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000576", 
+      "district": "7", 
+      "name": "Long, Billy", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2018-12-20", 
+      "state": "MO", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2018-12-20", 
+  "number": "7365", 
+  "official_title": "To require the Federal Communications Commission to approve or deny a license transfer application within 180 days of submission, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2847-115", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "F000461", 
+    "district": "17", 
+    "name": "Flores, Bill", 
+    "state": "TX", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2018-12-20", 
+  "subjects": [
+    "Science, technology, communications"
+  ], 
+  "subjects_top_term": "Science, technology, communications", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2018-12-20T05:00:00Z", 
+    "text": "This bill requires the Federal Communications Commission to approve or deny a license-transfer application within 180 days of submission. These applications relate to the transfer of control or assignment for radio-station licenses."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require the Federal Communications Commission to approve or deny a license transfer application within 180 days of submission, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "To require the Federal Communications Commission to approve or deny a license transfer application within 180 days of submission, and for other purposes.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-10-18T16:07:51Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr7365.xml"
+}

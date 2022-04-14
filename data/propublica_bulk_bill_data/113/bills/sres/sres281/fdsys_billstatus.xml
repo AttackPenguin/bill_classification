@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2013-10-31</actionDate>
+        <committee>
+          <name>Intelligence Committee</name>
+          <systemCode>slin00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>S7733</name>
+            <url>https://www.congress.gov/congressional-record/volume-159/senate-section/page/S7733</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Referred to the Select Committee on Intelligence. (text of measure as introduced: CR S7733)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <actionDate>2013-10-31</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <text>Introduced in Senate</text>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <introducedDate>2013-10-31</introducedDate>
+    <updateDate>2016-10-25T16:18:45Z</updateDate>
+    <createDate>2013-11-01T07:01:09Z</createDate>
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>slin00</systemCode>
+          <activities>
+            <item>
+              <date>2013-10-31T19:06:11Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <name>Intelligence Committee</name>
+          <type>Select</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors />
+    <congress>113</congress>
+    <billType>SRES</billType>
+    <title>A resolution expressing the sense of the United States Senate that President Obama should issue a statement regarding spying on His Holiness, Pope Francis.</title>
+    <titles>
+      <item>
+        <title>A resolution expressing the sense of the United States Senate that President Obama should issue a statement regarding spying on His Holiness, Pope Francis.</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>A resolution expressing the sense of the United States Senate that President Obama should issue a statement regarding spying on His Holiness, Pope Francis.</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in Senate</name>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2013-12-23T13:37:57Z</lastSummaryUpdateDate>
+          <actionDate>2013-10-31</actionDate>
+          <text><![CDATA[<p>Expresses the sense of the Senate that President Obama should directly address the allegation that his administration monitored the calls of Pope Francis or the conclave selecting the Pope.</p>]]></text>
+          <versionCode>00</versionCode>
+          <updateDate>2013-10-31T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <recordedVotes />
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Intelligence activities, surveillance, classified information</name>
+          </item>
+          <item>
+            <name>Religion</name>
+          </item>
+          <item>
+            <name>Telephone and wireless communication</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Referred to the Select Committee on Intelligence. (text of measure as introduced: CR S7733)</text>
+      <actionDate>2013-10-31</actionDate>
+    </latestAction>
+    <billNumber>281</billNumber>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <amendments />
+    <sponsors>
+      <item>
+        <firstName>Rand</firstName>
+        <party>R</party>
+        <fullName>Sen. Paul, Rand [R-KY]</fullName>
+        <bioguideId>P000603</bioguideId>
+        <identifiers>
+          <lisID>2082</lisID>
+          <gpoId>8308</gpoId>
+          <bioguideId>P000603</bioguideId>
+        </identifiers>
+        <lastName>Paul</lastName>
+        <middleName />
+        <state>KY</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

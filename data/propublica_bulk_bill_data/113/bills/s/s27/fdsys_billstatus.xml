@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <senate>7</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2013-06-27</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 103.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2013-06-27</actionDate>
+        <committee>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/113th-congress/senate-report/49</url>
+            <name>report No. 113-49</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Energy and Natural Resources. Reported by Senator Wyden without amendment. With written report No. 113-49.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Committee on Energy and Natural Resources. Reported by Senator Wyden without amendment. With written report No. 113-49.</text>
+        <committee>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/113th-congress/senate-report/49</url>
+            <name>report No. 113-49</name>
+          </link>
+        </links>
+        <type>Committee</type>
+        <actionDate>2013-06-27</actionDate>
+        <actionCode>14000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2013-05-16</actionDate>
+        <committee>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-04-25</actionDate>
+        <committee>
+          <systemCode>sseg03</systemCode>
+          <name>Public Lands, Forests, and Mining Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held. With printed Hearing: S.Hrg. 113-28.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-01-22</actionDate>
+        <committee>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2013-01-22</actionDate>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <orderedReported>1</orderedReported>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+        <reportedToSenate>2</reportedToSenate>
+        <hearingsHeld>1</hearingsHeld>
+      </actionTypeCounts>
+    </actions>
+    <introducedDate>2013-01-22</introducedDate>
+    <updateDate>2016-10-25T16:19:47Z</updateDate>
+    <createDate>2013-01-23T10:00:53Z</createDate>
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <systemCode>sseg00</systemCode>
+          <activities>
+            <item>
+              <date>2013-06-27T19:59:07Z</date>
+              <name>Reported by</name>
+            </item>
+            <item>
+              <date>2013-05-16T21:26:23Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2013-01-22T17:08:12Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2013-04-25T20:33:43Z</date>
+                  <name>Hearings by</name>
+                </item>
+              </activities>
+              <name>Public Lands, Forests, and Mining Subcommittee</name>
+              <systemCode>sseg03</systemCode>
+            </item>
+          </subcommittees>
+          <name>Energy and Natural Resources Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <bioguideId>L000577</bioguideId>
+        <identifiers>
+          <lisID>2080</lisID>
+          <gpoId>8303</gpoId>
+          <bioguideId>L000577</bioguideId>
+        </identifiers>
+        <middleName />
+        <fullName>Sen. Lee, Mike [R-UT]</fullName>
+        <firstName>Mike</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2013-01-22</sponsorshipDate>
+        <lastName>Lee</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <state>UT</state>
+      </item>
+    </cosponsors>
+    <congress>113</congress>
+    <billType>S</billType>
+    <title>Hill Creek Cultural Preservation and Energy Development Act</title>
+    <titles>
+      <item>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+        <titleType>Short Titles as Reported to Senate</titleType>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <title>Hill Creek Cultural Preservation and Energy Development Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Hill Creek Cultural Preservation and Energy Development Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to clarify authority granted under the Act entitled "An Act to define the exterior boundary of the Uintah and Ouray Indian Reservation in the State of Utah, and for other purposes".</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Hill Creek Cultural Preservation and Energy Development Act</title>
+      </item>
+    </titles>
+    <committeeReports>
+      <committeeReport>
+        <citation>S. Rept. 113-49</citation>
+      </committeeReport>
+    </committeeReports>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Hill Creek Cultural Preservation and Energy Development Act - Authorizes Utah to relinquish for the benefit of the Ute Indian Tribe of the Uintah and Ouray Reservation certain of its school trust or subsurface mineral lands south of the border between Grand County and Uintah County, Utah, in exchange for certain federal subsurface mineral lands north of that border.</p> <p>Directs the Secretary of the Interior to reserve an overriding interest in that portion of the mineral estate composed of minerals subject to leasing under the Mineral Leasing Act in the mineral lands conveyed to Utah. Delineates the extent of that interest.</p> <p>Requires Utah to reserve, for the benefit of its school trust, an overriding interest in that portion of the mineral estate composed of minerals subject to leasing under the Mineral Leasing Act in the mineral lands it relinquished to the federal government. Delineates the extent of that interest.</p> <p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <actionDate>2013-01-22</actionDate>
+          <updateDate>2013-01-22T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2013-01-28T17:21:33Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+          <versionCode>00</versionCode>
+        </item>
+        <item>
+          <text><![CDATA[<p><b>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</b></p> <p>Hill Creek Cultural Preservation and Energy Development Act - Authorizes Utah to relinquish for the benefit of the Ute Indian Tribe of the Uintah and Ouray Reservation certain of its school trust or subsurface mineral lands south of the border between Grand County and Uintah County, Utah, in exchange for certain federal subsurface mineral lands north of that border.</p> <p>Directs the Secretary of the Interior to reserve an overriding interest in that portion of the mineral estate composed of minerals subject to leasing under the Mineral Leasing Act in the mineral lands conveyed to Utah. Delineates the extent of that interest.</p> <p>Requires Utah to reserve, for the benefit of its school trust, an overriding interest in that portion of the mineral estate composed of minerals subject to leasing under the Mineral Leasing Act in the mineral lands it relinquished to the federal government. Delineates the extent of that interest.</p> <p>]]></text>
+          <actionDesc>Reported to Senate without amendment</actionDesc>
+          <actionDate>2013-06-27</actionDate>
+          <updateDate>2013-06-27T13:02:56Z</updateDate>
+          <lastSummaryUpdateDate>2013-07-19T15:00:22Z</lastSummaryUpdateDate>
+          <name>Reported to Senate without amendment</name>
+          <versionCode>80</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes>
+      <item>
+        <links>
+          <link>
+            <name>H.R.356</name>
+            <url>https://www.congress.gov/bill/113th-congress/house-bill/356</url>
+          </link>
+        </links>
+        <text><![CDATA[For further action, see H.R.356, which became Public Law 113-133 on 7/25/2014.]]></text>
+      </item>
+    </notes>
+    <cboCostEstimates>
+      <item>
+        <title>S. 27, Hill Creek Cultural Preservation and Energy Development Act</title>
+        <url>http://www.cbo.gov/publication/44303</url>
+        <pubDate>2013-05-31T20:58:01Z</pubDate>
+      </item>
+      <item>
+        <title>S. 27, Hill Creek Cultural Preservation and Energy Development Act</title>
+        <url>https://www.cbo.gov/publication/44303</url>
+        <pubDate>2013-05-31T20:58:01Z</pubDate>
+      </item>
+    </cboCostEstimates>
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <congress>113</congress>
+        <latestAction>
+          <text>Became Public Law No: 113-133.</text>
+          <actionDate>2014-07-25</actionDate>
+        </latestAction>
+        <latestTitle>Hill Creek Cultural Preservation and Energy Development Act</latestTitle>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>356</number>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Native Americans</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Indian lands and resources rights</name>
+          </item>
+          <item>
+            <name>Land transfers</name>
+          </item>
+          <item>
+            <name>Utah</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 103.</text>
+      <actionDate>2013-06-27</actionDate>
+    </latestAction>
+    <billNumber>27</billNumber>
+    <policyArea>
+      <name>Native Americans</name>
+    </policyArea>
+    <amendments />
+    <sponsors>
+      <item>
+        <firstName>ORRIN</firstName>
+        <party>R</party>
+        <fullName>Sen. Hatch, Orrin G. [R-UT]</fullName>
+        <bioguideId>H000338</bioguideId>
+        <identifiers>
+          <bioguideId>H000338</bioguideId>
+          <gpoId>8314</gpoId>
+          <lisID>1351</lisID>
+        </identifiers>
+        <lastName>HATCH</lastName>
+        <middleName>GRANT</middleName>
+        <state>UT</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <calendarNumbers>
+      <item>
+        <number>0103</number>
+        <calendar>Senate Calendar of Business</calendar>
+      </item>
+    </calendarNumbers>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

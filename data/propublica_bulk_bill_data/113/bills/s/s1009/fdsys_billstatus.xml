@@ -1,0 +1,684 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <senate>4</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2014-02-04</actionDate>
+        <committee>
+          <systemCode>ssev15</systemCode>
+          <name>Fisheries, Water, and Wildlife Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Environment and Public Works Subcommittee on Water and Wildlife. Hearings held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-07-31</actionDate>
+        <committee>
+          <systemCode>ssev00</systemCode>
+          <name>Environment and Public Works Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Environment and Public Works. Hearings held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-05-22</actionDate>
+        <committee>
+          <systemCode>ssev00</systemCode>
+          <name>Environment and Public Works Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2013-05-22</actionDate>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <hearingsHeld>2</hearingsHeld>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <introducedDate>2013-05-22</introducedDate>
+    <updateDate>2016-10-25T16:24:40Z</updateDate>
+    <createDate>2013-05-23T07:02:05Z</createDate>
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Environment and Public Works Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>ssev15</systemCode>
+              <name>Fisheries, Water, and Wildlife Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2014-02-05T00:03:01Z</date>
+                  <name>Hearings by</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <systemCode>ssev00</systemCode>
+          <activities>
+            <item>
+              <date>2013-07-31T21:57:22Z</date>
+              <name>Hearings by</name>
+            </item>
+            <item>
+              <date>2013-05-22T16:45:36Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <fullName>Sen. Vitter, David [R-LA]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>V000127</bioguideId>
+        <identifiers>
+          <lisID>1609</lisID>
+          <gpoId>8267</gpoId>
+          <bioguideId>V000127</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2013-05-22</sponsorshipDate>
+        <lastName>Vitter</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <state>LA</state>
+        <firstName>David</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+        <middleName>E.</middleName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>G000555</bioguideId>
+        <identifiers>
+          <bioguideId>G000555</bioguideId>
+          <lisID>1866</lisID>
+          <gpoId>8336</gpoId>
+        </identifiers>
+        <sponsorshipDate>2013-05-22</sponsorshipDate>
+        <lastName>Gillibrand</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <state>NY</state>
+        <firstName>Kirsten</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Crapo, Mike [R-ID]</fullName>
+        <middleName>D.</middleName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C000880</bioguideId>
+        <identifiers>
+          <lisID>250</lisID>
+          <bioguideId>C000880</bioguideId>
+          <gpoId>8289</gpoId>
+        </identifiers>
+        <sponsorshipDate>2013-05-22</sponsorshipDate>
+        <lastName>CRAPO</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <state>ID</state>
+        <firstName>MICHAEL</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Durbin, Richard [D-IL]</fullName>
+        <middleName>J.</middleName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>D000563</bioguideId>
+        <identifiers>
+          <lisID>326</lisID>
+          <bioguideId>D000563</bioguideId>
+          <gpoId>8326</gpoId>
+        </identifiers>
+        <sponsorshipDate>2013-05-22</sponsorshipDate>
+        <lastName>DURBIN</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <state>IL</state>
+        <firstName>RICHARD</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Alexander, Lamar [R-TN]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>A000360</bioguideId>
+        <identifiers>
+          <lisID>1695</lisID>
+          <gpoId>8304</gpoId>
+          <bioguideId>A000360</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2013-05-22</sponsorshipDate>
+        <lastName>Alexander</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <state>TN</state>
+        <firstName>Lamar</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Schumer, Charles E. [D-NY]</fullName>
+        <middleName>E.</middleName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S000148</bioguideId>
+        <identifiers>
+          <bioguideId>S000148</bioguideId>
+          <lisID>1036</lisID>
+          <gpoId>8279</gpoId>
+        </identifiers>
+        <sponsorshipDate>2013-05-22</sponsorshipDate>
+        <lastName>SCHUMER</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <state>NY</state>
+        <firstName>CHARLES</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Inhofe, James M. [R-OK]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>I000024</bioguideId>
+        <identifiers>
+          <lisID>583</lisID>
+          <bioguideId>I000024</bioguideId>
+          <gpoId>8322</gpoId>
+        </identifiers>
+        <sponsorshipDate>2013-05-22</sponsorshipDate>
+        <lastName>INHOFE</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <state>OK</state>
+        <firstName>JIM</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Udall, Tom [D-NM]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>U000039</bioguideId>
+        <identifiers>
+          <gpoId>8260</gpoId>
+          <lisID>1567</lisID>
+          <bioguideId>U000039</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2013-05-22</sponsorshipDate>
+        <lastName>UDALL</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <state>NM</state>
+        <firstName>TOM</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Collins, Susan M. [R-ME]</fullName>
+        <middleName>MARGARET</middleName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001035</bioguideId>
+        <identifiers>
+          <bioguideId>C001035</bioguideId>
+          <gpoId>8291</gpoId>
+          <lisID>1541</lisID>
+        </identifiers>
+        <sponsorshipDate>2013-05-22</sponsorshipDate>
+        <lastName>COLLINS</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <state>ME</state>
+        <firstName>SUSAN</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Landrieu, Mary L. [D-LA]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000550</bioguideId>
+        <identifiers>
+          <gpoId>8251</gpoId>
+          <lisID>1546</lisID>
+          <bioguideId>L000550</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2013-05-22</sponsorshipDate>
+        <lastName>LANDRIEU</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <state>LA</state>
+        <firstName>MARY</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>R000595</bioguideId>
+        <identifiers>
+          <lisID>2084</lisID>
+          <gpoId>8242</gpoId>
+          <bioguideId>R000595</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2013-05-22</sponsorshipDate>
+        <lastName>Rubio</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <state>FL</state>
+        <firstName>Marco</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Manchin, Joe, III [D-WV]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001183</bioguideId>
+        <identifiers>
+          <lisID>1983</lisID>
+          <bioguideId>M001183</bioguideId>
+          <gpoId>8256</gpoId>
+        </identifiers>
+        <sponsorshipDate>2013-05-22</sponsorshipDate>
+        <lastName>Manchin</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <state>WV</state>
+        <firstName>Joe</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Boozman, John [R-AR]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001236</bioguideId>
+        <identifiers>
+          <bioguideId>B001236</bioguideId>
+          <lisID>1687</lisID>
+          <gpoId>8247</gpoId>
+        </identifiers>
+        <sponsorshipDate>2013-05-22</sponsorshipDate>
+        <lastName>Boozman</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <state>AR</state>
+        <firstName>John</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Menendez, Robert [D-NJ]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M000639</bioguideId>
+        <identifiers>
+          <lisID>791</lisID>
+          <gpoId>8239</gpoId>
+          <bioguideId>M000639</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2013-05-22</sponsorshipDate>
+        <lastName>MENENDEZ</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <state>NJ</state>
+        <firstName>ROBERT</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Hoeven, John [R-ND]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>H001061</bioguideId>
+        <identifiers>
+          <gpoId>8331</gpoId>
+          <lisID>2079</lisID>
+          <bioguideId>H001061</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2013-05-22</sponsorshipDate>
+        <lastName>Hoeven</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <state>ND</state>
+        <firstName>John</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Begich, Mark [D-AK]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001265</bioguideId>
+        <identifiers>
+          <lisID>1898</lisID>
+          <bioguideId>B001265</bioguideId>
+          <gpoId>8301</gpoId>
+        </identifiers>
+        <sponsorshipDate>2013-05-22</sponsorshipDate>
+        <lastName>Begich</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <state>AK</state>
+        <firstName>Mark</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Murray, Patty [D-WA]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001111</bioguideId>
+        <identifiers>
+          <lisID>1409</lisID>
+          <bioguideId>M001111</bioguideId>
+          <gpoId>8237</gpoId>
+        </identifiers>
+        <sponsorshipDate>2013-05-23</sponsorshipDate>
+        <lastName>MURRAY</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <state>WA</state>
+        <firstName>PATTY</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Murkowski, Lisa [R-AK]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001153</bioguideId>
+        <identifiers>
+          <lisID>1694</lisID>
+          <gpoId>8234</gpoId>
+          <bioguideId>M001153</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2013-05-23</sponsorshipDate>
+        <lastName>Murkowski</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <state>AK</state>
+        <firstName>Lisa</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Harkin, Tom [D-IA]</fullName>
+        <middleName>RICHARD</middleName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>H000206</bioguideId>
+        <identifiers>
+          <lisID>501</lisID>
+          <gpoId>8317</gpoId>
+          <bioguideId>H000206</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2013-05-23</sponsorshipDate>
+        <lastName>HARKIN</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <state>IA</state>
+        <firstName>THOMAS</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Pryor, Mark L. [D-AR]</fullName>
+        <middleName>Lunsford</middleName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>P000590</bioguideId>
+        <identifiers>
+          <bioguideId>P000590</bioguideId>
+          <lisID>1701</lisID>
+          <gpoId>8241</gpoId>
+        </identifiers>
+        <sponsorshipDate>2013-06-04</sponsorshipDate>
+        <lastName>Pryor</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <state>AR</state>
+        <firstName>Mark</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Chambliss, Saxby [R-GA]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C000286</bioguideId>
+        <identifiers>
+          <lisID>188</lisID>
+          <gpoId>8284</gpoId>
+          <bioguideId>C000286</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2013-06-18</sponsorshipDate>
+        <lastName>CHAMBLISS</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <state>GA</state>
+        <firstName>SAXBY</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Isakson, Johnny [R-GA]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>I000055</bioguideId>
+        <identifiers>
+          <lisID>1608</lisID>
+          <gpoId>8323</gpoId>
+          <bioguideId>I000055</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2013-06-18</sponsorshipDate>
+        <lastName>Isakson</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <state>GA</state>
+        <firstName>Johnny</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Toomey, Pat [R-PA]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>T000461</bioguideId>
+        <identifiers>
+          <lisID>1594</lisID>
+          <gpoId />
+          <bioguideId>T000461</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2013-06-26</sponsorshipDate>
+        <lastName>Toomey</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <state>PA</state>
+        <firstName>Pat</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Burr, Richard [R-NC]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001135</bioguideId>
+        <identifiers>
+          <lisID>153</lisID>
+          <gpoId>8286</gpoId>
+          <bioguideId>B001135</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2013-07-10</sponsorshipDate>
+        <lastName>BURR</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <state>NC</state>
+        <firstName>RICHARD</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Hagan, Kay [D-NC]</fullName>
+        <middleName>R.</middleName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>H001049</bioguideId>
+        <identifiers>
+          <bioguideId>H001049</bioguideId>
+          <gpoId>8318</gpoId>
+          <lisID>1902</lisID>
+        </identifiers>
+        <sponsorshipDate>2013-07-10</sponsorshipDate>
+        <lastName>Hagan</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <state>NC</state>
+        <firstName>Kay</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Donnelly, Joe [D-IN]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>D000607</bioguideId>
+        <identifiers>
+          <lisID>1850</lisID>
+          <gpoId>7941</gpoId>
+          <bioguideId>D000607</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2014-09-18</sponsorshipDate>
+        <lastName>Donnelly</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <state>IN</state>
+        <firstName>Joe</firstName>
+      </item>
+    </cosponsors>
+    <congress>113</congress>
+    <billType>S</billType>
+    <title>Chemical Safety Improvement Act</title>
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Chemical Safety Improvement Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to reauthorize and modernize the Toxic Substances Control Act, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Chemical Safety Improvement Act</title>
+      </item>
+    </titles>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <name>Introduced in Senate</name>
+          <lastSummaryUpdateDate>2013-12-26T19:05:13Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Chemical Safety Improvement Act - Amends the Toxic Substances Control Act (TSCA) to establish an evaluative framework for chemical risk assessment and management. </p> <p> Declares that it is the policy of the United States that: (1) this Act should protect the health of people and the environment from the unmanaged risks of chemicals; (2) the Administrator of the Environmental Protection Agency (EPA) should have the appropriate hazard, use, and exposure information necessary to make safety determinations and the resources and tools necessary to implement TSCA; (3) the Administrator should have the authority to share confidential business information with states; and (4) adequate information should be available with respect to the effect of and exposure to chemicals on health and the environment and the development of such test data and information should be the primary responsibility of those who manufacture or process such chemicals.</p> <p> Replaces current chemical testing requirements for determining whether chemicals present an unreasonable risk of injury to health or the environment with a framework for: (1) making a determination on whether a chemical meets the safety standard established by this Act; and (2) determining the relevance, quality, and reliability of related data and information. Requires such framework to integrate information from multiple sources.</p> <p> Defines &ldquo;safety standard&rdquo; as a standard that ensures that no unreasonable risk of harm to human health or the environment will result from exposure to a chemical substance.</p> <p> Directs the Administrator to require submitters of any health and safety study of chemicals to disclose funding sources of any funding used for the study.</p> <p> Requires the Administrator, within a year, to establish a risk-based screening process for identifying existing chemicals that are a high priority for a safety assessment and determination and a low priority for a safety assessment and determination. Directs the Administrator, in implementing the process, to: (1) only consider active chemicals as either high-priority or low-priority chemicals, and (2) only consider inactive chemicals if the Administrator determines that they have not been subject to regulatory or other enforceable action by the Administrator to ban or phase out the chemical and that they demonstrate high hazard and high exposure. Requires the Administrator to complete the prioritization screening process for all active chemicals in a timely manner.</p> <p> Authorizes the Administrator to screen categories or classes of chemicals to ensure an efficient prioritization screening process to allow for timely and adequate safety assessments and determinations.</p> <p> Requires the Administrator, from time to time, to publish a list of chemicals being considered in the prioritization screening process and request the submission of data on the chemicals. Requires the Administrator to publish for public comment a proposed screening process and establish criteria for determining whether a substance is a high or low priority. Requires such proposal to contain an initial list of chemicals that includes those substances prioritized by the Administrator before this Act&rsquo;s enactment and for which assessments or safety determinations have not been completed.</p> <p> Authorizes the Administrator to defer a prioritization screening decision for a chemical for a reasonable period to allow for the submission and evaluation of additional information.</p> <p> Requires the Administrator to determine the order for performing safety assessments on high-priority chemicals. Prohibits the Administrator from performing a safety assessment on low-priority chemicals.</p> <p> Requires the Administrator to: (1) publish and keep current a list of both high- and low-priority chemicals, and (2) remove a high-priority chemical from the list when a safety determination for the chemical is published.</p> <p> Prohibits a decision by the Administrator to prioritize a chemical from affecting the manufacture, processing, distribution, use, or disposal of the chemical substance, or regulation of those activities.</p> <p> Requires the Administrator to make a prioritized screening decision for a chemical within 180 days of receiving a recommendation and relevant information from a state that an active chemical be identified as a priority.</p> <p> Prohibits decisions to prioritize a chemical by the Administrator from being considered to be a final agency action and from being subject to judicial review.</p> <p> Authorizes the Administrator to require the development of new test data for a chemical if the agency promulgates a rule, enters into a testing consent agreement, or issues an order based on a determination that additional data are needed to perform a safety assessment, make a safety determination, or meet the testing needs of the implementing authority under another federal statute.</p> <p> Requires the Administrator to develop a tiered testing framework. Requires tier one to include both a screening level exposure assessment and screening tests for hazards. Requires, if the Administrator determines that additional testing is necessary, tier two to include an exposure assessment.</p> <p> Requires the Administrator to minimize the use of animals in testing of chemicals.</p> <p> Directs the Administrator to make available to the public all testing consent agreements and orders and all data and information the Administrator requires to be developed by manufacturers and processors of chemicals, except data protected as confidential business information.</p> <p> Establishes notice requirements, including requiring manufacturers and processors to submit notice to the Administrator for the manufacture or processing of a chemical for a significant new use. Directs the Administrator to prohibit the manufacture of a chemical and the manufacture or processing of a chemical for a significant new use if the Administrator determines that the chemical will not likely meet the safety standard.</p> <p> Requires the Administrator to provide an opportunity for additional data to be submitted if the Administrator determines more data is needed in order to conduct a review of a notice to manufacture a new chemical or manufacture or process a chemical for a significant new use.</p> <p> Requires the Administrator to: (1) conduct a safety assessment of each high-priority chemical, (2) establish requirements for risk management of such chemicals based on the assessment&rsquo;s results, and (3) base such assessment solely on considerations of risk to human health and the environment.</p> <p> Requires the Administrator, as soon as possible after the safety assessment is completed for a high-priority chemical, to determine whether the chemical meets the safety standard under the intended conditions of use of the chemical. </p> <p> Requires the Administrator, after determining that a chemical does not meet the safety standard under the intended conditions of use, to promulgate a rule establishing necessary restrictions, including if appropriate a ban or phase out of the manufacture, processing, or use of the chemical substance.</p> <p> Requires the Administrator, after making such a determination, to consider and publish a statement on the: (1) availability of technically and economically feasible alternatives for the chemical under the intended conditions of use; (2) risks posed by those alternatives as compared to those of the chemical; (3) economic and social costs and benefits of the proposed regulatory action and options considered, and of potential alternatives; and (4) economic and social benefits and costs of the chemical, alternatives, and any necessary restrictions on the chemical or alternatives.</p> <p> Authorizes the Administrator to exempt the use of a chemical from restrictions for specified reasons, such as exemptions for national security and significant disruption in the national economy, without having to provide clear and convincing evidence for such exemption as currently required under TSCA.</p> <p>Authorizes the Administrator to commence a civil action for: (1) seizure of an imminently hazardous chemical or any article containing the chemical; and (2) relief against any person who manufactures, processes, distributes in commerce, uses, or disposes of an imminently hazardous or any article containing the chemical.</p> <p> Requires the Administrator to promulgate rules requiring the reporting of information known or reasonably ascertainable by the person making the report so that the Administrator has the information necessary to carry out testing of chemicals and safety assessment and determinations.</p> <p> Requires the Administrator to make publicly available a candidate list of active chemicals. Directs the Administrator to issue a rule requiring manufacturers and processors to notify the Administrator that they have manufactured or processed a chemical on such candidate list or on the current inventory list compiled under TSCA for a nonexempt commercial purpose during the last five years.</p> <p> Requires the Administrator to designate chemicals as active or inactive based on the notifications received in response to such rule. Requires the Administrator to designate a chemical as active if it: (1) has been manufactured or processed for a nonexempt commercial purpose at any point during the last five years, (2) is added to the inventory list after this Act&rsquo;s enactment, (3) is the subject of a notice received by the Administrator stating that a person intends to manufacture or process a chemical designated as inactive, or (4) is reported under the TSCA chemical data reporting requirements after this Act&rsquo;s enactment. Requires the Administrator to designate a chemical as inactive if it has not been manufactured or processed for a nonexempt commercial purpose in the last five years.</p> <p> Directs: (1) any person who intends to manufacture or process for a nonexempt commercial purpose a chemical designated as an inactive to notify the Administrator before the chemical is manufactured or processed, and (2) the Administrator to then designate the chemical as active and review its priority for a safety assessment.</p> <p>Requires the Administrator to make available to the public specified information about chemicals on the list that designates chemicals as active or inactive.</p> <p>Authorizes any person to submit to the Administrator data reasonably supporting the conclusion that a chemical does not present a substantial risk of injury to health and the environment.</p> <p>Prohibits exempting from TSCA requirements those chemicals manufactured for export if they are new chemicals unlikely to meet the safety standard or existing chemicals that do not meet the safety standard. </p> <p>Requires a person to notify the Administrator if that person is exporting a new chemical not likely to meet the safety standard under the intended conditions of use, an existing chemical that does not meet the safety standard under the intended conditions of use, or a chemical for which the United States is obligated by treaty to provide export notification. Requires the Administrator to: (1) submit to the government of each country to which a chemical is exported a notice that information can be obtained from the Administrator about the substance, and (2) provide notice that satisfies the U.S. obligation under the applicable treaty if the chemical is covered by treaty.</p> <p>Requires the Secretary of Homeland Security (DHS) to refuse entry into the customs territory of the United States any chemical if: (1) the Administrator has determined that the chemical does not meet the safety standard under the intended conditions of use of the chemical substance, or (2) the chemical is in violation of a rule or order in effect under TSCA. Establishes exemptions to such rule and notice requirements concerning imports.</p> <p>Revises provisions concerning protection of confidential business information from chemical disclosure requirements, including by: (1) identifying information not protected from disclosure, (2) requiring written documentation justifying why information qualifies for protection from disclosure, and (3) authorizing disclosure of information if the disclosure is necessary to protect human health or the environment.</p> <p>Revises provisions concerning federal preemption, including by preempting new state prohibitions or restrictions for any high-priority and low-priority chemical.</p>]]></text>
+          <updateDate>2013-05-22T04:00:00Z</updateDate>
+          <actionDate>2013-05-22</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <recordedVotes />
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Environmental Protection</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Animal protection and human-animal relationships</name>
+          </item>
+          <item>
+            <name>Business records</name>
+          </item>
+          <item>
+            <name>Civil actions and liability</name>
+          </item>
+          <item>
+            <name>Environmental Protection Agency (EPA)</name>
+          </item>
+          <item>
+            <name>Environmental health</name>
+          </item>
+          <item>
+            <name>Environmental regulatory procedures</name>
+          </item>
+          <item>
+            <name>Federal preemption</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Hazardous wastes and toxic substances</name>
+          </item>
+          <item>
+            <name>Judicial review and appeals</name>
+          </item>
+          <item>
+            <name>Manufacturing</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+          <item>
+            <name>Trade restrictions</name>
+          </item>
+          <item>
+            <name>Worker safety and health</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Committee on Environment and Public Works Subcommittee on Water and Wildlife. Hearings held.</text>
+      <actionDate>2014-02-04</actionDate>
+    </latestAction>
+    <billNumber>1009</billNumber>
+    <policyArea>
+      <name>Environmental Protection</name>
+    </policyArea>
+    <amendments />
+    <sponsors>
+      <item>
+        <firstName>FRANK</firstName>
+        <party>D</party>
+        <fullName>Sen. Lautenberg, Frank R. [D-NJ]</fullName>
+        <bioguideId>L000123</bioguideId>
+        <identifiers>
+          <bioguideId>L000123</bioguideId>
+          <lisID>1381</lisID>
+          <gpoId>8245</gpoId>
+        </identifiers>
+        <lastName>LAUTENBERG</lastName>
+        <middleName>R.</middleName>
+        <state>NJ</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

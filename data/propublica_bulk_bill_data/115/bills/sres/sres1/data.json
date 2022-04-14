@@ -1,0 +1,106 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-01-03", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-01-03", 
+      "action_code": "", 
+      "how": "by Unanimous Consent", 
+      "links": [
+        {
+          "name": "S6", 
+          "url": "https://www.congress.gov/congressional-record/volume-163/senate-section/page/S6"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR S6", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S6", 
+          "type": "text as passed Senate"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:SIMPLERES", 
+      "text": "Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "sres1-115", 
+  "bill_type": "sres", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [], 
+  "congress": "115", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2017-01-03", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2017-01-03", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-01-03", 
+  "number": "1", 
+  "official_title": "A resolution informing the President of the United States that a quorum of each House is assembled.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hres3-115", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "M000355", 
+    "district": null, 
+    "name": "McConnell, Mitch", 
+    "state": "KY", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "PASSED:SIMPLERES", 
+  "status_at": "2017-01-03", 
+  "subjects": [
+    "Congress", 
+    "Congressional operations and organization", 
+    "Presidents and presidential powers, Vice Presidents"
+  ], 
+  "subjects_top_term": "Congress", 
+  "summary": {
+    "as": "Passed Senate without amendment", 
+    "date": "2017-01-03T14:31:20Z", 
+    "text": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.)\n\nInforms the President that a quorum of each house of Congress has assembled."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A resolution informing the President of the United States that a quorum of each House is assembled.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "A resolution informing the President of the United States that a quorum of each House is assembled.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-04-18T16:29:18Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/115/sres/BILLSTATUS-115sres1.xml"
+}

@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>8</billNumber>
+    <introducedDate>2013-01-03</introducedDate>
+    <cboCostEstimates />
+    <billType>HJRES</billType>
+    <laws />
+    <congress>113</congress>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional elections</name>
+          </item>
+          <item>
+            <name>Constitution and constitutional amendments</name>
+          </item>
+          <item>
+            <name>House of Representatives</name>
+          </item>
+          <item>
+            <name>Members of Congress</name>
+          </item>
+          <item>
+            <name>Senate</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <updateDate>2018-06-05T15:51:41Z</updateDate>
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Constitutional Amendment - Limits Members of the House of Representatives to four terms and Members of the Senate to two terms.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <actionDate>2013-01-03</actionDate>
+          <versionCode>00</versionCode>
+          <updateDate>2013-01-03T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2013-02-13T16:17:29Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <committeeReports />
+    <createDate>2013-01-04T07:00:55Z</createDate>
+    <originChamber>House</originChamber>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>Proposing an amendment to the Constitution of the United States to limit the number of terms that a Member of Congress may serve to 4 in the House of Representatives and 2 in the Senate.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>Proposing an amendment to the Constitution of the United States to limit the number of terms that a Member of Congress may serve to 4 in the House of Representatives and 2 in the Senate.</title>
+      </item>
+    </titles>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2013-01-25</actionDate>
+        <committee>
+          <systemCode>hsju10</systemCode>
+          <name>Constitution and Civil Justice Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on the Constitution And Civil Justice.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <actionDate>2013-01-03</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <committee />
+        <actionDate>2013-01-03</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <committee />
+        <actionDate>2013-01-03</actionDate>
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <actionDate>2013-04-30</actionDate>
+          <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+        </latestAction>
+        <number>41</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <latestTitle>Proposing an amendment to the Constitution of the United States relative to limiting the number of terms that a Member of Congress may serve.</latestTitle>
+        <type>HJRES</type>
+      </item>
+      <item>
+        <latestAction>
+          <actionDate>2013-01-23</actionDate>
+          <text>Read twice and referred to the Committee on the Judiciary.</text>
+        </latestAction>
+        <number>2</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <latestTitle>A joint resolution proposing an amendment to the Constitution of the United States relative to limiting the number of terms that a Member of Congress may serve.</latestTitle>
+        <type>SJRES</type>
+      </item>
+      <item>
+        <latestAction>
+          <actionDate>2013-01-23</actionDate>
+          <text>Read twice and referred to the Committee on the Judiciary.</text>
+        </latestAction>
+        <number>3</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <latestTitle>A joint resolution proposing an amendment to the Constitution of the United States relative to limiting the number of terms that a Member of Congress may serve to 3 in the House of Representatives and 2 in the Senate.</latestTitle>
+        <type>SJRES</type>
+      </item>
+    </relatedBills>
+    <calendarNumbers />
+    <version>1.0.0</version>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <systemCode>hsju10</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2013-01-25T19:17:40Z</date>
+                </item>
+              </activities>
+              <name>Constitution and Civil Justice Subcommittee</name>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-01-03T16:14:00Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <systemCode>hsju00</systemCode>
+          <chamber>House</chamber>
+          <name>Judiciary Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+    <latestAction>
+      <actionDate>2013-01-25</actionDate>
+      <text>Referred to the Subcommittee on the Constitution And Civil Justice.</text>
+      <links />
+    </latestAction>
+    <cosponsors />
+    <sponsors>
+      <item>
+        <fullName>Rep. Fitzpatrick, Michael G. [R-PA-8]</fullName>
+        <identifiers>
+          <lisID>1797</lisID>
+          <bioguideId>F000451</bioguideId>
+          <gpoId>8126</gpoId>
+        </identifiers>
+        <bioguideId>F000451</bioguideId>
+        <party>R</party>
+        <state>PA</state>
+        <firstName>Michael</firstName>
+        <byRequestType />
+        <district>8</district>
+        <lastName>Fitzpatrick</lastName>
+        <middleName>G.</middleName>
+      </item>
+    </sponsors>
+    <title>Proposing an amendment to the Constitution of the United States to limit the number of terms that a Member of Congress may serve to 4 in the House of Representatives and 2 in the Senate.</title>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 159, Number 1 (Thursday, January 3, 2013)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. FITZPATRICK:H.J. Res. 8.Congress has the power to enact this legislation pursuantto the following:Commerce Power, Art. I, Sec. 8, Cl. 3; and The Necessaryand Proper Clause, Art. I, Sec. 8, Cl. 18[Page H38]</pre>]]></constitutionalAuthorityStatementText>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

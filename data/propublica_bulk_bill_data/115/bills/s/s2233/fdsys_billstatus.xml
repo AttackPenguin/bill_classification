@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors>
+      <item>
+        <middleName />
+        <bioguideId>M001153</bioguideId>
+        <state>AK</state>
+        <sponsorshipDate>2017-12-14</sponsorshipDate>
+        <firstName>Lisa</firstName>
+        <lastName>Murkowski</lastName>
+        <party>R</party>
+        <fullName>Sen. Murkowski, Lisa [R-AK]</fullName>
+        <identifiers>
+          <gpoId>8234</gpoId>
+          <bioguideId>M001153</bioguideId>
+          <lisID>1694</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <bioguideId>C001113</bioguideId>
+        <state>NV</state>
+        <sponsorshipDate>2017-12-14</sponsorshipDate>
+        <firstName>Catherine</firstName>
+        <lastName>Cortez Masto</lastName>
+        <party>D</party>
+        <fullName>Sen. Cortez Masto, Catherine  [D-NV]</fullName>
+        <identifiers>
+          <bioguideId>C001113</bioguideId>
+          <lisID>2299</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <bioguideId>S001203</bioguideId>
+        <state>MN</state>
+        <sponsorshipDate>2018-09-06</sponsorshipDate>
+        <firstName>Tina</firstName>
+        <lastName>Smith</lastName>
+        <party>D</party>
+        <fullName>Sen. Smith, Tina  [D-MN]</fullName>
+        <identifiers>
+          <bioguideId>S001203</bioguideId>
+          <gpoId />
+          <lisID>2365</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <amendments />
+    <sponsors>
+      <item>
+        <identifiers>
+          <bioguideId>U000039</bioguideId>
+          <lisID>1567</lisID>
+          <gpoId>8260</gpoId>
+        </identifiers>
+        <lastName>UDALL</lastName>
+        <fullName>Sen. Udall, Tom [D-NM]</fullName>
+        <state>NM</state>
+        <byRequestType />
+        <firstName>TOM</firstName>
+        <party>D</party>
+        <bioguideId>U000039</bioguideId>
+        <middleName />
+      </item>
+    </sponsors>
+    <billNumber>2233</billNumber>
+    <originChamber>Senate</originChamber>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Native Americans</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Child safety and welfare</name>
+          </item>
+          <item>
+            <name>Crime victims</name>
+          </item>
+          <item>
+            <name>Crimes against children</name>
+          </item>
+          <item>
+            <name>Crimes against women</name>
+          </item>
+          <item>
+            <name>Domestic violence and child abuse</name>
+          </item>
+          <item>
+            <name>Federal-Indian relations</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Indian social and development programs</name>
+          </item>
+          <item>
+            <name>Intergovernmental relations</name>
+          </item>
+          <item>
+            <name>Law enforcement officers</name>
+          </item>
+          <item>
+            <name>Violent crime</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <latestAction>
+      <actionDate>2017-12-14</actionDate>
+      <text>Read twice and referred to the Committee on Indian Affairs.</text>
+      <links />
+    </latestAction>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2017-12-14T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115s2233is/xml/BILLS-115s2233is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <title>Native Youth and Tribal Officer Protection Act</title>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-12-14</actionDate>
+        <committee>
+          <name>Indian Affairs Committee</name>
+          <systemCode>slia00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Indian Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-12-14</actionDate>
+        <committee />
+        <actionCode>10000</actionCode>
+        <links />
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <billType>S</billType>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Indian Affairs Committee</name>
+          <type>Other</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-12-14T18:04:35Z</date>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <systemCode>slia00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <congress>115</congress>
+    <notes />
+    <updateDate>2019-06-21T11:07:14Z</updateDate>
+    <committeeReports />
+    <createDate>2017-12-15T09:05:10Z</createDate>
+    <introducedDate>2017-12-14</introducedDate>
+    <laws />
+    <titles>
+      <item>
+        <title>A bill to protect Native children and promote public safety in Indian country.</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>Native Youth and Tribal Officer Protection Act</title>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>Native Youth and Tribal Officer Protection Act</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>Native Youth and Tribal Officer Protection Act</title>
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <calendarNumbers />
+    <relatedBills>
+      <item>
+        <latestTitle>Native Youth and Tribal Officer Protection Act</latestTitle>
+        <congress>115</congress>
+        <latestAction>
+          <actionDate>2018-09-14</actionDate>
+          <text>Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs.</text>
+        </latestAction>
+        <number>6728</number>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+      </item>
+    </relatedBills>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <updateDate>2017-12-14T05:00:00Z</updateDate>
+          <actionDate>2017-12-14</actionDate>
+          <lastSummaryUpdateDate>2019-03-19T19:31:54Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <text><![CDATA[<p><b>Native Youth and Tribal Officer Protection Act</b></p> <p>This bill extends tribal jurisdiction over certain crimes. Specifically, the bill extends tribal jurisdiction over: </p> <ul> <li> violence committed against a child by a caregiver;</li> <li> violence against law enforcement officers involved in preventing, investigating, arresting, or prosecuting a person for domestic violence, dating violence, or child violence; </li> <li>attempted dating violence or domestic violence; or </li> <li>threatened dating violence or domestic violence. </li> </ul> <p>In addition, the bill reauthorizes through FY2022 grants to tribal governments to support exercising jurisdiction and conducting proceedings related to crimes of domestic violence, including the crimes added to tribal jurisdiction by this bill.</p>]]></text>
+          <name>Introduced in Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <cboCostEstimates />
+    <policyArea>
+      <name>Native Americans</name>
+    </policyArea>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

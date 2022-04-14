@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Department of Veterans Affairs</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Health care quality</name>
+          </item>
+          <item>
+            <name>Health facilities and institutions</name>
+          </item>
+          <item>
+            <name>Health information and medical records</name>
+          </item>
+          <item>
+            <name>Surgery and anesthesia</name>
+          </item>
+          <item>
+            <name>Veterans' medical care</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <relatedBills />
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2017-09-26T15:24:40Z</date>
+                  <name>Hearings by</name>
+                </item>
+                <item>
+                  <date>2017-02-03T19:16:58Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Health Subcommittee</name>
+              <systemCode>hsvr03</systemCode>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <systemCode>hsvr00</systemCode>
+          <chamber>House</chamber>
+          <name>Veterans' Affairs Committee</name>
+          <activities>
+            <item>
+              <date>2017-01-12T15:06:40Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2017-01-12T05:00:00Z</updateDate>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2017-02-08T16:39:32Z</lastSummaryUpdateDate>
+          <actionDate>2017-01-12</actionDate>
+          <text><![CDATA[<p><strong>VA Transparency Enhancement Act of 2017</strong></p> <p>This bill requires the director of each Department of Veterans Affairs (VA) medical facility to report quarterly to the VA on: </p> <ul> <li> the number of patients who contracted an infection as result of surgery at such medical facility, including a brief summary of each case; and </li> <li> the number of, and reasons for, scheduled surgeries that were cancelled or transferred to another facility and the subsequent number of days that each patient had to wait for surgery. </li> </ul> <p>The VA shall submit such reports and a summary of such reports to Congress and publish them on its website.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <version>1.0.0</version>
+    <originChamber>House</originChamber>
+    <congress>115</congress>
+    <latestAction>
+      <actionDate>2017-09-26</actionDate>
+      <text>Subcommittee Hearings Held.</text>
+      <links />
+    </latestAction>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-09-26</actionDate>
+        <committee>
+          <name>Health Subcommittee</name>
+          <systemCode>hsvr03</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Subcommittee Hearings Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-02-03</actionDate>
+        <committee>
+          <name>Health Subcommittee</name>
+          <systemCode>hsvr03</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-01-12</actionDate>
+        <committee>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>hsvr00</systemCode>
+        </committee>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the House Committee on Veterans' Affairs.</text>
+      </item>
+      <item>
+        <actionDate>2017-01-12</actionDate>
+        <committee />
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <actionDate>2017-01-12</actionDate>
+        <committee />
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <prayer>1</prayer>
+      </actionTypeCounts>
+    </actions>
+    <createDate>2017-01-13T04:55:31Z</createDate>
+    <laws />
+    <titles>
+      <item>
+        <title>To require increased reporting regarding certain surgeries scheduled at medical facilities of the Department of Veterans Affairs, and for other purposes.</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>VA Transparency Enhancement Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>VA Transparency Enhancement Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>VA Transparency Enhancement Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 8 (Thursday, January 12, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mrs. DINGELL:H.R. 501.Congress has the power toenact this legislation pursuantto the following:The constitutional authority of Congress to enact thislegislation isprovided by Article I, section 8 of the UnitedStates Constitution.[Page H473]</pre>]]></constitutionalAuthorityStatementText>
+    <introducedDate>2017-01-12</introducedDate>
+    <calendarNumbers />
+    <recordedVotes />
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr501ih/xml/BILLS-115hr501ih.xml</url>
+          </item>
+        </formats>
+        <date>2017-01-12T05:00:00Z</date>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <cosponsors>
+      <item>
+        <firstName>Tim</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Walberg</lastName>
+        <sponsorshipDate>2017-01-12</sponsorshipDate>
+        <middleName />
+        <district>7</district>
+        <state>MI</state>
+        <identifiers>
+          <bioguideId>W000798</bioguideId>
+          <gpoId>7992</gpoId>
+          <lisID>1855</lisID>
+        </identifiers>
+        <bioguideId>W000798</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Walberg, Tim [R-MI-7]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>FRED</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>UPTON</lastName>
+        <sponsorshipDate>2017-10-11</sponsorshipDate>
+        <middleName />
+        <district>6</district>
+        <state>MI</state>
+        <identifiers>
+          <bioguideId>U000031</bioguideId>
+          <gpoId>7991</gpoId>
+          <lisID>1177</lisID>
+        </identifiers>
+        <bioguideId>U000031</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Upton, Fred [R-MI-6]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>Mike</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Bishop</lastName>
+        <sponsorshipDate>2017-11-08</sponsorshipDate>
+        <middleName />
+        <district>8</district>
+        <state>MI</state>
+        <identifiers>
+          <lisID>2249</lisID>
+          <gpoId />
+          <bioguideId>B001293</bioguideId>
+        </identifiers>
+        <bioguideId>B001293</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Bishop, Mike [R-MI-8]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>Kyrsten</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Sinema</lastName>
+        <sponsorshipDate>2018-03-05</sponsorshipDate>
+        <middleName />
+        <district>9</district>
+        <state>AZ</state>
+        <identifiers>
+          <bioguideId>S001191</bioguideId>
+          <lisID>2099</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>S001191</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Sinema, Kyrsten [D-AZ-9]</fullName>
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <amendments />
+    <billNumber>501</billNumber>
+    <updateDate>2019-11-15T21:42:01Z</updateDate>
+    <cboCostEstimates />
+    <title>VA Transparency Enhancement Act of 2017</title>
+    <committeeReports />
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <district>12</district>
+        <lastName>Dingell</lastName>
+        <firstName>Debbie</firstName>
+        <state>MI</state>
+        <fullName>Rep. Dingell, Debbie [D-MI-12]</fullName>
+        <identifiers>
+          <lisID>2251</lisID>
+          <gpoId />
+          <bioguideId>D000624</bioguideId>
+        </identifiers>
+        <middleName />
+        <bioguideId>D000624</bioguideId>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

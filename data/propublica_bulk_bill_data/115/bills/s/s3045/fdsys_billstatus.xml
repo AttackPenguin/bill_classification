@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2018-06-11</actionDate>
+        <committee>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <systemCode>ssbk00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <actionCode>10000</actionCode>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2018-06-11</actionDate>
+        <links />
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <identifiers>
+          <bioguideId>C001095</bioguideId>
+          <lisID>2098</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Cotton</lastName>
+        <state>AR</state>
+        <party>R</party>
+        <bioguideId>C001095</bioguideId>
+        <middleName />
+        <fullName>Sen. Cotton, Tom [R-AR]</fullName>
+        <byRequestType />
+        <firstName>Tom</firstName>
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <chamberName />
+        <title>A bill to amend title 31, United States Code, to establish a safe harbor with respect to keep open letters.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <title>Cooperate with Law Enforcement Agencies and Watch Act of 2018</title>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <title>Cooperate with Law Enforcement Agencies and Watch Act of 2018</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <title>Cooperate with Law Enforcement Agencies and Watch Act of 2018</title>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+      </item>
+    </titles>
+    <committeeReports />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <activities>
+            <item>
+              <date>2018-06-11T21:27:40Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>ssbk00</systemCode>
+          <subcommittees />
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>Senate</originChamber>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115s3045is/xml/BILLS-115s3045is.xml</url>
+          </item>
+        </formats>
+        <date>2018-06-11T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>J000300</bioguideId>
+          <lisID>2364</lisID>
+          <gpoId />
+        </identifiers>
+        <state>AL</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Doug</firstName>
+        <lastName>Jones</lastName>
+        <middleName />
+        <bioguideId>J000300</bioguideId>
+        <sponsorshipDate>2018-06-11</sponsorshipDate>
+        <fullName>Sen. Jones, Doug  [D-AL]</fullName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>P000612</bioguideId>
+          <lisID>2286</lisID>
+          <gpoId />
+        </identifiers>
+        <state>GA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>David</firstName>
+        <lastName>Perdue</lastName>
+        <middleName>Alfred</middleName>
+        <bioguideId>P000612</bioguideId>
+        <sponsorshipDate>2018-07-23</sponsorshipDate>
+        <fullName>Sen. Perdue, David [R-GA]</fullName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>W000805</bioguideId>
+          <lisID>1897</lisID>
+          <gpoId>8269</gpoId>
+        </identifiers>
+        <state>VA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Mark</firstName>
+        <lastName>Warner</lastName>
+        <middleName>R.</middleName>
+        <bioguideId>W000805</bioguideId>
+        <sponsorshipDate>2018-07-23</sponsorshipDate>
+        <fullName>Sen. Warner, Mark R. [D-VA]</fullName>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><b>Cooperate with Law Enforcement Agencies and Watch Act of 2018 </b></p> <p>This bill limits a financial institution's liability for maintaining a customer account in compliance with a written request by a federal, state, tribal, or local law enforcement agency. A federal or state agency may not take an adverse supervisory action against a financial institution with respect to maintaining an account consistent with such a request. </p>]]></text>
+          <name>Introduced in Senate</name>
+          <versionCode>00</versionCode>
+          <actionDate>2018-06-11</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2018-06-29T19:16:23Z</lastSummaryUpdateDate>
+          <updateDate>2018-06-11T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <amendments>
+      <amendment>
+        <description />
+        <latestAction>
+          <text>Referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+          <actionDate>2018-08-15</actionDate>
+        </latestAction>
+        <congress>115</congress>
+        <purpose />
+        <type>SAMDT</type>
+        <number>3696</number>
+        <updateDate>2019-06-13T20:34:29Z</updateDate>
+        <number>3696</number>
+        <submittedDate>2018-08-15T04:00:00Z</submittedDate>
+        <titles />
+        <purpose />
+        <amendedAmendment />
+        <cosponsors>
+          <totalCount>0</totalCount>
+          <currentCount>0</currentCount>
+        </cosponsors>
+        <links />
+        <amendedBill>
+          <type>S</type>
+          <originChamberCode>S</originChamberCode>
+          <title>Cooperate with Law Enforcement Agencies and Watch Act of 2018</title>
+          <number>3045</number>
+          <originChamber>Senate</originChamber>
+          <congress>115</congress>
+        </amendedBill>
+        <congress>115</congress>
+        <type>SAMDT</type>
+        <description />
+        <createDate>2018-08-16T04:31:18Z</createDate>
+        <version>1.0.0</version>
+        <notes />
+        <chamber>Senate</chamber>
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <sponsors>
+          <item>
+            <fullName>Sen. Cotton, Tom [R-AR]</fullName>
+            <middleName />
+            <bioguideId>C001095</bioguideId>
+            <identifiers>
+              <bioguideId>C001095</bioguideId>
+              <lisID>2098</lisID>
+              <gpoId />
+            </identifiers>
+            <lastName>Cotton</lastName>
+            <party>R</party>
+            <state>AR</state>
+            <firstName>Tom</firstName>
+          </item>
+        </sponsors>
+        <proposedDate />
+        <actions>
+          <actionTypeCounts>
+            <referredToCommittee>1</referredToCommittee>
+            <senateAmendmentSubmitted>1</senateAmendmentSubmitted>
+          </actionTypeCounts>
+          <actionByCounts>
+            <senate>2</senate>
+          </actionByCounts>
+          <actions>
+            <item>
+              <actionDate>2018-08-15</actionDate>
+              <committee>
+                <name>Banking, Housing, and Urban Affairs Committee</name>
+                <systemCode>ssbk00</systemCode>
+              </committee>
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/3696</url>
+                  <name>S.Amdt.3696</name>
+                </link>
+              </links>
+              <sourceSystem>
+                <name>Senate</name>
+                <code>0</code>
+              </sourceSystem>
+              <text>Referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+              <type>IntroReferral</type>
+            </item>
+            <item>
+              <actionDate>2018-08-15</actionDate>
+              <committee />
+              <links />
+              <text />
+            </item>
+            <item>
+              <committee />
+              <actionDate>2018-08-15</actionDate>
+              <actionCode>91000</actionCode>
+              <text>Senate amendment submitted</text>
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+              <links />
+              <type>Floor</type>
+            </item>
+          </actions>
+          <count>3</count>
+        </actions>
+      </amendment>
+    </amendments>
+    <congress>115</congress>
+    <laws />
+    <title>Cooperate with Law Enforcement Agencies and Watch Act of 2018</title>
+    <latestAction>
+      <actionDate>2018-06-11</actionDate>
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+      <links />
+    </latestAction>
+    <notes />
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <latestAction>
+          <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+          <actionDate>2018-06-26</actionDate>
+        </latestAction>
+        <latestTitle>Cooperate with Law Enforcement Agencies and Watch Act of 2018</latestTitle>
+        <number>5783</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+      </item>
+    </relatedBills>
+    <policyArea>
+      <name>Finance and Financial Sector</name>
+    </policyArea>
+    <billType>S</billType>
+    <createDate>2018-06-12T04:25:50Z</createDate>
+    <updateDate>2019-06-13T20:34:29Z</updateDate>
+    <version>1.0.0</version>
+    <cboCostEstimates />
+    <recordedVotes />
+    <billNumber>3045</billNumber>
+    <calendarNumbers />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Bank accounts, deposits, capital</name>
+          </item>
+          <item>
+            <name>Banking and financial institutions regulation</name>
+          </item>
+          <item>
+            <name>Business records</name>
+          </item>
+          <item>
+            <name>Civil actions and liability</name>
+          </item>
+          <item>
+            <name>Criminal investigation, prosecution, interrogation</name>
+          </item>
+          <item>
+            <name>Fraud offenses and financial crimes</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Finance and Financial Sector</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <introducedDate>2018-06-11</introducedDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

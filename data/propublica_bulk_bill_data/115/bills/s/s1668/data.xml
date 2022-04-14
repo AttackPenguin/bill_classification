@@ -1,0 +1,88 @@
+<bill session="115" type="s" number="1668" updated="2019-11-15T21:55:22Z">
+  <state datetime="2018-10-09">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2018-10-09"/>
+  </status>
+  <introduced datetime="2017-07-27"/>
+  <titles>
+    <title type="official" as="introduced">A bill to rename a waterway in the State of New York as the "Joseph Sanford Jr. Channel".</title>
+    <title type="display">A bill to rename a waterway in the State of New York as the "Joseph Sanford Jr. Channel".</title>
+  </titles>
+  <sponsor bioguide_id="S000148"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2017-07-27">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-07-27" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+      <reference ref="CR S4331" label="text of measure as introduced"/>
+    </action>
+    <calendar datetime="2017-11-08" state="REPORTED">
+      <text>Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="2018-04-09">
+      <text>Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. With written report No. 115-221.</text>
+    </action>
+    <calendar datetime="2018-04-09" calendar="Senate Legislative" under="General Orders" number="369">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 369.</text>
+    </calendar>
+    <vote how="by Unanimous Consent" type="vote" datetime="2018-08-01" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S5560" label="consideration"/>
+      <reference ref="CR S5560" label="text"/>
+    </vote>
+    <action datetime="2018-08-02">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2018-08-03T10:04:49-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2018-08-03">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2018-09-26T17:54:54-04:00">
+      <text>Mr. Shuster asked unanimous consent to discharge from committee and consider.</text>
+    </action>
+    <action datetime="2018-09-26">
+      <text>Committee on Transportation discharged.</text>
+    </action>
+    <action datetime="2018-09-26T17:55:12-04:00">
+      <text>Considered by unanimous consent.</text>
+      <reference ref="CR H9060" label="consideration"/>
+    </action>
+    <vote how="without objection" type="vote2" datetime="2018-09-26T17:55:23-04:00" where="h" result="pass" state="PASSED:BILL">
+      <text>On passage Passed without objection.</text>
+      <reference ref="CR H9060" label="text"/>
+    </vote>
+    <action datetime="2018-09-26T17:55:26-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <topresident datetime="2018-09-28">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2018-10-09" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="115-260" type="public" datetime="2018-10-09">
+      <text>Became Public Law No: 115-260.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Discharged, Referral"/>
+    <committee subcommittee="" code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Reporting, Markup, Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="identical" number="6125"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Navigation, waterways, harbors"/>
+    <term name="New York City"/>
+  </subjects>
+  <amendments/>
+  <summary date="2018-10-10T03:59:58Z" status="Public Law">This bill redesignates the waterway in New York State known as the Negro Bar Channel as the "Joseph Sanford Jr. Channel."</summary>
+  <committee-reports>
+    <report>S. Rept. 115-221</report>
+  </committee-reports>
+</bill>

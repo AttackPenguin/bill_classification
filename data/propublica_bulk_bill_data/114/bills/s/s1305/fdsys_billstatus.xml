@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>1305</billNumber>
+    <createDate>2015-05-13T08:46:08Z</createDate>
+    <updateDate>2020-12-06T09:24:20Z</updateDate>
+    <originChamber>Senate</originChamber>
+    <billType>S</billType>
+    <introducedDate>2015-05-12</introducedDate>
+    <congress>114</congress>
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>sseg07</systemCode>
+              <name>Water and Power Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Hearings by</name>
+                  <date>2015-06-18T18:30:00Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2015-09-09T18:51:14Z</date>
+            </item>
+            <item>
+              <name>Markup by</name>
+              <date>2015-07-30T14:08:34Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2015-05-12T19:40:34Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports>
+      <committeeReport>
+        <citation>S. Rept. 114-135</citation>
+      </committeeReport>
+    </committeeReports>
+    <relatedBills>
+      <item>
+        <latestTitle>To authorize the Secretary of the Interior to amend the Definite Plan Report for the Seedskadee Project to enable the use of the active capacity of the Fontenelle Reservoir.</latestTitle>
+        <congress>114</congress>
+        <number>2273</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2016-07-06</actionDate>
+          <text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 546.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Western Water Supply and Planning Enhancement Act of 2016</latestTitle>
+        <congress>114</congress>
+        <number>2902</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2016-09-15</actionDate>
+          <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 631.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>North American Energy Security and Infrastructure Act of 2016</latestTitle>
+        <congress>114</congress>
+        <number>2012</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2016-09-08</actionDate>
+          <text>Conference held.</text>
+          <actionTime>14:37:58</actionTime>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2015-09-09</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 215.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2015-09-09</actionDate>
+        <committees>
+          <item>
+            <systemCode>sseg00</systemCode>
+            <name>Energy and Natural Resources Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment in the nature of a substitute and an amendment to the title. With written report No. 114-135.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2015-09-09</actionDate>
+        <links />
+        <text>Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment in the nature of a substitute and an amendment to the title. With written report No. 114-135.</text>
+        <type>Committee</type>
+        <actionCode>14000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>sseg00</systemCode>
+            <name>Energy and Natural Resources Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2015-07-30</actionDate>
+        <committees>
+          <item>
+            <systemCode>sseg00</systemCode>
+            <name>Energy and Natural Resources Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2015-06-18</actionDate>
+        <committees>
+          <item>
+            <systemCode>sseg07</systemCode>
+            <name>Water and Power Subcommittee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Energy and Natural Resources Senate Subcommittee on Water and Power. Hearings held. With printed Hearing: S.Hrg. 114-399.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2015-05-12</actionDate>
+        <committees>
+          <item>
+            <systemCode>sseg00</systemCode>
+            <name>Energy and Natural Resources Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2015-05-12</actionDate>
+        <links />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <actionTypeCounts>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <reportedToSenate>2</reportedToSenate>
+        <orderedReported>1</orderedReported>
+        <hearingsHeld>1</hearingsHeld>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>7</senate>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>B001261</bioguideId>
+        <fullName>Sen. Barrasso, John [R-WY]</fullName>
+        <firstName>John</firstName>
+        <middleName />
+        <lastName>Barrasso</lastName>
+        <party>R</party>
+        <state>WY</state>
+        <identifiers>
+          <lisID>1881</lisID>
+          <bioguideId>B001261</bioguideId>
+          <gpoId>8300</gpoId>
+        </identifiers>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>E000285</bioguideId>
+        <fullName>Sen. Enzi, Michael B. [R-WY]</fullName>
+        <firstName>MICHAEL</firstName>
+        <middleName>B.</middleName>
+        <lastName>ENZI</lastName>
+        <party>R</party>
+        <state>WY</state>
+        <identifiers>
+          <lisID>1542</lisID>
+          <bioguideId>E000285</bioguideId>
+          <gpoId>8328</gpoId>
+        </identifiers>
+        <sponsorshipDate>2015-05-13</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <cboCostEstimates>
+      <item>
+        <pubDate>2015-09-03T15:14:00Z</pubDate>
+        <title>S. 1305, a bill to amend the Colorado River Storage Project Act to authorize the use of the active capacity of the Fontenelle Reservoir</title>
+        <url>https://www.cbo.gov/publication/50795</url>
+      </item>
+    </cboCostEstimates>
+    <laws />
+    <notes />
+    <policyArea>
+      <name>Water Resources Development</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Dams and canals</name>
+          </item>
+          <item>
+            <name>Water storage</name>
+          </item>
+          <item>
+            <name>Water use and supply</name>
+          </item>
+          <item>
+            <name>Wyoming</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Water Resources Development</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2015-05-12</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2015-07-27T19:46:16Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Amends the Colorado River Storage Project Act to authorize the Department of the Interior, in cooperation with the state of Wyoming, to amend the Definite Plan Report for the Seedskadee Project to provide for the study, design, planning, and construction activities that will enable the use of all active storage capacity of Fontenelle Dam and Reservoir, including the placement of sufficient riprap on the upstream face of the Dam to allow such storage capacity to be used for authorized Project purposes.</p> <p>Authorizes Interior to enter into: (1) any contract, grant, cooperative agreement, or other agreement that is necessary to carry out this Act; and (2) contracts with Wyoming for division of any additional active capacity made available under this Act.</p> <p>Directs Interior to enter into a cooperative agreement with Wyoming for planning, design, related preconstruction activities, and construction of any modification of the Fontenelle Dam, which shall specify the responsibilities of Interior and Wyoming regarding: (1) completing the planning and final design of the modification of the Dam, (2) any environmental and cultural resource compliance activities required for the modification of the Dam, and (3) the construction of the modification of the Dam.</p>]]></text>
+          <updateDate>2015-05-12T04:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+        </item>
+        <item>
+          <versionCode>01</versionCode>
+          <actionDate>2015-09-09</actionDate>
+          <actionDesc>Reported to Senate with amendment(s)</actionDesc>
+          <lastSummaryUpdateDate>2015-11-30T20:02:53Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>(Sec. 1) This bill authorizes the Department of the Interior, in cooperation with the state of Wyoming, to amend the Definite Plan Report for the Seedskadee Project (authorized under the Colorado River Storage Project Act) to provide for the study, design, planning, and construction activities that will enable the use of all active storage capacity of Fontenelle Dam and Reservoir, including the placement of sufficient riprap on the upstream face of the Dam to allow such storage capacity to be used for authorized Project purposes.</p> <p>Interior&nbsp;may enter into: (1) any contract, grant, cooperative agreement, or other agreement that is necessary to carry out this Act; and (2) contracts with Wyoming for division of any additional active capacity made available under this Act.</p> <p>Interior must enter into a cooperative agreement with Wyoming for planning, design, related preconstruction activities, and construction of any modification of the Fontenelle Dam, which shall specify the responsibilities of Interior and Wyoming regarding: (1) completing the planning and final design of the modification of the Dam, (2) any environmental and cultural resource compliance activities required for the modification of the Dam, and (3) the construction of the modification of the Dam.</p>]]></text>
+          <updateDate>2015-09-09T14:04:11Z</updateDate>
+          <name>Reported to Senate with amendment(s)</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>A bill to amend the Colorado River Storage Project Act to authorize the use of the active capacity of the Fontenelle Reservoir.</title>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to amend the Colorado River Storage Project Act to authorize the use of the active capacity of the Fontenelle Reservoir.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>A bill to amend the Colorado River Storage Project Act to authorize the use of the active capacity of the Fontenelle Reservoir.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <amendments />
+    <textVersions>
+      <item>
+        <type>Reported to Senate</type>
+        <date>2015-09-09T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-114s1305rs/xml/BILLS-114s1305rs.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2015-05-12T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-114s1305is/xml/BILLS-114s1305is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2015-09-09</actionDate>
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 215.</text>
+      <links />
+    </latestAction>
+    <calendarNumbers>
+      <item>
+        <calendar>Senate Calendar of Business</calendar>
+        <number>0215</number>
+      </item>
+    </calendarNumbers>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

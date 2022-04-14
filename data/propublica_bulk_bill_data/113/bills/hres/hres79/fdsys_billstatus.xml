@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2013-03-01</actionDate>
+        <committee>
+          <systemCode>hsif17</systemCode>
+          <name>Commerce, Manufacturing, and Trade Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Commerce, Manufacturing, and Trade.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <actionDate>2013-02-25</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <committee />
+        <actionDate>2013-02-25</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <committee />
+        <actionDate>2013-02-25</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <district>2</district>
+        <fullName>Rep. Fattah, Chaka [D-PA-2]</fullName>
+        <lastName>FATTAH</lastName>
+        <middleName />
+        <state>PA</state>
+        <party>D</party>
+        <identifiers>
+          <gpoId>8120</gpoId>
+          <bioguideId>F000043</bioguideId>
+          <lisID>371</lisID>
+        </identifiers>
+        <firstName>CHAKA</firstName>
+        <bioguideId>F000043</bioguideId>
+      </item>
+    </sponsors>
+    <congress>113</congress>
+    <constitutionalAuthorityStatementText />
+    <billNumber>79</billNumber>
+    <cboCostEstimates />
+    <updateDate>2016-10-25T15:54:28Z</updateDate>
+    <laws />
+    <createDate>2013-02-26T07:00:51Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Energy and Commerce Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hsif17</systemCode>
+              <activities>
+                <item>
+                  <date>2013-03-01T21:28:53Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Commerce, Manufacturing, and Trade Subcommittee</name>
+            </item>
+          </subcommittees>
+          <systemCode>hsif00</systemCode>
+          <activities>
+            <item>
+              <date>2013-02-25T19:00:27Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2013-02-25</actionDate>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2013-03-07T21:35:53Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Expresses support for the goals and ideals of International Water Safety Day.</p> <p>Acknowledges: (1) that water safety education should be included in primary and secondary school education, (2) the importance of water safety education, and (3) that every person should learn to swim.</p>]]></text>
+          <name>Introduced in House</name>
+          <updateDate>2013-02-25T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committeeReports />
+    <policyArea>
+      <name>Sports and Recreation</name>
+    </policyArea>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <lisID>211</lisID>
+          <gpoId>8029</gpoId>
+          <bioguideId>C000556</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2013-02-25</sponsorshipDate>
+        <party>R</party>
+        <lastName>COBLE</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C000556</bioguideId>
+        <state>NC</state>
+        <district>6</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>HOWARD</firstName>
+        <fullName>Rep. Coble, Howard [R-NC-6]</fullName>
+      </item>
+    </cosponsors>
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Child safety and welfare</name>
+          </item>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Elementary and secondary education</name>
+          </item>
+          <item>
+            <name>Outdoor recreation</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Sports and Recreation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <chamberCode />
+        <title>Supporting the goals and ideals of International Water Safety Day.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Supporting the goals and ideals of International Water Safety Day.</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <originChamber>House</originChamber>
+    <notes />
+    <calendarNumbers />
+    <title>Supporting the goals and ideals of International Water Safety Day.</title>
+    <billType>HRES</billType>
+    <introducedDate>2013-02-25</introducedDate>
+    <amendments />
+    <latestAction>
+      <actionDate>2013-03-01</actionDate>
+      <text>Referred to the Subcommittee on Commerce, Manufacturing, and Trade.</text>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

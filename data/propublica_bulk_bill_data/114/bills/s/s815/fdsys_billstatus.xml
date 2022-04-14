@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>815</billNumber>
+    <createDate>2015-03-23T13:30:36Z</createDate>
+    <updateDate>2020-12-06T08:47:10Z</updateDate>
+    <originChamber>Senate</originChamber>
+    <billType>S</billType>
+    <introducedDate>2015-03-19</introducedDate>
+    <congress>114</congress>
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>sseg03</systemCode>
+              <name>Public Lands, Forests, and Mining Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Hearings by</name>
+                  <date>2015-05-21T18:30:00Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2016-09-08T21:37:30Z</date>
+            </item>
+            <item>
+              <name>Markup by</name>
+              <date>2016-07-13T13:30:00Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2015-03-19T19:17:53Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports>
+      <committeeReport>
+        <citation>S. Rept. 114-345</citation>
+      </committeeReport>
+    </committeeReports>
+    <relatedBills>
+      <item>
+        <latestTitle>Cow Creek Umpqua Land Conveyance Act</latestTitle>
+        <congress>114</congress>
+        <number>1436</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2015-04-07</actionDate>
+          <text>Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Western Oregon Tribal Fairness Act</latestTitle>
+        <congress>114</congress>
+        <number>2791</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2015-09-17</actionDate>
+          <text>Received in the Senate.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2016-09-08</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 620.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2016-09-08</actionDate>
+        <committees>
+          <item>
+            <systemCode>sseg00</systemCode>
+            <name>Energy and Natural Resources Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment in the nature of a substitute. With written report No. 114-345.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2016-09-08</actionDate>
+        <links />
+        <text>Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment in the nature of a substitute. With written report No. 114-345.</text>
+        <type>Committee</type>
+        <actionCode>14000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>sseg00</systemCode>
+            <name>Energy and Natural Resources Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2016-07-13</actionDate>
+        <committees>
+          <item>
+            <systemCode>sseg00</systemCode>
+            <name>Energy and Natural Resources Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2015-05-21</actionDate>
+        <committees>
+          <item>
+            <systemCode>sseg03</systemCode>
+            <name>Public Lands, Forests, and Mining Subcommittee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Energy and Natural Resources Senate Subcommittee on Public Lands, Forests, and Mining. Hearings held. With printed Hearing: S.Hrg. 114-380.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2015-03-19</actionDate>
+        <committees>
+          <item>
+            <systemCode>sseg00</systemCode>
+            <name>Energy and Natural Resources Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources. (Sponsor introductory remarks on measure: CR S1664; text of measure as introduced: CR S1665)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2015-03-19</actionDate>
+        <links />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <actionTypeCounts>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <reportedToSenate>2</reportedToSenate>
+        <orderedReported>1</orderedReported>
+        <hearingsHeld>1</hearingsHeld>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>7</senate>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>W000779</bioguideId>
+        <fullName>Sen. Wyden, Ron [D-OR]</fullName>
+        <firstName>RON</firstName>
+        <middleName />
+        <lastName>WYDEN</lastName>
+        <party>D</party>
+        <state>OR</state>
+        <identifiers>
+          <lisID>1247</lisID>
+          <bioguideId>W000779</bioguideId>
+          <gpoId>8265</gpoId>
+        </identifiers>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>M001176</bioguideId>
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+        <firstName>Jeff</firstName>
+        <middleName />
+        <lastName>Merkley</lastName>
+        <party>D</party>
+        <state>OR</state>
+        <identifiers>
+          <lisID>1900</lisID>
+          <bioguideId>M001176</bioguideId>
+          <gpoId>8238</gpoId>
+        </identifiers>
+        <sponsorshipDate>2015-03-19</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <laws />
+    <notes />
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Federal-Indian relations</name>
+          </item>
+          <item>
+            <name>Gambling</name>
+          </item>
+          <item>
+            <name>Indian lands and resources rights</name>
+          </item>
+          <item>
+            <name>Land transfers</name>
+          </item>
+          <item>
+            <name>Oregon</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2015-03-19</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2015-04-02T19:42:06Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Cow Creek Umpqua Land Conveyance Act </b></p> <p> Requires all interest of the United States in approximately 17,519 acres of land (Council Creek land) to be held in trust for, and to be part of the reservation of, the Cow Creek Band of Umpqua Tribe of Indians. </p> <p>Applies federal law relating to the export of unprocessed logs harvested from federal land to any unprocessed logs that are harvested from such land. Prohibits gaming on such land. Requires any forestry activity on such land to be managed in accordance with applicable federal laws. </p> <p>Directs the Department of Agriculture and the Department of the Interior to identify any land conveyed under this Act that is Oregon and California Railroad grant land. Directs Interior to: (1) identify public domain land in Oregon that is approximately equal in acreage and condition to such Oregon and California Railroad grant land, and (2) reclassify the public domain land as Oregon and California Railroad grant land. </p>]]></text>
+          <updateDate>2015-03-19T04:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+        </item>
+        <item>
+          <versionCode>01</versionCode>
+          <actionDate>2016-09-08</actionDate>
+          <actionDesc>Reported to Senate with amendment(s)</actionDesc>
+          <lastSummaryUpdateDate>2016-09-15T21:31:31Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Western Oregon Tribal Fairness Act</b></p> <p>TITLE I--COW CREEK UMPQUA LAND CONVEYANCE</p> <p>(Sec. 102) This bill requires that 17,519 acres of land be held in trust for, and be part of the reservation of, the Cow Creek Band of Umpqua Tribe of Indians. This land is taken into trust when the Department of the Interior and the tribe enter an agreement that secures existing Interior access to the land.</p> <p>(Sec. 104) Federal law applies to the export of unprocessed logs harvested from this land and to forest management on this land. Gaming on this land is prohibited. This land is not subject to the land use planning requirements of the Federal Land Policy and Management Act of 1976 or the Act of August 28, 1937.</p> <p>(Sec. 105) Interior must reclassify public domain land as Oregon and California Railroad grant land in equal acreage as grant land held in trust as part of this land.</p> <p><strong></strong>TITLE II--OREGON COASTAL LAND CONVEYANCE</p> <p>(Sec. 202) This bill requires that 14,742 acres of land be held in trust for, and be part of the reservation of, the Confederated Tribes of Coos, Lower Umpqua, and Siuslaw Indians. This land is taken into trust when Interior and the tribes enter an agreement that secures existing Interior access to the land and secures access for activities including land management, surveys, and transit of public vehicles.</p> <p>(Sec. 204) Federal law applies to the export of unprocessed logs harvested from this land and to forest management on this land. Gaming on this land is prohibited. This land is not subject to the land use planning requirements of the Federal Land Policy and Management Act of 1976 or the Act of August 28, 1937.</p> <p>(Sec. 205) Interior must reclassify public domain land as Oregon and California Railroad grant land in equal acreage as grant land held in trust as part of this land.<p>TITLE III--AMENDMENTS TO COQUILLE RESTORATION ACT</p> <p>(Sec. 301) This bill amends the Coquille Restoration Act to remove the requirement that Interior manage the Coquille Forest in accordance with state and federal forestry and environmental protection laws. Federal law applies to the export of unprocessed logs harvested from this land. Sales of timber from this land must be advertised, offered, and awarded according to competitive bidding practices.</p> <p>This bill strikes a provision giving the U.S. District Court for the District of Oregon jurisdiction over certain actions concerning the Coquille Forest and limiting remedies to equitable relief.</p> <p><strong></strong></p>]]></text>
+          <updateDate>2016-09-08T14:20:40Z</updateDate>
+          <name>Reported to Senate with amendment(s)</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>Western Oregon Tribal Fairness Act</title>
+    <titles>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <parentTitleType />
+        <title>Cow Creek Umpqua Land Conveyance Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to provide for the conveyance of certain Federal land in the State of Oregon to the Cow Creek Band of Umpqua Tribe of Indians.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Cow Creek Umpqua Land Conveyance Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Reported to Senate</titleType>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <title>Western Oregon Tribal Fairness Act</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Western Oregon Tribal Fairness Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <amendments />
+    <textVersions>
+      <item>
+        <type>Reported to Senate</type>
+        <date>2016-09-08T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-114s815rs/xml/BILLS-114s815rs.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2015-03-19T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-114s815is/xml/BILLS-114s815is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2016-09-08</actionDate>
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 620.</text>
+      <links />
+    </latestAction>
+    <calendarNumbers>
+      <item>
+        <calendar>Senate Calendar of Business</calendar>
+        <number>0620</number>
+      </item>
+    </calendarNumbers>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

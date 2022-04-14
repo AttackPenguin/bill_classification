@@ -1,0 +1,498 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-03-02", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-03-02", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Transportation and Infrastructure.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2017-03-03", 
+      "action_code": "", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Highways and Transit.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2017-03-29", 
+      "action_code": "", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "text": "Subcommittee on Highways and Transit Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-03-29", 
+      "action_code": "", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-03-29", 
+      "action_code": "", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2017-04-06", 
+      "action_code": "H12200", 
+      "committees": [
+        "HSPW"
+      ], 
+      "links": [
+        {
+          "name": "H. Rept. 115-85", 
+          "url": "https://www.congress.gov/congressional-report/115th-congress/house-report/85"
+        }
+      ], 
+      "references": [], 
+      "text": "Reported by the Committee on Transportation and Infrastructure. H. Rept. 115-85.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-04-06", 
+      "action_code": "H12410", 
+      "calendar": "Union", 
+      "number": "49", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 49.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2017-06-19", 
+      "action_code": "", 
+      "bill_ids": [
+        "s496-115"
+      ], 
+      "committees": [
+        "HSPW"
+      ], 
+      "links": [
+        {
+          "name": "S. 496", 
+          "url": "https://www.congress.gov/bill/115th-congress/senate-bill/496"
+        }
+      ], 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held and Ordered to be Reported Prior to Referral See P.L. 115-33 (S. 496) for further action.", 
+      "type": "calendar"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1346-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [
+    "H. Rept. 115-85"
+  ], 
+  "committees": [
+    {
+      "activity": [
+        "No Value", 
+        "reporting", 
+        "markup", 
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "discharged", 
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Highways and Transit", 
+      "subcommittee_id": "12"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001269", 
+      "district": "11", 
+      "name": "Barletta, Lou", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-03-08", 
+      "state": "PA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001286", 
+      "district": "17", 
+      "name": "Bustos, Cheri", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-03-20", 
+      "state": "IL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001037", 
+      "district": "7", 
+      "name": "Capuano, Michael E.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-03-09", 
+      "state": "MA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001090", 
+      "district": "17", 
+      "name": "Cartwright, Matt", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-03-21", 
+      "state": "PA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001076", 
+      "district": "3", 
+      "name": "Chaffetz, Jason", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-03-02", 
+      "state": "UT", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001059", 
+      "district": "16", 
+      "name": "Costa, Jim", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-03-02", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000619", 
+      "district": "13", 
+      "name": "Davis, Rodney", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-03-02", 
+      "state": "IL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000612", 
+      "district": "10", 
+      "name": "Denham, Jeff", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-03-02", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000604", 
+      "district": "15", 
+      "name": "Dent, Charles W.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-03-08", 
+      "state": "PA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "E000294", 
+      "district": "6", 
+      "name": "Emmer, Tom", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-03-29", 
+      "state": "MN", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "E000293", 
+      "district": "5", 
+      "name": "Esty, Elizabeth H.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-03-02", 
+      "state": "CT", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "F000462", 
+      "district": "21", 
+      "name": "Frankel, Lois", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-03-28", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001059", 
+      "district": "14", 
+      "name": "Hultgren, Randy", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-03-02", 
+      "state": "IL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000587", 
+      "district": "2", 
+      "name": "Lewis, Jason", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-03-02", 
+      "state": "MN", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001199", 
+      "district": "18", 
+      "name": "Mast, Brian J.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-03-15", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "N000127", 
+      "district": "8", 
+      "name": "Nolan, Richard M.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-03-02", 
+      "state": "MN", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "N000147", 
+      "district": "0", 
+      "name": "Norton, Eleanor Holmes", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-03-02", 
+      "state": "DC", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000594", 
+      "district": "3", 
+      "name": "Paulsen, Erik", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-03-08", 
+      "state": "MN", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "Q000023", 
+      "district": "5", 
+      "name": "Quigley, Mike", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-03-02", 
+      "state": "IL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000601", 
+      "district": "4", 
+      "name": "Ratcliffe, John", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-03-15", 
+      "state": "TX", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000577", 
+      "district": "13", 
+      "name": "Ryan, Tim", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-03-08", 
+      "state": "OH", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001145", 
+      "district": "9", 
+      "name": "Schakowsky, Janice D.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-03-20", 
+      "state": "IL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001190", 
+      "district": "10", 
+      "name": "Schneider, Bradley Scott", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-03-23", 
+      "state": "IL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001165", 
+      "district": "8", 
+      "name": "Sires, Albio", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-03-09", 
+      "state": "NJ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000475", 
+      "district": "11", 
+      "name": "Trott, David A.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-03-15", 
+      "state": "MI", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "V000108", 
+      "district": "1", 
+      "name": "Visclosky, Peter J.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-03-20", 
+      "state": "IN", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000813", 
+      "district": "2", 
+      "name": "Walorski, Jackie", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-03-02", 
+      "state": "IN", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000806", 
+      "district": "11", 
+      "name": "Webster, Daniel", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-03-02", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "Y000033", 
+      "district": "0", 
+      "name": "Young, Don", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-03-28", 
+      "state": "AK", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2017-03-29", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-03-02", 
+  "number": "1346", 
+  "official_title": "To repeal the rule issued by the Federal Highway Administration and the Federal Transit Administration entitled \"Metropolitan Planning Organization Coordination and Planning Area Reform\".", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hjres84-115", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s496-115", 
+      "identified_by": "House", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "L000563", 
+    "district": "3", 
+    "name": "Lipinski, Daniel", 
+    "state": "IL", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2017-03-29", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Department of Transportation", 
+    "Public transit", 
+    "Regional and metropolitan planning", 
+    "Roads and highways", 
+    "Transportation and public works", 
+    "Urban and suburban affairs and development"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": {
+    "as": "Reported to House without amendment", 
+    "date": "2017-04-06T14:24:06Z", 
+    "text": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)\n\n(Sec. 1) This bill nullifies the Federal Highway Administration's and the Federal Transit Administration's rule published on December 20, 2016, that revises transportation planning regulations with regard to the alignment of planning regulations with statutory provisions relating to the establishment of metropolitan planning area boundaries and the designation of metropolitan planning organizations."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To repeal the rule issued by the Federal Highway Administration and the Federal Transit Administration entitled \"Metropolitan Planning Organization Coordination and Planning Area Reform\".", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "To repeal the rule issued by the Federal Highway Administration and the Federal Transit Administration entitled \"Metropolitan Planning Organization Coordination and Planning Area Reform\".", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-11-15T21:37:22Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr1346.xml"
+}

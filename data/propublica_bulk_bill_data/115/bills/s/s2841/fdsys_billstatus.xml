@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <updateDate>2019-05-31T04:27:24Z</updateDate>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <byRequestType />
+        <bioguideId>W000817</bioguideId>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <lastName>Warren</lastName>
+        <state>MA</state>
+        <firstName>Elizabeth</firstName>
+        <middleName>A.</middleName>
+        <identifiers>
+          <lisID>2182</lisID>
+          <bioguideId>W000817</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <originChamber>Senate</originChamber>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+      <actionDate>2018-05-15</actionDate>
+      <links />
+    </latestAction>
+    <congress>115</congress>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <systemCode>ssas00</systemCode>
+          <activities>
+            <item>
+              <date>2018-05-15T15:46:01Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Armed Services Committee</name>
+          <subcommittees />
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <textVersions>
+      <item>
+        <date>2018-05-15T04:00:00Z</date>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115s2841is/xml/BILLS-115s2841is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <billType>S</billType>
+    <billNumber>2841</billNumber>
+    <laws />
+    <cosponsors>
+      <item>
+        <fullName>Sen. Daines, Steve [R-MT]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>MT</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Steve</firstName>
+        <party>R</party>
+        <lastName>Daines</lastName>
+        <bioguideId>D000618</bioguideId>
+        <middleName />
+        <sponsorshipDate>2018-05-15</sponsorshipDate>
+        <identifiers>
+          <lisID>2138</lisID>
+          <gpoId />
+          <bioguideId>D000618</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <fullName>Sen. Carper, Thomas R. [D-DE]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>DE</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>THOMAS</firstName>
+        <party>D</party>
+        <lastName>CARPER</lastName>
+        <bioguideId>C000174</bioguideId>
+        <middleName>R.</middleName>
+        <sponsorshipDate>2018-05-17</sponsorshipDate>
+        <identifiers>
+          <lisID>179</lisID>
+          <gpoId>8283</gpoId>
+          <bioguideId>C000174</bioguideId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <amendments />
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2019-05-28T18:16:35Z</lastSummaryUpdateDate>
+          <actionDate>2018-05-15</actionDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in Senate</name>
+          <text><![CDATA[<p><strong>Gambling Addiction Prevention Act</strong></p> <p>This bill directs the Department of Defense (DOD) to: (1) incorporate medical screening questions specific to gambling disorder into the Annual Periodic Health Assessment conducted by DOD for members of the Armed Forces; (2) incorporate into ongoing DOD research efforts questions on gambling disorder; and (3) develop and implement policies and programs on prevention, education, and treatment of gambling disorder and integrate&nbsp;gambling disorder&nbsp;into existing mental health and substance use disorder programs.</p>]]></text>
+          <updateDate>2018-05-15T04:00:00Z</updateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <createDate>2018-05-16T04:40:56Z</createDate>
+    <notes />
+    <committeeReports />
+    <recordedVotes />
+    <introducedDate>2018-05-15</introducedDate>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2018-05-15</actionDate>
+        <committee>
+          <systemCode>ssas00</systemCode>
+          <name>Armed Services Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Armed Services.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in Senate</text>
+        <committee />
+        <actionDate>2018-05-15</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <title>Gambling Addiction Prevention Act</title>
+    <version>1.0.0</version>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <relatedBills>
+      <item>
+        <latestTitle>Preventing and Treating Gambling Disorder in the Military Act of 2017</latestTitle>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <number>1439</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2017-06-26</actionDate>
+          <text>Read twice and referred to the Committee on Armed Services.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <titles>
+      <item>
+        <title>A bill to require policies and programs to research, prevent, and address the harmful consequences of gambling disorder among members of the Armed Forces and their dependents, and for other purposes.</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>Gambling Addiction Prevention Act</title>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>Gambling Addiction Prevention Act</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>Gambling Addiction Prevention Act</title>
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

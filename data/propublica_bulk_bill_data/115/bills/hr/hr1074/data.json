@@ -1,0 +1,378 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-02-15", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-02-15", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2017-02-24", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2017-06-07", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-07-26", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-07-26", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Unanimous Consent.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2017-08-29", 
+      "action_code": "H12200", 
+      "committees": [
+        "HSII"
+      ], 
+      "links": [
+        {
+          "name": "H. Rept. 115-279", 
+          "url": "https://www.congress.gov/congressional-report/115th-congress/house-report/279"
+        }
+      ], 
+      "references": [], 
+      "text": "Reported by the Committee on Natural Resources. H. Rept. 115-279.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-08-29", 
+      "action_code": "H12410", 
+      "calendar": "Union", 
+      "number": "199", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 199.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2017-11-01T14:44:36-04:00", 
+      "action_code": "H30300", 
+      "references": [], 
+      "text": "Mr. Cook moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-11-01T14:44:50-04:00", 
+      "action_code": "H30000", 
+      "links": [
+        {
+          "name": "H8323-8324", 
+          "url": "https://www.congress.gov/congressional-record/volume-163/house-section/page/H8323-8324"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H8323-8324", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-11-01T14:44:55-04:00", 
+      "action_code": "H8D000", 
+      "links": [
+        {
+          "name": "H.R. 1074", 
+          "url": "https://www.congress.gov/bill/115th-congress/house-bill/1074"
+        }
+      ], 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1074.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-11-01T14:53:33-04:00", 
+      "action_code": "H37300", 
+      "how": "by voice vote", 
+      "links": [
+        {
+          "name": "H8323", 
+          "url": "https://www.congress.gov/congressional-record/volume-163/house-section/page/H8323"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H8323", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2017-11-01T14:53:37-04:00", 
+      "action_code": "H38310", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-11-02", 
+      "action_code": "", 
+      "committees": [
+        "SLIA"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Indian Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2018-11-27", 
+      "action_code": "", 
+      "committees": [
+        "SLIA"
+      ], 
+      "links": [
+        {
+          "name": "S7141", 
+          "url": "https://www.congress.gov/congressional-record/volume-164/senate-section/page/S7141"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR S7141", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Senate Committee on Indian Affairs discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-11-27", 
+      "action_code": "", 
+      "how": "by Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2018-11-28", 
+      "action_code": "", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-11-29", 
+      "action_code": "E20000", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2018-12-11", 
+      "action_code": "E30000", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2018-12-11", 
+      "action_code": "E40000", 
+      "congress": "115", 
+      "law": "public", 
+      "links": [
+        {
+          "name": "Public Law No: 115-301", 
+          "url": "https://www.congress.gov/bill/115th-congress/house-bill/1074/text/pl"
+        }
+      ], 
+      "number": "301", 
+      "references": [], 
+      "text": "Became Public Law No: 115-301.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1074-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [
+    "H. Rept. 115-279"
+  ], 
+  "committees": [
+    {
+      "activity": [
+        "discharged", 
+        "referral"
+      ], 
+      "committee": "Senate Indian Affairs", 
+      "committee_id": "SLIA"
+    }, 
+    {
+      "activity": [
+        "reporting", 
+        "markup", 
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "hearings", 
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Indigenous Peoples of the United States", 
+      "subcommittee_id": "24"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "K000362", 
+      "district": "4", 
+      "name": "King, Steve", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-02-15", 
+      "state": "IA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000565", 
+      "district": "2", 
+      "name": "Loebsack, David", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-02-15", 
+      "state": "IA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "Y000066", 
+      "district": "3", 
+      "name": "Young, David", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-02-15", 
+      "state": "IA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "115", 
+    "law_type": "public", 
+    "number": "301"
+  }, 
+  "history": {
+    "active": true, 
+    "active_at": "2017-06-07", 
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2018-12-11", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2017-11-01T14:53:33-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2018-11-27", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-02-15", 
+  "number": "1074", 
+  "official_title": "To repeal the Act entitled \"An Act to confer jurisdiction on the State of Iowa over offenses committed by or against Indians on the Sac and Fox Indian Reservation\".", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s381-115", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "B001294", 
+    "district": "1", 
+    "name": "Blum, Rod", 
+    "state": "IA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2018-12-11", 
+  "subjects": [
+    "Criminal investigation, prosecution, interrogation", 
+    "Federal-Indian relations", 
+    "Iowa", 
+    "Jurisdiction and venue", 
+    "Native Americans", 
+    "State and local courts"
+  ], 
+  "subjects_top_term": "Native Americans", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2018-12-12T04:59:59Z", 
+    "text": "This bill repeals the act titled \"An Act to confer jurisdiction on the State of Iowa over offenses committed by or against Indians on the Sac and Fox Indian Reservation.\""
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To repeal the Act entitled \"An Act to confer jurisdiction on the State of Iowa over offenses committed by or against Indians on the Sac and Fox Indian Reservation\".", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "To repeal the Act entitled \"An Act to confer jurisdiction on the State of Iowa over offenses committed by or against Indians on the Sac and Fox Indian Reservation\".", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-11-15T21:23:45Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr1074.xml"
+}

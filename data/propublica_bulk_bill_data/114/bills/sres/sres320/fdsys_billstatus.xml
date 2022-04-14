@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>320</billNumber>
+    <createDate>2015-11-20T10:16:07Z</createDate>
+    <updateDate>2019-11-15T21:56:00Z</updateDate>
+    <originChamber>Senate</originChamber>
+    <billType>SRES</billType>
+    <introducedDate>2015-11-19</introducedDate>
+    <congress>114</congress>
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssfr00</systemCode>
+          <name>Foreign Relations Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2015-12-10T16:24:36Z</date>
+            </item>
+            <item>
+              <name>Markup by</name>
+              <date>2015-12-08T15:00:00Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2015-11-19T23:00:02Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports />
+    <relatedBills />
+    <actions>
+      <item>
+        <actionDate>2015-12-16</actionDate>
+        <committees />
+        <links>
+          <link>
+            <name>S8729-8730</name>
+            <url>https://www.congress.gov/congressional-record/volume-161/senate-section/page/S8729-8730</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Resolution agreed to in Senate with an amendment and with a preamble by Unanimous Consent. (consideration: CR S8729-8730; text as passed Senate: CR S8729-8730)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2015-12-16</actionDate>
+        <links>
+          <link>
+            <name>S8729-8730</name>
+            <url>https://www.congress.gov/congressional-record/volume-161/senate-section/page/S8729-8730</url>
+          </link>
+        </links>
+        <text>Passed/agreed to in Senate: Resolution agreed to in Senate with an amendment and with a preamble by Unanimous Consent.(consideration: CR S8729-8730; text as passed Senate: CR S8729-8730)</text>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2015-12-10</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 321.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2015-12-10</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssfr00</systemCode>
+            <name>Foreign Relations Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute and with a preamble. Without written report.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2015-12-10</actionDate>
+        <links />
+        <text>Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute and with a preamble. Without written report.</text>
+        <type>Committee</type>
+        <actionCode>14000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>ssfr00</systemCode>
+            <name>Foreign Relations Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2015-12-08</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssfr00</systemCode>
+            <name>Foreign Relations Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Foreign Relations. Ordered to be reported with amendments favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2015-11-19</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssfr00</systemCode>
+            <name>Foreign Relations Committee</name>
+          </item>
+        </committees>
+        <links>
+          <link>
+            <name>S8165-8166</name>
+            <url>https://www.congress.gov/congressional-record/volume-161/senate-section/page/S8165-8166</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S8165-8166)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2015-11-19</actionDate>
+        <links />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <actionTypeCounts>
+        <agreedToInSenate>1</agreedToInSenate>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <reportedToSenate>2</reportedToSenate>
+        <orderedReported>1</orderedReported>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>8</senate>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>M000303</bioguideId>
+        <fullName>Sen. McCain, John [R-AZ]</fullName>
+        <firstName>JOHN</firstName>
+        <middleName>SIDNEY</middleName>
+        <lastName>MCCAIN</lastName>
+        <party>R</party>
+        <state>AZ</state>
+        <identifiers>
+          <lisID>754</lisID>
+          <bioguideId>M000303</bioguideId>
+          <gpoId>8253</gpoId>
+        </identifiers>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>M000355</bioguideId>
+        <fullName>Sen. McConnell, Mitch [R-KY]</fullName>
+        <firstName>MITCH</firstName>
+        <middleName />
+        <lastName>MCCONNELL</lastName>
+        <party>R</party>
+        <state>KY</state>
+        <identifiers>
+          <lisID>1395</lisID>
+          <bioguideId>M000355</bioguideId>
+          <gpoId>8254</gpoId>
+        </identifiers>
+        <sponsorshipDate>2015-11-19</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>D000563</bioguideId>
+        <fullName>Sen. Durbin, Richard J. [D-IL]</fullName>
+        <firstName>RICHARD</firstName>
+        <middleName>J.</middleName>
+        <lastName>DURBIN</lastName>
+        <party>D</party>
+        <state>IL</state>
+        <identifiers>
+          <lisID>326</lisID>
+          <bioguideId>D000563</bioguideId>
+          <gpoId>8326</gpoId>
+        </identifiers>
+        <sponsorshipDate>2015-11-19</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>R000595</bioguideId>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <firstName>Marco</firstName>
+        <middleName />
+        <lastName>Rubio</lastName>
+        <party>R</party>
+        <state>FL</state>
+        <identifiers>
+          <lisID>2084</lisID>
+          <bioguideId>R000595</bioguideId>
+          <gpoId>8242</gpoId>
+        </identifiers>
+        <sponsorshipDate>2015-12-08</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <laws />
+    <notes />
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Asia</name>
+          </item>
+          <item>
+            <name>Burma</name>
+          </item>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Elections, voting, political campaign regulation</name>
+          </item>
+          <item>
+            <name>Human rights</name>
+          </item>
+          <item>
+            <name>Political parties and affiliation</name>
+          </item>
+          <item>
+            <name>Racial and ethnic relations</name>
+          </item>
+          <item>
+            <name>Sanctions</name>
+          </item>
+          <item>
+            <name>Sovereignty, recognition, national governance and status</name>
+          </item>
+          <item>
+            <name>Trade restrictions</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2015-11-19</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2015-11-25T17:54:14Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Congratulates the people of Burma for embracing democracy through their participation in the November 8, 2015, general elections and for their efforts in developing a democratic society.</p> <p>Recognizes the National League for Democracy's victory as a reflection of the will of the Burmese people. </p> <p>Calls on the Union Solidarity Development Party to undertake a peaceful transfer of power to a new government.</p> <p>Encourages all parties to pursue national reconciliation talks.</p> <p>Recognizes that important impediments remain to the realization of full democratic and civilian government, including the reservation of unelected seats for the military and the disenfranchisement of groups including the Rohingya. </p> <p>Calls on the government of Burma to support meaningful efforts to reform the 2008 Constitution of Burma. </p> <p>Supports negotiations between the government of Burma and ethnic-based peoples and organizations. </p> <p>Encourages the President to take further steps toward normalization of relations with Burma. </p>]]></text>
+          <updateDate>2015-11-19T05:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+        </item>
+        <item>
+          <versionCode>01</versionCode>
+          <actionDate>2015-12-10</actionDate>
+          <actionDesc>Reported to Senate with amendment(s)</actionDesc>
+          <lastSummaryUpdateDate>2015-12-15T14:28:22Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Congratulates the people of Burma for embracing democracy through their participation in the November 8, 2015, general elections and for their efforts in developing a democratic society.</p> <p>Recognizes the National League for Democracy's victory as a reflection of the will of the Burmese people. </p> <p>Calls on the Union Solidarity Development Party to undertake a peaceful transfer of power to a new government.</p> <p>Encourages all parties to pursue national reconciliation talks.</p> <p>Recognizes that important impediments remain to the realization of full democratic and civilian government in Burma, including the reservation of unelected seats for the military and the disenfranchisement of groups including the Rohingya. </p> <p>Calls on the government of Burma to support meaningful efforts to reform the 2008 Constitution of Burma. </p> <p> Encourages the President to ensure that any changes in U.S. policy toward Burma, including the relaxation of any restrictions, are aligned with support for genuine democratic transition.</p>]]></text>
+          <updateDate>2015-12-10T14:47:45Z</updateDate>
+          <name>Reported to Senate with amendment(s)</name>
+        </item>
+        <item>
+          <versionCode>35</versionCode>
+          <actionDate>2015-12-16</actionDate>
+          <actionDesc>Passed Senate amended</actionDesc>
+          <lastSummaryUpdateDate>2016-01-04T18:02:25Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>(This measure has not been amended since it was reported to the Senate on December 10, 2015. The summary of that version is repeated here.)</p> <p>Congratulates the people of Burma for embracing democracy through their participation in the November 8, 2015, general elections and for their efforts in developing a democratic society.</p> <p>Recognizes the National League for Democracy's victory as a reflection of the will of the Burmese people. </p> <p>Calls on the Union Solidarity Development Party to undertake a peaceful transfer of power to a new government.</p> <p>Encourages all parties to pursue national reconciliation talks.</p> <p>Recognizes that important impediments remain to the realization of full democratic and civilian government in Burma, including the reservation of unelected seats for the military and the disenfranchisement of groups including the Rohingya. </p> <p>Calls on the government of Burma to support meaningful efforts to reform the 2008 Constitution of Burma. </p> <p> Encourages the President to ensure that any changes in U.S. policy toward Burma, including the relaxation of any restrictions, are aligned with support for genuine democratic transition.</p>]]></text>
+          <updateDate>2015-12-16T13:59:14Z</updateDate>
+          <name>Passed Senate amended</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>A resolution congratulating the people of Burma on their commitment to peaceful elections.</title>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A resolution congratulating the people of Burma on their commitment to peaceful elections.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>A resolution congratulating the people of Burma on their commitment to peaceful elections.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <amendments />
+    <textVersions>
+      <item>
+        <type>Agreed to Senate</type>
+        <date>2015-12-16T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-114sres320ats/xml/BILLS-114sres320ats.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Reported to Senate</type>
+        <date>2015-12-10T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-114sres320rs/xml/BILLS-114sres320rs.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2015-11-19T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-114sres320is/xml/BILLS-114sres320is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2015-12-16</actionDate>
+      <text>Resolution agreed to in Senate with an amendment and with a preamble by Unanimous Consent. (consideration: CR S8729-8730; text as passed Senate: CR S8729-8730)</text>
+      <links />
+    </latestAction>
+    <calendarNumbers>
+      <item>
+        <calendar>Senate Calendar of Business</calendar>
+        <number>0321</number>
+      </item>
+    </calendarNumbers>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

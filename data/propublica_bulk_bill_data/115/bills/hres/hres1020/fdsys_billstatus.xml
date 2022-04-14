@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>House of Representatives</name>
+          </item>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <relatedBills />
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <subcommittees />
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Reported original measure</name>
+              <date>2018-07-25T01:35:11Z</date>
+            </item>
+          </activities>
+          <name>Rules Committee</name>
+          <systemCode>hsru00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2018-07-24T04:00:00Z</updateDate>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2018-10-30T15:27:07Z</lastSummaryUpdateDate>
+          <actionDate>2018-07-24</actionDate>
+          <text><![CDATA[<p>Waives a specified requirement of Rule XIII (Calendar and Committee Reports) to allow consideration of any resolution reported from the Committee on Rules through the legislative day of July 27, 2018 (relating to a measure authorizing appropriations for the Department of Defense), on the same day it is presented to the House.</p> <p>Makes it in order at any time on the legislative day of July 26, 2018, or July 27, 2018, for the Speaker of the House to suspend the rules as though under Rule XV (Business in Order on Special Days), relating to such a measure.</p> <p>Authorizes the Committee on Appropriations at any time before 3 p.m. on Thursday, August 2, 2018, to file privileged reports to accompany measures making appropriations for FY2019.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <version>1.0.0</version>
+    <originChamber>House</originChamber>
+    <congress>115</congress>
+    <latestAction>
+      <actionTime>10:27:41</actionTime>
+      <actionDate>2018-07-26</actionDate>
+      <text>Pursuant to the provisions of H. Res. 1027, H. Res. 1020 is laid on the table.</text>
+      <links />
+    </latestAction>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2018-07-26</actionDate>
+        <actionTime>10:27:41</actionTime>
+        <type>Floor</type>
+        <committee />
+        <actionCode>H1B000</actionCode>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/1020</url>
+            <name>H. Res. 1020</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/1027</url>
+            <name>H. Res. 1027</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Pursuant to the provisions of H. Res. 1027, H. Res. 1020 is laid on the table.</text>
+      </item>
+      <item>
+        <actionDate>2018-07-24</actionDate>
+        <committee />
+        <type>Calendars</type>
+        <actionCode>H12420</actionCode>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Placed on the House Calendar, Calendar No. 175.</text>
+      </item>
+      <item>
+        <actionDate>2018-07-24</actionDate>
+        <actionTime>21:35:12</actionTime>
+        <type>Floor</type>
+        <committee />
+        <actionCode>H12700</actionCode>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>The resolution waives a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules, and provides for consideration of motions to suspend the rules.</text>
+      </item>
+      <item>
+        <actionDate>2018-07-24</actionDate>
+        <committee>
+          <name>Rules Committee</name>
+          <systemCode>hsru00</systemCode>
+        </committee>
+        <type>Committee</type>
+        <actionCode>H12100</actionCode>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/873</url>
+            <name>H. Rept. 115-873</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>The House Committee on Rules reported an original measure, H. Rept. 115-873, by Mr. Sessions.</text>
+      </item>
+      <item>
+        <actionDate>2018-07-24</actionDate>
+        <committee>
+          <name>Rules Committee</name>
+          <systemCode>hsru00</systemCode>
+        </committee>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/873</url>
+            <name>H. Rept. 115-873</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>The House Committee on Rules reported an original measure, H. Rept. 115-873, by Mr. Sessions.</text>
+      </item>
+      <item>
+        <actionDate>2018-07-24</actionDate>
+        <committee />
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+      </item>
+      <actionTypeCounts>
+        <houseCalendarAssignment>1</houseCalendarAssignment>
+        <introducedInHouse>1</introducedInHouse>
+        <provisionsOfARule>1</provisionsOfARule>
+        <committeeReportOfAnOriginalMeasure>1</committeeReportOfAnOriginalMeasure>
+        <reportedToHouse>1</reportedToHouse>
+        <virtualAction>1</virtualAction>
+      </actionTypeCounts>
+    </actions>
+    <createDate>2018-07-25T07:10:51Z</createDate>
+    <laws />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>Waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules, and providing for consideration of motions to suspend the rules.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>Waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules, and providing for consideration of motions to suspend the rules.</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <constitutionalAuthorityStatementText />
+    <introducedDate>2018-07-24</introducedDate>
+    <calendarNumbers>
+      <item>
+        <calendar>H00175</calendar>
+        <number />
+      </item>
+    </calendarNumbers>
+    <recordedVotes />
+    <textVersions>
+      <item>
+        <date>2018-07-24T04:00:00Z</date>
+        <type>Reported in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hres1020rh/xml/BILLS-115hres1020rh.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <cosponsors />
+    <amendments />
+    <billNumber>1020</billNumber>
+    <updateDate>2019-11-15T21:46:51Z</updateDate>
+    <cboCostEstimates />
+    <title>Waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules, and providing for consideration of motions to suspend the rules.</title>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-873</citation>
+      </committeeReport>
+    </committeeReports>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <district>32</district>
+        <lastName>SESSIONS</lastName>
+        <firstName>PETE</firstName>
+        <state>TX</state>
+        <fullName>Rep. Sessions, Pete [R-TX-32]</fullName>
+        <identifiers>
+          <lisID>1525</lisID>
+          <gpoId>8188</gpoId>
+          <bioguideId>S000250</bioguideId>
+        </identifiers>
+        <middleName />
+        <bioguideId>S000250</bioguideId>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <billType>HRES</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

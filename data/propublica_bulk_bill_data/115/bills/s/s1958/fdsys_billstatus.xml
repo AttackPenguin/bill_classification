@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2017-10-17T00:26:20Z</createDate>
+    <introducedDate>2017-10-16</introducedDate>
+    <version>1.0.0</version>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-10-16</actionDate>
+        <committee>
+          <name>Finance Committee</name>
+          <systemCode>ssfi00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <actionDate>2017-10-16</actionDate>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <actionDate>2017-10-16</actionDate>
+    </latestAction>
+    <title>IRS Data Verification Modernization Act of 2017</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2017-10-16</actionDate>
+          <updateDate>2017-10-16T04:00:00Z</updateDate>
+          <text><![CDATA[<p><b>IRS Data Verification Modernization Act of 2017</b></p> <p> This bill requires the Internal Revenue Service (IRS) to implement a program to ensure that disclosures of tax returns or return information by the IRS to a person verifying the income of a taxpayer for a legitimate business purpose are: (1) fully automated and accomplished through the Internet, and (2) accomplished in as close to real-time as is practicable. </p> <p>The IRS must assess and collect a fee for the disclosures described above at rates that are sufficient to recover the costs related to implementing the program not later than five years after the costs are paid or incurred. </p>]]></text>
+          <name>Introduced in Senate</name>
+          <lastSummaryUpdateDate>2017-10-20T17:01:09Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>1958</billNumber>
+    <laws />
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>2194</lisID>
+          <bioguideId>B001288</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>B001288</bioguideId>
+        <middleName>A.</middleName>
+        <party>D</party>
+        <fullName>Sen. Booker, Cory A. [D-NJ]</fullName>
+        <firstName>Cory</firstName>
+        <state>NJ</state>
+        <lastName>Booker</lastName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <calendarNumbers />
+    <committeeReports />
+    <congress>115</congress>
+    <amendments />
+    <notes />
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115s1958is/xml/BILLS-115s1958is.xml</url>
+          </item>
+        </formats>
+        <date>2017-10-16T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <billType>S</billType>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Internet and video services</name>
+          </item>
+          <item>
+            <name>Tax administration and collection, taxpayers</name>
+          </item>
+          <item>
+            <name>User charges and fees</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>115</congress>
+        <type>HR</type>
+        <latestTitle>Taxpayer First Act of 2018</latestTitle>
+        <number>7227</number>
+        <latestAction>
+          <actionDate>2018-12-20</actionDate>
+          <text>Received in the Senate.</text>
+        </latestAction>
+      </item>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>115</congress>
+        <type>HR</type>
+        <latestTitle>IRS Data Verification Modernization Act of 2017</latestTitle>
+        <number>3860</number>
+        <latestAction>
+          <actionDate>2017-09-28</actionDate>
+          <text>Referred to the House Committee on Ways and Means.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <cboCostEstimates />
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-10-16T21:02:13Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <middleName>D.</middleName>
+        <identifiers>
+          <bioguideId>C000880</bioguideId>
+          <gpoId>8289</gpoId>
+          <lisID>250</lisID>
+        </identifiers>
+        <bioguideId>C000880</bioguideId>
+        <state>ID</state>
+        <firstName>MICHAEL</firstName>
+        <sponsorshipDate>2017-10-16</sponsorshipDate>
+        <fullName>Sen. Crapo, Mike [R-ID]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>CRAPO</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <identifiers>
+          <lisID>1829</lisID>
+          <bioguideId>T000464</bioguideId>
+          <gpoId>8258</gpoId>
+        </identifiers>
+        <bioguideId>T000464</bioguideId>
+        <state>MT</state>
+        <firstName>Jon</firstName>
+        <sponsorshipDate>2018-06-11</sponsorshipDate>
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Tester</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <identifiers>
+          <lisID>2056</lisID>
+          <bioguideId>S001184</bioguideId>
+          <gpoId>8141</gpoId>
+        </identifiers>
+        <bioguideId>S001184</bioguideId>
+        <state>SC</state>
+        <firstName>Tim</firstName>
+        <sponsorshipDate>2018-07-16</sponsorshipDate>
+        <fullName>Sen. Scott, Tim [R-SC]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Scott</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName>R.</middleName>
+        <identifiers>
+          <gpoId>8269</gpoId>
+          <lisID>1897</lisID>
+          <bioguideId>W000805</bioguideId>
+        </identifiers>
+        <bioguideId>W000805</bioguideId>
+        <state>VA</state>
+        <firstName>Mark</firstName>
+        <sponsorshipDate>2018-11-26</sponsorshipDate>
+        <fullName>Sen. Warner, Mark R. [D-VA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Warner</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <title>A bill to amend the Internal Revenue Code of 1986 to require Internet-based, real-time responses to requests to verify taxpayer income for legitimate business purposes, and for other purposes.</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>IRS Data Verification Modernization Act of 2017</title>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>IRS Data Verification Modernization Act of 2017</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>IRS Data Verification Modernization Act of 2017</title>
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <updateDate>2019-04-18T16:39:38Z</updateDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

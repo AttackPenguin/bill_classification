@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <originalBillReported>1</originalBillReported>
+        <introducedInSenate>1</introducedInSenate>
+        <reportedToSenate>1</reportedToSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2013-02-26</actionDate>
+        <committee>
+          <name>Rules and Administration Committee</name>
+          <systemCode>ssra00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Referred to the Committee on Rules and Administration.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2013-02-26</actionDate>
+        <committee>
+          <name>Budget Committee</name>
+          <systemCode>ssbu00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>S876</name>
+            <url>https://www.congress.gov/congressional-record/volume-159/senate-section/page/S876</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on the Budget. Original measure reported to Senate by Senator Murray. Without written report. (text of measure as reported in Senate: CR S876)</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>14000</actionCode>
+        <actionDate>2013-02-26</actionDate>
+        <type>Committee</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>S876</name>
+            <url>https://www.congress.gov/congressional-record/volume-159/senate-section/page/S876</url>
+          </link>
+        </links>
+        <text>Committee on the Budget. Original measure reported to Senate by Senator Murray. Without written report.(text of measure as reported in Senate: CR S876)</text>
+        <committee>
+          <name>Budget Committee</name>
+          <systemCode>ssbu00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <actionDate>2013-02-26</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <text>Introduced in Senate</text>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>4</senate>
+      </actionByCounts>
+    </actions>
+    <introducedDate>2013-02-26</introducedDate>
+    <updateDate>2016-10-25T16:18:12Z</updateDate>
+    <createDate>2013-02-27T07:00:51Z</createDate>
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <systemCode>ssra00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Rules and Administration Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-02-26T23:03:03Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <chamber>Senate</chamber>
+          <systemCode>ssbu00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Budget Committee</name>
+          <activities>
+            <item>
+              <name>Reported original measure</name>
+              <date>2013-02-26T23:02:39Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors />
+    <congress>113</congress>
+    <billType>SRES</billType>
+    <title>An original resolution authorizing expenditures by the Committee on the Budget.</title>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>An original resolution authorizing expenditures by the Committee on the Budget.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>An original resolution authorizing expenditures by the Committee on the Budget.</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2013-03-13T20:20:23Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <updateDate>2013-02-26T05:00:00Z</updateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <name>Introduced in Senate</name>
+          <actionDate>2013-02-26</actionDate>
+          <text><![CDATA[<p>Authorizes expenditures by the Senate Committee on the Budget from March 1, 2013, through September 30, 2013.</p>]]></text>
+        </item>
+        <item>
+          <lastSummaryUpdateDate>2013-03-13T20:20:30Z</lastSummaryUpdateDate>
+          <versionCode>80</versionCode>
+          <updateDate>2013-02-26T19:51:24Z</updateDate>
+          <actionDesc>Reported to Senate without amendment</actionDesc>
+          <name>Reported to Senate without amendment</name>
+          <actionDate>2013-02-26</actionDate>
+          <text><![CDATA[<p><b>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</b></p> <p>Authorizes expenditures by the Senate Committee on the Budget from March 1, 2013, through September 30, 2013.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <recordedVotes />
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional committees</name>
+          </item>
+          <item>
+            <name>Senate Committee on the Budget</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Referred to the Committee on Rules and Administration.</text>
+      <actionDate>2013-02-26</actionDate>
+    </latestAction>
+    <billNumber>53</billNumber>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <amendments />
+    <sponsors>
+      <item>
+        <firstName>PATTY</firstName>
+        <party>D</party>
+        <fullName>Sen. Murray, Patty [D-WA]</fullName>
+        <bioguideId>M001111</bioguideId>
+        <identifiers>
+          <bioguideId>M001111</bioguideId>
+          <lisID>1409</lisID>
+          <gpoId>8237</gpoId>
+        </identifiers>
+        <lastName>MURRAY</lastName>
+        <middleName />
+        <state>WA</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2017-01-21T04:55:45Z</createDate>
+    <introducedDate>2017-01-20</introducedDate>
+    <version>1.0.0</version>
+    <actions>
+      <item>
+        <actionDate>2017-01-20</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S362</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S362</url>
+          </link>
+          <link>
+            <name>S365</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S365</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S365; text as passed Senate: CR S362)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <links>
+          <link>
+            <name>S362</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S362</url>
+          </link>
+          <link>
+            <name>S365</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S365</url>
+          </link>
+        </links>
+        <actionDate>2017-01-20</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S365; text as passed Senate: CR S362)</text>
+        <committee />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <links />
+        <actionDate>2017-01-20</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <passedOrAgreedToInSenateDayOf>1</passedOrAgreedToInSenateDayOf>
+        <introducedInSenate>1</introducedInSenate>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+      </actionTypeCounts>
+    </actions>
+    <latestAction>
+      <links />
+      <text>Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S365; text as passed Senate: CR S362)</text>
+      <actionDate>2017-01-20</actionDate>
+    </latestAction>
+    <title>A resolution to constitute the minority party's membership on certain committees for the One Hundred Fifteenth Congress, or until their successors are chosen.</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-03-16T18:46:44Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+          <text><![CDATA[<p>Designates the minority party's membership on the Senate Committee on Rules and Administration for the 115th Congress.</p>]]></text>
+          <versionCode>00</versionCode>
+          <actionDate>2017-01-20</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <updateDate>2017-01-20T05:00:00Z</updateDate>
+        </item>
+        <item>
+          <lastSummaryUpdateDate>2017-03-16T18:47:47Z</lastSummaryUpdateDate>
+          <name>Passed Senate without amendment</name>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</p> <p>Designates the minority party's membership on the Senate Committee on Rules and Administration for the 115th Congress.</p>]]></text>
+          <versionCode>82</versionCode>
+          <actionDate>2017-01-20</actionDate>
+          <actionDesc>Passed Senate without amendment</actionDesc>
+          <updateDate>2017-01-20T14:15:51Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>17</billNumber>
+    <laws />
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <identifiers>
+          <bioguideId>S000148</bioguideId>
+          <lisID>1036</lisID>
+          <gpoId>8279</gpoId>
+        </identifiers>
+        <bioguideId>S000148</bioguideId>
+        <middleName>E.</middleName>
+        <party>D</party>
+        <fullName>Sen. Schumer, Charles E. [D-NY]</fullName>
+        <firstName>CHARLES</firstName>
+        <state>NY</state>
+        <lastName>SCHUMER</lastName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <calendarNumbers />
+    <committeeReports />
+    <congress>115</congress>
+    <amendments />
+    <notes />
+    <textVersions>
+      <item>
+        <date>2017-01-20T05:00:00Z</date>
+        <type>Agreed to Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115sres17ats/xml/BILLS-115sres17ats.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <billType>SRES</billType>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional committees</name>
+          </item>
+          <item>
+            <name>Members of Congress</name>
+          </item>
+          <item>
+            <name>Senate</name>
+          </item>
+          <item>
+            <name>Senate Committee on Rules and Administration</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <relatedBills />
+    <cboCostEstimates />
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees />
+    </committees>
+    <cosponsors />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A resolution to constitute the minority party's membership on certain committees for the One Hundred Fifteenth Congress, or until their successors are chosen.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>A resolution to constitute the minority party's membership on certain committees for the One Hundred Fifteenth Congress, or until their successors are chosen.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <updateDate>2019-04-18T16:29:20Z</updateDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

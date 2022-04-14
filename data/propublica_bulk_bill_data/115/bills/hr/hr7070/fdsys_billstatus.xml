@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <originChamber>House</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Foreign Affairs Committee</name>
+          <subcommittees />
+          <systemCode>hsfa00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-10-16T14:00:25Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <billNumber>7070</billNumber>
+    <latestAction>
+      <actionDate>2018-10-16</actionDate>
+      <links />
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </latestAction>
+    <actions>
+      <item>
+        <actionCode>H11100</actionCode>
+        <actionDate>2018-10-16</actionDate>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Foreign Affairs.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Foreign Affairs Committee</name>
+          <systemCode>hsfa00</systemCode>
+        </committee>
+        <links />
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2018-10-16</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <actionDate>2018-10-16</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <billType>HR</billType>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <calendarNumbers />
+    <sponsors>
+      <item>
+        <bioguideId>M000312</bioguideId>
+        <district>2</district>
+        <state>MA</state>
+        <firstName>JAMES</firstName>
+        <middleName>P.</middleName>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <identifiers>
+          <lisID>1504</lisID>
+          <bioguideId>M000312</bioguideId>
+          <gpoId>7968</gpoId>
+        </identifiers>
+        <byRequestType />
+        <party>D</party>
+        <lastName>MCGOVERN</lastName>
+      </item>
+    </sponsors>
+    <updateDate>2019-05-03T17:48:18Z</updateDate>
+    <cosponsors>
+      <item>
+        <lastName>JONES</lastName>
+        <firstName>WALTER</firstName>
+        <bioguideId>J000255</bioguideId>
+        <middleName>B.</middleName>
+        <fullName>Rep. Jones, Walter B., Jr. [R-NC-3]</fullName>
+        <identifiers>
+          <lisID>612</lisID>
+          <gpoId>8026</gpoId>
+          <bioguideId>J000255</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>3</district>
+        <sponsorshipDate>2018-10-16</sponsorshipDate>
+        <state>NC</state>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>Dingell</lastName>
+        <firstName>Debbie</firstName>
+        <bioguideId>D000624</bioguideId>
+        <middleName />
+        <fullName>Rep. Dingell, Debbie [D-MI-12]</fullName>
+        <identifiers>
+          <lisID>2251</lisID>
+          <gpoId />
+          <bioguideId>D000624</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>12</district>
+        <sponsorshipDate>2018-10-16</sponsorshipDate>
+        <state>MI</state>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>Massie</lastName>
+        <firstName>Thomas</firstName>
+        <bioguideId>M001184</bioguideId>
+        <middleName />
+        <fullName>Rep. Massie, Thomas [R-KY-4]</fullName>
+        <identifiers>
+          <bioguideId>M001184</bioguideId>
+          <gpoId>8371</gpoId>
+          <lisID>2094</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>4</district>
+        <sponsorshipDate>2018-10-16</sponsorshipDate>
+        <state>KY</state>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>SCHAKOWSKY</lastName>
+        <firstName>JANICE</firstName>
+        <bioguideId>S001145</bioguideId>
+        <middleName>D.</middleName>
+        <fullName>Rep. Schakowsky, Janice D. [D-IL-9]</fullName>
+        <identifiers>
+          <bioguideId>S001145</bioguideId>
+          <gpoId>7929</gpoId>
+          <lisID>1588</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>9</district>
+        <sponsorshipDate>2018-10-16</sponsorshipDate>
+        <state>IL</state>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>Welch</lastName>
+        <firstName>Peter</firstName>
+        <bioguideId>W000800</bioguideId>
+        <middleName />
+        <fullName>Rep. Welch, Peter [D-VT-At Large]</fullName>
+        <identifiers>
+          <gpoId>8204</gpoId>
+          <bioguideId>W000800</bioguideId>
+          <lisID>1879</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>0</district>
+        <sponsorshipDate>2018-10-16</sponsorshipDate>
+        <state>VT</state>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>Huffman</lastName>
+        <firstName>Jared</firstName>
+        <bioguideId>H001068</bioguideId>
+        <middleName />
+        <fullName>Rep. Huffman, Jared [D-CA-2]</fullName>
+        <identifiers>
+          <bioguideId>H001068</bioguideId>
+          <gpoId />
+          <lisID>2101</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>2</district>
+        <sponsorshipDate>2018-10-16</sponsorshipDate>
+        <state>CA</state>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>ESHOO</lastName>
+        <firstName>ANNA</firstName>
+        <bioguideId>E000215</bioguideId>
+        <middleName>G.</middleName>
+        <fullName>Rep. Eshoo, Anna G. [D-CA-18]</fullName>
+        <identifiers>
+          <bioguideId>E000215</bioguideId>
+          <gpoId>7819</gpoId>
+          <lisID>355</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>18</district>
+        <sponsorshipDate>2018-10-16</sponsorshipDate>
+        <state>CA</state>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>Amash</lastName>
+        <firstName>Justin</firstName>
+        <bioguideId>A000367</bioguideId>
+        <middleName />
+        <fullName>Rep. Amash, Justin [R-MI-3]</fullName>
+        <identifiers>
+          <gpoId>7988</gpoId>
+          <bioguideId>A000367</bioguideId>
+          <lisID>2029</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>3</district>
+        <sponsorshipDate>2018-10-16</sponsorshipDate>
+        <state>MI</state>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>LEWIS</lastName>
+        <firstName>JOHN</firstName>
+        <bioguideId>L000287</bioguideId>
+        <middleName />
+        <fullName>Rep. Lewis, John [D-GA-5]</fullName>
+        <identifiers>
+          <bioguideId>L000287</bioguideId>
+          <gpoId>7902</gpoId>
+          <lisID>688</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>5</district>
+        <sponsorshipDate>2018-10-19</sponsorshipDate>
+        <state>GA</state>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>DeSaulnier</lastName>
+        <firstName>Mark</firstName>
+        <bioguideId>D000623</bioguideId>
+        <middleName />
+        <fullName>Rep. DeSaulnier, Mark [D-CA-11]</fullName>
+        <identifiers>
+          <bioguideId>D000623</bioguideId>
+          <gpoId />
+          <lisID>2227</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>11</district>
+        <sponsorshipDate>2018-10-19</sponsorshipDate>
+        <state>CA</state>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>PALLONE</lastName>
+        <firstName>FRANK</firstName>
+        <bioguideId>P000034</bioguideId>
+        <middleName />
+        <fullName>Rep. Pallone, Frank, Jr. [D-NJ-6]</fullName>
+        <identifiers>
+          <gpoId>8048</gpoId>
+          <lisID>887</lisID>
+          <bioguideId>P000034</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>6</district>
+        <sponsorshipDate>2018-10-19</sponsorshipDate>
+        <state>NJ</state>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>NORTON</lastName>
+        <firstName>ELEANOR</firstName>
+        <bioguideId>N000147</bioguideId>
+        <middleName>HOLMES</middleName>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <identifiers>
+          <lisID>868</lisID>
+          <gpoId>7871</gpoId>
+          <bioguideId>N000147</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>0</district>
+        <sponsorshipDate>2018-10-19</sponsorshipDate>
+        <state>DC</state>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>Pingree</lastName>
+        <firstName>Chellie</firstName>
+        <bioguideId>P000597</bioguideId>
+        <middleName />
+        <fullName>Rep. Pingree, Chellie [D-ME-1]</fullName>
+        <identifiers>
+          <bioguideId>P000597</bioguideId>
+          <gpoId>7984</gpoId>
+          <lisID>1927</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <sponsorshipDate>2018-10-19</sponsorshipDate>
+        <state>ME</state>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>LEE</lastName>
+        <firstName>BARBARA</firstName>
+        <bioguideId>L000551</bioguideId>
+        <middleName />
+        <fullName>Rep. Lee, Barbara [D-CA-13]</fullName>
+        <identifiers>
+          <bioguideId>L000551</bioguideId>
+          <gpoId>7814</gpoId>
+          <lisID>1501</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>13</district>
+        <sponsorshipDate>2018-10-19</sponsorshipDate>
+        <state>CA</state>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>Pocan</lastName>
+        <firstName>Mark</firstName>
+        <bioguideId>P000607</bioguideId>
+        <middleName />
+        <fullName>Rep. Pocan, Mark [D-WI-2]</fullName>
+        <identifiers>
+          <bioguideId>P000607</bioguideId>
+          <gpoId />
+          <lisID>2171</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>2</district>
+        <sponsorshipDate>2018-10-19</sponsorshipDate>
+        <state>WI</state>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <createDate>2018-10-17T07:10:31Z</createDate>
+    <relatedBills />
+    <introducedDate>2018-10-16</introducedDate>
+    <laws />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Asia</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Crime victims</name>
+          </item>
+          <item>
+            <name>Criminal investigation, prosecution, interrogation</name>
+          </item>
+          <item>
+            <name>Detention of persons</name>
+          </item>
+          <item>
+            <name>Diplomacy, foreign officials, Americans abroad</name>
+          </item>
+          <item>
+            <name>Europe</name>
+          </item>
+          <item>
+            <name>Foreign aid and international relief</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Human rights</name>
+          </item>
+          <item>
+            <name>Intelligence activities, surveillance, classified information</name>
+          </item>
+          <item>
+            <name>Middle East</name>
+          </item>
+          <item>
+            <name>Military assistance, sales, and agreements</name>
+          </item>
+          <item>
+            <name>News media and reporting</name>
+          </item>
+          <item>
+            <name>Protest and dissent</name>
+          </item>
+          <item>
+            <name>Sanctions</name>
+          </item>
+          <item>
+            <name>Saudi Arabia</name>
+          </item>
+          <item>
+            <name>Trade restrictions</name>
+          </item>
+          <item>
+            <name>Turkey</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <cboCostEstimates />
+    <amendments />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 164, Number 171 (Tuesday, October 16, 2018)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. McGOVERN:H.R. 7070.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 1, Clause 3, and Clause 18[Page H9436]</pre>]]></constitutionalAuthorityStatementText>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr7070ih/xml/BILLS-115hr7070ih.xml</url>
+          </item>
+        </formats>
+        <date>2018-10-16T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>This bill prohibits the Department of Defense (DOD) from providing any assistance to or engaging in any defense cooperation with the government or any instrumentality or agent of Saudi Arabia. Such prohibition shall not apply to DOD protection of U.S. diplomatic and consular posts or personnel or the evacuation of U.S. citizens.</p> <p>The bill prohibits any defense article, defense service, or design and construction service under the Arms Export Control Act from being sold or otherwise made available to the government or to any instrumentality or agent of Saudi Arabia.</p> <p>Such prohibitions shall continue until the Department of State certifies to Congress that the government or instrumentality or agent of Saudi Arabia did not direct Saudi journalist Jamal Khashoggi's disappearance, imprisonment, or death. </p>]]></text>
+          <lastSummaryUpdateDate>2019-05-02T19:49:22Z</lastSummaryUpdateDate>
+          <updateDate>2018-10-16T04:00:00Z</updateDate>
+          <name>Introduced in House</name>
+          <actionDate>2018-10-16</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>115</congress>
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>To prohibit the provision of United States security assistance to the Government of Saudi Arabia pending a determination by the Secretary of State regarding the status of Jamal Khashoggi, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>To prohibit the provision of United States security assistance to the Government of Saudi Arabia pending a determination by the Secretary of State regarding the status of Jamal Khashoggi, and for other purposes.</title>
+      </item>
+    </titles>
+    <title>To prohibit the provision of United States security assistance to the Government of Saudi Arabia pending a determination by the Secretary of State regarding the status of Jamal Khashoggi, and for other purposes.</title>
+    <committeeReports />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

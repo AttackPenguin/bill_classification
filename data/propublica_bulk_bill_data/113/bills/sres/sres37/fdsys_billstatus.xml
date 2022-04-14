@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2013-03-23</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>CR 2/14/2013 S788</name>
+            <url>https://www.congress.gov/congressional-record/volume-159/senate-section/page/S788</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR 2/14/2013 S788)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionCode>17000</actionCode>
+        <type>Floor</type>
+        <committee />
+        <actionDate>2013-03-23</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>CR 2/14/2013 S788</name>
+            <url>https://www.congress.gov/congressional-record/volume-159/senate-section/page/S788</url>
+          </link>
+        </links>
+        <text>Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR 2/14/2013 S788)</text>
+      </item>
+      <item>
+        <actionDate>2013-03-23</actionDate>
+        <committee>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>S2435</name>
+            <url>https://www.congress.gov/congressional-record/volume-159/senate-section/page/S2435</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent. (consideration: CR S2435)</text>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <actionCode>14500</actionCode>
+        <type>Committee</type>
+        <committee>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </committee>
+        <actionDate>2013-03-23</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>S2435</name>
+            <url>https://www.congress.gov/congressional-record/volume-159/senate-section/page/S2435</url>
+          </link>
+        </links>
+        <text>Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.(consideration: CR S2435)</text>
+      </item>
+      <item>
+        <actionDate>2013-02-14</actionDate>
+        <committee>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>S788</name>
+            <url>https://www.congress.gov/congressional-record/volume-159/senate-section/page/S788</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Referred to the Committee on Commerce, Science, and Transportation. (text of measure as introduced: CR S788)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2013-02-14</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <text>Introduced in Senate</text>
+      </item>
+      <actionByCounts>
+        <senate>6</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <senateCommitteeDischarged>1</senateCommitteeDischarged>
+        <committeeDischarged>1</committeeDischarged>
+        <agreedToInSenate>1</agreedToInSenate>
+        <referredToCommittee>1</referredToCommittee>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <introducedDate>2013-02-14</introducedDate>
+    <updateDate>2016-10-25T16:18:10Z</updateDate>
+    <createDate>2013-02-15T07:00:52Z</createDate>
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <subcommittees />
+          <systemCode>sscm00</systemCode>
+          <activities>
+            <item>
+              <date>2013-03-23T09:17:09Z</date>
+              <name>Discharged from</name>
+            </item>
+            <item>
+              <date>2013-02-14T23:56:40Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <middleName>ERNEST</middleName>
+        <firstName>CHARLES</firstName>
+        <identifiers>
+          <lisID>457</lisID>
+          <gpoId>8316</gpoId>
+          <bioguideId>G000386</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>GRASSLEY</lastName>
+        <fullName>Sen. Grassley, Chuck [R-IA]</fullName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>G000386</bioguideId>
+        <sponsorshipDate>2013-02-14</sponsorshipDate>
+        <state>IA</state>
+      </item>
+      <item>
+        <middleName />
+        <firstName>Al</firstName>
+        <identifiers>
+          <lisID>1969</lisID>
+          <gpoId>8339</gpoId>
+          <bioguideId>F000457</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Franken</lastName>
+        <fullName>Sen. Franken, Al [D-MN]</fullName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>F000457</bioguideId>
+        <sponsorshipDate>2013-02-14</sponsorshipDate>
+        <state>MN</state>
+      </item>
+      <item>
+        <middleName>RICHARD</middleName>
+        <firstName>THOMAS</firstName>
+        <identifiers>
+          <lisID>501</lisID>
+          <gpoId>8317</gpoId>
+          <bioguideId>H000206</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>HARKIN</lastName>
+        <fullName>Sen. Harkin, Tom [D-IA]</fullName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>H000206</bioguideId>
+        <sponsorshipDate>2013-02-14</sponsorshipDate>
+        <state>IA</state>
+      </item>
+      <item>
+        <middleName />
+        <firstName>Bob</firstName>
+        <identifiers>
+          <lisID>1828</lisID>
+          <gpoId>8282</gpoId>
+          <bioguideId>C001070</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Casey</lastName>
+        <fullName>Sen. Casey, Robert P., Jr. [D-PA]</fullName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C001070</bioguideId>
+        <sponsorshipDate>2013-02-14</sponsorshipDate>
+        <state>PA</state>
+      </item>
+      <item>
+        <middleName />
+        <firstName>JIM</firstName>
+        <identifiers>
+          <lisID>583</lisID>
+          <gpoId>8322</gpoId>
+          <bioguideId>I000024</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>INHOFE</lastName>
+        <fullName>Sen. Inhofe, James M. [R-OK]</fullName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>I000024</bioguideId>
+        <sponsorshipDate>2013-02-14</sponsorshipDate>
+        <state>OK</state>
+      </item>
+      <item>
+        <middleName>MILTON</middleName>
+        <firstName>CARL</firstName>
+        <identifiers>
+          <lisID>1384</lisID>
+          <bioguideId>L000261</bioguideId>
+          <gpoId>8243</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>LEVIN</lastName>
+        <fullName>Sen. Levin, Carl [D-MI]</fullName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>L000261</bioguideId>
+        <sponsorshipDate>2013-02-14</sponsorshipDate>
+        <state>MI</state>
+      </item>
+      <item>
+        <middleName />
+        <firstName>Lisa</firstName>
+        <identifiers>
+          <lisID>1694</lisID>
+          <gpoId>8234</gpoId>
+          <bioguideId>M001153</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Murkowski</lastName>
+        <fullName>Sen. Murkowski, Lisa [R-AK]</fullName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>M001153</bioguideId>
+        <sponsorshipDate>2013-02-26</sponsorshipDate>
+        <state>AK</state>
+      </item>
+      <item>
+        <middleName />
+        <firstName>Roy</firstName>
+        <identifiers>
+          <lisID>1464</lisID>
+          <gpoId>8313</gpoId>
+          <bioguideId>B000575</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Blunt</lastName>
+        <fullName>Sen. Blunt, Roy [R-MO]</fullName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>B000575</bioguideId>
+        <sponsorshipDate>2013-03-20</sponsorshipDate>
+        <state>MO</state>
+      </item>
+    </cosponsors>
+    <congress>113</congress>
+    <billType>SRES</billType>
+    <title>A resolution expressing the sense of the Senate in disapproving the proposal of the International Olympic Committee Executive Board to eliminate wrestling from the Summer Olympic Games beginning in 2020.</title>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A resolution expressing the sense of the Senate in disapproving the proposal of the International Olympic Committee Executive Board to eliminate wrestling from the Summer Olympic Games beginning in 2020.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>A resolution expressing the sense of the Senate in disapproving the proposal of the International Olympic Committee Executive Board to eliminate wrestling from the Summer Olympic Games beginning in 2020.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>Thanks the United States Olympic Committee for its continued support of wrestling and encourages it to work actively to reverse the proposal of the International Olympic Committee Executive Board to eliminate wrestling from the Summer Olympic Games beginning in 2020. </p> <p>Disapproves the Board's proposal. </p> <p>Urges the Board to reinstate wrestling as a core sport of the Games.</p>]]></text>
+          <actionDate>2013-02-14</actionDate>
+          <name>Introduced in Senate</name>
+          <updateDate>2013-02-14T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2013-03-20T18:07:07Z</lastSummaryUpdateDate>
+        </item>
+        <item>
+          <actionDesc>Passed Senate without amendment</actionDesc>
+          <versionCode>82</versionCode>
+          <text><![CDATA[<p><b>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</b></p> <p>Thanks the United States Olympic Committee for its continued support of wrestling and encourages it to work actively to reverse the proposal of the International Olympic Committee Executive Board to eliminate wrestling from the Summer Olympic Games beginning in 2020. </p> <p>Disapproves the Board's proposal. </p> <p>Urges the Board to reinstate wrestling as a core sport of the Games.</p>]]></text>
+          <actionDate>2013-03-23</actionDate>
+          <name>Passed Senate without amendment</name>
+          <updateDate>2013-03-23T20:14:45Z</updateDate>
+          <lastSummaryUpdateDate>2013-04-01T21:47:42Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <number>71</number>
+        <type>HRES</type>
+        <latestTitle>Opposing the International Olympic Committee's decision to eliminate wrestling from the Summer Olympic Games beginning in 2020.</latestTitle>
+        <latestAction>
+          <actionDate>2013-02-14</actionDate>
+          <text>Referred to the House Committee on Foreign Affairs.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Athletes</name>
+          </item>
+          <item>
+            <name>Olympic games</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Sports and Recreation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR 2/14/2013 S788)</text>
+      <actionDate>2013-03-23</actionDate>
+    </latestAction>
+    <billNumber>37</billNumber>
+    <policyArea>
+      <name>Sports and Recreation</name>
+    </policyArea>
+    <amendments />
+    <sponsors>
+      <item>
+        <firstName>SHERROD</firstName>
+        <party>D</party>
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <bioguideId>B000944</bioguideId>
+        <identifiers>
+          <lisID>136</lisID>
+          <bioguideId>B000944</bioguideId>
+          <gpoId>8309</gpoId>
+        </identifiers>
+        <lastName>BROWN</lastName>
+        <middleName />
+        <state>OH</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

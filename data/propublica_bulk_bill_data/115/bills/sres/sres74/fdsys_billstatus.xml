@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <lisID>2289</lisID>
+          <bioguideId>S001197</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>S001197</bioguideId>
+        <middleName />
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Sasse, Ben  [R-NE]</fullName>
+        <lastName>Sasse</lastName>
+        <state>NE</state>
+        <firstName>Ben</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-03-01</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <createDate>2017-03-02T05:13:48Z</createDate>
+    <sponsors>
+      <item>
+        <fullName>Sen. Fischer, Deb [R-NE]</fullName>
+        <party>R</party>
+        <state>NE</state>
+        <lastName>Fischer</lastName>
+        <firstName>Deb</firstName>
+        <middleName />
+        <identifiers>
+          <gpoId />
+          <lisID>2179</lisID>
+          <bioguideId>F000463</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <bioguideId>F000463</bioguideId>
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <version>1.0.0</version>
+    <actions>
+      <item>
+        <actionDate>2017-03-01</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S1521-1523</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S1521-1523</url>
+          </link>
+          <link>
+            <name>S1541-1542</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S1541-1542</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S1521-1523; text as passed Senate: CR S1541-1542)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <links>
+          <link>
+            <name>S1521-1523</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S1521-1523</url>
+          </link>
+          <link>
+            <name>S1541-1542</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S1541-1542</url>
+          </link>
+        </links>
+        <actionDate>2017-03-01</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.(consideration: CR S1521-1523; text as passed Senate: CR S1541-1542)</text>
+        <committee />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <links />
+        <actionDate>2017-03-01</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <passedOrAgreedToInSenateDayOf>1</passedOrAgreedToInSenateDayOf>
+        <introducedInSenate>1</introducedInSenate>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+      </actionTypeCounts>
+    </actions>
+    <billType>SRES</billType>
+    <billNumber>74</billNumber>
+    <updateDate>2019-04-18T16:29:27Z</updateDate>
+    <committeeReports />
+    <laws />
+    <amendments />
+    <committees>
+      <billCommittees />
+    </committees>
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <number>32</number>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>HCONRES</type>
+        <latestTitle>Congratulating the State of Nebraska on the 150th anniversary of the admission of that State into the United States.</latestTitle>
+        <latestAction>
+          <actionDate>2017-03-01</actionDate>
+          <text>Referred to the House Committee on Oversight and Government Reform.</text>
+        </latestAction>
+        <congress>115</congress>
+      </item>
+    </relatedBills>
+    <introducedDate>2017-03-01</introducedDate>
+    <congress>115</congress>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Nebraska</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+          <item>
+            <name>U.S. history</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <notes />
+    <originChamber>Senate</originChamber>
+    <textVersions>
+      <item>
+        <type>Agreed to Senate</type>
+        <date>2017-03-01T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115sres74ats/xml/BILLS-115sres74ats.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <title>A resolution congratulating the State of Nebraska on the 150th anniversary of the admission of that State into the United States.</title>
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A resolution congratulating the State of Nebraska on the 150th anniversary of the admission of that State into the United States.</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>A resolution congratulating the State of Nebraska on the 150th anniversary of the admission of that State into the United States.</title>
+      </item>
+    </titles>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-03-16T19:38:57Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <name>Introduced in Senate</name>
+          <updateDate>2017-03-01T05:00:00Z</updateDate>
+          <actionDate>2017-03-01</actionDate>
+          <text><![CDATA[<p>Congratulates Nebraska on the 150th anniversary of its admission into the United States.</p>]]></text>
+        </item>
+        <item>
+          <lastSummaryUpdateDate>2017-03-16T19:39:07Z</lastSummaryUpdateDate>
+          <versionCode>82</versionCode>
+          <actionDesc>Passed Senate without amendment</actionDesc>
+          <name>Passed Senate without amendment</name>
+          <updateDate>2017-03-01T18:48:48Z</updateDate>
+          <actionDate>2017-03-01</actionDate>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</p> <p>Congratulates Nebraska on the 150th anniversary of its admission into the United States.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <latestAction>
+      <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S1521-1523; text as passed Senate: CR S1541-1542)</text>
+      <actionDate>2017-03-01</actionDate>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

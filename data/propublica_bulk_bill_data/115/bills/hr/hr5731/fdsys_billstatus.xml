@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Child safety and welfare</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Department of Homeland Security</name>
+          </item>
+          <item>
+            <name>Educational facilities and institutions</name>
+          </item>
+          <item>
+            <name>Elementary and secondary education</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Federal-Indian relations</name>
+          </item>
+          <item>
+            <name>Firearms and explosives</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Higher education</name>
+          </item>
+          <item>
+            <name>Homeland security</name>
+          </item>
+          <item>
+            <name>Intergovernmental relations</name>
+          </item>
+          <item>
+            <name>School administration</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+          <item>
+            <name>Terrorism</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Education</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <relatedBills />
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-05-09T14:04:05Z</date>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <name>Crime, Terrorism, and Homeland Security Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2018-06-05T16:49:49Z</date>
+                </item>
+              </activities>
+              <systemCode>hsju08</systemCode>
+            </item>
+          </subcommittees>
+        </item>
+        <item>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <systemCode>hsed00</systemCode>
+          <name>Education and Labor Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-05-09T14:04:10Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+        </item>
+        <item>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <systemCode>hshm00</systemCode>
+          <name>Homeland Security Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-05-09T14:04:00Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2018-05-09</actionDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <updateDate>2018-05-09T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2019-08-30T19:37:00Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[<p><b>Securing Our Schools Act</b></p> <p>This bill requires the Department of Homeland Security to develop a strategy for securing elementary schools, secondary schools, and institutions of higher education from homeland security threats.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <version>1.0.0</version>
+    <originChamber>House</originChamber>
+    <congress>115</congress>
+    <latestAction>
+      <actionDate>2018-06-05</actionDate>
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+      <links />
+    </latestAction>
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>3</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2018-06-05</actionDate>
+        <committee>
+          <systemCode>hsju08</systemCode>
+          <name>Crime, Terrorism, and Homeland Security Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the Committee on Homeland Security, and in addition to the Committees on the Judiciary, and Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2018-05-09</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <committee>
+          <systemCode>hsed00</systemCode>
+          <name>Education and Labor Committee</name>
+        </committee>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the Committee on Homeland Security, and in addition to the Committees on the Judiciary, and Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2018-05-09</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the Committee on Homeland Security, and in addition to the Committees on the Judiciary, and Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2018-05-09</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <committee>
+          <systemCode>hshm00</systemCode>
+          <name>Homeland Security Committee</name>
+        </committee>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2018-05-09</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2018-05-09</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <createDate>2018-05-10T07:10:53Z</createDate>
+    <laws />
+    <titles>
+      <item>
+        <title>To require the Department of Homeland Security to develop a strategy to secure elementary schools, secondary schools, and institutions of higher education from acts of terrorism, active shooters, and other homeland security threats, and for other purposes.</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>Securing Our Schools Act</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>Securing Our Schools Act</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>Securing Our Schools Act</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 164, Number 75 (Wednesday, May 9, 2018)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. McCAUL:H.R. 5731.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 18 ``To make all Laws whichshall be necessary and proper for carrying into Execution theforegoing Powers, and all other Powers vested by thisConstitution in the Government of the United States, or inany Department or Officer thereof.''[Page H3886]</pre>]]></constitutionalAuthorityStatementText>
+    <introducedDate>2018-05-09</introducedDate>
+    <calendarNumbers />
+    <recordedVotes />
+    <textVersions>
+      <item>
+        <date>2018-05-09T04:00:00Z</date>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr5731ih/xml/BILLS-115hr5731ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <cosponsors>
+      <item>
+        <bioguideId>K000210</bioguideId>
+        <party>R</party>
+        <sponsorshipDate>2018-05-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>T.</middleName>
+        <district>2</district>
+        <state>NY</state>
+        <fullName>Rep. King, Peter T. [R-NY-2]</fullName>
+        <lastName>KING</lastName>
+        <firstName>PETER</firstName>
+        <identifiers>
+          <lisID>635</lisID>
+          <gpoId>8064</gpoId>
+          <bioguideId>K000210</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>M001197</bioguideId>
+        <party>R</party>
+        <sponsorshipDate>2018-05-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <district>2</district>
+        <state>AZ</state>
+        <fullName>Rep. McSally, Martha [R-AZ-2]</fullName>
+        <lastName>McSally</lastName>
+        <firstName>Martha</firstName>
+        <identifiers>
+          <bioguideId>M001197</bioguideId>
+          <lisID>2225</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>D000625</bioguideId>
+        <party>R</party>
+        <sponsorshipDate>2018-05-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>M.</middleName>
+        <district>11</district>
+        <state>NY</state>
+        <fullName>Rep. Donovan, Daniel M., Jr. [R-NY-11]</fullName>
+        <lastName>Donovan</lastName>
+        <firstName>Daniel</firstName>
+        <identifiers>
+          <lisID>2293</lisID>
+          <gpoId />
+          <bioguideId>D000625</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>G000579</bioguideId>
+        <party>R</party>
+        <sponsorshipDate>2018-05-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <district>8</district>
+        <state>WI</state>
+        <fullName>Rep. Gallagher, Mike [R-WI-8]</fullName>
+        <lastName>Gallagher</lastName>
+        <firstName>Mike</firstName>
+        <identifiers>
+          <lisID>2355</lisID>
+          <gpoId />
+          <bioguideId>G000579</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>H001077</bioguideId>
+        <party>R</party>
+        <sponsorshipDate>2018-05-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <district>3</district>
+        <state>LA</state>
+        <fullName>Rep. Higgins, Clay [R-LA-3]</fullName>
+        <lastName>Higgins</lastName>
+        <firstName>Clay</firstName>
+        <identifiers>
+          <lisID>2329</lisID>
+          <gpoId />
+          <bioguideId>H001077</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>F000466</bioguideId>
+        <party>R</party>
+        <sponsorshipDate>2018-05-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>K.</middleName>
+        <district>8</district>
+        <state>PA</state>
+        <fullName>Rep. Fitzpatrick, Brian K. [R-PA-8]</fullName>
+        <lastName>Fitzpatrick</lastName>
+        <firstName>Brian</firstName>
+        <identifiers>
+          <lisID>2345</lisID>
+          <gpoId />
+          <bioguideId>F000466</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>B001298</bioguideId>
+        <party>R</party>
+        <sponsorshipDate>2018-05-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <district>2</district>
+        <state>NE</state>
+        <fullName>Rep. Bacon, Don [R-NE-2]</fullName>
+        <lastName>Bacon</lastName>
+        <firstName>Don</firstName>
+        <identifiers>
+          <lisID>2337</lisID>
+          <gpoId />
+          <bioguideId>B001298</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>B001269</bioguideId>
+        <party>R</party>
+        <sponsorshipDate>2018-05-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <district>11</district>
+        <state>PA</state>
+        <fullName>Rep. Barletta, Lou [R-PA-11]</fullName>
+        <lastName>Barletta</lastName>
+        <firstName>Lou</firstName>
+        <identifiers>
+          <bioguideId>B001269</bioguideId>
+          <gpoId>8129</gpoId>
+          <lisID>2054</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>K000386</bioguideId>
+        <party>R</party>
+        <sponsorshipDate>2018-05-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <district>24</district>
+        <state>NY</state>
+        <fullName>Rep. Katko, John [R-NY-24]</fullName>
+        <lastName>Katko</lastName>
+        <firstName>John</firstName>
+        <identifiers>
+          <bioguideId>K000386</bioguideId>
+          <gpoId />
+          <lisID>2264</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>P000605</bioguideId>
+        <party>R</party>
+        <sponsorshipDate>2018-05-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <district>4</district>
+        <state>PA</state>
+        <fullName>Rep. Perry, Scott [R-PA-4]</fullName>
+        <lastName>Perry</lastName>
+        <firstName>Scott</firstName>
+        <identifiers>
+          <bioguideId>P000605</bioguideId>
+          <lisID>2157</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>M001187</bioguideId>
+        <party>R</party>
+        <sponsorshipDate>2018-05-15</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <district>11</district>
+        <state>NC</state>
+        <fullName>Rep. Meadows, Mark [R-NC-11]</fullName>
+        <lastName>Meadows</lastName>
+        <firstName>Mark</firstName>
+        <identifiers>
+          <bioguideId>M001187</bioguideId>
+          <lisID>2142</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>R000601</bioguideId>
+        <party>R</party>
+        <sponsorshipDate>2018-05-15</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <district>4</district>
+        <state>TX</state>
+        <fullName>Rep. Ratcliffe, John [R-TX-4]</fullName>
+        <lastName>Ratcliffe</lastName>
+        <firstName>John</firstName>
+        <identifiers>
+          <bioguideId>R000601</bioguideId>
+          <lisID>2268</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>C001063</bioguideId>
+        <party>D</party>
+        <sponsorshipDate>2018-05-22</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <district>28</district>
+        <state>TX</state>
+        <fullName>Rep. Cuellar, Henry [D-TX-28]</fullName>
+        <lastName>Cuellar</lastName>
+        <firstName>Henry</firstName>
+        <identifiers>
+          <bioguideId>C001063</bioguideId>
+          <lisID>1807</lisID>
+          <gpoId>8184</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>F000461</bioguideId>
+        <party>R</party>
+        <sponsorshipDate>2018-08-03</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <district>17</district>
+        <state>TX</state>
+        <fullName>Rep. Flores, Bill [R-TX-17]</fullName>
+        <lastName>Flores</lastName>
+        <firstName>Bill</firstName>
+        <identifiers>
+          <bioguideId>F000461</bioguideId>
+          <lisID>2065</lisID>
+          <gpoId>8173</gpoId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <amendments />
+    <billNumber>5731</billNumber>
+    <updateDate>2019-11-15T21:33:59Z</updateDate>
+    <cboCostEstimates />
+    <title>Securing Our Schools Act</title>
+    <committeeReports />
+    <policyArea>
+      <name>Education</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <district>10</district>
+        <lastName>McCaul</lastName>
+        <firstName>Michael</firstName>
+        <state>TX</state>
+        <fullName>Rep. McCaul, Michael T. [R-TX-10]</fullName>
+        <identifiers>
+          <lisID>1804</lisID>
+          <gpoId>8166</gpoId>
+          <bioguideId>M001157</bioguideId>
+        </identifiers>
+        <middleName>T.</middleName>
+        <bioguideId>M001157</bioguideId>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2018-10-24T07:10:30Z</createDate>
+    <introducedDate>2018-10-23</introducedDate>
+    <version>1.0.0</version>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <actionDate>2018-10-23</actionDate>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionDate>2018-10-23</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionDate>2018-10-23</actionDate>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <latestAction>
+      <links />
+      <text>Referred to the House Committee on Ways and Means.</text>
+      <actionDate>2018-10-23</actionDate>
+    </latestAction>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2018-11-21T16:41:21Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Tax Fairness for Workers Act </b></p> <p>This bill amends the Internal Revenue Code to allow an above-the-line deduction for union dues and expenses. (An above-the-line deduction is subtracted from gross income and is available whether or not a taxpayer itemizes other deductions.) </p> <p>The bill also reinstates the miscellaneous itemized deduction for unreimbursed expenses attributable to the performance of services as an employee. (Under current law, all miscellaneous itemized deductions are suspended through 2025.) </p>]]></text>
+          <versionCode>00</versionCode>
+          <updateDate>2018-10-23T04:00:00Z</updateDate>
+          <name>Introduced in House</name>
+          <actionDate>2018-10-23</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>7086</billNumber>
+    <laws />
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>2367</lisID>
+          <bioguideId>L000588</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>L000588</bioguideId>
+        <middleName />
+        <party>D</party>
+        <fullName>Rep. Lamb, Conor [D-PA-18]</fullName>
+        <firstName>Conor</firstName>
+        <state>PA</state>
+        <lastName>Lamb</lastName>
+        <byRequestType />
+        <district>18</district>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <calendarNumbers />
+    <committeeReports />
+    <congress>115</congress>
+    <updateDate>2019-04-24T20:24:02Z</updateDate>
+    <amendments />
+    <notes />
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr7086ih/xml/BILLS-115hr7086ih.xml</url>
+          </item>
+        </formats>
+        <date>2018-10-23T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <billType>HR</billType>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Business expenses</name>
+          </item>
+          <item>
+            <name>Employment discrimination and employee rights</name>
+          </item>
+          <item>
+            <name>Income tax deductions</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 164, Number 173 (Tuesday, October 23, 2018)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. LAMB:H.R. 7086.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8[Page H9443]</pre>]]></constitutionalAuthorityStatementText>
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>115</congress>
+        <type>S</type>
+        <latestTitle>Tax Fairness for Workers Act</latestTitle>
+        <number>2718</number>
+        <latestAction>
+          <actionDate>2018-04-19</actionDate>
+          <text>Read twice and referred to the Committee on Finance.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <cboCostEstimates />
+    <originChamber>House</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <subcommittees />
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2018-10-23T13:30:34Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <bioguideId>R000577</bioguideId>
+          <gpoId>8107</gpoId>
+          <lisID>1756</lisID>
+        </identifiers>
+        <bioguideId>R000577</bioguideId>
+        <party>D</party>
+        <fullName>Rep. Ryan, Tim [D-OH-13]</fullName>
+        <sponsorshipDate>2018-10-23</sponsorshipDate>
+        <state>OH</state>
+        <sponsorshipWithdrawnDate />
+        <district>13</district>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>TIM</firstName>
+        <lastName>RYAN</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>N000147</bioguideId>
+          <gpoId>7871</gpoId>
+          <lisID>868</lisID>
+        </identifiers>
+        <bioguideId>N000147</bioguideId>
+        <party>D</party>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <sponsorshipDate>2018-10-23</sponsorshipDate>
+        <state>DC</state>
+        <sponsorshipWithdrawnDate />
+        <district>0</district>
+        <middleName>HOLMES</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>ELEANOR</firstName>
+        <lastName>NORTON</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1469</lisID>
+          <gpoId>8119</gpoId>
+          <bioguideId>B001227</bioguideId>
+        </identifiers>
+        <bioguideId>B001227</bioguideId>
+        <party>D</party>
+        <fullName>Rep. Brady, Robert A. [D-PA-1]</fullName>
+        <sponsorshipDate>2018-10-23</sponsorshipDate>
+        <state>PA</state>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <middleName>A.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>ROBERT</firstName>
+        <lastName>BRADY</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>W000797</bioguideId>
+          <gpoId>7892</gpoId>
+          <lisID>1777</lisID>
+        </identifiers>
+        <bioguideId>W000797</bioguideId>
+        <party>D</party>
+        <fullName>Rep. Wasserman Schultz, Debbie [D-FL-23]</fullName>
+        <sponsorshipDate>2018-10-23</sponsorshipDate>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <district>23</district>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Debbie</firstName>
+        <lastName>Wasserman Schultz</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <lisID>2331</lisID>
+          <bioguideId>B001304</bioguideId>
+        </identifiers>
+        <bioguideId>B001304</bioguideId>
+        <party>D</party>
+        <fullName>Rep. Brown, Anthony G. [D-MD-4]</fullName>
+        <sponsorshipDate>2018-10-23</sponsorshipDate>
+        <state>MD</state>
+        <sponsorshipWithdrawnDate />
+        <district>4</district>
+        <middleName>G.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Anthony</firstName>
+        <lastName>Brown</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1861</lisID>
+          <bioguideId>S001170</bioguideId>
+          <gpoId>7528</gpoId>
+        </identifiers>
+        <bioguideId>S001170</bioguideId>
+        <party>D</party>
+        <fullName>Rep. Shea-Porter, Carol [D-NH-1]</fullName>
+        <sponsorshipDate>2018-10-23</sponsorshipDate>
+        <state>NH</state>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Carol</firstName>
+        <lastName>Shea-Porter</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>C001067</bioguideId>
+          <gpoId>8072</gpoId>
+          <lisID>1864</lisID>
+        </identifiers>
+        <bioguideId>C001067</bioguideId>
+        <party>D</party>
+        <fullName>Rep. Clarke, Yvette D. [D-NY-9]</fullName>
+        <sponsorshipDate>2018-10-23</sponsorshipDate>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+        <district>9</district>
+        <middleName>D.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Yvette</firstName>
+        <lastName>Clarke</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>D000482</bioguideId>
+          <lisID>316</lisID>
+          <gpoId>8132</gpoId>
+        </identifiers>
+        <bioguideId>D000482</bioguideId>
+        <party>D</party>
+        <fullName>Rep. Doyle, Michael F. [D-PA-14]</fullName>
+        <sponsorshipDate>2018-10-23</sponsorshipDate>
+        <state>PA</state>
+        <sponsorshipWithdrawnDate />
+        <district>14</district>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>MIKE</firstName>
+        <lastName>DOYLE</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>C000984</bioguideId>
+          <lisID>256</lisID>
+          <gpoId>7982</gpoId>
+        </identifiers>
+        <bioguideId>C000984</bioguideId>
+        <party>D</party>
+        <fullName>Rep. Cummings, Elijah E. [D-MD-7]</fullName>
+        <sponsorshipDate>2018-10-23</sponsorshipDate>
+        <state>MD</state>
+        <sponsorshipWithdrawnDate />
+        <district>7</district>
+        <middleName>E.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>ELIJAH</firstName>
+        <lastName>CUMMINGS</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2267</lisID>
+          <gpoId />
+          <bioguideId>B001296</bioguideId>
+        </identifiers>
+        <bioguideId>B001296</bioguideId>
+        <party>D</party>
+        <fullName>Rep. Boyle, Brendan F. [D-PA-13]</fullName>
+        <sponsorshipDate>2018-10-23</sponsorshipDate>
+        <state>PA</state>
+        <sponsorshipWithdrawnDate />
+        <district>13</district>
+        <middleName>F.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Brendan</firstName>
+        <lastName>Boyle</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <lisID>2171</lisID>
+          <bioguideId>P000607</bioguideId>
+        </identifiers>
+        <bioguideId>P000607</bioguideId>
+        <party>D</party>
+        <fullName>Rep. Pocan, Mark [D-WI-2]</fullName>
+        <sponsorshipDate>2018-11-06</sponsorshipDate>
+        <state>WI</state>
+        <sponsorshipWithdrawnDate />
+        <district>2</district>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Mark</firstName>
+        <lastName>Pocan</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>B001286</bioguideId>
+          <lisID>2127</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>B001286</bioguideId>
+        <party>D</party>
+        <fullName>Rep. Bustos, Cheri [D-IL-17]</fullName>
+        <sponsorshipDate>2018-11-14</sponsorshipDate>
+        <state>IL</state>
+        <sponsorshipWithdrawnDate />
+        <district>17</district>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Cheri</firstName>
+        <lastName>Bustos</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2349</lisID>
+          <bioguideId>G000581</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>G000581</bioguideId>
+        <party>D</party>
+        <fullName>Rep. Gonzalez, Vicente [D-TX-15]</fullName>
+        <sponsorshipDate>2018-11-14</sponsorshipDate>
+        <state>TX</state>
+        <sponsorshipWithdrawnDate />
+        <district>15</district>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Vicente</firstName>
+        <lastName>Gonzalez</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2148</lisID>
+          <bioguideId>M001188</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>M001188</bioguideId>
+        <party>D</party>
+        <fullName>Rep. Meng, Grace [D-NY-6]</fullName>
+        <sponsorshipDate>2018-11-16</sponsorshipDate>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+        <district>6</district>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Grace</firstName>
+        <lastName>Meng</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>C001111</bioguideId>
+          <gpoId />
+          <lisID>2321</lisID>
+        </identifiers>
+        <bioguideId>C001111</bioguideId>
+        <party>D</party>
+        <fullName>Rep. Crist, Charlie [D-FL-13]</fullName>
+        <sponsorshipDate>2018-11-16</sponsorshipDate>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <district>13</district>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Charlie</firstName>
+        <lastName>Crist</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>R000576</bioguideId>
+          <gpoId>7977</gpoId>
+          <lisID>1728</lisID>
+        </identifiers>
+        <bioguideId>R000576</bioguideId>
+        <party>D</party>
+        <fullName>Rep. Ruppersberger, C. A. Dutch [D-MD-2]</fullName>
+        <sponsorshipDate>2018-11-23</sponsorshipDate>
+        <state>MD</state>
+        <sponsorshipWithdrawnDate />
+        <district>2</district>
+        <middleName>Dutch</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>C. A.</firstName>
+        <lastName>Ruppersberger</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1832</lisID>
+          <gpoId>7816</gpoId>
+          <bioguideId>M001166</bioguideId>
+        </identifiers>
+        <bioguideId>M001166</bioguideId>
+        <party>D</party>
+        <fullName>Rep. McNerney, Jerry [D-CA-9]</fullName>
+        <sponsorshipDate>2018-11-23</sponsorshipDate>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <district>9</district>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Jerry</firstName>
+        <lastName>McNerney</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>N000188</bioguideId>
+          <gpoId />
+          <lisID>2202</lisID>
+        </identifiers>
+        <bioguideId>N000188</bioguideId>
+        <party>D</party>
+        <fullName>Rep. Norcross, Donald [D-NJ-1]</fullName>
+        <sponsorshipDate>2018-11-23</sponsorshipDate>
+        <state>NJ</state>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Donald</firstName>
+        <lastName>Norcross</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1973</lisID>
+          <bioguideId>G000559</bioguideId>
+          <gpoId>7815</gpoId>
+        </identifiers>
+        <bioguideId>G000559</bioguideId>
+        <party>D</party>
+        <fullName>Rep. Garamendi, John [D-CA-3]</fullName>
+        <sponsorshipDate>2018-11-23</sponsorshipDate>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <district>3</district>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>John</firstName>
+        <lastName>Garamendi</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>B001270</bioguideId>
+          <lisID>1996</lisID>
+          <gpoId>7838</gpoId>
+        </identifiers>
+        <bioguideId>B001270</bioguideId>
+        <party>D</party>
+        <fullName>Rep. Bass, Karen [D-CA-37]</fullName>
+        <sponsorshipDate>2018-11-27</sponsorshipDate>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <district>37</district>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Karen</firstName>
+        <lastName>Bass</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>K000380</bioguideId>
+          <gpoId />
+          <lisID>2134</lisID>
+        </identifiers>
+        <bioguideId>K000380</bioguideId>
+        <party>D</party>
+        <fullName>Rep. Kildee, Daniel T. [D-MI-5]</fullName>
+        <sponsorshipDate>2018-11-28</sponsorshipDate>
+        <state>MI</state>
+        <sponsorshipWithdrawnDate />
+        <district>5</district>
+        <middleName>T.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Daniel</firstName>
+        <lastName>Kildee</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>B001285</bioguideId>
+          <gpoId />
+          <lisID>2106</lisID>
+        </identifiers>
+        <bioguideId>B001285</bioguideId>
+        <party>D</party>
+        <fullName>Rep. Brownley, Julia [D-CA-26]</fullName>
+        <sponsorshipDate>2018-11-30</sponsorshipDate>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <district>26</district>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Julia</firstName>
+        <lastName>Brownley</lastName>
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the Internal Revenue Code of 1986 to allow workers an above-the-line deduction for union dues and expenses and to allow a miscellaneous itemized deduction for workers for all unreimbursed expenses incurred in the trade or business of being an employee.</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Tax Fairness for Workers Act</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Tax Fairness for Workers Act</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Tax Fairness for Workers Act</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <title>Tax Fairness for Workers Act</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors>
+      <item>
+        <middleName />
+        <identifiers>
+          <bioguideId>S001184</bioguideId>
+          <gpoId>8141</gpoId>
+          <lisID>2056</lisID>
+        </identifiers>
+        <bioguideId>S001184</bioguideId>
+        <state>SC</state>
+        <firstName>Tim</firstName>
+        <sponsorshipDate>2017-10-04</sponsorshipDate>
+        <fullName>Sen. Scott, Tim [R-SC]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Scott</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName>C.</middleName>
+        <identifiers>
+          <lisID>2019</lisID>
+          <bioguideId>Y000064</bioguideId>
+          <gpoId>7948</gpoId>
+        </identifiers>
+        <bioguideId>Y000064</bioguideId>
+        <state>IN</state>
+        <firstName>Todd</firstName>
+        <sponsorshipDate>2017-12-20</sponsorshipDate>
+        <fullName>Sen. Young, Todd C. [R-IN]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Young</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <createDate>2017-10-05T00:26:19Z</createDate>
+    <sponsors>
+      <item>
+        <fullName>Sen. Warner, Mark R. [D-VA]</fullName>
+        <party>D</party>
+        <state>VA</state>
+        <lastName>Warner</lastName>
+        <firstName>Mark</firstName>
+        <middleName>R.</middleName>
+        <identifiers>
+          <gpoId>8269</gpoId>
+          <lisID>1897</lisID>
+          <bioguideId>W000805</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <bioguideId>W000805</bioguideId>
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <version>1.0.0</version>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-10-04</actionDate>
+        <committee>
+          <name>Finance Committee</name>
+          <systemCode>ssfi00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <actionCode>10000</actionCode>
+        <actionDate>2017-10-04</actionDate>
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <billType>S</billType>
+    <billNumber>1914</billNumber>
+    <updateDate>2019-04-18T16:39:28Z</updateDate>
+    <committeeReports />
+    <laws />
+    <amendments />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-10-04T16:29:07Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+          <chamber>Senate</chamber>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <number>1892</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2018-02-09</actionDate>
+          <text>Became Public Law No: 115-123.</text>
+        </latestAction>
+        <congress>115</congress>
+        <latestTitle>Bipartisan Budget Act of 2018</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <number>3271</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2017-12-06</actionDate>
+          <text>Placed on the Union Calendar, Calendar No. 329.</text>
+        </latestAction>
+        <congress>115</congress>
+        <latestTitle>Protecting Access to Diabetes Supplies Act of 2017</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <introducedDate>2017-10-04</introducedDate>
+    <congress>115</congress>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Digestive and metabolic diseases</name>
+          </item>
+          <item>
+            <name>Health technology, devices, supplies</name>
+          </item>
+          <item>
+            <name>Medicare</name>
+          </item>
+          <item>
+            <name>Public contracts and procurement</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <notes />
+    <originChamber>Senate</originChamber>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115s1914is/xml/BILLS-115s1914is.xml</url>
+          </item>
+        </formats>
+        <date>2017-10-04T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <title>Protecting Access to Diabetes Supplies Act of 2017</title>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>A bill to amend title XVIII of the Social Security Act in order to strengthen rules in case of competition for diabetic testing strips, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>Protecting Access to Diabetes Supplies Act of 2017</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>Protecting Access to Diabetes Supplies Act of 2017</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>Protecting Access to Diabetes Supplies Act of 2017</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2017-10-04</actionDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in Senate</name>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <text><![CDATA[<p><strong>Protecting Access to Diabetes Supplies Act of 2017</strong></p> <p>This bill amends title XVIII (Medicare) of the Social Security Act to modify provisions relating to Medicare's competitive acquisition&nbsp;program&nbsp;(through which rates are set through a competitive bidding program rather than by an established fee schedule) with respect to diabetic testing strips. Specifically, the bill requires the Centers for Medicare &amp; Medicaid Services (CMS)&nbsp;to:</p> <ul> <li>use specified data to determine whether a bid satisfies certain requirements related to volume of coverage with respect to such products, </li> <li>reject a bid if the bidder does not demonstrate its ability to furnish such products in a manner consistent with its bid, and </li> <li>establish a process to monitor the extent to which an entity continues to cover the product types included in its bid.</li></ul> <p>The CMS may terminate a contract if it determines that an entity, for reasons other than product discontinuation, market-wide shortage,&nbsp;or introduction of a newer model,&nbsp;fails to maintain ready access to such products included its bid.</p> <p>In addition, the bill specifies that an entity furnishing such products to beneficiaries under the program: (1)&nbsp;must furnish to each beneficiary a brand of strips that is compatible with the beneficiary's home blood glucose monitor, (2) may not attempt to influence or incentivize a beneficiary&nbsp;to switch the brand of either type of product, and (3) must contact and receive a request from a beneficiary no more than 14 days prior to dispensing a refill to the beneficiary.</p>]]></text>
+          <updateDate>2017-10-04T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2018-02-09T17:31:30Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <actionDate>2017-10-04</actionDate>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

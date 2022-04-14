@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <calendarNumbers />
+    <actions>
+      <actionByCounts>
+        <senate>1</senate>
+        <houseOfRepresentatives>9</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2018-07-25</actionDate>
+        <committee>
+          <name>Finance Committee</name>
+          <systemCode>ssfi00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <actionTime>15:01:20</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H38310</actionCode>
+        <actionDate>2018-07-24</actionDate>
+        <type>Floor</type>
+        <links />
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      </item>
+      <item>
+        <committee />
+        <actionTime>15:01:18</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H37300</actionCode>
+        <actionDate>2018-07-24</actionDate>
+        <type>Floor</type>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-164/house-section/page/H7109</url>
+            <name>H7109</name>
+          </link>
+        </links>
+        <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7109)</text>
+      </item>
+      <item>
+        <committee />
+        <actionTime>15:01:18</actionTime>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>8000</actionCode>
+        <actionDate>2018-07-24</actionDate>
+        <type>Floor</type>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-164/house-section/page/H7109</url>
+            <name>H7109</name>
+          </link>
+        </links>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7109)</text>
+      </item>
+      <item>
+        <committee />
+        <actionTime>14:53:02</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H8D000</actionCode>
+        <actionDate>2018-07-24</actionDate>
+        <type>Floor</type>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/1476</url>
+            <name>H.R. 1476</name>
+          </link>
+        </links>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1476.</text>
+      </item>
+      <item>
+        <committee />
+        <actionTime>14:53:01</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H30000</actionCode>
+        <actionDate>2018-07-24</actionDate>
+        <type>Floor</type>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-164/house-section/page/H7109-7110</url>
+            <name>H7109-7110</name>
+          </link>
+        </links>
+        <text>Considered under suspension of the rules. (consideration: CR H7109-7110)</text>
+      </item>
+      <item>
+        <committee />
+        <actionTime>14:53:00</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H30300</actionCode>
+        <actionDate>2018-07-24</actionDate>
+        <type>Floor</type>
+        <links />
+        <text>Mr. Roskam moved to suspend the rules and pass the bill, as amended.</text>
+      </item>
+      <item>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-03-09</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <text>Referred to the House Committee on Ways and Means.</text>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2017-03-09</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <actionDate>2017-03-09</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <actionTypeCounts>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <referredToCommittee>1</referredToCommittee>
+        <considerationByHouse>1</considerationByHouse>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <generalDebate>1</generalDebate>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+      </actionTypeCounts>
+    </actions>
+    <titles>
+      <item>
+        <title>To amend the Internal Revenue Code of 1986 to permit individuals eligible for Indian Health Service assistance to qualify for health savings accounts.</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>Native American Health Savings Improvement Act</title>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>Native American Health Savings Improvement Act</title>
+        <chamberName>House</chamberName>
+        <titleType>Short Titles as Passed House</titleType>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <chamberCode>H</chamberCode>
+      </item>
+      <item>
+        <title>Native American Health Savings Improvement Act</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>Native American Health Savings Improvement Act</title>
+        <chamberName>House</chamberName>
+        <titleType>(Extracted from GPO) Short Titles as Passed House</titleType>
+        <parentTitleType />
+        <chamberCode>H</chamberCode>
+      </item>
+      <item>
+        <title>Native American Health Savings Improvement Act</title>
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <title>Native American Health Savings Improvement Act</title>
+    <committeeReports />
+    <latestAction>
+      <text>Received in the Senate and Read twice and referred to the Committee on Finance.</text>
+      <actionDate>2018-07-25</actionDate>
+      <links />
+    </latestAction>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-03-17T13:57:47Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2017-03-09T05:00:00Z</updateDate>
+          <text><![CDATA[<p><b>Native American Health Savings Improvement Act</b></p> <p> This bill amends the Internal Revenue Code to specify that receiving hospital care or medical services under a medical care program of the Indian Health Service or a tribal organization does not disqualify an individual from being eligible for a health savings account. </p>]]></text>
+          <actionDate>2017-03-09</actionDate>
+        </item>
+        <item>
+          <lastSummaryUpdateDate>2018-07-27T16:34:31Z</lastSummaryUpdateDate>
+          <name>Passed House amended</name>
+          <versionCode>36</versionCode>
+          <actionDesc>Passed House amended</actionDesc>
+          <updateDate>2018-07-24T11:36:08Z</updateDate>
+          <text><![CDATA[<p><b>Native American Health Savings Improvement Act</b></p> <p> (Sec. 2) This bill amends the Internal Revenue Code to specify that receiving hospital care or medical services under a medical care program of the Indian Health Service or a tribal organization does not disqualify an individual from being eligible for a health savings account. </p>]]></text>
+          <actionDate>2018-07-24</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <sponsors>
+      <item>
+        <state>MI</state>
+        <identifiers>
+          <bioguideId>M001194</bioguideId>
+          <lisID>2248</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>M001194</bioguideId>
+        <middleName>R.</middleName>
+        <fullName>Rep. Moolenaar, John R. [R-MI-4]</fullName>
+        <firstName>John</firstName>
+        <party>R</party>
+        <lastName>Moolenaar</lastName>
+        <district>4</district>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <updateDate>2019-04-18T16:04:14Z</updateDate>
+    <relatedBills>
+      <item>
+        <latestTitle>American Health Care Reform Act of 2017</latestTitle>
+        <type>HR</type>
+        <congress>115</congress>
+        <latestAction>
+          <text>Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs.</text>
+          <actionDate>2017-02-10</actionDate>
+        </latestAction>
+        <number>277</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Health Savings Act of 2017</latestTitle>
+        <type>HR</type>
+        <congress>115</congress>
+        <latestAction>
+          <text>Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.</text>
+          <actionDate>2017-03-16</actionDate>
+        </latestAction>
+        <number>1175</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Native American Health Savings Improvement Act</latestTitle>
+        <type>S</type>
+        <congress>115</congress>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Finance.</text>
+          <actionDate>2017-01-05</actionDate>
+        </latestAction>
+        <number>43</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Health Savings Act of 2017</latestTitle>
+        <type>S</type>
+        <congress>115</congress>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Finance.</text>
+          <actionDate>2017-02-15</actionDate>
+        </latestAction>
+        <number>403</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <billType>HR</billType>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <name>Finance Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-07-25T15:28:12Z</date>
+            </item>
+          </activities>
+          <systemCode>ssfi00</systemCode>
+          <subcommittees />
+        </item>
+        <item>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <name>Ways and Means Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-03-09T15:05:00Z</date>
+            </item>
+          </activities>
+          <systemCode>hswm00</systemCode>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <createDate>2017-03-10T05:16:37Z</createDate>
+    <introducedDate>2017-03-09</introducedDate>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <recordedVotes />
+    <billNumber>1476</billNumber>
+    <cosponsors>
+      <item>
+        <middleName />
+        <sponsorshipDate>2018-07-10</sponsorshipDate>
+        <lastName>Ruiz</lastName>
+        <bioguideId>R000599</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <firstName>Raul</firstName>
+        <district>36</district>
+        <fullName>Rep. Ruiz, Raul [D-CA-36]</fullName>
+        <state>CA</state>
+        <identifiers>
+          <gpoId />
+          <bioguideId>R000599</bioguideId>
+          <lisID>2109</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <originChamber>House</originChamber>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Health care costs and insurance</name>
+          </item>
+          <item>
+            <name>Health care coverage and access</name>
+          </item>
+          <item>
+            <name>Hospital care</name>
+          </item>
+          <item>
+            <name>Income tax deductions</name>
+          </item>
+          <item>
+            <name>Indian social and development programs</name>
+          </item>
+          <item>
+            <name>Minority health</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <notes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 41 (Thursday, March 9, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. MOOLENAAR:H.R. 1476.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8 which grants Congress the power toregulate Commerce with the Indian Tribes.[Page H2020]</pre>]]></constitutionalAuthorityStatementText>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr1476rfs/xml/BILLS-115hr1476rfs.xml</url>
+          </item>
+        </formats>
+        <date>2018-07-25T04:00:00Z</date>
+        <type>Referred in Senate</type>
+      </item>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr1476eh/xml/BILLS-115hr1476eh.xml</url>
+          </item>
+        </formats>
+        <date>2018-07-24T04:00:00Z</date>
+        <type>Engrossed in House</type>
+      </item>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr1476ih/xml/BILLS-115hr1476ih.xml</url>
+          </item>
+        </formats>
+        <date>2017-03-09T05:00:00Z</date>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <laws />
+    <version>1.0.0</version>
+    <congress>115</congress>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

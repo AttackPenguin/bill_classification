@@ -1,0 +1,118 @@
+{
+  "actions": [
+    {
+      "acted_at": "2018-01-16", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-01-16", 
+      "action_code": "B00100", 
+      "links": [
+        {
+          "name": "E47", 
+          "url": "https://www.congress.gov/congressional-record/volume-164/extensions-of-remarks-section/page/E47"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR E47", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-01-16", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Oversight and Government Reform.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4806-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Oversight and Reform", 
+      "committee_id": "HSGO"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2018-01-16", 
+  "number": "4806", 
+  "official_title": "To provide a short-term disability insurance program for Federal employees for disabilities that are not work-related, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Federal Employee Short-Term Disability Insurance Act of 2018", 
+  "sponsor": {
+    "bioguide_id": "N000147", 
+    "district": "0", 
+    "name": "Norton, Eleanor Holmes", 
+    "state": "DC", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2018-01-16", 
+  "subjects": [
+    "Disability assistance", 
+    "Government employee pay, benefits, personnel management", 
+    "Government operations and politics"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2018-01-16T05:00:00Z", 
+    "text": "Federal Employee Short-Term Disability Insurance Act of 2018\n\nThis bill requires the Office of Personnel Management to establish and administer a short-term disability insurance program for federal employees who suffer a non-work related injury or disability, take leave to care for a family member, or take leave to adopt a child or become a foster parent."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide a short-term disability insurance program for Federal employees for disabilities that are not work-related, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Federal Employee Short-Term Disability Insurance Act of 2018", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Federal Employee Short-Term Disability Insurance Act of 2018", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Federal Employee Short-Term Disability Insurance Act of 2018", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-04-18T16:19:39Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr4806.xml"
+}

@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Climate change and greenhouse gases</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Earth sciences</name>
+          </item>
+          <item>
+            <name>Environmental assessment, monitoring, research</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Marine pollution</name>
+          </item>
+          <item>
+            <name>Research administration and funding</name>
+          </item>
+          <item>
+            <name>Research and development</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Science, Technology, Communications</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <relatedBills />
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-06-28T13:02:15Z</date>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <name>Water, Oceans, and Wildlife Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2018-07-11T19:05:15Z</date>
+                </item>
+              </activities>
+              <systemCode>hsii13</systemCode>
+            </item>
+          </subcommittees>
+        </item>
+        <item>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <systemCode>hssy00</systemCode>
+          <name>Science, Space, and Technology Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-06-28T13:02:10Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2018-06-28</actionDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <updateDate>2018-06-28T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2019-06-04T16:03:21Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[<p><b>National Estuaries and Acidification Research Act of 2018 or the NEAR Act of 2018</b></p> <p>This bill directs the Department of Commerce to arrange with the Ocean Studies Board of the National Academies for the board to conduct a study that: </p> <ul> <li>examines the existing science of ocean acidification in estuarine environments, </li> <li>examines the challenges to studying ocean acidification and acidification's interactions with other environment stressors in estuarine environments, </li> <li>provides recommendations for improving future research, and </li> <li>identifies pathways for applying science in management and mitigation decisions. </li> </ul>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <version>1.0.0</version>
+    <originChamber>House</originChamber>
+    <congress>115</congress>
+    <latestAction>
+      <actionDate>2018-07-11</actionDate>
+      <text>Referred to the Subcommittee on Water, Power and Oceans.</text>
+      <links />
+    </latestAction>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>2</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2018-07-11</actionDate>
+        <committee>
+          <name>Water, Oceans, and Wildlife Subcommittee</name>
+          <systemCode>hsii13</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Water, Power and Oceans.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2018-06-28</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the Committee on Science, Space, and Technology, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2018-06-28</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the Committee on Science, Space, and Technology, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Science, Space, and Technology Committee</name>
+          <systemCode>hssy00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2018-06-28</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2018-06-28</actionDate>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+    </actions>
+    <createDate>2018-06-29T07:12:47Z</createDate>
+    <laws />
+    <titles>
+      <item>
+        <chamberName />
+        <title>To provide for a study by the Ocean Studies Board of the National Academies of Science examining the impact of ocean acidification and other stressors in estuarine environments.</title>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>National Estuaries and Acidification Research Act of 2018</title>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>NEAR Act of 2018</title>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>NEAR Act of 2018</title>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>NEAR Act of 2018</title>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>National Estuaries and Acidification Research Act of 2018</title>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 164, Number 109 (Thursday, June 28, 2018)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. POSEY:H.R. 6270.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8.[Page H5976]</pre>]]></constitutionalAuthorityStatementText>
+    <introducedDate>2018-06-28</introducedDate>
+    <calendarNumbers />
+    <recordedVotes />
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2018-06-28T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr6270ih/xml/BILLS-115hr6270ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <cosponsors>
+      <item>
+        <bioguideId>M001199</bioguideId>
+        <party>R</party>
+        <sponsorshipDate>2018-06-28</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>J.</middleName>
+        <district>18</district>
+        <state>FL</state>
+        <fullName>Rep. Mast, Brian J. [R-FL-18]</fullName>
+        <lastName>Mast</lastName>
+        <firstName>Brian</firstName>
+        <identifiers>
+          <lisID>2322</lisID>
+          <gpoId />
+          <bioguideId>M001199</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>B001278</bioguideId>
+        <party>D</party>
+        <sponsorshipDate>2018-06-28</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <district>1</district>
+        <state>OR</state>
+        <fullName>Rep. Bonamici, Suzanne [D-OR-1]</fullName>
+        <lastName>Bonamici</lastName>
+        <firstName>Suzanne</firstName>
+        <identifiers>
+          <bioguideId>B001278</bioguideId>
+          <gpoId>8367</gpoId>
+          <lisID>2092</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>D000623</bioguideId>
+        <party>D</party>
+        <sponsorshipDate>2018-07-23</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <district>11</district>
+        <state>CA</state>
+        <fullName>Rep. DeSaulnier, Mark [D-CA-11]</fullName>
+        <lastName>DeSaulnier</lastName>
+        <firstName>Mark</firstName>
+        <identifiers>
+          <lisID>2227</lisID>
+          <gpoId />
+          <bioguideId>D000623</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>L000397</bioguideId>
+        <party>D</party>
+        <sponsorshipDate>2018-08-14</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <district>19</district>
+        <state>CA</state>
+        <fullName>Rep. Lofgren, Zoe [D-CA-19]</fullName>
+        <lastName>LOFGREN</lastName>
+        <firstName>ZOE</firstName>
+        <identifiers>
+          <lisID>701</lisID>
+          <gpoId>7821</gpoId>
+          <bioguideId>L000397</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>L000554</bioguideId>
+        <party>R</party>
+        <sponsorshipDate>2018-09-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>A.</middleName>
+        <district>2</district>
+        <state>NJ</state>
+        <fullName>Rep. LoBiondo, Frank A. [R-NJ-2]</fullName>
+        <lastName>LOBIONDO</lastName>
+        <firstName>FRANK</firstName>
+        <identifiers>
+          <lisID>699</lisID>
+          <gpoId>8044</gpoId>
+          <bioguideId>L000554</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>D000191</bioguideId>
+        <party>D</party>
+        <sponsorshipDate>2018-09-26</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>A.</middleName>
+        <district>4</district>
+        <state>OR</state>
+        <fullName>Rep. DeFazio, Peter A. [D-OR-4]</fullName>
+        <lastName>DEFAZIO</lastName>
+        <firstName>PETER</firstName>
+        <identifiers>
+          <bioguideId>D000191</bioguideId>
+          <lisID>279</lisID>
+          <gpoId>8117</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>R000607</bioguideId>
+        <party>R</party>
+        <sponsorshipDate>2018-10-02</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <district>19</district>
+        <state>FL</state>
+        <fullName>Rep. Rooney, Francis [R-FL-19]</fullName>
+        <lastName>Rooney</lastName>
+        <firstName>Francis</firstName>
+        <identifiers>
+          <lisID>2323</lisID>
+          <gpoId />
+          <bioguideId>R000607</bioguideId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <amendments />
+    <billNumber>6270</billNumber>
+    <updateDate>2019-11-15T21:44:14Z</updateDate>
+    <cboCostEstimates />
+    <title>NEAR Act of 2018</title>
+    <committeeReports />
+    <policyArea>
+      <name>Science, Technology, Communications</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <district>8</district>
+        <lastName>Posey</lastName>
+        <firstName>Bill</firstName>
+        <state>FL</state>
+        <fullName>Rep. Posey, Bill [R-FL-8]</fullName>
+        <identifiers>
+          <lisID>1915</lisID>
+          <gpoId>7887</gpoId>
+          <bioguideId>P000599</bioguideId>
+        </identifiers>
+        <middleName />
+        <bioguideId>P000599</bioguideId>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

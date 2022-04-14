@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2013-12-18T07:01:25Z</createDate>
+    <originChamber>Senate</originChamber>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>GA</state>
+        <sponsorshipDate>2013-12-17</sponsorshipDate>
+        <bioguideId>C000286</bioguideId>
+        <firstName>SAXBY</firstName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Chambliss, Saxby [R-GA]</fullName>
+        <party>R</party>
+        <lastName>CHAMBLISS</lastName>
+        <identifiers>
+          <lisID>188</lisID>
+          <gpoId>8284</gpoId>
+          <bioguideId>C000286</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>HI</state>
+        <sponsorshipDate>2013-12-17</sponsorshipDate>
+        <bioguideId>S001194</bioguideId>
+        <firstName>Brian</firstName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Schatz, Brian [D-HI]</fullName>
+        <party>D</party>
+        <lastName>Schatz</lastName>
+        <identifiers>
+          <lisID>2173</lisID>
+          <gpoId />
+          <bioguideId>S001194</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>MS</state>
+        <sponsorshipDate>2013-12-18</sponsorshipDate>
+        <bioguideId>C000567</bioguideId>
+        <firstName>Thad</firstName>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Cochran, Thad [R-MS]</fullName>
+        <party>R</party>
+        <lastName>Cochran</lastName>
+        <identifiers>
+          <lisID>213</lisID>
+          <bioguideId>C000567</bioguideId>
+          <gpoId>8292</gpoId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <title>A bill to provide for the redesignation of the Asia-Pacific Center for Security Studies as the Daniel K. Inouye Asia-Pacific Center for Security Studies.</title>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+        <senate>4</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2014-01-24</actionDate>
+        <committee>
+          <systemCode>hsas03</systemCode>
+          <name>Readiness Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Readiness.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on Armed Services.</text>
+        <committee>
+          <systemCode>hsas00</systemCode>
+          <name>Armed Services Committee</name>
+        </committee>
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2013-12-19</actionDate>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Received in the House.</text>
+        <committee />
+        <actionTime>11:02:27</actionTime>
+        <links />
+        <type>Floor</type>
+        <actionDate>2013-12-19</actionDate>
+        <actionCode>H14000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2013-12-18</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2013-12-17</actionDate>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-159/senate-section/page/S8917</url>
+            <name>S8917</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S8917; text as passed Senate: CR S8917)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <text>Passed/agreed to in Senate: Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S8917; text as passed Senate: CR S8917)</text>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-159/senate-section/page/S8917</url>
+            <name>S8917</name>
+          </link>
+        </links>
+        <type>Floor</type>
+        <actionDate>2013-12-17</actionDate>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2013-12-17</actionDate>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <receivedInTheHouse>1</receivedInTheHouse>
+        <sentToHouse>1</sentToHouse>
+        <introducedInSenate>1</introducedInSenate>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <passedOrAgreedToInSenateDayOf>1</passedOrAgreedToInSenateDayOf>
+      </actionTypeCounts>
+    </actions>
+    <amendments />
+    <committeeReports />
+    <updateDate>2016-10-25T16:28:10Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Asia</name>
+          </item>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Hawaii</name>
+          </item>
+          <item>
+            <name>Members of Congress</name>
+          </item>
+          <item>
+            <name>Military operations and strategy</name>
+          </item>
+          <item>
+            <name>Policy sciences</name>
+          </item>
+          <item>
+            <name>Senate</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <notes />
+    <latestAction>
+      <text>Referred to the Subcommittee on Readiness.</text>
+      <actionDate>2014-01-24</actionDate>
+      <links />
+    </latestAction>
+    <sponsors>
+      <item>
+        <bioguideId>H001042</bioguideId>
+        <state>HI</state>
+        <fullName>Sen. Hirono, Mazie K. [D-HI]</fullName>
+        <firstName>Mazie</firstName>
+        <party>D</party>
+        <lastName>Hirono</lastName>
+        <middleName>K.</middleName>
+        <byRequestType />
+        <identifiers>
+          <lisID>1844</lisID>
+          <gpoId>7913</gpoId>
+          <bioguideId>H001042</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <relatedBills>
+      <item>
+        <congress>113</congress>
+        <number>1197</number>
+        <type>S</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2013-12-09</actionDate>
+          <text>Considered by Senate. (consideration: CR S8548-8552)</text>
+        </latestAction>
+        <latestTitle>National Defense Authorization Act for Fiscal Year 2014</latestTitle>
+      </item>
+      <item>
+        <congress>113</congress>
+        <number>3805</number>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2014-01-24</actionDate>
+          <text>Referred to the Subcommittee on Readiness.</text>
+        </latestAction>
+        <latestTitle>To provide for the redesignation of the Asia-Pacific Center for Security Studies as the Daniel K. Inouye Asia-Pacific Center for Security Studies.</latestTitle>
+      </item>
+    </relatedBills>
+    <laws />
+    <cboCostEstimates />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-12-19T17:20:06Z</date>
+            </item>
+          </activities>
+          <name>Armed Services Committee</name>
+          <type>Standing</type>
+          <systemCode>hsas00</systemCode>
+          <subcommittees>
+            <item>
+              <name>Readiness Subcommittee</name>
+              <systemCode>hsas03</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2014-01-24T20:50:57Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <name>Introduced in Senate</name>
+          <lastSummaryUpdateDate>2014-01-06T22:10:53Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Renames the Department of Defense (DOD) regional center for security studies, currently known as the Asia-Pacific Center for Security Studies, as the &quot;Daniel K. Inouye Asia-Pacific Center for Security Studies.&quot; </p>]]></text>
+          <updateDate>2013-12-17T05:00:00Z</updateDate>
+          <actionDate>2013-12-17</actionDate>
+        </item>
+        <item>
+          <versionCode>82</versionCode>
+          <actionDesc>Passed Senate without amendment</actionDesc>
+          <name>Passed Senate without amendment</name>
+          <lastSummaryUpdateDate>2014-01-09T18:58:46Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</b></p> <p>Renames the Department of Defense (DOD) regional center for security studies, currently known as the Asia-Pacific Center for Security Studies, as the &quot;Daniel K. Inouye Asia-Pacific Center for Security Studies.&quot; </p>]]></text>
+          <updateDate>2013-12-17T18:51:51Z</updateDate>
+          <actionDate>2013-12-17</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <recordedVotes />
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <introducedDate>2013-12-17</introducedDate>
+    <billType>S</billType>
+    <congress>113</congress>
+    <billNumber>1847</billNumber>
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to provide for the redesignation of the Asia-Pacific Center for Security Studies as the Daniel K. Inouye Asia-Pacific Center for Security Studies.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>A bill to provide for the redesignation of the Asia-Pacific Center for Security Studies as the Daniel K. Inouye Asia-Pacific Center for Security Studies.</title>
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

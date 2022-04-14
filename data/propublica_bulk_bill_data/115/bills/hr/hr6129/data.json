@@ -1,0 +1,122 @@
+{
+  "actions": [
+    {
+      "acted_at": "2018-06-15", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-06-15", 
+      "action_code": "B00100", 
+      "links": [
+        {
+          "name": "E855", 
+          "url": "https://www.congress.gov/congressional-record/volume-164/extensions-of-remarks-section/page/E855"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR E855", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-06-15", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Oversight and Government Reform.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr6129-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Oversight and Reform", 
+      "committee_id": "HSGO"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2018-06-15", 
+  "number": "6129", 
+  "official_title": "To amend the District of Columbia Home Rule Act to repeal the authority of the President to assume emergency control of the police of the District of Columbia.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "District of Columbia Police Home Rule Act", 
+  "sponsor": {
+    "bioguide_id": "N000147", 
+    "district": "0", 
+    "name": "Norton, Eleanor Holmes", 
+    "state": "DC", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2018-06-15", 
+  "subjects": [
+    "District of Columbia", 
+    "Government operations and politics", 
+    "Intergovernmental relations", 
+    "Law enforcement administration and funding", 
+    "Presidents and presidential powers, Vice Presidents", 
+    "State and local government operations", 
+    "War and emergency powers"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2018-06-15T04:00:00Z", 
+    "text": "District of Columbia Police Home Rule Act\n\nThis bill restricts the authority of the President to assume control of the District of Columbia Metropolitan Police Department during an emergency."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the District of Columbia Home Rule Act to repeal the authority of the President to assume emergency control of the police of the District of Columbia.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "District of Columbia Police Home Rule Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "District of Columbia Police Home Rule Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "District of Columbia Police Home Rule Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-10-18T16:07:24Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr6129.xml"
+}

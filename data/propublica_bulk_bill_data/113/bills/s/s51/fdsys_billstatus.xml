@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2014-06-05</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 413.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2014-06-05</actionDate>
+        <committee>
+          <systemCode>ssev00</systemCode>
+          <name>Environment and Public Works Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>report No. 113-183</name>
+            <url>https://www.congress.gov/congressional-report/113th-congress/senate-report/183</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 113-183.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>ssev00</systemCode>
+          <name>Environment and Public Works Committee</name>
+        </committee>
+        <type>Committee</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>14000</actionCode>
+        <text>Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 113-183.</text>
+        <links>
+          <link>
+            <name>report No. 113-183</name>
+            <url>https://www.congress.gov/congressional-report/113th-congress/senate-report/183</url>
+          </link>
+        </links>
+        <actionDate>2014-06-05</actionDate>
+      </item>
+      <item>
+        <actionDate>2014-02-06</actionDate>
+        <committee>
+          <systemCode>ssev00</systemCode>
+          <name>Environment and Public Works Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Environment and Public Works. Ordered to be reported without amendment favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-01-22</actionDate>
+        <committee>
+          <systemCode>ssev00</systemCode>
+          <name>Environment and Public Works Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <links />
+        <actionDate>2013-01-22</actionDate>
+      </item>
+      <actionByCounts>
+        <senate>6</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <reportedToSenate>2</reportedToSenate>
+        <orderedReported>1</orderedReported>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <introducedDate>2013-01-22</introducedDate>
+    <updateDate>2016-10-25T16:19:54Z</updateDate>
+    <createDate>2013-01-23T10:00:53Z</createDate>
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Environment and Public Works Committee</name>
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2014-06-05T20:28:10Z</date>
+            </item>
+            <item>
+              <name>Markup by</name>
+              <date>2014-02-06T20:15:43Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2013-01-22T22:16:29Z</date>
+            </item>
+          </activities>
+          <systemCode>ssev00</systemCode>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>V000127</bioguideId>
+        <firstName>David</firstName>
+        <identifiers>
+          <lisID>1609</lisID>
+          <bioguideId>V000127</bioguideId>
+          <gpoId>8267</gpoId>
+        </identifiers>
+        <state>LA</state>
+        <sponsorshipDate>2013-01-22</sponsorshipDate>
+        <fullName>Sen. Vitter, David [R-LA]</fullName>
+        <lastName>Vitter</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>U000039</bioguideId>
+        <firstName>TOM</firstName>
+        <identifiers>
+          <lisID>1567</lisID>
+          <bioguideId>U000039</bioguideId>
+          <gpoId>8260</gpoId>
+        </identifiers>
+        <state>NM</state>
+        <sponsorshipDate>2013-01-22</sponsorshipDate>
+        <fullName>Sen. Udall, Tom [D-NM]</fullName>
+        <lastName>UDALL</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>T000464</bioguideId>
+        <firstName>Jon</firstName>
+        <identifiers>
+          <lisID>1829</lisID>
+          <gpoId>8258</gpoId>
+          <bioguideId>T000464</bioguideId>
+        </identifiers>
+        <state>MT</state>
+        <sponsorshipDate>2013-01-22</sponsorshipDate>
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+        <lastName>Tester</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <middleName>SIEBEN</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B000243</bioguideId>
+        <firstName>MAX</firstName>
+        <identifiers>
+          <lisID>66</lisID>
+          <gpoId>8298</gpoId>
+          <bioguideId>B000243</bioguideId>
+        </identifiers>
+        <state>MT</state>
+        <sponsorshipDate>2013-01-22</sponsorshipDate>
+        <fullName>Sen. Baucus, Max [D-MT]</fullName>
+        <lastName>BAUCUS</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>W000802</bioguideId>
+        <firstName>Sheldon</firstName>
+        <identifiers>
+          <lisID>1823</lisID>
+          <gpoId>8264</gpoId>
+          <bioguideId>W000802</bioguideId>
+        </identifiers>
+        <state>RI</state>
+        <sponsorshipDate>2013-01-22</sponsorshipDate>
+        <fullName>Sen. Whitehouse, Sheldon [D-RI]</fullName>
+        <lastName>Whitehouse</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <middleName>L.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C000141</bioguideId>
+        <firstName>BENJAMIN</firstName>
+        <identifiers>
+          <bioguideId>C000141</bioguideId>
+          <lisID>174</lisID>
+          <gpoId>8287</gpoId>
+        </identifiers>
+        <state>MD</state>
+        <sponsorshipDate>2013-01-22</sponsorshipDate>
+        <fullName>Sen. Cardin, Benjamin L. [D-MD]</fullName>
+        <lastName>CARDIN</lastName>
+      </item>
+      <item>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>R000307</bioguideId>
+        <firstName>PAT</firstName>
+        <identifiers>
+          <lisID>968</lisID>
+          <gpoId>8275</gpoId>
+          <bioguideId>R000307</bioguideId>
+        </identifiers>
+        <state>KS</state>
+        <sponsorshipDate>2013-01-22</sponsorshipDate>
+        <fullName>Sen. Roberts, Pat [R-KS]</fullName>
+        <lastName>ROBERTS</lastName>
+      </item>
+      <item>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C000567</bioguideId>
+        <firstName>Thad</firstName>
+        <identifiers>
+          <lisID>213</lisID>
+          <bioguideId>C000567</bioguideId>
+          <gpoId>8292</gpoId>
+        </identifiers>
+        <state>MS</state>
+        <sponsorshipDate>2013-01-23</sponsorshipDate>
+        <fullName>Sen. Cochran, Thad [R-MS]</fullName>
+        <lastName>Cochran</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <middleName>ANN</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S000770</bioguideId>
+        <firstName>DEBORAH</firstName>
+        <identifiers>
+          <lisID>1531</lisID>
+          <gpoId>8261</gpoId>
+          <bioguideId>S000770</bioguideId>
+        </identifiers>
+        <state>MI</state>
+        <sponsorshipDate>2013-01-29</sponsorshipDate>
+        <fullName>Sen. Stabenow, Debbie [D-MI]</fullName>
+        <lastName>STABENOW</lastName>
+      </item>
+      <item>
+        <party>R</party>
+        <middleName>MARGARET</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001035</bioguideId>
+        <firstName>SUSAN</firstName>
+        <identifiers>
+          <lisID>1541</lisID>
+          <gpoId>8291</gpoId>
+          <bioguideId>C001035</bioguideId>
+        </identifiers>
+        <state>ME</state>
+        <sponsorshipDate>2013-01-30</sponsorshipDate>
+        <fullName>Sen. Collins, Susan M. [R-ME]</fullName>
+        <lastName>COLLINS</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000550</bioguideId>
+        <firstName>MARY</firstName>
+        <identifiers>
+          <lisID>1546</lisID>
+          <bioguideId>L000550</bioguideId>
+          <gpoId>8251</gpoId>
+        </identifiers>
+        <state>LA</state>
+        <sponsorshipDate>2013-09-17</sponsorshipDate>
+        <fullName>Sen. Landrieu, Mary L. [D-LA]</fullName>
+        <lastName>LANDRIEU</lastName>
+      </item>
+    </cosponsors>
+    <congress>113</congress>
+    <billType>S</billType>
+    <title>National Fish and Wildlife Foundation Reauthorization Act of 2013</title>
+    <titles>
+      <item>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <title>National Fish and Wildlife Foundation Reauthorization Act of 2013</title>
+        <titleType>Short Titles as Reported to Senate</titleType>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <parentTitleType />
+        <title>National Fish and Wildlife Foundation Reauthorization Act of 2013</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>A bill to reauthorize and amend the National Fish and Wildlife Foundation Establishment Act.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>National Fish and Wildlife Foundation Reauthorization Act of 2013</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <committeeReports>
+      <committeeReport>
+        <citation>S. Rept. 113-183</citation>
+      </committeeReport>
+    </committeeReports>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <name>Introduced in Senate</name>
+          <lastSummaryUpdateDate>2014-10-29T20:47:58Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>National Fish and Wildlife Foundation Reauthorization Act of 2013 - Reauthorizes and revises the National Fish and Wildlife Foundation Establishment Act.</p> <p> Increases the number of directors appointed by the Secretary of the Interior to the National Fish and Wildlife Foundation's Board of Directors. Makes uniform the experience required of each such appointee. Requires the Foundation to have an Executive Director who is appointed by the Board and is knowledgeable and experienced in matters relating to fish and wildlife conservation.</p> <p>Gives the Foundation the power to receive and administer restitution and community service payments, amounts for mitigation of impacts to natural resources, and other amounts arising from legal, regulatory, or administrative proceedings, as long as the funds are used for the conservation and management of fish, wildlife, plants, and other natural resources.</p> <p>Repeals provisions authorizing the Foundation to establish a national whale conservation endowment fund.</p> <p>Authorizes the Foundation to: (1) assess and collect fees for the management of amounts received from federal agencies; and (2) use such federal funds for matching contributions made by private persons, state and local agencies, and other entities (current law requires such use).</p> <p>Authorizes the Foundation to perform functions that the National Park Foundation is authorized to conduct, unless exclusive authority is given to the National Park Foundation.</p>]]></text>
+          <updateDate>2013-01-22T05:00:00Z</updateDate>
+          <actionDate>2013-01-22</actionDate>
+        </item>
+        <item>
+          <versionCode>80</versionCode>
+          <actionDesc>Reported to Senate without amendment</actionDesc>
+          <name>Reported to Senate without amendment</name>
+          <lastSummaryUpdateDate>2014-10-29T20:45:15Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)</b></p> <p>National Fish and Wildlife Foundation Reauthorization Act of 2013 - Reauthorizes through FY2019 and revises the National Fish and Wildlife Foundation Establishment Act.</p> <p> Increases from 23 to 28 the number of directors appointed by the Secretary of the Interior to the National Fish and Wildlife Foundation's Board of Directors. Makes uniform the experience required of each such appointee. Requires the Foundation to have an Executive Director who is appointed by the Board and is knowledgeable and experienced in matters relating to fish and wildlife conservation.</p> <p>Gives the Foundation the power to receive and administer restitution and community service payments, amounts for mitigation of impacts to natural resources, and other amounts arising from legal, regulatory, or administrative proceedings, as long as the funds are used for the conservation and management of fish, wildlife, plants, and other natural resources.</p> <p>Repeals provisions authorizing the Foundation to establish a national whale conservation endowment fund.</p> <p>Authorizes the Foundation to: (1) assess and collect fees for the management of amounts received from federal agencies; and (2) use such federal funds for matching contributions made by private persons, state and local agencies, and other entities (current law requires such use).</p> <p>Authorizes the Foundation to perform functions that the National Park Foundation is authorized to conduct, unless exclusive authority is given to the National Park Foundation.</p>]]></text>
+          <updateDate>2014-06-05T11:05:44Z</updateDate>
+          <actionDate>2014-06-05</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates>
+      <item>
+        <title>S. 51, National Fish and Wildlife Foundation Reauthorization Act of 2013</title>
+        <url>http://www.cbo.gov/publication/45141</url>
+        <pubDate>2014-02-26T18:00:00Z</pubDate>
+      </item>
+      <item>
+        <title>S. 51, National Fish and Wildlife Foundation Reauthorization Act of 2013</title>
+        <url>https://www.cbo.gov/publication/45141</url>
+        <pubDate>2014-02-26T18:00:00Z</pubDate>
+      </item>
+    </cboCostEstimates>
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <number>263</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>National Fish and Wildlife Foundation Reauthorization Act of 2013</latestTitle>
+        <type>HR</type>
+        <congress>113</congress>
+        <latestAction>
+          <text>Referred to the Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs.</text>
+          <actionDate>2013-01-31</actionDate>
+        </latestAction>
+      </item>
+      <item>
+        <number>1660</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>SPORT Act</latestTitle>
+        <type>S</type>
+        <congress>113</congress>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+          <actionDate>2013-11-06</actionDate>
+        </latestAction>
+      </item>
+      <item>
+        <number>1996</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Bipartisan Sportsmen's Act of 2014</latestTitle>
+        <type>S</type>
+        <congress>113</congress>
+        <latestAction>
+          <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 304.</text>
+          <actionDate>2014-02-06</actionDate>
+        </latestAction>
+      </item>
+      <item>
+        <number>2363</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Bipartisan Sportsmen's Act of 2014</latestTitle>
+        <type>S</type>
+        <congress>113</congress>
+        <latestAction>
+          <text>Cloture on the bill not invoked in Senate by Yea-Nay Vote. 41 - 56. Record Vote Number: 220. (consideration: CR S4377-4378; text: CR S4377)</text>
+          <actionDate>2014-07-10</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Social work, volunteer service, charitable organizations</name>
+          </item>
+          <item>
+            <name>Tax-exempt organizations</name>
+          </item>
+          <item>
+            <name>Wildlife conservation and habitat protection</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Environmental Protection</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 413.</text>
+      <actionDate>2014-06-05</actionDate>
+    </latestAction>
+    <billNumber>51</billNumber>
+    <policyArea>
+      <name>Environmental Protection</name>
+    </policyArea>
+    <amendments />
+    <sponsors>
+      <item>
+        <firstName>BARBARA</firstName>
+        <party>D</party>
+        <fullName>Sen. Boxer, Barbara [D-CA]</fullName>
+        <bioguideId>B000711</bioguideId>
+        <identifiers>
+          <lisID>116</lisID>
+          <bioguideId>B000711</bioguideId>
+          <gpoId>8306</gpoId>
+        </identifiers>
+        <lastName>BOXER</lastName>
+        <middleName />
+        <state>CA</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <calendarNumbers>
+      <item>
+        <number>0413</number>
+        <calendar>Senate Calendar of Business</calendar>
+      </item>
+    </calendarNumbers>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

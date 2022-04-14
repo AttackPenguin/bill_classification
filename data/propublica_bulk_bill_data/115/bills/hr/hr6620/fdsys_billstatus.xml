@@ -1,0 +1,705 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Emergency Management</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <relatedBills />
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-09-26T22:20:33Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+        </item>
+        <item>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+          <activities>
+            <item>
+              <name>Discharged from</name>
+              <date>2018-09-25T16:22:36Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2018-07-26T13:05:15Z</date>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <name>Aviation Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2018-07-27T16:10:44Z</date>
+                </item>
+              </activities>
+              <systemCode>hspw05</systemCode>
+            </item>
+          </subcommittees>
+        </item>
+        <item>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <systemCode>hshm00</systemCode>
+          <name>Homeland Security Committee</name>
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2018-09-25T16:22:18Z</date>
+            </item>
+            <item>
+              <name>Markup by</name>
+              <date>2018-09-13T15:08:27Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2018-07-26T13:05:10Z</date>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <name>Oversight, Management, and Accountability Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Discharged from</name>
+                  <date>2018-09-13T15:01:47Z</date>
+                </item>
+                <item>
+                  <name>Referred to</name>
+                  <date>2018-08-20T17:17:26Z</date>
+                </item>
+              </activities>
+              <systemCode>hshm09</systemCode>
+            </item>
+            <item>
+              <name>Intelligence and Counterterrorism Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Discharged from</name>
+                  <date>2018-09-13T15:01:39Z</date>
+                </item>
+                <item>
+                  <name>Referred to</name>
+                  <date>2018-08-20T17:17:16Z</date>
+                </item>
+              </activities>
+              <systemCode>hshm05</systemCode>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2018-07-26</actionDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <updateDate>2018-07-26T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2019-01-08T16:00:41Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[<p><b>Protecting Critical Infrastructure Against Drones and Emerging Threats Act</b></p> <p>This bill requires the Department of Homeland Security to:</p> <ul> <li> request additional information from other agencies of the federal government, state and local government agencies, and the private sector relating to threats of unmanned aircraft systems (drones) and other emerging threats associated with such new technologies; </li> <li> develop and disseminate a security threat assessment regarding drones and other emerging threats associated with such new technologies; and</li> <li> establish and utilize a secure communications and information technology infrastructure, including data-mining and other advanced analytical tools.</li></ul>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <version>1.0.0</version>
+    <originChamber>House</originChamber>
+    <congress>115</congress>
+    <latestAction>
+      <actionDate>2018-09-26</actionDate>
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+      <links />
+    </latestAction>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>24</houseOfRepresentatives>
+        <senate>1</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2018-09-26</actionDate>
+        <committee>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <systemCode>ssga00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2018-09-25</actionDate>
+        <actionTime>14:43:50</actionTime>
+        <type>Floor</type>
+        <committee />
+        <actionCode>H38310</actionCode>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      </item>
+      <item>
+        <actionDate>2018-09-25</actionDate>
+        <actionTime>14:43:48</actionTime>
+        <type>Floor</type>
+        <committee />
+        <actionCode>H37300</actionCode>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-164/house-section/page/H8750</url>
+            <name>H8750</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8750)</text>
+      </item>
+      <item>
+        <actionDate>2018-09-25</actionDate>
+        <actionTime>14:43:48</actionTime>
+        <type>Floor</type>
+        <committee />
+        <actionCode>8000</actionCode>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-164/house-section/page/H8750</url>
+            <name>H8750</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8750)</text>
+      </item>
+      <item>
+        <actionDate>2018-09-25</actionDate>
+        <actionTime>14:33:35</actionTime>
+        <type>Floor</type>
+        <committee />
+        <actionCode>H8D000</actionCode>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/6620</url>
+            <name>H.R. 6620</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6620.</text>
+      </item>
+      <item>
+        <actionDate>2018-09-25</actionDate>
+        <actionTime>14:33:32</actionTime>
+        <type>Floor</type>
+        <committee />
+        <actionCode>H30000</actionCode>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-164/house-section/page/H8750-8752</url>
+            <name>H8750-8752</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Considered under suspension of the rules. (consideration: CR H8750-8752)</text>
+      </item>
+      <item>
+        <actionDate>2018-09-25</actionDate>
+        <actionTime>14:33:13</actionTime>
+        <type>Floor</type>
+        <committee />
+        <actionCode>H30300</actionCode>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Mr. McCaul moved to suspend the rules and pass the bill.</text>
+      </item>
+      <item>
+        <actionDate>2018-09-25</actionDate>
+        <committee />
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Placed on the Union Calendar, Calendar No. 748.</text>
+      </item>
+      <item>
+        <actionDate>2018-09-25</actionDate>
+        <committee>
+          <name>Transportation and Infrastructure Committee</name>
+          <systemCode>hspw00</systemCode>
+        </committee>
+        <type>Discharge</type>
+        <actionCode>H12300</actionCode>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Committee on Transportation discharged.</text>
+      </item>
+      <item>
+        <actionDate>2018-09-25</actionDate>
+        <committee>
+          <name>Transportation and Infrastructure Committee</name>
+          <systemCode>hspw00</systemCode>
+        </committee>
+        <type>Committee</type>
+        <actionCode>5500</actionCode>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Committee on Transportation discharged.</text>
+      </item>
+      <item>
+        <actionDate>2018-09-25</actionDate>
+        <committee>
+          <name>Homeland Security Committee</name>
+          <systemCode>hshm00</systemCode>
+        </committee>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/960</url>
+            <name>H. Rept. 115-960</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Reported by the Committee on Homeland Security. H. Rept. 115-960, Part I.</text>
+      </item>
+      <item>
+        <actionDate>2018-09-25</actionDate>
+        <committee>
+          <name>Homeland Security Committee</name>
+          <systemCode>hshm00</systemCode>
+        </committee>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/960</url>
+            <name>H. Rept. 115-960</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Reported by the Committee on Homeland Security. H. Rept. 115-960, Part I.</text>
+      </item>
+      <item>
+        <actionDate>2018-09-13</actionDate>
+        <committee>
+          <name>Homeland Security Committee</name>
+          <systemCode>hshm00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Ordered to be Reported by Unanimous Consent.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2018-09-13</actionDate>
+        <committee>
+          <name>Homeland Security Committee</name>
+          <systemCode>hshm00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2018-09-13</actionDate>
+        <committee>
+          <name>Homeland Security Committee</name>
+          <systemCode>hshm00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Subcommittee on Oversight and Management Efficiency Discharged.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2018-09-13</actionDate>
+        <committee>
+          <name>Homeland Security Committee</name>
+          <systemCode>hshm00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Subcommittee on Counterterrorism and Intelligence Discharged.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2018-08-20</actionDate>
+        <committee>
+          <name>Oversight, Management, and Accountability Subcommittee</name>
+          <systemCode>hshm09</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Oversight and Management Efficiency.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2018-08-20</actionDate>
+        <committee>
+          <name>Intelligence and Counterterrorism Subcommittee</name>
+          <systemCode>hshm05</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Counterterrorism and Intelligence.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2018-08-20</actionDate>
+        <committee>
+          <name>Oversight, Management, and Accountability Subcommittee</name>
+          <systemCode>hshm09</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Oversight and Management Efficiency.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2018-08-20</actionDate>
+        <committee>
+          <name>Intelligence and Counterterrorism Subcommittee</name>
+          <systemCode>hshm05</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Counterterrorism and Intelligence.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2018-07-27</actionDate>
+        <committee>
+          <name>Aviation Subcommittee</name>
+          <systemCode>hspw05</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Aviation.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2018-07-26</actionDate>
+        <committee>
+          <name>Transportation and Infrastructure Committee</name>
+          <systemCode>hspw00</systemCode>
+        </committee>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the Committee on Homeland Security, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      </item>
+      <item>
+        <actionDate>2018-07-26</actionDate>
+        <committee>
+          <name>Homeland Security Committee</name>
+          <systemCode>hshm00</systemCode>
+        </committee>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the Committee on Homeland Security, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      </item>
+      <item>
+        <actionDate>2018-07-26</actionDate>
+        <committee />
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <actionDate>2018-07-26</actionDate>
+        <committee />
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <committeeReportOfABill>1</committeeReportOfABill>
+        <considerationByHouse>1</considerationByHouse>
+        <subcommitteeDischarged>2</subcommitteeDischarged>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <orderedToBeReported>1</orderedToBeReported>
+        <committeeConsiderationMarkUp>1</committeeConsiderationMarkUp>
+        <unionCalendarAssignment>1</unionCalendarAssignment>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <referredToCommittee>1</referredToCommittee>
+        <placeholderTextForH>5</placeholderTextForH>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <reportedToHouse>1</reportedToHouse>
+        <committeeDischarged>1</committeeDischarged>
+        <houseCommitteeDischarged>1</houseCommitteeDischarged>
+        <billReferrals>2</billReferrals>
+        <generalDebate>1</generalDebate>
+      </actionTypeCounts>
+    </actions>
+    <createDate>2018-07-27T07:11:01Z</createDate>
+    <laws />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>To require the Department of Homeland Security to prepare a threat assessment relating to unmanned aircraft systems, and for other purposes.</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Protecting Critical Infrastructure Against Drones and Emerging Threats Act</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Reported to House</titleType>
+        <chamberCode>H</chamberCode>
+        <title>Protecting Critical Infrastructure Against Drones and Emerging Threats Act</title>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <titleType>Short Titles as Passed House</titleType>
+        <chamberCode>H</chamberCode>
+        <title>Protecting Critical Infrastructure Against Drones and Emerging Threats Act</title>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>Protecting Critical Infrastructure Against Drones and Emerging Threats Act</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Passed House</titleType>
+        <chamberCode>H</chamberCode>
+        <title>Protecting Critical Infrastructure Against Drones and Emerging Threats Act</title>
+        <parentTitleType />
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Reported to House</titleType>
+        <chamberCode>H</chamberCode>
+        <title>Protecting Critical Infrastructure Against Drones and Emerging Threats Act</title>
+        <parentTitleType />
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Protecting Critical Infrastructure Against Drones and Emerging Threats Act</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 164, Number 126 (Thursday, July 26, 2018)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. RICHMOND:H.R. 6620.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8[Page H7727]</pre>]]></constitutionalAuthorityStatementText>
+    <introducedDate>2018-07-26</introducedDate>
+    <calendarNumbers>
+      <item>
+        <calendar>U00748</calendar>
+        <number />
+      </item>
+    </calendarNumbers>
+    <recordedVotes />
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr6620rfs/xml/BILLS-115hr6620rfs.xml</url>
+          </item>
+        </formats>
+        <type>Referred in Senate</type>
+        <date>2018-09-26T04:00:00Z</date>
+      </item>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr6620eh/xml/BILLS-115hr6620eh.xml</url>
+          </item>
+        </formats>
+        <type>Engrossed in House</type>
+        <date>2018-09-25T04:00:00Z</date>
+      </item>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr6620rh/xml/BILLS-115hr6620rh.xml</url>
+          </item>
+        </formats>
+        <type>Reported in House</type>
+        <date>2018-09-25T04:00:00Z</date>
+      </item>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr6620ih/xml/BILLS-115hr6620ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+        <date>2018-07-26T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <lisID>2268</lisID>
+          <gpoId />
+          <bioguideId>R000601</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>John</firstName>
+        <district>4</district>
+        <fullName>Rep. Ratcliffe, John [R-TX-4]</fullName>
+        <lastName>Ratcliffe</lastName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <state>TX</state>
+        <bioguideId>R000601</bioguideId>
+        <sponsorshipDate>2018-07-26</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <amendments />
+    <billNumber>6620</billNumber>
+    <updateDate>2019-11-15T21:39:16Z</updateDate>
+    <cboCostEstimates>
+      <item>
+        <title>H.R. 6620, Protecting Critical Infrastructure Against Drones and Emerging Threats Act</title>
+        <url>https://www.cbo.gov/publication/54516</url>
+        <pubDate>2018-09-28T15:01:00Z</pubDate>
+      </item>
+    </cboCostEstimates>
+    <title>Protecting Critical Infrastructure Against Drones and Emerging Threats Act</title>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-960</citation>
+      </committeeReport>
+    </committeeReports>
+    <policyArea>
+      <name>Emergency Management</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <district>2</district>
+        <lastName>Richmond</lastName>
+        <firstName>Cedric</firstName>
+        <state>LA</state>
+        <fullName>Rep. Richmond, Cedric L. [D-LA-2]</fullName>
+        <identifiers>
+          <lisID>2023</lisID>
+          <gpoId>7960</gpoId>
+          <bioguideId>R000588</bioguideId>
+        </identifiers>
+        <middleName>L.</middleName>
+        <bioguideId>R000588</bioguideId>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

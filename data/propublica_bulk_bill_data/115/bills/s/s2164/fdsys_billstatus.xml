@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2017-11-29T00:26:13Z</createDate>
+    <introducedDate>2017-11-28</introducedDate>
+    <version>1.0.0</version>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-11-28</actionDate>
+        <committee>
+          <name>Budget Committee</name>
+          <systemCode>ssbu00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Budget.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <actionDate>2017-11-28</actionDate>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on the Budget.</text>
+      <actionDate>2017-11-28</actionDate>
+    </latestAction>
+    <title>A bill to amend the Congressional Budget Act of 1974 respecting the scoring of preventive health savings.</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2017-11-28</actionDate>
+          <updateDate>2017-11-28T05:00:00Z</updateDate>
+          <text><![CDATA[<p>This bill amends the Congressional Budget and Impoundment Control Act of 1974 to require the Congressional Budget Office, upon receiving a request from Congress, to determine if legislation would reduce spending outside of the 10-year budget window through the use of preventive health and preventive health services. </p>]]></text>
+          <name>Introduced in Senate</name>
+          <lastSummaryUpdateDate>2017-12-18T18:47:59Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>2164</billNumber>
+    <laws />
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>2185</lisID>
+          <bioguideId>K000383</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>K000383</bioguideId>
+        <middleName />
+        <party>I</party>
+        <fullName>Sen. King, Angus S., Jr. [I-ME]</fullName>
+        <firstName>Angus</firstName>
+        <state>ME</state>
+        <lastName>King</lastName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Economics and Public Finance</name>
+    </policyArea>
+    <calendarNumbers />
+    <committeeReports />
+    <congress>115</congress>
+    <amendments />
+    <notes />
+    <textVersions>
+      <item>
+        <date>2017-11-28T05:00:00Z</date>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115s2164is/xml/BILLS-115s2164is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <billType>S</billType>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Accounting and auditing</name>
+          </item>
+          <item>
+            <name>Budget deficits and national debt</name>
+          </item>
+          <item>
+            <name>Budget process</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Health care costs and insurance</name>
+          </item>
+          <item>
+            <name>Health programs administration and funding</name>
+          </item>
+          <item>
+            <name>Health promotion and preventive care</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Economics and Public Finance</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>To amend the Congressional Budget Act of 1974 respecting the scoring of preventive health savings.</latestTitle>
+        <congress>115</congress>
+        <number>2953</number>
+        <latestAction>
+          <text>Referred to the House Committee on the Budget.</text>
+          <actionDate>2017-06-20</actionDate>
+        </latestAction>
+        <type>HR</type>
+      </item>
+    </relatedBills>
+    <cboCostEstimates />
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <name>Budget Committee</name>
+          <systemCode>ssbu00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-11-28T21:28:19Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <bioguideId>C000880</bioguideId>
+          <gpoId>8289</gpoId>
+          <lisID>250</lisID>
+        </identifiers>
+        <bioguideId>C000880</bioguideId>
+        <middleName>D.</middleName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Crapo, Mike [R-ID]</fullName>
+        <lastName>CRAPO</lastName>
+        <state>ID</state>
+        <firstName>MICHAEL</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-11-28</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>174</lisID>
+          <bioguideId>C000141</bioguideId>
+          <gpoId>8287</gpoId>
+        </identifiers>
+        <bioguideId>C000141</bioguideId>
+        <middleName>L.</middleName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Cardin, Benjamin L. [D-MD]</fullName>
+        <lastName>CARDIN</lastName>
+        <state>MD</state>
+        <firstName>BENJAMIN</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-11-28</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1567</lisID>
+          <bioguideId>U000039</bioguideId>
+          <gpoId>8260</gpoId>
+        </identifiers>
+        <bioguideId>U000039</bioguideId>
+        <middleName />
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Udall, Tom [D-NM]</fullName>
+        <lastName>UDALL</lastName>
+        <state>NM</state>
+        <firstName>TOM</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-11-28</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1826</lisID>
+          <gpoId>8249</gpoId>
+          <bioguideId>K000367</bioguideId>
+        </identifiers>
+        <bioguideId>K000367</bioguideId>
+        <middleName />
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <lastName>Klobuchar</lastName>
+        <state>MN</state>
+        <firstName>Amy</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-12-05</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>S001181</bioguideId>
+          <gpoId>8276</gpoId>
+          <lisID>1901</lisID>
+        </identifiers>
+        <bioguideId>S001181</bioguideId>
+        <middleName />
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Shaheen, Jeanne [D-NH]</fullName>
+        <lastName>Shaheen</lastName>
+        <state>NH</state>
+        <firstName>Jeanne</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-12-05</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>B001267</bioguideId>
+          <lisID>1965</lisID>
+          <gpoId>8302</gpoId>
+        </identifiers>
+        <bioguideId>B001267</bioguideId>
+        <middleName>F.</middleName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Bennet, Michael F. [D-CO]</fullName>
+        <lastName>Bennet</lastName>
+        <state>CO</state>
+        <firstName>Michael</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-09-12</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend the Congressional Budget Act of 1974 respecting the scoring of preventive health savings.</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>A bill to amend the Congressional Budget Act of 1974 respecting the scoring of preventive health savings.</title>
+      </item>
+    </titles>
+    <updateDate>2019-04-18T16:40:29Z</updateDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

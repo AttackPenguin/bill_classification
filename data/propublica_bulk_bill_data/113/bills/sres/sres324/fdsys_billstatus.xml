@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2013-12-18</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S8981</name>
+            <url>https://www.congress.gov/congressional-record/volume-159/senate-section/page/S8981</url>
+          </link>
+          <link>
+            <name>S8983</name>
+            <url>https://www.congress.gov/congressional-record/volume-159/senate-section/page/S8983</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S8983; text of measure as passed: CR S8981)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <committee />
+        <type>Floor</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>17000</actionCode>
+        <text>Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.(consideration: CR S8983; text of measure as passed: CR S8981)</text>
+        <links>
+          <link>
+            <name>S8981</name>
+            <url>https://www.congress.gov/congressional-record/volume-159/senate-section/page/S8981</url>
+          </link>
+          <link>
+            <name>S8983</name>
+            <url>https://www.congress.gov/congressional-record/volume-159/senate-section/page/S8983</url>
+          </link>
+        </links>
+        <actionDate>2013-12-18</actionDate>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <links />
+        <actionDate>2013-12-18</actionDate>
+      </item>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <passedOrAgreedToInSenateDayOf>1</passedOrAgreedToInSenateDayOf>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <introducedDate>2013-12-18</introducedDate>
+    <updateDate>2016-10-25T16:18:51Z</updateDate>
+    <createDate>2013-12-19T07:01:19Z</createDate>
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees />
+    </committees>
+    <cosponsors>
+      <item>
+        <bioguideId>B000711</bioguideId>
+        <identifiers>
+          <lisID>116</lisID>
+          <bioguideId>B000711</bioguideId>
+          <gpoId>8306</gpoId>
+        </identifiers>
+        <middleName />
+        <fullName>Sen. Boxer, Barbara [D-CA]</fullName>
+        <firstName>BARBARA</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2013-12-18</sponsorshipDate>
+        <lastName>BOXER</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>CA</state>
+      </item>
+      <item>
+        <bioguideId>F000062</bioguideId>
+        <identifiers>
+          <lisID>1332</lisID>
+          <bioguideId>F000062</bioguideId>
+          <gpoId>8338</gpoId>
+        </identifiers>
+        <middleName />
+        <fullName>Sen. Feinstein, Dianne [D-CA]</fullName>
+        <firstName>DIANNE</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2013-12-18</sponsorshipDate>
+        <lastName>FEINSTEIN</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>CA</state>
+      </item>
+      <item>
+        <bioguideId>T000250</bioguideId>
+        <identifiers>
+          <gpoId>8257</gpoId>
+          <lisID>1534</lisID>
+          <bioguideId>T000250</bioguideId>
+        </identifiers>
+        <middleName>R.</middleName>
+        <fullName>Sen. Thune, John [R-SD]</fullName>
+        <firstName>JOHN</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2013-12-19</sponsorshipDate>
+        <lastName>THUNE</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <state>SD</state>
+      </item>
+      <item>
+        <bioguideId>C000174</bioguideId>
+        <identifiers>
+          <gpoId>8283</gpoId>
+          <lisID>179</lisID>
+          <bioguideId>C000174</bioguideId>
+        </identifiers>
+        <middleName>R.</middleName>
+        <fullName>Sen. Carper, Thomas R. [D-DE]</fullName>
+        <firstName>THOMAS</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2013-12-19</sponsorshipDate>
+        <lastName>CARPER</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>DE</state>
+      </item>
+      <item>
+        <bioguideId>C000560</bioguideId>
+        <identifiers>
+          <lisID>212</lisID>
+          <gpoId>8293</gpoId>
+          <bioguideId>C000560</bioguideId>
+        </identifiers>
+        <middleName />
+        <fullName>Sen. Coburn, Tom [R-OK]</fullName>
+        <firstName>TOM</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2013-12-19</sponsorshipDate>
+        <lastName>COBURN</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <state>OK</state>
+      </item>
+    </cosponsors>
+    <congress>113</congress>
+    <billType>SRES</billType>
+    <title>A resolution expressing the sense of the Senate with respect to the tragic shooting at Los Angeles International Airport on November 1, 2013, of employees of the Transportation Security Administration.</title>
+    <titles>
+      <item>
+        <title>A resolution expressing the sense of the Senate with respect to the tragic shooting at Los Angeles International Airport on November 1, 2013, of employees of the Transportation Security Administration.</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>A resolution expressing the sense of the Senate with respect to the tragic shooting at Los Angeles International Airport on November 1, 2013, of employees of the Transportation Security Administration.</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Condemns the senseless and appalling shooting carried out at Los Angeles International Airport (LAX) on November 1, 2013.</p> <p>Offers the Senate's deepest condolences to the family, friends, and loved ones of deceased Transportation Security Administration (TSA) Officer Gerardo Hernandez.</p> <p>Honors the dedicated public service of TSA Officers Gerardo Hernandez, James Speer, and Tony Grisby and sends its hope for a quick recovery to the other victims of the horrific attack.</p> <p>Remains committed to preventing similar tragedies from happening again.</p>]]></text>
+          <updateDate>2013-12-18T05:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2014-01-06T22:26:34Z</lastSummaryUpdateDate>
+          <actionDate>2013-12-18</actionDate>
+        </item>
+        <item>
+          <text><![CDATA[<p><b>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</b></p> <p>Condemns the senseless and appalling shooting carried out at Los Angeles International Airport (LAX) on November 1, 2013.</p> <p>Offers the Senate's deepest condolences to the family, friends, and loved ones of deceased Transportation Security Administration (TSA) Officer Gerardo Hernandez.</p> <p>Honors the dedicated public service of TSA Officers Gerardo Hernandez, James Speer, and Tony Grisby and sends its hope for a quick recovery to the other victims of the horrific attack.</p> <p>Remains committed to preventing similar tragedies from happening again.</p>]]></text>
+          <updateDate>2013-12-18T15:01:28Z</updateDate>
+          <name>Passed Senate without amendment</name>
+          <versionCode>82</versionCode>
+          <actionDesc>Passed Senate without amendment</actionDesc>
+          <lastSummaryUpdateDate>2014-01-06T22:26:41Z</lastSummaryUpdateDate>
+          <actionDate>2013-12-18</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <number>415</number>
+        <type>HRES</type>
+        <latestTitle>Expressing the sense of the House of Representatives with respect to the tragic shooting at Los Angeles International Airport on November 1, 2013.</latestTitle>
+        <latestAction>
+          <actionDate>2013-11-15</actionDate>
+          <text>Referred to the House Committee on Homeland Security.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Aviation and airports</name>
+          </item>
+          <item>
+            <name>California</name>
+          </item>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Crime prevention</name>
+          </item>
+          <item>
+            <name>Crime victims</name>
+          </item>
+          <item>
+            <name>Department of Homeland Security</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Transportation safety and security</name>
+          </item>
+          <item>
+            <name>Violent crime</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S8983; text of measure as passed: CR S8981)</text>
+      <actionDate>2013-12-18</actionDate>
+    </latestAction>
+    <billNumber>324</billNumber>
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <amendments />
+    <sponsors>
+      <item>
+        <firstName>JAY</firstName>
+        <party>D</party>
+        <fullName>Sen. Rockefeller, John D., IV [D-WV]</fullName>
+        <bioguideId>R000361</bioguideId>
+        <identifiers>
+          <bioguideId>R000361</bioguideId>
+          <gpoId>8273</gpoId>
+          <lisID>1424</lisID>
+        </identifiers>
+        <lastName>ROCKEFELLER</lastName>
+        <middleName />
+        <state>WV</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

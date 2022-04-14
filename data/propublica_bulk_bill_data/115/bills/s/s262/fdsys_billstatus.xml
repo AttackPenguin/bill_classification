@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2017-02-02T05:28:48Z</createDate>
+    <introducedDate>2017-02-01</introducedDate>
+    <version>1.0.0</version>
+    <actions>
+      <item>
+        <actionDate>2017-02-01</actionDate>
+        <committee>
+          <name>Finance Committee</name>
+          <systemCode>ssfi00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <links />
+        <actionDate>2017-02-01</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <actionDate>2017-02-01</actionDate>
+    </latestAction>
+    <title>Steel Industry Preservation Act</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-02-10T14:27:28Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+          <text><![CDATA[<p><b>Steel Industry Preservation Act </b></p> <p>This bill amends the Internal Revenue Code to extend and modify the production tax credit for steel industry fuel. </p> <p>(Under current law, steel industry fuel is a fuel which is: (1) produced through a process of liquefying coal waste sludge and distributing it on coal, and (2) used as a feedstock for the manufacture of coke.) </p> <p>The bill modifies the tax credit for steel industry fuel to: </p> <ul> <li> extend the credit period and the placed-in-service date, </li> <li> revise the definition of &quot;steel industry fuel&quot; to allow blends of coal and petroleum coke or other coke feedstock in the fuel, </li> <li> set forth ownership requirements, and </li> <li>specify requirements for treating an owner as producing and selling steel industry fuel. </li> </ul> <p>A taxpayer that produces steel industry fuel may elect to accept an increased tax credit in lieu of certain deductions for expenses in connection with the production of steel industry fuel. </p> <p>The bill specifies the treatment of the credit for the purpose of the alternative minimum tax. It also exempts transactions related to steel industry fuel from rules that restrict deductions and other tax benefits for activities that are not engaged in for profit or that do not have economic substance. </p>]]></text>
+          <versionCode>00</versionCode>
+          <actionDate>2017-02-01</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <updateDate>2017-02-01T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>262</billNumber>
+    <laws />
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>1676</lisID>
+          <bioguideId>C001047</bioguideId>
+          <gpoId>8223</gpoId>
+        </identifiers>
+        <bioguideId>C001047</bioguideId>
+        <middleName>MOORE</middleName>
+        <party>R</party>
+        <fullName>Sen. Capito, Shelley Moore [R-WV]</fullName>
+        <firstName>SHELLEY</firstName>
+        <state>WV</state>
+        <lastName>CAPITO</lastName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <calendarNumbers />
+    <committeeReports />
+    <congress>115</congress>
+    <amendments />
+    <notes />
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115s262is/xml/BILLS-115s262is.xml</url>
+          </item>
+        </formats>
+        <date>2017-02-01T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <billType>S</billType>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Alternative and renewable resources</name>
+          </item>
+          <item>
+            <name>Business expenses</name>
+          </item>
+          <item>
+            <name>Coal</name>
+          </item>
+          <item>
+            <name>Income tax credits</name>
+          </item>
+          <item>
+            <name>Income tax deductions</name>
+          </item>
+          <item>
+            <name>Industrial facilities</name>
+          </item>
+          <item>
+            <name>Manufacturing</name>
+          </item>
+          <item>
+            <name>Metals</name>
+          </item>
+          <item>
+            <name>Oil and gas</name>
+          </item>
+          <item>
+            <name>Tax administration and collection, taxpayers</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <relatedBills>
+      <item>
+        <latestTitle>Steel Industry Preservation Act</latestTitle>
+        <congress>115</congress>
+        <type>HR</type>
+        <number>792</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <text>Referred to the House Committee on Ways and Means.</text>
+          <actionDate>2017-02-01</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <cboCostEstimates />
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Finance Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <systemCode>ssfi00</systemCode>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-02-01T22:10:00Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2017-02-01</sponsorshipDate>
+        <middleName />
+        <firstName>Sherrod</firstName>
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <bioguideId>B000944</bioguideId>
+        <party>D</party>
+        <lastName>Brown</lastName>
+        <identifiers>
+          <bioguideId>B000944</bioguideId>
+          <gpoId>8309</gpoId>
+          <lisID>136</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>OH</state>
+      </item>
+      <item>
+        <sponsorshipDate>2017-02-01</sponsorshipDate>
+        <middleName />
+        <firstName>ROB</firstName>
+        <fullName>Sen. Portman, Rob [R-OH]</fullName>
+        <bioguideId>P000449</bioguideId>
+        <party>R</party>
+        <lastName>PORTMAN</lastName>
+        <identifiers>
+          <lisID>924</lisID>
+          <bioguideId>P000449</bioguideId>
+          <gpoId>8266</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>OH</state>
+      </item>
+      <item>
+        <sponsorshipDate>2017-02-01</sponsorshipDate>
+        <middleName />
+        <firstName>Bob</firstName>
+        <fullName>Sen. Casey, Robert P., Jr. [D-PA]</fullName>
+        <bioguideId>C001070</bioguideId>
+        <party>D</party>
+        <lastName>Casey</lastName>
+        <identifiers>
+          <bioguideId>C001070</bioguideId>
+          <gpoId>8282</gpoId>
+          <lisID>1828</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>PA</state>
+      </item>
+      <item>
+        <sponsorshipDate>2017-02-01</sponsorshipDate>
+        <middleName>ANN</middleName>
+        <firstName>DEBORAH</firstName>
+        <fullName>Sen. Stabenow, Debbie [D-MI]</fullName>
+        <bioguideId>S000770</bioguideId>
+        <party>D</party>
+        <lastName>STABENOW</lastName>
+        <identifiers>
+          <lisID>1531</lisID>
+          <bioguideId>S000770</bioguideId>
+          <gpoId>8261</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MI</state>
+      </item>
+      <item>
+        <sponsorshipDate>2017-09-18</sponsorshipDate>
+        <middleName>C.</middleName>
+        <firstName>Gary</firstName>
+        <fullName>Sen. Peters, Gary C. [D-MI]</fullName>
+        <bioguideId>P000595</bioguideId>
+        <party>D</party>
+        <lastName>Peters</lastName>
+        <identifiers>
+          <lisID>1929</lisID>
+          <gpoId>7994</gpoId>
+          <bioguideId>P000595</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MI</state>
+      </item>
+      <item>
+        <sponsorshipDate>2018-11-15</sponsorshipDate>
+        <middleName>GRANT</middleName>
+        <firstName>ORRIN</firstName>
+        <fullName>Sen. Hatch, Orrin G. [R-UT]</fullName>
+        <bioguideId>H000338</bioguideId>
+        <party>R</party>
+        <lastName>HATCH</lastName>
+        <identifiers>
+          <bioguideId>H000338</bioguideId>
+          <gpoId>8314</gpoId>
+          <lisID>1351</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>UT</state>
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>A bill to amend the Internal Revenue Code of 1986 to extend and modify the section 45 credit for refined coal from steel industry fuel, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>Steel Industry Preservation Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>Steel Industry Preservation Act</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>Steel Industry Preservation Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+    <updateDate>2019-04-18T16:32:33Z</updateDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

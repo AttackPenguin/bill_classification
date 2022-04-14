@@ -1,0 +1,181 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-11-07", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-11-07", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2017-12-12", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-12-13", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-12-13", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by the Yeas and Nays: 23 - 12.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2018-01-25", 
+      "action_code": "H12200", 
+      "committees": [
+        "HSII"
+      ], 
+      "links": [
+        {
+          "name": "H. Rept. 115-527", 
+          "url": "https://www.congress.gov/congressional-report/115th-congress/house-report/527"
+        }
+      ], 
+      "references": [], 
+      "text": "Reported by the Committee on Natural Resources. H. Rept. 115-527.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-01-25", 
+      "action_code": "H12410", 
+      "calendar": "Union", 
+      "number": "392", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 392.", 
+      "type": "calendar", 
+      "under": null
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4264-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [
+    "H. Rept. 115-527"
+  ], 
+  "committees": [
+    {
+      "activity": [
+        "reporting", 
+        "markup", 
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2017-12-12", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-11-07", 
+  "number": "4264", 
+  "official_title": "To direct the Secretary of the Interior to convey certain Bureau of Land Management land in Cache County, Utah, to the City of Hyde Park for public purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2302-115", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Hyde Park Land Conveyance Act", 
+  "sponsor": {
+    "bioguide_id": "B001250", 
+    "district": "1", 
+    "name": "Bishop, Rob", 
+    "state": "UT", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2017-12-13", 
+  "subjects": [
+    "Land transfers", 
+    "Public lands and natural resources", 
+    "Utah"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2017-11-07T05:00:00Z", 
+    "text": "Hyde Park Land Conveyance Act\n\nThis bill directs the Department of the Interior, upon request of the city of Hyde Park, Utah, to convey to the city without consideration a specified 80-acre parcel of Bureau of Land Management land, including improvements, for use for public purposes.\n\nInterior shall complete the conveyance of the land and improvements within one year of the city's request."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To direct the Secretary of the Interior to convey certain Bureau of Land Management land in Cache County, Utah, to the City of Hyde Park for public purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Hyde Park Land Conveyance Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Hyde Park Land Conveyance Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Hyde Park Land Conveyance Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Hyde Park Land Conveyance Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Hyde Park Land Conveyance Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-06-17T18:20:59Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr4264.xml"
+}

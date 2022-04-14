@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>125</billNumber>
+    <createDate>2015-02-26T06:14:48Z</createDate>
+    <updateDate>2021-02-01T22:20:15Z</updateDate>
+    <originChamber>House</originChamber>
+    <billType>HRES</billType>
+    <introducedDate>2015-02-25</introducedDate>
+    <congress>114</congress>
+    <constitutionalAuthorityStatementText />
+    <recordedVotes>
+      <recordedVote>
+        <rollNumber>93</rollNumber>
+        <url>https://clerk.house.gov/evs/2015/roll093.xml</url>
+        <fullActionName>Passage of a Measure</fullActionName>
+        <chamber>House</chamber>
+        <congress>114</congress>
+        <date>2015-02-26T20:12:07Z</date>
+        <sessionNumber>1</sessionNumber>
+      </recordedVote>
+      <recordedVote>
+        <rollNumber>92</rollNumber>
+        <url>https://clerk.house.gov/evs/2015/roll092.xml</url>
+        <fullActionName>Motion for Previous Question</fullActionName>
+        <chamber>House</chamber>
+        <congress>114</congress>
+        <date>2015-02-26T20:04:01Z</date>
+        <sessionNumber>1</sessionNumber>
+      </recordedVote>
+      <recordedVote>
+        <rollNumber>91</rollNumber>
+        <url>https://clerk.house.gov/evs/2015/roll091.xml</url>
+        <fullActionName>Free Form Motions Results</fullActionName>
+        <chamber>House</chamber>
+        <congress>114</congress>
+        <date>2015-02-26T18:21:54Z</date>
+        <sessionNumber>1</sessionNumber>
+      </recordedVote>
+    </recordedVotes>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Reported original measure</name>
+              <date>2015-02-26T02:56:00Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 114-29</citation>
+      </committeeReport>
+    </committeeReports>
+    <relatedBills>
+      <item>
+        <latestTitle>Student Success Act</latestTitle>
+        <congress>114</congress>
+        <number>5</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2015-07-13</actionDate>
+          <text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 147.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Procedurally-related</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2015-02-26</actionDate>
+        <actionTime>15:12:07</actionTime>
+        <links />
+        <text>On agreeing to the resolution Agreed to by recorded vote: 234 - 184 (Roll no. 93). (text: CR H1180)</text>
+        <type>Floor</type>
+        <actionCode>H37100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2015-02-26</actionDate>
+        <actionTime>15:12:07</actionTime>
+        <links />
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <type>Floor</type>
+        <actionCode>H38310</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2015-02-26</actionDate>
+        <actionTime>15:12:07</actionTime>
+        <links />
+        <text>Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 234 - 184 (Roll no. 93).(text: CR H1180)</text>
+        <type>Floor</type>
+        <actionCode>8000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2015-02-26</actionDate>
+        <actionTime>15:04:01</actionTime>
+        <links />
+        <text>On ordering the previous question Agreed to by the Yeas and Nays: 234 - 177 (Roll no. 92). (consideration: CR H1191-1192; text CR H1191)</text>
+        <type>Floor</type>
+        <actionCode>H35000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2015-02-26</actionDate>
+        <actionTime>13:23:52</actionTime>
+        <links />
+        <text>DEBATE - The House proceeded with one hour of debate on H. Res. 125.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2015-02-26</actionDate>
+        <actionTime>13:22:11</actionTime>
+        <links />
+        <text>Considered as privileged matter. (consideration: CR H1180-1192)</text>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2015-02-26</actionDate>
+        <actionTime>13:21:54</actionTime>
+        <links />
+        <text>On consideration of the resolution Agreed to by the Yeas and Nays: 224 - 167 (Roll no. 91). (consideration: CR H1181-1182)</text>
+        <type>Floor</type>
+        <actionCode>H36610</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2015-02-26</actionDate>
+        <actionTime>12:46:13</actionTime>
+        <links />
+        <text>POINT OF ORDER AGAINST CONSIDERATION - Mr. Polis made a point of order against consideration of H. Res. 125 on the grounds that it violated section 426(a) of the Congressional Budget Act of 1974. The Chair announced that the point of order met the threshold burden under the rule and recognized Mr. Polis and a Member opposed for up to twenty minutes of debate, equally divided and controlled, on the question of consideration. Following debate, the Chair would then put the question of consideration as the statutory means of disposing of the point of order.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2015-02-26</actionDate>
+        <actionTime>12:43:12</actionTime>
+        <links />
+        <text>By direction of the Committee on Rules, Ms. Foxx called up H. Res. 125 and asked for its immediate consideration. (consideration: CR H1180-1182)</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2015-02-25</actionDate>
+        <links />
+        <text>Placed on the House Calendar, Calendar No. 11.</text>
+        <type>Calendars</type>
+        <actionCode>H12420</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2015-02-25</actionDate>
+        <actionTime>21:56:01</actionTime>
+        <links />
+        <text>The rule provides for further consideration of H.R. 5. The rule provides that an amendment in the nature of a substitute consisting of the text of Rules Committee Print 114-8, modified by the amendment printed in part A of the Rules Committee report, shall be considered as adopted. No further amendment to the bill shall be in order except those printed in part B of the report of the Committee on Rules.</text>
+        <type>Floor</type>
+        <actionCode>H12700</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2015-02-25</actionDate>
+        <links />
+        <text>The House Committee on Rules reported an original measure, H. Rept. 114-29, by Ms. Foxx.</text>
+        <type>Committee</type>
+        <actionCode>H12100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsru00</systemCode>
+            <name>Rules Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2015-02-25</actionDate>
+        <links />
+        <text>The House Committee on Rules reported an original measure, H. Rept. 114-29, by Ms. Foxx.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsru00</systemCode>
+            <name>Rules Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2015-02-25</actionDate>
+        <links />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <actionTypeCounts>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <motionForPreviousQuestion>1</motionForPreviousQuestion>
+        <generalDebate>3</generalDebate>
+        <considerationByHouse>1</considerationByHouse>
+        <freeFormMotionsResults>1</freeFormMotionsResults>
+        <houseCalendarAssignment>1</houseCalendarAssignment>
+        <provisionsOfARule>1</provisionsOfARule>
+        <committeeReportOfAnOriginalMeasure>1</committeeReportOfAnOriginalMeasure>
+        <reportedToHouse>1</reportedToHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>14</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>F000450</bioguideId>
+        <fullName>Rep. Foxx, Virginia [R-NC-5]</fullName>
+        <firstName>Virginia</firstName>
+        <middleName />
+        <lastName>Foxx</lastName>
+        <party>R</party>
+        <state>NC</state>
+        <identifiers>
+          <lisID>1791</lisID>
+          <bioguideId>F000450</bioguideId>
+          <gpoId>8028</gpoId>
+        </identifiers>
+        <district>5</district>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cosponsors />
+    <cboCostEstimates />
+    <laws />
+    <notes />
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>House of Representatives</name>
+          </item>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2015-02-25</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2015-02-26T16:14:57Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Sets forth the rule for consideration of H.R. 5 (Student Success Act).</p>]]></text>
+          <updateDate>2015-02-25T05:00:00Z</updateDate>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>Providing for further consideration of the bill (H.R. 5) to support State and local accountability for public education, protect State and local authority, inform parents of the performance of their children's schools, and for other purposes.</title>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>Providing for further consideration of the bill (H.R. 5) to support State and local accountability for public education, protect State and local authority, inform parents of the performance of their children's schools, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Providing for further consideration of the bill (H.R. 5) to support State and local accountability for public education, protect State and local authority, inform parents of the performance of their children's schools, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <amendments />
+    <textVersions>
+      <item>
+        <type>Engrossed in House</type>
+        <date>2015-02-26T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-114hres125eh/xml/BILLS-114hres125eh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Reported in House</type>
+        <date>2015-02-25T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-114hres125rh/xml/BILLS-114hres125rh.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2015-02-26</actionDate>
+      <text>On agreeing to the resolution Agreed to by recorded vote: 234 - 184 (Roll no. 93). (text: CR H1180)</text>
+      <actionTime>15:12:07</actionTime>
+      <links />
+    </latestAction>
+    <calendarNumbers>
+      <item>
+        <calendar>H00011</calendar>
+        <number />
+      </item>
+    </calendarNumbers>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

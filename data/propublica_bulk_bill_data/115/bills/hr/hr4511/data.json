@@ -1,0 +1,121 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-12-01", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-12-01", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2018-01-09", 
+      "action_code": "", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on the Constitution and Civil Justice.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4511-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Constitution, Civil Rights, and Civil Liberties", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-12-01", 
+  "number": "4511", 
+  "official_title": "To amend title 18, United States Code, to prohibit former Members of Congress from lobbying Members, officers, or employees of Congress.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "No Golden Parachutes for Public Service Act", 
+  "sponsor": {
+    "bioguide_id": "B001294", 
+    "district": "1", 
+    "name": "Blum, Rod", 
+    "state": "IA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-12-01", 
+  "subjects": [
+    "Congressional officers and employees", 
+    "Crime and law enforcement", 
+    "Government ethics and transparency, public corruption", 
+    "Members of Congress", 
+    "Public participation and lobbying"
+  ], 
+  "subjects_top_term": "Crime and law enforcement", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2017-12-01T05:00:00Z", 
+    "text": "No Golden Parachutes for Public Service Act\n\nThis bill amends the federal criminal code to replace the current two-year ban on lobbying contacts by former Senators and one-year ban on lobbying contacts by former Members of the House of Representatives, including former elected House officers, with any Member, officer, or employee of either chamber with an outright ban at any time on such contacts, subject to fines and/or imprisonment."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 18, United States Code, to prohibit former Members of Congress from lobbying Members, officers, or employees of Congress.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "No Golden Parachutes for Public Service Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "No Golden Parachutes for Public Service Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "No Golden Parachutes for Public Service Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-11-15T21:34:20Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr4511.xml"
+}

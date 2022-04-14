@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>355</billNumber>
+    <createDate>2015-07-10T09:26:14Z</createDate>
+    <updateDate>2018-06-02T01:18:56Z</updateDate>
+    <originChamber>House</originChamber>
+    <billType>HRES</billType>
+    <introducedDate>2015-07-09</introducedDate>
+    <congress>114</congress>
+    <constitutionalAuthorityStatementText />
+    <recordedVotes>
+      <recordedVote>
+        <rollNumber>426</rollNumber>
+        <url>http://clerk.house.gov/evs/2015/roll426.xml</url>
+        <fullActionName>Motion to Commit/Recommit Results</fullActionName>
+        <chamber>House</chamber>
+        <congress>114</congress>
+        <date>2015-07-09T18:04:58Z</date>
+        <sessionNumber>1</sessionNumber>
+      </recordedVote>
+      <recordedVote>
+        <rollNumber>425</rollNumber>
+        <url>http://clerk.house.gov/evs/2015/roll425.xml</url>
+        <fullActionName>Placeholder Text for H8A000</fullActionName>
+        <chamber>House</chamber>
+        <congress>114</congress>
+        <date>2015-07-09T17:57:00Z</date>
+        <sessionNumber>1</sessionNumber>
+      </recordedVote>
+    </recordedVotes>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsha00</systemCode>
+          <name>House Administration Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2015-07-09T14:00:35Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports />
+    <relatedBills>
+      <item>
+        <latestTitle>Raising a question of the privileges of the House.</latestTitle>
+        <congress>114</congress>
+        <number>341</number>
+        <type>HRES</type>
+        <latestAction>
+          <actionDate>2015-06-25</actionDate>
+          <text>Referred to the House Committee on House Administration.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2015-07-09</actionDate>
+        <actionTime>14:05:53</actionTime>
+        <links />
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <type>Floor</type>
+        <actionCode>H38310</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2015-07-09</actionDate>
+        <actionTime>14:04:58</actionTime>
+        <links>
+          <link>
+            <name>Roll No. 426</name>
+            <url>http://clerk.house.gov/evs/2015/roll426.xml</url>
+          </link>
+        </links>
+        <text>On motion to refer Agreed to by recorded vote: 238 - 176 (Roll No. 426).</text>
+        <type>Floor</type>
+        <actionCode>H36210</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsha00</systemCode>
+            <name>House Administration Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2015-07-09</actionDate>
+        <actionTime>13:57:00</actionTime>
+        <links>
+          <link>
+            <name>H4975</name>
+            <url>https://www.congress.gov/congressional-record/volume-161/house-section/page/H4975</url>
+          </link>
+          <link>
+            <name>Roll No. 425</name>
+            <url>http://clerk.house.gov/evs/2015/roll425.xml</url>
+          </link>
+        </links>
+        <text>The previous question on the motion to refer Agreed to by recorded vote: 238 - 185 (Roll No. 425). (consideration: CR H4975)</text>
+        <type>Floor</type>
+        <actionCode>H8A000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2015-07-09</actionDate>
+        <actionTime>13:21:48</actionTime>
+        <links>
+          <link>
+            <name>H.Res. 355</name>
+            <url>https://www.congress.gov/bill/114th-congress/house-resolution/355</url>
+          </link>
+        </links>
+        <text>DEBATE - The House proceeded with one hour of debate on the McCarthy motion to refer H.Res. 355 to the Committee on House Administration.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2015-07-09</actionDate>
+        <actionTime>13:21:47</actionTime>
+        <links>
+          <link>
+            <name>H4975</name>
+            <url>https://www.congress.gov/congressional-record/volume-161/house-section/page/H4975</url>
+          </link>
+        </links>
+        <text>Mr. McCarthy moved to refer to House Administration. (consideration: CR H4975)</text>
+        <type>Floor</type>
+        <actionCode>H36700</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsha00</systemCode>
+            <name>House Administration Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2015-07-09</actionDate>
+        <actionTime>13:21:18</actionTime>
+        <links>
+          <link>
+            <name>H4974-4976</name>
+            <url>https://www.congress.gov/congressional-record/volume-161/house-section/page/H4974-4976</url>
+          </link>
+          <link>
+            <name>H4975</name>
+            <url>https://www.congress.gov/congressional-record/volume-161/house-section/page/H4975</url>
+          </link>
+        </links>
+        <text>Considered as privileged matter. (consideration: CR H4974-4976; text of measure as introduced: CR H4975)</text>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2015-07-09</actionDate>
+        <links />
+        <text>Referred to the House Committee on House Administration.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsha00</systemCode>
+            <name>House Administration Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2015-07-09</actionDate>
+        <links />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2015-07-09</actionDate>
+        <links />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <actionTypeCounts>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <motionToCommitRecommitResults>1</motionToCommitRecommitResults>
+        <placeholderTextForHA>1</placeholderTextForHA>
+        <generalDebate>1</generalDebate>
+        <placeholderTextForH>1</placeholderTextForH>
+        <considerationByHouse>1</considerationByHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>9</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>P000197</bioguideId>
+        <fullName>Rep. Pelosi, Nancy [D-CA-12]</fullName>
+        <firstName>NANCY</firstName>
+        <middleName />
+        <lastName>PELOSI</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <lisID>905</lisID>
+          <bioguideId>P000197</bioguideId>
+          <gpoId>7813</gpoId>
+        </identifiers>
+        <district>12</district>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cosponsors />
+    <cboCostEstimates />
+    <laws />
+    <notes />
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Government buildings, facilities, and property</name>
+          </item>
+          <item>
+            <name>House of Representatives</name>
+          </item>
+          <item>
+            <name>Library of Congress</name>
+          </item>
+          <item>
+            <name>National symbols</name>
+          </item>
+          <item>
+            <name>Racial and ethnic relations</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+          <item>
+            <name>U.S. Capitol</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2015-07-09</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2015-08-27T20:58:56Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Requires the Speaker of the House of Representatives to: (1) remove any state flag containing any portion of the Confederate battle flag, other than a flag displayed by the office of a Member of the House, from any area within the House wing of the Capitol or any House office building; and (2) donate any such flag to the Library of Congress.</p>]]></text>
+          <updateDate>2015-07-09T04:00:00Z</updateDate>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>Raising a question of the privileges of the House.</title>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>Raising a question of the privileges of the House.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Raising a question of the privileges of the House.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <amendments />
+    <textVersions>
+      <item>
+        <type>Referred to Committee House</type>
+        <date>2015-07-09T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-114hres355rth/xml/BILLS-114hres355rth.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2015-07-09</actionDate>
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      <actionTime>14:05:53</actionTime>
+      <links />
+    </latestAction>
+    <calendarNumbers />
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,851 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>S</billType>
+    <introducedDate>2013-05-21</introducedDate>
+    <committeeReports />
+    <congress>113</congress>
+    <cosponsors>
+      <item>
+        <fullName>Sen. Kaine, Tim [D-VA]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>K000384</bioguideId>
+        <identifiers>
+          <bioguideId>K000384</bioguideId>
+          <lisID>2176</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2013-06-12</sponsorshipDate>
+        <lastName>Kaine</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <state>VA</state>
+        <firstName>Timothy</firstName>
+      </item>
+    </cosponsors>
+    <recordedVotes>
+      <recordedVote>
+        <sessionNumber>2</sessionNumber>
+        <chamber>House</chamber>
+        <congress>113</congress>
+        <url>http://clerk.house.gov/evs/2014/roll555.xml</url>
+        <date>2014-12-10T19:38:12Z</date>
+        <rollNumber>555</rollNumber>
+        <fullActionName>Final Passage Under Suspension of the Rules Results</fullActionName>
+      </recordedVote>
+    </recordedVotes>
+    <latestAction>
+      <text>Became Public Law No: 113-273.</text>
+      <links>
+        <link>
+          <name>Public Law No: 113-273</name>
+          <url>https://www.congress.gov/bill/113th-congress/senate-bill/1000/text/pl</url>
+        </link>
+      </links>
+      <actionDate>2014-12-18</actionDate>
+    </latestAction>
+    <relatedBills>
+      <item>
+        <congress>113</congress>
+        <latestAction>
+          <text>Placed on the Union Calendar, Calendar No. 335.</text>
+          <actionDate>2014-05-19</actionDate>
+        </latestAction>
+        <latestTitle>Chesapeake Bay Accountability and Recovery Act of 2013</latestTitle>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>739</number>
+      </item>
+      <item>
+        <congress>113</congress>
+        <latestAction>
+          <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+          <actionDate>2014-02-10</actionDate>
+        </latestAction>
+        <latestTitle>Public Access and Lands Improvement Act</latestTitle>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>2954</number>
+      </item>
+    </relatedBills>
+    <updateDate>2016-10-25T17:06:53Z</updateDate>
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>10</houseOfRepresentatives>
+        <senate>8</senate>
+      </actionByCounts>
+      <item>
+        <text>Became Public Law No: 113-273.</text>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/113th-congress/senate-bill/1000/text/pl</url>
+            <name>Public Law No: 113-273</name>
+          </link>
+        </links>
+        <type>President</type>
+        <actionDate>2014-12-18</actionDate>
+        <actionCode>E40000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Became Public Law No: 113-273.</text>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/113th-congress/senate-bill/1000/text/pl</url>
+            <name>Public Law No: 113-273</name>
+          </link>
+        </links>
+        <type>BecameLaw</type>
+        <actionDate>2014-12-18</actionDate>
+        <actionCode>36000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Signed by President.</text>
+        <committee />
+        <links />
+        <type>President</type>
+        <actionDate>2014-12-18</actionDate>
+        <actionCode>E30000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Signed by President.</text>
+        <committee />
+        <links />
+        <type>BecameLaw</type>
+        <actionDate>2014-12-18</actionDate>
+        <actionCode>36000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Presented to President.</text>
+        <committee />
+        <links />
+        <type>Floor</type>
+        <actionDate>2014-12-12</actionDate>
+        <actionCode>E20000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Presented to President.</text>
+        <committee />
+        <links />
+        <type>President</type>
+        <actionDate>2014-12-12</actionDate>
+        <actionCode>28000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <committee />
+        <actionTime>14:38:12</actionTime>
+        <links />
+        <type>Floor</type>
+        <actionDate>2014-12-10</actionDate>
+        <actionCode>H38310</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 416 - 0 (Roll no. 555). (text: CR 12/9/2014 H8878)</text>
+        <committee />
+        <actionTime>14:38:12</actionTime>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-160/house-section/page/H8878</url>
+            <name>CR 12/9/2014 H8878</name>
+          </link>
+          <link>
+            <url>http://clerk.house.gov/evs/2014/roll555.xml</url>
+            <name>Roll no. 555</name>
+          </link>
+        </links>
+        <type>Floor</type>
+        <actionDate>2014-12-10</actionDate>
+        <actionCode>H37300</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 416 - 0 (Roll no. 555).(text: CR 12/9/2014 H8878)</text>
+        <committee />
+        <actionTime>14:38:12</actionTime>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-160/house-section/page/H8878</url>
+            <name>CR 12/9/2014 H8878</name>
+          </link>
+          <link>
+            <url>http://clerk.house.gov/evs/2014/roll555.xml</url>
+            <name>Roll no. 555</name>
+          </link>
+        </links>
+        <type>Floor</type>
+        <actionDate>2014-12-10</actionDate>
+        <actionCode>8000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Considered as unfinished business. (consideration: CR H8967-8968)</text>
+        <committee />
+        <actionTime>14:28:45</actionTime>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-160/house-section/page/H8967-8968</url>
+            <name>H8967-8968</name>
+          </link>
+        </links>
+        <type>Floor</type>
+        <actionDate>2014-12-10</actionDate>
+        <actionCode>H30000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+        <committee />
+        <actionTime>12:33:28</actionTime>
+        <links />
+        <type>Floor</type>
+        <actionDate>2014-12-09</actionDate>
+        <actionCode>H37220</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>DEBATE - The House proceeded with forty minutes of debate on S. 1000.</text>
+        <committee />
+        <actionTime>12:23:19</actionTime>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/113th-congress/senate-bill/1000</url>
+            <name>S. 1000</name>
+          </link>
+        </links>
+        <type>Floor</type>
+        <actionDate>2014-12-09</actionDate>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Considered under suspension of the rules. (consideration: CR H8878-8880)</text>
+        <committee />
+        <actionTime>12:23:17</actionTime>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-160/house-section/page/H8878-8880</url>
+            <name>H8878-8880</name>
+          </link>
+        </links>
+        <type>Floor</type>
+        <actionDate>2014-12-09</actionDate>
+        <actionCode>H30000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Mr. Hastings (WA) moved to suspend the rules and pass the bill.</text>
+        <committee />
+        <actionTime>12:22:35</actionTime>
+        <links />
+        <type>Floor</type>
+        <actionDate>2014-12-09</actionDate>
+        <actionCode>H30300</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Held at the desk.</text>
+        <committee />
+        <actionTime>18:18:49</actionTime>
+        <links />
+        <type>Floor</type>
+        <actionDate>2014-12-02</actionDate>
+        <actionCode>H15000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2014-12-02</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <text>Received in the House.</text>
+        <committee />
+        <actionTime>17:36:26</actionTime>
+        <links />
+        <type>Floor</type>
+        <actionDate>2014-12-02</actionDate>
+        <actionCode>H14000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2014-12-02</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Passed Senate with an amendment by Unanimous Consent.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <text>Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.</text>
+        <committee />
+        <links />
+        <type>Floor</type>
+        <actionDate>2014-12-02</actionDate>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2014-12-02</actionDate>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-160/senate-section/page/S6246-6248</url>
+            <name>S6246-6248</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Measure laid before Senate by unanimous consent. (consideration: CR S6246-6248)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2014-12-02</actionDate>
+        <committee>
+          <systemCode>ssev00</systemCode>
+          <name>Environment and Public Works Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Senate Committee on Environment and Public Works discharged by Unanimous Consent.</text>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <text>Senate Committee on Environment and Public Works discharged by Unanimous Consent.</text>
+        <committee>
+          <systemCode>ssev00</systemCode>
+          <name>Environment and Public Works Committee</name>
+        </committee>
+        <links />
+        <type>Committee</type>
+        <actionDate>2014-12-02</actionDate>
+        <actionCode>14500</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2013-05-21</actionDate>
+        <committee>
+          <systemCode>ssev00</systemCode>
+          <name>Environment and Public Works Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2013-05-21</actionDate>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <committeeDischarged>1</committeeDischarged>
+        <presentedToPresident>1</presentedToPresident>
+        <passedSenate>1</passedSenate>
+        <heldAtTheDesk>1</heldAtTheDesk>
+        <sentToHouse>1</sentToHouse>
+        <placeholderTextForE>3</placeholderTextForE>
+        <receivedInTheHouse>1</receivedInTheHouse>
+        <generalDebate>1</generalDebate>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <considerationByHouse>2</considerationByHouse>
+        <measureLaidBeforeSenate>1</measureLaidBeforeSenate>
+        <placeholderTextForH>1</placeholderTextForH>
+        <becamePublicLaw>2</becamePublicLaw>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <senateCommitteeDischarged>1</senateCommitteeDischarged>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+      </actionTypeCounts>
+    </actions>
+    <calendarNumbers />
+    <amendments>
+      <amendment>
+        <type>SAMDT</type>
+        <description />
+        <congress>113</congress>
+        <type>SAMDT</type>
+        <titles />
+        <createDate>2014-12-03T04:47:37Z</createDate>
+        <actions>
+          <count>6</count>
+          <actionByCounts>
+            <senate>5</senate>
+          </actionByCounts>
+          <actions>
+            <item>
+              <actionDate>2014-12-02</actionDate>
+              <committee />
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/113th-congress/senate-amendment/3965</url>
+                  <name>S.Amdt.3965</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/amendment/113th-congress/senate-amendment/3965</url>
+                  <name>SA 3965</name>
+                </link>
+              </links>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 3965 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2014-12-02</actionDate>
+              <committee />
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/113th-congress/senate-amendment/3965</url>
+                  <name>S.Amdt.3965</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/congressional-record/volume-160/senate-section/page/S6247-6248</url>
+                  <name>S6247-6248</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/amendment/113th-congress/senate-amendment/3965</url>
+                  <name>SA 3965</name>
+                </link>
+              </links>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 3965 proposed by Senator Warner. (consideration: CR S6247-6248; text: CR S6247-6248)</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2014-12-02</actionDate>
+              <committee />
+              <links />
+              <text />
+            </item>
+            <item>
+              <actionDate>2014-12-02</actionDate>
+              <actionCode>93000</actionCode>
+              <text>Senate amendment proposed (on the floor): Amendment SA 3965 proposed by Senator Warner.(consideration: CR S6247-6248; text: CR S6247-6248)</text>
+              <type>Floor</type>
+              <committee />
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/113th-congress/senate-amendment/3965</url>
+                  <name>S.Amdt.3965</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/congressional-record/volume-160/senate-section/page/S6247-6248</url>
+                  <name>S6247-6248</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/amendment/113th-congress/senate-amendment/3965</url>
+                  <name>SA 3965</name>
+                </link>
+              </links>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2014-12-02</actionDate>
+              <actionCode>94000</actionCode>
+              <text>Senate amendment agreed to: Amendment SA 3965 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+              <committee />
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/113th-congress/senate-amendment/3965</url>
+                  <name>S.Amdt.3965</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/amendment/113th-congress/senate-amendment/3965</url>
+                  <name>SA 3965</name>
+                </link>
+              </links>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2014-12-02</actionDate>
+              <actionCode>91000</actionCode>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <committee />
+              <links />
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+          <actionTypeCounts>
+            <amendmentProposed>1</amendmentProposed>
+            <senateAmendmentAgreedTo>1</senateAmendmentAgreedTo>
+            <senateAmendmentProposedOnTheFloor>1</senateAmendmentProposedOnTheFloor>
+            <senateAmendmentSubmitted>1</senateAmendmentSubmitted>
+            <amendmentAgreedTo>1</amendmentAgreedTo>
+          </actionTypeCounts>
+        </actions>
+        <notes />
+        <cosponsors>
+          <totalCount>3</totalCount>
+          <currentCount>3</currentCount>
+        </cosponsors>
+        <chamber>Senate</chamber>
+        <links />
+        <number>3965</number>
+        <amendedAmendment />
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <updateDate>2016-10-25T13:06:52Z</updateDate>
+        <proposedDate>2014-12-02T05:00:00Z</proposedDate>
+        <congress>113</congress>
+        <amendedBill>
+          <type>S</type>
+          <originChamber>Senate</originChamber>
+          <congress>113</congress>
+          <originChamberCode>S</originChamberCode>
+          <number>1000</number>
+          <title>Chesapeake Bay Accountability and Recovery Act of 2014</title>
+        </amendedBill>
+        <sponsors>
+          <item>
+            <bioguideId>W000805</bioguideId>
+            <state>VA</state>
+            <fullName>Sen. Warner, Mark R. [D-VA]</fullName>
+            <firstName>Mark</firstName>
+            <party>D</party>
+            <lastName>Warner</lastName>
+            <middleName>R.</middleName>
+          </item>
+        </sponsors>
+        <description />
+        <submittedDate>2014-12-02T05:00:00Z</submittedDate>
+        <purpose>In the nature of a substitute.</purpose>
+        <latestAction>
+          <text>Amendment SA 3965 agreed to in Senate by Unanimous Consent.</text>
+          <actionDate>2014-12-02</actionDate>
+        </latestAction>
+        <number>3965</number>
+        <purpose>In the nature of a substitute.</purpose>
+      </amendment>
+    </amendments>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2013-05-21T04:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+          <text><![CDATA[<p>Chesapeake Bay Accountability and Recovery Act of 2013 - Requires the Director of the Office of Management and Budget (OMB), in consultation with the Chesapeake Executive Council, the chief executive of each Chesapeake Bay state, and the Chesapeake Bay Commission, to submit to Congress, annually, a financial report containing: (1) an interagency crosscut budget for restoration activities that protect, conserve, or restore living resources, habitat, water resources, or water quality in the Chesapeake Bay watershed; (2) an accounting of funds received and obligated by each federal agency for restoration activities; (3) an accounting from each state of all funds received and obligated from a federal agency for restoration activities; and (4) a description of each of the proposed federal and state restoration activities. Requires: (1) such report to describe only federal restoration activities that have funding amounts of at least $100,000 and state restoration activities that have funding amounts of at least $50,000, and (2) the Director to submit the report no later than 30 days after the submission of the President's annual budget to Congress.</p> <p>Requires the Administrator of the Environmental Protection Agency (EPA) to develop, implement, and update biennially an adaptive management plan for restoration activities in the Chesapeake Bay watershed that includes: (1) a definition of specific and measurable objectives to improve water quality, habitat, and fisheries; (2) a process for stakeholder participation; (3) monitoring, modeling, experimentation, and other research and evaluation practices; (4) a process for modification of restoration activities that have not attained or will not attain such objectives; and (5) a process for prioritizing restoration activities and programs to which adaptive management shall be applied. Requires the Administrator to: (1) report annually to Congress on implementation of such plan, and (2) include such plan in the Chesapeake Bay Annual Action Plan and Annual Progress Report.</p> <p>Requires an Independent Evaluator for the Chesapeake Bay watershed, who shall review and report to Congress biennially on restoration activities and the use of adaptive management in such activities and any related topics that are suggested by the Chesapeake Executive Council. Requires the Evaluator to be appointed by the Administrator from among nominees submitted by the Chesapeake Executive Council.</p>]]></text>
+          <versionCode>00</versionCode>
+          <actionDate>2013-05-21</actionDate>
+          <lastSummaryUpdateDate>2013-07-11T19:12:27Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+        </item>
+        <item>
+          <updateDate>2014-12-02T12:13:08Z</updateDate>
+          <name>Passed Senate amended</name>
+          <text><![CDATA[<p>Chesapeake Bay Accountability and Recovery Act of 2014 - (Sec. 3) Requires the Office of Management and Budget (OMB) to submit to Congress a financial report on restoration activities in the Chesapeake Bay watershed by September 30 of each year. Requires the report to contain: </p> <ul> <li>an interagency crosscut budget for federal and state restoration activities that protect, conserve, or restore living resources, habitat, water resources, or water quality in the Chesapeake Bay watershed;</li> <li>an accounting of funds received and obligated by each federal agency for restoration activities during the current and preceding fiscal years; </li> <li>an accounting from Maryland, West Virginia, Delaware, New York, Virginia, Pennsylvania, and the District of Columbia of all funds received and obligated from a federal agency for restoration activities during the current and preceding fiscal years; and</li> <li>a description of each of the proposed federal and state restoration activities to be carried out in the succeeding fiscal year. </li> </ul> <p>Requires the report to describe only restoration activities that have funding amounts of at least $300,000 for the first three years and restoration activities that have funding amounts of at least $100,000 thereafter.</p> <p>(Sec. 4) Establishes an Independent Evaluator for the Chesapeake Bay watershed to review and report to Congress every two years on restoration activities and related topics that are suggested by the Chesapeake Executive Council. Sets forth the process for appointment of the Independent Evaluator and the qualifications for the position. </p> <p>(Sec. 5) Provides that no additional funds are authorized to be appropriated to carry out this Act.</p>]]></text>
+          <versionCode>35</versionCode>
+          <actionDate>2014-12-02</actionDate>
+          <lastSummaryUpdateDate>2015-01-08T16:34:19Z</lastSummaryUpdateDate>
+          <actionDesc>Passed Senate amended</actionDesc>
+        </item>
+        <item>
+          <updateDate>2014-12-10T18:35:57Z</updateDate>
+          <name>Passed House without amendment</name>
+          <text><![CDATA[<p><strong>(This measure has not been amended since it was passed by the Senate on December 2, 2014. The summary of that version is repeated here.)</strong></p> <p>Chesapeake Bay Accountability and Recovery Act of 2014 - (Sec. 3) Requires the Office of Management and Budget (OMB) to submit to Congress a financial report on restoration activities in the Chesapeake Bay watershed by September 30 of each year. Requires the report to contain: </p> <ul> <li>an interagency crosscut budget for federal and state restoration activities that protect, conserve, or restore living resources, habitat, water resources, or water quality in the Chesapeake Bay watershed;</li> <li>an accounting of funds received and obligated by each federal agency for restoration activities during the current and preceding fiscal years; </li> <li>an accounting from Maryland, West Virginia, Delaware, New York, Virginia, Pennsylvania, and the District of Columbia of all funds received and obligated from a federal agency for restoration activities during the current and preceding fiscal years; and</li> <li>a description of each of the proposed federal and state restoration activities to be carried out in the succeeding fiscal year. </li> </ul> <p>Requires the report to describe only restoration activities that have funding amounts of at least $300,000 for the first three years and restoration activities that have funding amounts of at least $100,000 thereafter.</p> <p>(Sec. 4) Establishes an Independent Evaluator for the Chesapeake Bay watershed to review and report to Congress every two years on restoration activities and related topics that are suggested by the Chesapeake Executive Council. Sets forth the process for appointment of the Independent Evaluator and the qualifications for the position. </p> <p>(Sec. 5) Provides that no additional funds are authorized to be appropriated to carry out this Act.</p>]]></text>
+          <versionCode>81</versionCode>
+          <actionDate>2014-12-10</actionDate>
+          <lastSummaryUpdateDate>2015-01-08T16:36:02Z</lastSummaryUpdateDate>
+          <actionDesc>Passed House without amendment</actionDesc>
+        </item>
+        <item>
+          <updateDate>2014-12-19T04:59:58Z</updateDate>
+          <name>Public Law</name>
+          <text><![CDATA[<p><strong>(This measure has not been amended since it was passed by the Senate on December 2, 2014. The summary of that version is repeated here.)</strong></p> <p>Chesapeake Bay Accountability and Recovery Act of 2014 - (Sec. 3) Requires the Office of Management and Budget (OMB) to submit to Congress a financial report on restoration activities in the Chesapeake Bay watershed by September 30 of each year. Requires the report to contain: </p> <ul> <li>an interagency crosscut budget for federal and state restoration activities that protect, conserve, or restore living resources, habitat, water resources, or water quality in the Chesapeake Bay watershed;</li> <li>an accounting of funds received and obligated by each federal agency for restoration activities during the current and preceding fiscal years; </li> <li>an accounting from Maryland, West Virginia, Delaware, New York, Virginia, Pennsylvania, and the District of Columbia of all funds received and obligated from a federal agency for restoration activities during the current and preceding fiscal years; and</li> <li>a description of each of the proposed federal and state restoration activities to be carried out in the succeeding fiscal year. </li> </ul> <p>Requires the report to describe only restoration activities that have funding amounts of at least $300,000 for the first three years and restoration activities that have funding amounts of at least $100,000 thereafter.</p> <p>(Sec. 4) Establishes an Independent Evaluator for the Chesapeake Bay watershed to review and report to Congress every two years on restoration activities and related topics that are suggested by the Chesapeake Executive Council. Sets forth the process for appointment of the Independent Evaluator and the qualifications for the position. </p> <p>(Sec. 5) Provides that no additional funds are authorized to be appropriated to carry out this Act.</p>]]></text>
+          <versionCode>49</versionCode>
+          <actionDate>2014-12-18</actionDate>
+          <lastSummaryUpdateDate>2015-01-08T16:37:20Z</lastSummaryUpdateDate>
+          <actionDesc>Public Law</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Aquatic ecology</name>
+          </item>
+          <item>
+            <name>Chesapeake Bay</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Delaware</name>
+          </item>
+          <item>
+            <name>District of Columbia</name>
+          </item>
+          <item>
+            <name>Environmental assessment, monitoring, research</name>
+          </item>
+          <item>
+            <name>Marine and coastal resources, fisheries</name>
+          </item>
+          <item>
+            <name>Marine pollution</name>
+          </item>
+          <item>
+            <name>Maryland</name>
+          </item>
+          <item>
+            <name>New York State</name>
+          </item>
+          <item>
+            <name>Pennsylvania</name>
+          </item>
+          <item>
+            <name>Public participation and lobbying</name>
+          </item>
+          <item>
+            <name>Virginia</name>
+          </item>
+          <item>
+            <name>Water quality</name>
+          </item>
+          <item>
+            <name>Water resources funding</name>
+          </item>
+          <item>
+            <name>Watersheds</name>
+          </item>
+          <item>
+            <name>West Virginia</name>
+          </item>
+          <item>
+            <name>Wildlife conservation and habitat protection</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <title>Chesapeake Bay Accountability and Recovery Act of 2014</title>
+    <originChamber>Senate</originChamber>
+    <sponsors>
+      <item>
+        <lastName>Warner</lastName>
+        <bioguideId>W000805</bioguideId>
+        <fullName>Sen. Warner, Mark R. [D-VA]</fullName>
+        <identifiers>
+          <gpoId>8269</gpoId>
+          <lisID>1897</lisID>
+          <bioguideId>W000805</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <firstName>Mark</firstName>
+        <middleName>R.</middleName>
+        <state>VA</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <laws>
+      <item>
+        <type>Public Law</type>
+        <number>113-273</number>
+      </item>
+    </laws>
+    <notes />
+    <createDate>2013-05-22T07:02:05Z</createDate>
+    <billNumber>1000</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Environment and Public Works Committee</name>
+          <type>Standing</type>
+          <systemCode>ssev00</systemCode>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Discharged from</name>
+              <date>2014-12-02T19:34:50Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2013-05-21T20:24:56Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <titleType>Short Titles as Enacted</titleType>
+        <chamberName />
+        <parentTitleType>Short Title</parentTitleType>
+        <title>Chesapeake Bay Accountability and Recovery Act of 2014</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Passed Senate</titleType>
+        <chamberName>Senate</chamberName>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <title>Chesapeake Bay Accountability and Recovery Act of 2014</title>
+        <chamberCode>S</chamberCode>
+      </item>
+      <item>
+        <titleType>Short Titles as Passed House</titleType>
+        <chamberName>House</chamberName>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <title>Chesapeake Bay Accountability and Recovery Act of 2014</title>
+        <chamberCode>H</chamberCode>
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Chesapeake Bay Accountability and Recovery Act of 2013</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>A bill to require the Director of the Office of Management and Budget to prepare a crosscut budget for restoration activities in the Chesapeake Bay watershed, and for other purposes.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Chesapeake Bay Accountability and Recovery Act of 2014</title>
+        <chamberCode />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

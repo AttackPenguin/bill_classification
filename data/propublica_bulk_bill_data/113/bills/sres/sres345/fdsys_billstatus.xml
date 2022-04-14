@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2014-02-06</actionDate>
+        <committee>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <systemCode>sshr00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>S823-824</name>
+            <url>https://www.congress.gov/congressional-record/volume-160/senate-section/page/S823-824</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Referred to the Committee on Health, Education, Labor, and Pensions. (text of measure as introduced: CR S823-824)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <actionDate>2014-02-06</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <text>Introduced in Senate</text>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <introducedDate>2014-02-06</introducedDate>
+    <updateDate>2016-10-25T16:18:55Z</updateDate>
+    <createDate>2014-02-07T07:02:39Z</createDate>
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <systemCode>sshr00</systemCode>
+          <activities>
+            <item>
+              <date>2014-02-06T20:53:48Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Health, Education, Labor, and Pensions Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <firstName>Mike</firstName>
+        <party>R</party>
+        <fullName>Sen. Lee, Mike [R-UT]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>L000577</bioguideId>
+        <identifiers>
+          <lisID>2080</lisID>
+          <gpoId>8303</gpoId>
+          <bioguideId>L000577</bioguideId>
+        </identifiers>
+        <lastName>Lee</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>UT</state>
+        <sponsorshipDate>2014-02-06</sponsorshipDate>
+        <middleName />
+      </item>
+      <item>
+        <firstName>CHARLES</firstName>
+        <party>R</party>
+        <fullName>Sen. Grassley, Chuck [R-IA]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>G000386</bioguideId>
+        <identifiers>
+          <lisID>457</lisID>
+          <gpoId>8316</gpoId>
+          <bioguideId>G000386</bioguideId>
+        </identifiers>
+        <lastName>GRASSLEY</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>IA</state>
+        <sponsorshipDate>2014-02-06</sponsorshipDate>
+        <middleName>ERNEST</middleName>
+      </item>
+      <item>
+        <firstName>Tim</firstName>
+        <party>R</party>
+        <fullName>Sen. Scott, Tim [R-SC]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>S001184</bioguideId>
+        <identifiers>
+          <lisID>2056</lisID>
+          <gpoId>8141</gpoId>
+          <bioguideId>S001184</bioguideId>
+        </identifiers>
+        <lastName>Scott</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>SC</state>
+        <sponsorshipDate>2014-02-06</sponsorshipDate>
+        <middleName />
+      </item>
+      <item>
+        <firstName>JIM</firstName>
+        <party>R</party>
+        <fullName>Sen. Inhofe, James M. [R-OK]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>I000024</bioguideId>
+        <identifiers>
+          <gpoId>8322</gpoId>
+          <lisID>583</lisID>
+          <bioguideId>I000024</bioguideId>
+        </identifiers>
+        <lastName>INHOFE</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>OK</state>
+        <sponsorshipDate>2014-02-06</sponsorshipDate>
+        <middleName />
+      </item>
+      <item>
+        <firstName>Thad</firstName>
+        <party>R</party>
+        <fullName>Sen. Cochran, Thad [R-MS]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C000567</bioguideId>
+        <identifiers>
+          <lisID>213</lisID>
+          <bioguideId>C000567</bioguideId>
+          <gpoId>8292</gpoId>
+        </identifiers>
+        <lastName>Cochran</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>MS</state>
+        <sponsorshipDate>2014-02-06</sponsorshipDate>
+        <middleName />
+      </item>
+      <item>
+        <firstName>Ted</firstName>
+        <party>R</party>
+        <fullName>Sen. Cruz, Ted [R-TX]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C001098</bioguideId>
+        <identifiers>
+          <lisID>2175</lisID>
+          <gpoId />
+          <bioguideId>C001098</bioguideId>
+        </identifiers>
+        <lastName>Cruz</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>TX</state>
+        <sponsorshipDate>2014-02-06</sponsorshipDate>
+        <middleName />
+      </item>
+      <item>
+        <firstName>ROGER</firstName>
+        <party>R</party>
+        <fullName>Sen. Wicker, Roger F. [R-MS]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>W000437</bioguideId>
+        <identifiers>
+          <lisID>1226</lisID>
+          <bioguideId>W000437</bioguideId>
+          <gpoId>8263</gpoId>
+        </identifiers>
+        <lastName>WICKER</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>MS</state>
+        <sponsorshipDate>2014-02-06</sponsorshipDate>
+        <middleName>F.</middleName>
+      </item>
+      <item>
+        <firstName>MICHAEL</firstName>
+        <party>R</party>
+        <fullName>Sen. Enzi, Michael B. [R-WY]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>E000285</bioguideId>
+        <identifiers>
+          <lisID>1542</lisID>
+          <bioguideId>E000285</bioguideId>
+          <gpoId>8328</gpoId>
+        </identifiers>
+        <lastName>ENZI</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>WY</state>
+        <sponsorshipDate>2014-02-06</sponsorshipDate>
+        <middleName>B.</middleName>
+      </item>
+      <item>
+        <firstName>DANIEL</firstName>
+        <party>R</party>
+        <fullName>Sen. Coats, Daniel [R-IN]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C000542</bioguideId>
+        <identifiers>
+          <bioguideId>C000542</bioguideId>
+          <gpoId>8299</gpoId>
+          <lisID>209</lisID>
+        </identifiers>
+        <lastName>COATS</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>IN</state>
+        <sponsorshipDate>2014-02-11</sponsorshipDate>
+        <middleName>RAY</middleName>
+      </item>
+    </cosponsors>
+    <congress>113</congress>
+    <billType>SRES</billType>
+    <title>A resolution strongly supporting the restoration and protection of State authority and flexibility in establishing and defining challenging student academic standards and assessments, and strongly denouncing the President's coercion of States into adopting the Common Core State Standards by conferring preferences in Federal grants and flexibility waivers.</title>
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A resolution strongly supporting the restoration and protection of State authority and flexibility in establishing and defining challenging student academic standards and assessments, and strongly denouncing the President's coercion of States into adopting the Common Core State Standards by conferring preferences in Federal grants and flexibility waivers.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>A resolution strongly supporting the restoration and protection of State authority and flexibility in establishing and defining challenging student academic standards and assessments, and strongly denouncing the President's coercion of States into adopting the Common Core State Standards by conferring preferences in Federal grants and flexibility waivers.</title>
+      </item>
+    </titles>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2014-02-06T05:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+          <text><![CDATA[<p>Expresses the sense of the Senate that:</p> <ul> <li>states and local educational agencies should maintain the right and responsibility of determining educational curricula, programs of instruction, and assessments for elementary and secondary education;</li> <li>the federal government should not incentivize the adoption of common education standards or the creation of a national assessment to align with such standards; and</li> <li>no application process for any federal grant funds or waivers issued by the Secretary of Education under the Elementary and Secondary Education Act of 1965 should award any additional points, or provide any preference, for the adoption of the Common Core State Standards or any other national common education standards.</li></ul>]]></text>
+          <versionCode>00</versionCode>
+          <actionDate>2014-02-06</actionDate>
+          <lastSummaryUpdateDate>2014-03-07T22:22:55Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <type>HRES</type>
+        <latestTitle>Strongly supporting the restoration and protection of State authority and flexibility in establishing and defining challenging student academic standards and assessments, and strongly denouncing the President's coercion of States into adopting the Common Core State Standards by conferring preferences in Federal grants and flexibility waivers.</latestTitle>
+        <congress>113</congress>
+        <latestAction>
+          <text>Referred to the House Committee on Education and the Workforce.</text>
+          <actionDate>2014-02-11</actionDate>
+        </latestAction>
+        <number>476</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Education</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Education programs funding</name>
+          </item>
+          <item>
+            <name>Elementary and secondary education</name>
+          </item>
+          <item>
+            <name>Intergovernmental relations</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+          <item>
+            <name>Teaching, teachers, curricula</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Referred to the Committee on Health, Education, Labor, and Pensions. (text of measure as introduced: CR S823-824)</text>
+      <actionDate>2014-02-06</actionDate>
+    </latestAction>
+    <billNumber>345</billNumber>
+    <policyArea>
+      <name>Education</name>
+    </policyArea>
+    <amendments />
+    <sponsors>
+      <item>
+        <firstName>LINDSEY</firstName>
+        <party>R</party>
+        <fullName>Sen. Graham, Lindsey [R-SC]</fullName>
+        <bioguideId>G000359</bioguideId>
+        <identifiers>
+          <gpoId>8335</gpoId>
+          <lisID>452</lisID>
+          <bioguideId>G000359</bioguideId>
+        </identifiers>
+        <lastName>GRAHAM</lastName>
+        <middleName>O.</middleName>
+        <state>SC</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Agricultural research</name>
+          </item>
+          <item>
+            <name>Animal and plant health</name>
+          </item>
+          <item>
+            <name>Forests, forestry, trees</name>
+          </item>
+          <item>
+            <name>Insects</name>
+          </item>
+          <item>
+            <name>Pest management</name>
+          </item>
+          <item>
+            <name>Research administration and funding</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Agriculture and Food</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <latestAction>
+          <actionDate>2017-03-07</actionDate>
+          <text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+        </latestAction>
+        <number>541</number>
+        <type>S</type>
+        <latestTitle>Macadamia Tree Health Initiative Act of 2017</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <congress>115</congress>
+        <latestAction>
+          <actionDate>2018-12-20</actionDate>
+          <text>Became Public Law No: 115-334.</text>
+        </latestAction>
+        <number>2</number>
+        <type>HR</type>
+        <latestTitle>Agriculture Improvement Act of 2018</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <congress>115</congress>
+        <latestAction>
+          <actionDate>2018-06-18</actionDate>
+          <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 470.</text>
+        </latestAction>
+        <number>3042</number>
+        <type>S</type>
+        <latestTitle>Agriculture Improvement Act of 2018</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-03-23T20:21:10Z</date>
+                </item>
+              </activities>
+              <systemCode>hsag14</systemCode>
+              <name>Biotechnology, Horticulture, and Research Subcommittee</name>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-03-07T17:03:30Z</date>
+            </item>
+          </activities>
+          <name>Agriculture Committee</name>
+          <systemCode>hsag00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2017-03-07T05:00:00Z</updateDate>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2017-05-22T17:09:55Z</lastSummaryUpdateDate>
+          <actionDate>2017-03-07</actionDate>
+          <text><![CDATA[<p><b>Macadamia Tree Health Initiative</b></p> <p>This bill amends the Food, Agriculture, Conservation, and Trade Act of 1990 to authorize the Department of Agriculture to provide competitive research and extension grants for a macadamia tree health initiative to: (1) develop and disseminate science-based tools and treatments to combat the insect known as the macadamia felted coccid (Eriococcus ironsidei); and (2) establish an area-wide integrated pest management program in areas affected, or at risk of being affected by, the insect. </p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <version>1.0.0</version>
+    <originChamber>House</originChamber>
+    <congress>115</congress>
+    <latestAction>
+      <actionDate>2017-03-23</actionDate>
+      <text>Referred to the Subcommittee on Biotechnology, Horticulture, and Research.</text>
+      <links />
+    </latestAction>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-03-23</actionDate>
+        <committee>
+          <name>Biotechnology, Horticulture, and Research Subcommittee</name>
+          <systemCode>hsag14</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Biotechnology, Horticulture, and Research.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2017-03-07</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the House Committee on Agriculture.</text>
+        <links />
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Agriculture Committee</name>
+          <systemCode>hsag00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2017-03-07</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2017-03-07</actionDate>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+    </actions>
+    <createDate>2017-03-08T05:28:18Z</createDate>
+    <laws />
+    <titles>
+      <item>
+        <title>To amend the Food, Agriculture, Conservation, and Trade Act of 1990 to provide for a macadamia tree health initiative, and for other purposes.</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>Macadamia Tree Health Initiative</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>Macadamia Tree Health Initiative</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>Macadamia Tree Health Initiative</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 39 (Tuesday, March 7, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. GABBARD:H.R. 1402.Congress has the power to enact this legislation pursuantto the following:U.S. Constitution including Article 1, Section 8, Clause 1(General Welfare Clause) and Article 1, Section 8, Clause 18(Necessary and Proper Clause)By Miss GONZALEZ-COLON of Puerto Rico:H.R. 1403.Congress has the power to enact this legislation pursuantto the following:Article IV Section III of the U.S. Constitution: TheCongress shall have power to dispose of and make all needfulrules and regulations respecting the territory or otherproperty belonging to the United States[Page H1595]</pre>]]></constitutionalAuthorityStatementText>
+    <introducedDate>2017-03-07</introducedDate>
+    <calendarNumbers />
+    <recordedVotes />
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr1402ih/xml/BILLS-115hr1402ih.xml</url>
+          </item>
+        </formats>
+        <date>2017-03-07T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <cosponsors>
+      <item>
+        <bioguideId>H001050</bioguideId>
+        <party>D</party>
+        <sponsorshipDate>2017-03-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <district>1</district>
+        <state>HI</state>
+        <fullName>Rep. Hanabusa, Colleen [D-HI-1]</fullName>
+        <lastName>Hanabusa</lastName>
+        <firstName>Colleen</firstName>
+        <identifiers>
+          <bioguideId>H001050</bioguideId>
+          <gpoId>7912</gpoId>
+          <lisID>2010</lisID>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <amendments />
+    <billNumber>1402</billNumber>
+    <updateDate>2019-11-15T20:51:55Z</updateDate>
+    <cboCostEstimates />
+    <title>Macadamia Tree Health Initiative</title>
+    <committeeReports />
+    <policyArea>
+      <name>Agriculture and Food</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <district>2</district>
+        <lastName>Gabbard</lastName>
+        <firstName>Tulsi</firstName>
+        <state>HI</state>
+        <fullName>Rep. Gabbard, Tulsi [D-HI-2]</fullName>
+        <identifiers>
+          <lisID>2122</lisID>
+          <gpoId />
+          <bioguideId>G000571</bioguideId>
+        </identifiers>
+        <middleName />
+        <bioguideId>G000571</bioguideId>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors />
+    <amendments />
+    <sponsors>
+      <item>
+        <identifiers>
+          <gpoId>8252</gpoId>
+          <bioguideId>M001170</bioguideId>
+          <lisID>1820</lisID>
+        </identifiers>
+        <lastName>McCaskill</lastName>
+        <fullName>Sen. McCaskill, Claire [D-MO]</fullName>
+        <state>MO</state>
+        <byRequestType />
+        <firstName>Claire</firstName>
+        <party>D</party>
+        <bioguideId>M001170</bioguideId>
+        <middleName />
+      </item>
+    </sponsors>
+    <billNumber>1948</billNumber>
+    <originChamber>Senate</originChamber>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Federal-Indian relations</name>
+          </item>
+          <item>
+            <name>Intellectual property</name>
+          </item>
+          <item>
+            <name>Sovereignty, recognition, national governance and status</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Native Americans</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <latestAction>
+      <actionDate>2017-10-05</actionDate>
+      <text>Read twice and referred to the Committee on Indian Affairs.</text>
+      <links />
+    </latestAction>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115s1948is/xml/BILLS-115s1948is.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in Senate</type>
+        <date>2017-10-05T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <title>A bill to abrogate the sovereign immunity of Indian tribes as a defense in inter partes review of patents.</title>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-10-05</actionDate>
+        <committee>
+          <name>Indian Affairs Committee</name>
+          <systemCode>slia00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Indian Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <actionDate>2017-10-05</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+      </item>
+    </actions>
+    <billType>S</billType>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <type>Other</type>
+          <name>Indian Affairs Committee</name>
+          <systemCode>slia00</systemCode>
+          <activities>
+            <item>
+              <date>2017-10-05T19:39:07Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <congress>115</congress>
+    <notes />
+    <updateDate>2019-06-21T11:07:14Z</updateDate>
+    <committeeReports />
+    <createDate>2017-10-06T00:41:19Z</createDate>
+    <introducedDate>2017-10-05</introducedDate>
+    <laws />
+    <titles>
+      <item>
+        <chamberName />
+        <title>A bill to abrogate the sovereign immunity of Indian tribes as a defense in inter partes review of patents.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <title>A bill to abrogate the sovereign immunity of Indian tribes as a defense in inter partes review of patents.</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+    </titles>
+    <calendarNumbers />
+    <relatedBills />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2017-10-05</actionDate>
+          <text><![CDATA[<p>This bill prohibits an Indian tribe from asserting sovereign immunity as a defense in an inter partes review of the validity of a patent.</p>]]></text>
+          <name>Introduced in Senate</name>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2017-12-18T22:41:58Z</lastSummaryUpdateDate>
+          <updateDate>2017-10-05T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <cboCostEstimates />
+    <policyArea>
+      <name>Native Americans</name>
+    </policyArea>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

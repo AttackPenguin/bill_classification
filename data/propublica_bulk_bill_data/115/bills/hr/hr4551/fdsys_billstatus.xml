@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <relatedBills />
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2018-01-22T20:29:02Z</date>
+                </item>
+              </activities>
+              <systemCode>hsju10</systemCode>
+              <name>Constitution, Civil Rights, and Civil Liberties Subcommittee</name>
+            </item>
+            <item>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-12-05T20:29:24Z</date>
+                </item>
+              </activities>
+              <systemCode>hsju08</systemCode>
+              <name>Crime, Terrorism, and Homeland Security Subcommittee</name>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-12-05T15:01:50Z</date>
+            </item>
+          </activities>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <subcommittees />
+          <type>Select</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-12-05T15:02:00Z</date>
+            </item>
+          </activities>
+          <name>Intelligence (Permanent) Committee</name>
+          <systemCode>hlig00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><b>Intelligence Directors Lobbying Prevention Act</b></p> <p>This bill amends the Foreign Agents Registration Act of 1938 to prohibit any individual who served as the head of any element of the intelligence community from acting as the agent of a foreign principal, including by engaging in lobbying activity on behalf of a foreign entity.</p> <p>The Office of the Director of National Intelligence, in coordination with each element of the intelligence community, shall submit annual reports to Congress on the compliance of former heads of such elements with respect to such prohibition.</p>]]></text>
+          <actionDate>2017-12-05</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2019-09-03T13:38:39Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <updateDate>2017-12-05T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <version>1.0.0</version>
+    <originChamber>House</originChamber>
+    <congress>115</congress>
+    <latestAction>
+      <actionDate>2018-01-22</actionDate>
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+      <links />
+    </latestAction>
+    <actions>
+      <actionTypeCounts>
+        <billReferrals>2</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>2</placeholderTextForH>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2018-01-22</actionDate>
+        <committee>
+          <name>Constitution, Civil Rights, and Civil Liberties Subcommittee</name>
+          <systemCode>hsju10</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-12-05</actionDate>
+        <committee>
+          <name>Crime, Terrorism, and Homeland Security Subcommittee</name>
+          <systemCode>hsju08</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Intelligence (Permanent) Committee</name>
+          <systemCode>hlig00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2017-12-05</actionDate>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2017-12-05</actionDate>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <actionDate>2017-12-05</actionDate>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <actionDate>2017-12-05</actionDate>
+        <type>IntroReferral</type>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <createDate>2017-12-06T03:11:08Z</createDate>
+    <laws />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>To amend the Foreign Agents Registration Act of 1938 to prohibit any individual who served as the head of any element of the intelligence community from acting as the agent of a foreign principal, and for other purposes.</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Intelligence Directors Lobbying Prevention Act</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>Intelligence Directors Lobbying Prevention Act</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Intelligence Directors Lobbying Prevention Act</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 198 (Tuesday, December 5, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. CASTRO of Texas:H.R. 4551.Congress has the power to enact this legislation pursuantto the following:Constitutional Authority--Necessary and Proper Clause (Art.I, Sec. 8, Clause 18)THE U.S. CONSTITUTIONARTICLE I, SECTION 8: POWERS OF CONGRESSCLAUSE 18The Congress shall have power . . . To make all laws whichshall be necessary and proper for carrying into execution theforegoing powers, and all other powers vested by thisConstitution in the government of the United States, or inany department or officer thereof.[Page H9664]</pre>]]></constitutionalAuthorityStatementText>
+    <introducedDate>2017-12-05</introducedDate>
+    <calendarNumbers />
+    <recordedVotes />
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr4551ih/xml/BILLS-115hr4551ih.xml</url>
+          </item>
+        </formats>
+        <date>2017-12-05T05:00:00Z</date>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <lisID>1889</lisID>
+          <gpoId>7946</gpoId>
+          <bioguideId>C001072</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Andre</firstName>
+        <district>7</district>
+        <fullName>Rep. Carson, Andre [D-IN-7]</fullName>
+        <lastName>Carson</lastName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <state>IN</state>
+        <bioguideId>C001072</bioguideId>
+        <sponsorshipDate>2017-12-05</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <amendments />
+    <billNumber>4551</billNumber>
+    <updateDate>2019-11-15T21:34:20Z</updateDate>
+    <cboCostEstimates />
+    <title>Intelligence Directors Lobbying Prevention Act</title>
+    <committeeReports />
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <district>20</district>
+        <lastName>Castro</lastName>
+        <firstName>Joaquin</firstName>
+        <state>TX</state>
+        <fullName>Rep. Castro, Joaquin [D-TX-20]</fullName>
+        <identifiers>
+          <lisID>2163</lisID>
+          <gpoId />
+          <bioguideId>C001091</bioguideId>
+        </identifiers>
+        <middleName />
+        <bioguideId>C001091</bioguideId>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

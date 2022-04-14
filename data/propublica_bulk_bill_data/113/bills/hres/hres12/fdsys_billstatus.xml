@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <committee>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+        </committee>
+        <actionDate>2013-01-03</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the House Committee on Rules.</text>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <actionDate>2013-01-03</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <actionDate>2013-01-03</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+      </item>
+    </actions>
+    <relatedBills />
+    <congress>113</congress>
+    <billType>HRES</billType>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Clyburn, James E. [D-SC-6]</fullName>
+        <party>D</party>
+        <middleName>E.</middleName>
+        <sponsorshipDate>2013-01-03</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>SC</state>
+        <bioguideId>C000537</bioguideId>
+        <firstName>JAMES</firstName>
+        <identifiers>
+          <lisID>208</lisID>
+          <bioguideId>C000537</bioguideId>
+          <gpoId>8146</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>6</district>
+        <lastName>CLYBURN</lastName>
+      </item>
+      <item>
+        <fullName>Rep. Courtney, Joe [D-CT-2]</fullName>
+        <party>D</party>
+        <middleName />
+        <sponsorshipDate>2013-01-03</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>CT</state>
+        <bioguideId>C001069</bioguideId>
+        <firstName>Joe</firstName>
+        <identifiers>
+          <bioguideId>C001069</bioguideId>
+          <gpoId>7867</gpoId>
+          <lisID>1836</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>2</district>
+        <lastName>Courtney</lastName>
+      </item>
+      <item>
+        <fullName>Rep. Yarmuth, John A. [D-KY-3]</fullName>
+        <party>D</party>
+        <middleName>A.</middleName>
+        <sponsorshipDate>2013-01-03</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>KY</state>
+        <bioguideId>Y000062</bioguideId>
+        <firstName>John</firstName>
+        <identifiers>
+          <lisID>1853</lisID>
+          <gpoId>7955</gpoId>
+          <bioguideId>Y000062</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>3</district>
+        <lastName>Yarmuth</lastName>
+      </item>
+      <item>
+        <fullName>Rep. Blumenauer, Earl [D-OR-3]</fullName>
+        <party>D</party>
+        <middleName />
+        <sponsorshipDate>2013-01-14</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>OR</state>
+        <bioguideId>B000574</bioguideId>
+        <firstName>EARL</firstName>
+        <identifiers>
+          <bioguideId>B000574</bioguideId>
+          <lisID>99</lisID>
+          <gpoId>8116</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>3</district>
+        <lastName>BLUMENAUER</lastName>
+      </item>
+      <item>
+        <fullName>Rep. Connolly, Gerald E. [D-VA-11]</fullName>
+        <party>D</party>
+        <middleName>E.</middleName>
+        <sponsorshipDate>2013-01-14</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>VA</state>
+        <bioguideId>C001078</bioguideId>
+        <firstName>Gerald</firstName>
+        <identifiers>
+          <bioguideId>C001078</bioguideId>
+          <lisID>1959</lisID>
+          <gpoId>8202</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>11</district>
+        <lastName>Connolly</lastName>
+      </item>
+      <item>
+        <fullName>Rep. Moran, James P. [D-VA-8]</fullName>
+        <party>D</party>
+        <middleName>P.</middleName>
+        <sponsorshipDate>2013-01-14</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>VA</state>
+        <bioguideId>M000933</bioguideId>
+        <firstName>JAMES</firstName>
+        <identifiers>
+          <bioguideId>M000933</bioguideId>
+          <gpoId>8199</gpoId>
+          <lisID>832</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>8</district>
+        <lastName>MORAN</lastName>
+      </item>
+      <item>
+        <fullName>Rep. Ellison, Keith [D-MN-5]</fullName>
+        <party>D</party>
+        <middleName />
+        <sponsorshipDate>2013-01-14</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>MN</state>
+        <bioguideId>E000288</bioguideId>
+        <firstName>Keith</firstName>
+        <identifiers>
+          <gpoId>8005</gpoId>
+          <lisID>1857</lisID>
+          <bioguideId>E000288</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>5</district>
+        <lastName>Ellison</lastName>
+      </item>
+      <item>
+        <fullName>Rep. Farr, Sam [D-CA-20]</fullName>
+        <party>D</party>
+        <middleName />
+        <sponsorshipDate>2013-01-14</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <bioguideId>F000030</bioguideId>
+        <firstName>SAM</firstName>
+        <identifiers>
+          <lisID>368</lisID>
+          <bioguideId>F000030</bioguideId>
+          <gpoId>7822</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>20</district>
+        <lastName>FARR</lastName>
+      </item>
+      <item>
+        <fullName>Rep. Christensen, Donna M. [D-VI-At Large]</fullName>
+        <party>D</party>
+        <middleName>M.</middleName>
+        <sponsorshipDate>2013-01-14</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>VI</state>
+        <bioguideId>C000380</bioguideId>
+        <firstName>DONNA</firstName>
+        <identifiers>
+          <bioguideId>C000380</bioguideId>
+          <gpoId>8203</gpoId>
+          <lisID>1474</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>0</district>
+        <lastName>CHRISTENSEN</lastName>
+      </item>
+      <item>
+        <fullName>Rep. Hastings, Alcee L. [D-FL-20]</fullName>
+        <party>D</party>
+        <middleName>L.</middleName>
+        <sponsorshipDate>2013-01-14</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>FL</state>
+        <bioguideId>H000324</bioguideId>
+        <firstName>ALCEE</firstName>
+        <identifiers>
+          <bioguideId>H000324</bioguideId>
+          <lisID>511</lisID>
+          <gpoId>7895</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>20</district>
+        <lastName>HASTINGS</lastName>
+      </item>
+      <item>
+        <fullName>Rep. Himes, James A. [D-CT-4]</fullName>
+        <party>D</party>
+        <middleName>A.</middleName>
+        <sponsorshipDate>2013-01-14</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>CT</state>
+        <bioguideId>H001047</bioguideId>
+        <firstName>James</firstName>
+        <identifiers>
+          <lisID>1913</lisID>
+          <gpoId>7869</gpoId>
+          <bioguideId>H001047</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>4</district>
+        <lastName>Himes</lastName>
+      </item>
+      <item>
+        <fullName>Rep. Clay, Wm. Lacy [D-MO-1]</fullName>
+        <party>D</party>
+        <middleName>LACY</middleName>
+        <sponsorshipDate>2013-01-14</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>MO</state>
+        <bioguideId>C001049</bioguideId>
+        <firstName>WM.</firstName>
+        <identifiers>
+          <bioguideId>C001049</bioguideId>
+          <gpoId>8009</gpoId>
+          <lisID>1654</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>1</district>
+        <lastName>CLAY</lastName>
+      </item>
+      <item>
+        <fullName>Rep. Rangel, Charles B. [D-NY-13]</fullName>
+        <party>D</party>
+        <middleName>B.</middleName>
+        <sponsorshipDate>2013-01-18</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>NY</state>
+        <bioguideId>R000053</bioguideId>
+        <firstName>CHARLES</firstName>
+        <identifiers>
+          <bioguideId>R000053</bioguideId>
+          <lisID>944</lisID>
+          <gpoId>8076</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>13</district>
+        <lastName>RANGEL</lastName>
+      </item>
+      <item>
+        <fullName>Rep. Lee, Barbara [D-CA-13]</fullName>
+        <party>D</party>
+        <middleName />
+        <sponsorshipDate>2013-01-18</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <bioguideId>L000551</bioguideId>
+        <firstName>BARBARA</firstName>
+        <identifiers>
+          <lisID>1501</lisID>
+          <gpoId>7814</gpoId>
+          <bioguideId>L000551</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>13</district>
+        <lastName>LEE</lastName>
+      </item>
+      <item>
+        <fullName>Rep. Price, David E. [D-NC-4]</fullName>
+        <party>D</party>
+        <middleName>E.</middleName>
+        <sponsorshipDate>2013-01-23</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>NC</state>
+        <bioguideId>P000523</bioguideId>
+        <firstName>DAVID</firstName>
+        <identifiers>
+          <bioguideId>P000523</bioguideId>
+          <gpoId>8027</gpoId>
+          <lisID>930</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>4</district>
+        <lastName>PRICE</lastName>
+      </item>
+      <item>
+        <fullName>Rep. Grayson, Alan [D-FL-9]</fullName>
+        <party>D</party>
+        <middleName />
+        <sponsorshipDate>2013-02-14</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>FL</state>
+        <bioguideId>G000556</bioguideId>
+        <firstName>Alan</firstName>
+        <identifiers>
+          <gpoId>7302</gpoId>
+          <bioguideId>G000556</bioguideId>
+          <lisID>1914</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>9</district>
+        <lastName>Grayson</lastName>
+      </item>
+      <item>
+        <fullName>Rep. Huffman, Jared [D-CA-2]</fullName>
+        <party>D</party>
+        <middleName />
+        <sponsorshipDate>2013-02-14</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <bioguideId>H001068</bioguideId>
+        <firstName>Jared</firstName>
+        <identifiers>
+          <lisID>2101</lisID>
+          <gpoId />
+          <bioguideId>H001068</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>2</district>
+        <lastName>Huffman</lastName>
+      </item>
+      <item>
+        <fullName>Rep. Pocan, Mark [D-WI-2]</fullName>
+        <party>D</party>
+        <middleName />
+        <sponsorshipDate>2013-02-14</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>WI</state>
+        <bioguideId>P000607</bioguideId>
+        <firstName>Mark</firstName>
+        <identifiers>
+          <lisID>2171</lisID>
+          <gpoId />
+          <bioguideId>P000607</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>2</district>
+        <lastName>Pocan</lastName>
+      </item>
+    </cosponsors>
+    <notes />
+    <createDate>2013-01-04T07:00:55Z</createDate>
+    <introducedDate>2013-01-03</introducedDate>
+    <version>1.0.0</version>
+    <committeeReports />
+    <latestAction>
+      <links />
+      <actionDate>2013-01-03</actionDate>
+      <text>Referred to the House Committee on Rules.</text>
+    </latestAction>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>Amending the Rules of the House of Representatives to require that any extension of the public debt limit only be considered in a standalone bill.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Amending the Rules of the House of Representatives to require that any extension of the public debt limit only be considered in a standalone bill.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Budget deficits and national debt</name>
+          </item>
+          <item>
+            <name>Budget process</name>
+          </item>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <updateDate>2018-06-05T15:45:40Z</updateDate>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. Welch, Peter [D-VT-At Large]</fullName>
+        <identifiers>
+          <lisID>1879</lisID>
+          <bioguideId>W000800</bioguideId>
+          <gpoId>8204</gpoId>
+        </identifiers>
+        <byRequestType />
+        <firstName>Peter</firstName>
+        <lastName>Welch</lastName>
+        <bioguideId>W000800</bioguideId>
+        <state>VT</state>
+        <district>0</district>
+      </item>
+    </sponsors>
+    <title>Amending the Rules of the House of Representatives to require that any extension of the public debt limit only be considered in a standalone bill.</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Amends Rule XXI (Restrictions on Certain Bills) of the Rules of the House of Representatives to make it out of order in the House to consider any bill or joint resolution extending the limit on the public debt if such measure contains any other matter.</p>]]></text>
+          <updateDate>2013-01-03T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2013-01-28T21:42:31Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <actionDate>2013-01-03</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>12</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-01-03T16:01:45Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>House</originChamber>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <cboCostEstimates />
+    <recordedVotes />
+    <constitutionalAuthorityStatementText />
+    <amendments />
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Drug trafficking and controlled substances</name>
+          </item>
+          <item>
+            <name>Licensing and registrations</name>
+          </item>
+          <item>
+            <name>Prescription drugs</name>
+          </item>
+          <item>
+            <name>Retail and wholesale trades</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <latestAction>
+          <actionDate>2017-10-16</actionDate>
+          <text>Read twice and referred to the Committee on the Judiciary.</text>
+        </latestAction>
+        <number>1960</number>
+        <type>S</type>
+        <latestTitle>A bill to repeal the amendments made to the Controlled Substances Act by the Ensuring Patient Access and Effective Drug Enforcement Act of 2016.</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Judiciary Committee</name>
+          <activities>
+            <item>
+              <date>2017-10-19T16:01:35Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <systemCode>hsju08</systemCode>
+              <name>Crime, Terrorism, and Homeland Security Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2017-11-01T19:29:32Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <systemCode>hsju00</systemCode>
+          <chamber>House</chamber>
+        </item>
+        <item>
+          <type>Standing</type>
+          <name>Energy and Commerce Committee</name>
+          <activities>
+            <item>
+              <date>2017-10-19T16:01:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <systemCode>hsif14</systemCode>
+              <name>Health Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2017-10-20T19:48:42Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <systemCode>hsif00</systemCode>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>This bill repeals two sections of the Ensuring Patient Access and Effective Drug Enforcement Act of 2016 and the amendments made by such sections to the Controlled Substances Act. The repealed sections modified registration and enforcement authorities of the Drug Enforcement Administration with respect to manufacturers, distributors, and dispensers of controlled substances. </p>]]></text>
+          <actionDate>2017-10-19</actionDate>
+          <lastSummaryUpdateDate>2019-08-07T22:13:25Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2017-10-19T04:00:00Z</updateDate>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <version>1.0.0</version>
+    <originChamber>House</originChamber>
+    <congress>115</congress>
+    <latestAction>
+      <actionDate>2017-11-01</actionDate>
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+      <links />
+    </latestAction>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-11-01</actionDate>
+        <committee>
+          <name>Crime, Terrorism, and Homeland Security Subcommittee</name>
+          <systemCode>hsju08</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-10-20</actionDate>
+        <committee>
+          <name>Health Subcommittee</name>
+          <systemCode>hsif14</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-10-19</actionDate>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      </item>
+      <item>
+        <actionDate>2017-10-19</actionDate>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      </item>
+      <item>
+        <actionDate>2017-10-19</actionDate>
+        <committee />
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <actionDate>2017-10-19</actionDate>
+        <committee />
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>2</placeholderTextForH>
+        <billReferrals>2</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <createDate>2017-10-20T03:11:19Z</createDate>
+    <laws />
+    <titles>
+      <item>
+        <title>To repeal the amendments made to the Controlled Substances Act by the Ensuring Patient Access and Effective Drug Enforcement Act of 2016.</title>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <title>To repeal the amendments made to the Controlled Substances Act by the Ensuring Patient Access and Effective Drug Enforcement Act of 2016.</title>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 169 (Thursday, October 19, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. KUSTER of New Hampshire:H.R. 4084.Congress has the power to enact this legislation pursuantto the following:Under Article I, Section 8, Clause 3 of the Constitution,Congress has the power ``to regulate commerce with foreignnations, and among the several states, and with the Indiantribes,'' and under Article I, Section 8, Clause 18, Congresshas the power ``to make all laws which shall be necessary andproper for the carrying into execution the foregoing powers,and all other powers vested by this Constitution in thegovernment of the United States, or in any department orofficer thereof.''[Page H8042]</pre>]]></constitutionalAuthorityStatementText>
+    <introducedDate>2017-10-19</introducedDate>
+    <calendarNumbers />
+    <recordedVotes />
+    <textVersions>
+      <item>
+        <date>2017-10-19T04:00:00Z</date>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr4084ih/xml/BILLS-115hr4084ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <cosponsors>
+      <item>
+        <bioguideId>J000297</bioguideId>
+        <party>R</party>
+        <sponsorshipDate>2017-10-19</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>H.</middleName>
+        <district>3</district>
+        <state>WV</state>
+        <fullName>Rep. Jenkins, Evan H. [R-WV-3]</fullName>
+        <lastName>Jenkins</lastName>
+        <firstName>Evan</firstName>
+        <identifiers>
+          <lisID>2278</lisID>
+          <gpoId />
+          <bioguideId>J000297</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>R000577</bioguideId>
+        <party>D</party>
+        <sponsorshipDate>2017-10-19</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <district>13</district>
+        <state>OH</state>
+        <fullName>Rep. Ryan, Tim [D-OH-13]</fullName>
+        <lastName>RYAN</lastName>
+        <firstName>TIM</firstName>
+        <identifiers>
+          <bioguideId>R000577</bioguideId>
+          <lisID>1756</lisID>
+          <gpoId>8107</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>C000754</bioguideId>
+        <party>D</party>
+        <sponsorshipDate>2017-10-19</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>H.</middleName>
+        <district>5</district>
+        <state>TN</state>
+        <fullName>Rep. Cooper, Jim [D-TN-5]</fullName>
+        <lastName>COOPER</lastName>
+        <firstName>JAMES</firstName>
+        <identifiers>
+          <lisID>231</lisID>
+          <gpoId>8152</gpoId>
+          <bioguideId>C000754</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>E000293</bioguideId>
+        <party>D</party>
+        <sponsorshipDate>2017-11-29</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>H.</middleName>
+        <district>5</district>
+        <state>CT</state>
+        <fullName>Rep. Esty, Elizabeth H. [D-CT-5]</fullName>
+        <lastName>Esty</lastName>
+        <firstName>Elizabeth</firstName>
+        <identifiers>
+          <bioguideId>E000293</bioguideId>
+          <gpoId />
+          <lisID>2114</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>D000399</bioguideId>
+        <party>D</party>
+        <sponsorshipDate>2017-11-29</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <district>35</district>
+        <state>TX</state>
+        <fullName>Rep. Doggett, Lloyd [D-TX-35]</fullName>
+        <lastName>DOGGETT</lastName>
+        <firstName>LLOYD</firstName>
+        <identifiers>
+          <bioguideId>D000399</bioguideId>
+          <gpoId>8181</gpoId>
+          <lisID>303</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>C001068</bioguideId>
+        <party>D</party>
+        <sponsorshipDate>2017-12-01</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <district>9</district>
+        <state>TN</state>
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <lastName>Cohen</lastName>
+        <firstName>Steve</firstName>
+        <identifiers>
+          <lisID>1878</lisID>
+          <gpoId>8156</gpoId>
+          <bioguideId>C001068</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>D000617</bioguideId>
+        <party>D</party>
+        <sponsorshipDate>2017-12-01</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>K.</middleName>
+        <district>1</district>
+        <state>WA</state>
+        <fullName>Rep. DelBene, Suzan K. [D-WA-1]</fullName>
+        <lastName>DelBene</lastName>
+        <firstName>Suzan</firstName>
+        <identifiers>
+          <bioguideId>D000617</bioguideId>
+          <lisID>2096</lisID>
+          <gpoId>8374</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>J000032</bioguideId>
+        <party>D</party>
+        <sponsorshipDate>2017-12-01</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <district>18</district>
+        <state>TX</state>
+        <fullName>Rep. Jackson Lee, Sheila [D-TX-18]</fullName>
+        <lastName>JACKSON LEE</lastName>
+        <firstName>SHEILA</firstName>
+        <identifiers>
+          <lisID>588</lisID>
+          <gpoId>8174</gpoId>
+          <bioguideId>J000032</bioguideId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <amendments />
+    <billNumber>4084</billNumber>
+    <updateDate>2019-11-15T21:34:04Z</updateDate>
+    <cboCostEstimates />
+    <title>To repeal the amendments made to the Controlled Substances Act by the Ensuring Patient Access and Effective Drug Enforcement Act of 2016.</title>
+    <committeeReports />
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <district>2</district>
+        <lastName>Kuster</lastName>
+        <firstName>Ann</firstName>
+        <state>NH</state>
+        <fullName>Rep. Kuster, Ann M. [D-NH-2]</fullName>
+        <identifiers>
+          <lisID>2145</lisID>
+          <gpoId />
+          <bioguideId>K000382</bioguideId>
+        </identifiers>
+        <middleName>M.</middleName>
+        <bioguideId>K000382</bioguideId>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

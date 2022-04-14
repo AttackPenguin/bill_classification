@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2013-04-23</actionDate>
+        <committee>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <links />
+        <actionDate>2013-04-23</actionDate>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <introducedDate>2013-04-23</introducedDate>
+    <updateDate>2016-10-25T16:23:41Z</updateDate>
+    <createDate>2013-04-24T07:02:13Z</createDate>
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Finance Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-04-23T15:58:32Z</date>
+            </item>
+          </activities>
+          <systemCode>ssfi00</systemCode>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <fullName>Sen. Coburn, Tom [R-OK]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C000560</bioguideId>
+        <identifiers>
+          <lisID>212</lisID>
+          <bioguideId>C000560</bioguideId>
+          <gpoId>8293</gpoId>
+        </identifiers>
+        <sponsorshipDate>2013-04-23</sponsorshipDate>
+        <lastName>COBURN</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <state>OK</state>
+        <firstName>TOM</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Thune, John [R-SD]</fullName>
+        <middleName>R.</middleName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>T000250</bioguideId>
+        <identifiers>
+          <gpoId>8257</gpoId>
+          <lisID>1534</lisID>
+          <bioguideId>T000250</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2013-04-23</sponsorshipDate>
+        <lastName>THUNE</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <state>SD</state>
+        <firstName>JOHN</firstName>
+      </item>
+    </cosponsors>
+    <congress>113</congress>
+    <billType>S</billType>
+    <title>Public Employee Pension Transparency Act</title>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>Public Employee Pension Transparency Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>A bill to amend the Internal Revenue Code of 1986 to provide for reporting and disclosure by State and local public employee retirement pension plans.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Public Employee Pension Transparency Act</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in Senate</name>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2013-05-28T21:33:00Z</lastSummaryUpdateDate>
+          <actionDate>2013-04-23</actionDate>
+          <text><![CDATA[<p>Public Employee Pension Transparency Act - Amends the Internal Revenue Code to deny&nbsp;tax benefits relating to bonds issued by a state or political subdivision during any period in which such state or political subdivision is noncompliant with specified reporting requirements for state or local government employee pension benefit plans. </p> <p>Requires plan sponsors of a state or local government employee pension benefit plan to file with the Secretary of the Treasury a report for each plan year beginning on or after January 1, 2014, setting forth: (1) a schedule of the funding status of the plan, (2) a schedule of contributions by the plan sponsor for the plan year, (3) alternative projections for each of the next 60 plan years of the cash flows associated with the current plan liability, (4) a statement of the actuarial assumptions used for the plan year, (5) a statement of the number of plan participants who are retired or separated from service and are either receiving benefits or are entitled to future benefits and those who are active under the plan, (6) a statement of the plan's investment returns, (7) a statement of the degree to which unfunded liabilities are expected to be eliminated, (8) a statement of the amount of pension obligation bonds outstanding, and (9) a statement of the current cost of the plan for the plan year.</p> <p>Directs the Secretary&nbsp; to develop model reporting statements and create and maintain a public website, with searchable capabilities, for purposes of posting plan information required by this Act.</p> <p>Exempts the United States from liability for any future shortfall in any state or local government employee pension plan.</p>]]></text>
+          <versionCode>00</versionCode>
+          <updateDate>2013-04-23T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <number>1628</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Public Employee Pension Transparency Act</latestTitle>
+        <type>HR</type>
+        <congress>113</congress>
+        <latestAction>
+          <text>Referred to the House Committee on Ways and Means.</text>
+          <actionDate>2013-04-18</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Income tax credits</name>
+          </item>
+          <item>
+            <name>Income tax exclusion</name>
+          </item>
+          <item>
+            <name>Interest, dividends, interest rates</name>
+          </item>
+          <item>
+            <name>Securities</name>
+          </item>
+          <item>
+            <name>State and local finance</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+          <item>
+            <name>Tax administration and collection, taxpayers</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <actionDate>2013-04-23</actionDate>
+    </latestAction>
+    <billNumber>779</billNumber>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <amendments />
+    <sponsors>
+      <item>
+        <firstName>RICHARD</firstName>
+        <party>R</party>
+        <fullName>Sen. Burr, Richard [R-NC]</fullName>
+        <bioguideId>B001135</bioguideId>
+        <identifiers>
+          <bioguideId>B001135</bioguideId>
+          <lisID>153</lisID>
+          <gpoId>8286</gpoId>
+        </identifiers>
+        <lastName>BURR</lastName>
+        <middleName />
+        <state>NC</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

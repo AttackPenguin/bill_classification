@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2017-01-04T04:47:42Z</createDate>
+    <introducedDate>2017-01-03</introducedDate>
+    <version>1.0.0</version>
+    <actions>
+      <item>
+        <committee />
+        <actionTime>18:07:13</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <links />
+        <actionDate>2017-01-03</actionDate>
+        <actionCode>H38310</actionCode>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      </item>
+      <item>
+        <committee />
+        <actionTime>18:07:08</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H36</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H36</url>
+          </link>
+        </links>
+        <actionDate>2017-01-03</actionDate>
+        <actionCode>H37100</actionCode>
+        <text>On agreeing to the resolution Agreed to by voice vote. (text: CR H36)</text>
+      </item>
+      <item>
+        <committee />
+        <actionTime>18:07:08</actionTime>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H36</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H36</url>
+          </link>
+        </links>
+        <actionDate>2017-01-03</actionDate>
+        <actionCode>8000</actionCode>
+        <text>Passed/agreed to in House: On agreeing to the resolution Agreed to by voice vote.(text: CR H36)</text>
+      </item>
+      <item>
+        <committee />
+        <actionTime>18:05:57</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H36</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H36</url>
+          </link>
+        </links>
+        <actionDate>2017-01-03</actionDate>
+        <actionCode>H30000</actionCode>
+        <text>Considered as privileged matter. (consideration: CR H36)</text>
+      </item>
+      <item>
+        <committee />
+        <actionTime>16:55:04</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <links />
+        <actionDate>2017-01-03</actionDate>
+        <actionCode>H15000</actionCode>
+        <text>Held at the desk.</text>
+      </item>
+      <item>
+        <actionDate>2017-01-03</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <committee />
+        <actionTime>15:59:50</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <links />
+        <actionDate>2017-01-03</actionDate>
+        <actionCode>H14000</actionCode>
+        <text>Received in the House.</text>
+      </item>
+      <item>
+        <actionDate>2017-01-03</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S23</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S23</url>
+          </link>
+          <link>
+            <name>S6-7</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S6-7</url>
+          </link>
+          <link>
+            <name>S7</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S7</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S6-7, S23; text as passed Senate: CR S7, S23)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>S23</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S23</url>
+          </link>
+          <link>
+            <name>S6-7</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S6-7</url>
+          </link>
+          <link>
+            <name>S7</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S7</url>
+          </link>
+        </links>
+        <text>Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S6-7, S23; text as passed Senate: CR S7, S23)</text>
+        <actionDate>2017-01-03</actionDate>
+        <actionCode>17000</actionCode>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in Senate</text>
+        <actionDate>2017-01-03</actionDate>
+        <actionCode>10000</actionCode>
+      </item>
+      <actionTypeCounts>
+        <sentToHouse>1</sentToHouse>
+        <heldAtTheDesk>1</heldAtTheDesk>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <introducedInSenate>1</introducedInSenate>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <considerationByHouse>1</considerationByHouse>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <receivedInTheHouse>1</receivedInTheHouse>
+        <passedOrAgreedToInSenateDayOf>1</passedOrAgreedToInSenateDayOf>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>4</senate>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <latestAction>
+      <links />
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      <actionDate>2017-01-03</actionDate>
+      <actionTime>18:07:13</actionTime>
+    </latestAction>
+    <title>A concurrent resolution to provide for the counting on January 6, 2017, of the electoral votes for President and Vice President of the United States.</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2017-01-27T14:55:07Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Provides for the counting of the electoral votes for President and Vice President of the United States. </p>]]></text>
+          <versionCode>00</versionCode>
+          <updateDate>2017-01-03T05:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+          <actionDate>2017-01-03</actionDate>
+        </item>
+        <item>
+          <actionDesc>Passed House without amendment</actionDesc>
+          <lastSummaryUpdateDate>2017-02-06T19:36:08Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</p> <p>Provides for the counting of the electoral votes for President and Vice President of the United States. </p>]]></text>
+          <versionCode>81</versionCode>
+          <updateDate>2017-01-03T14:30:59Z</updateDate>
+          <name>Passed House without amendment</name>
+          <actionDate>2017-01-03</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>2</billNumber>
+    <laws />
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>1395</lisID>
+          <bioguideId>M000355</bioguideId>
+          <gpoId>8254</gpoId>
+        </identifiers>
+        <bioguideId>M000355</bioguideId>
+        <middleName />
+        <party>R</party>
+        <fullName>Sen. McConnell, Mitch [R-KY]</fullName>
+        <firstName>MITCH</firstName>
+        <state>KY</state>
+        <lastName>MCCONNELL</lastName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <calendarNumbers />
+    <committeeReports />
+    <congress>115</congress>
+    <amendments />
+    <notes />
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115sconres2enr/xml/BILLS-115sconres2enr.xml</url>
+          </item>
+        </formats>
+        <date />
+        <type>Enrolled Bill</type>
+      </item>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115sconres2es/xml/BILLS-115sconres2es.xml</url>
+          </item>
+        </formats>
+        <date>2017-01-03T05:00:00Z</date>
+        <type>Engrossed in Senate</type>
+      </item>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115sconres2ats/xml/BILLS-115sconres2ats.xml</url>
+          </item>
+        </formats>
+        <date>2017-01-03T05:00:00Z</date>
+        <type>Agreed to Senate</type>
+      </item>
+    </textVersions>
+    <billType>SCONRES</billType>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congress</name>
+          </item>
+          <item>
+            <name>Congressional operations and organization</name>
+          </item>
+          <item>
+            <name>Elections, voting, political campaign regulation</name>
+          </item>
+          <item>
+            <name>Presidents and presidential powers, Vice Presidents</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <relatedBills />
+    <cboCostEstimates />
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees />
+    </committees>
+    <cosponsors />
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A concurrent resolution to provide for the counting on January 6, 2017, of the electoral votes for President and Vice President of the United States.</title>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>A concurrent resolution to provide for the counting on January 6, 2017, of the electoral votes for President and Vice President of the United States.</title>
+        <chamberName />
+        <parentTitleType />
+      </item>
+    </titles>
+    <updateDate>2019-04-18T16:29:10Z</updateDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

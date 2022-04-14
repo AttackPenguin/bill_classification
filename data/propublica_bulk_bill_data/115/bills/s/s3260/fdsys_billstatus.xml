@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssfi00</systemCode>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-07-24T22:38:10Z</date>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <name>Finance Committee</name>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <billNumber>3260</billNumber>
+    <latestAction>
+      <actionDate>2018-07-24</actionDate>
+      <links />
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </latestAction>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2018-07-24</actionDate>
+        <committee>
+          <name>Finance Committee</name>
+          <systemCode>ssfi00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in Senate</text>
+        <actionDate>2018-07-24</actionDate>
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+    </actions>
+    <billType>S</billType>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <calendarNumbers />
+    <sponsors>
+      <item>
+        <bioguideId>C001070</bioguideId>
+        <state>PA</state>
+        <firstName>Bob</firstName>
+        <middleName />
+        <fullName>Sen. Casey, Robert P., Jr. [D-PA]</fullName>
+        <identifiers>
+          <bioguideId>C001070</bioguideId>
+          <gpoId>8282</gpoId>
+          <lisID>1828</lisID>
+        </identifiers>
+        <byRequestType />
+        <party>D</party>
+        <lastName>Casey</lastName>
+      </item>
+    </sponsors>
+    <updateDate>2019-05-01T14:27:32Z</updateDate>
+    <createDate>2018-07-25T04:40:43Z</createDate>
+    <relatedBills />
+    <introducedDate>2018-07-24</introducedDate>
+    <laws />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Disability and paralysis</name>
+          </item>
+          <item>
+            <name>Disability assistance</name>
+          </item>
+          <item>
+            <name>Income tax credits</name>
+          </item>
+          <item>
+            <name>Long-term, rehabilitative, and terminal care</name>
+          </item>
+          <item>
+            <name>Migrant, seasonal, agricultural labor</name>
+          </item>
+          <item>
+            <name>Poverty and welfare assistance</name>
+          </item>
+          <item>
+            <name>Railroads</name>
+          </item>
+          <item>
+            <name>Transportation employees</name>
+          </item>
+          <item>
+            <name>Unemployment</name>
+          </item>
+          <item>
+            <name>Wages and earnings</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <cboCostEstimates />
+    <amendments />
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <fullName>Sen. Hassan, Margaret Wood [D-NH]</fullName>
+        <identifiers>
+          <bioguideId>H001076</bioguideId>
+          <gpoId />
+          <lisID>2302</lisID>
+        </identifiers>
+        <middleName>Wood</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Hassan</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>NH</state>
+        <sponsorshipDate>2018-07-24</sponsorshipDate>
+        <firstName>Margaret</firstName>
+        <bioguideId>H001076</bioguideId>
+      </item>
+      <item>
+        <party>D</party>
+        <fullName>Sen. Murray, Patty [D-WA]</fullName>
+        <identifiers>
+          <lisID>1409</lisID>
+          <bioguideId>M001111</bioguideId>
+          <gpoId>8237</gpoId>
+        </identifiers>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>MURRAY</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>WA</state>
+        <sponsorshipDate>2018-07-24</sponsorshipDate>
+        <firstName>PATTY</firstName>
+        <bioguideId>M001111</bioguideId>
+      </item>
+      <item>
+        <party>D</party>
+        <fullName>Sen. Van Hollen, Chris [D-MD]</fullName>
+        <identifiers>
+          <gpoId>7983</gpoId>
+          <bioguideId>V000128</bioguideId>
+          <lisID>1729</lisID>
+        </identifiers>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Van Hollen</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MD</state>
+        <sponsorshipDate>2018-07-24</sponsorshipDate>
+        <firstName>Chris</firstName>
+        <bioguideId>V000128</bioguideId>
+      </item>
+      <item>
+        <party>D</party>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <identifiers>
+          <bioguideId>K000367</bioguideId>
+          <gpoId>8249</gpoId>
+          <lisID>1826</lisID>
+        </identifiers>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Klobuchar</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MN</state>
+        <sponsorshipDate>2018-07-24</sponsorshipDate>
+        <firstName>Amy</firstName>
+        <bioguideId>K000367</bioguideId>
+      </item>
+      <item>
+        <party>D</party>
+        <fullName>Sen. Duckworth, Tammy [D-IL]</fullName>
+        <identifiers>
+          <gpoId />
+          <lisID>2123</lisID>
+          <bioguideId>D000622</bioguideId>
+        </identifiers>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Duckworth</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>IL</state>
+        <sponsorshipDate>2018-07-25</sponsorshipDate>
+        <firstName>Tammy</firstName>
+        <bioguideId>D000622</bioguideId>
+      </item>
+      <item>
+        <party>D</party>
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <identifiers>
+          <lisID>136</lisID>
+          <bioguideId>B000944</bioguideId>
+          <gpoId>8309</gpoId>
+        </identifiers>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Brown</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>OH</state>
+        <sponsorshipDate>2018-09-06</sponsorshipDate>
+        <firstName>Sherrod</firstName>
+        <bioguideId>B000944</bioguideId>
+      </item>
+    </cosponsors>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2018-07-24T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115s3260is/xml/BILLS-115s3260is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in Senate</name>
+          <actionDate>2018-07-24</actionDate>
+          <lastSummaryUpdateDate>2019-04-25T15:20:16Z</lastSummaryUpdateDate>
+          <updateDate>2018-07-24T04:00:00Z</updateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <text><![CDATA[<p><b>Disability Employment Incentive Act </b></p> <p>This bill expands tax credits and deductions that are available for employers who hire and retain employees with disabilities.</p> <p>The bill expands the work opportunity tax credit to include the hiring of employees who receive Social Security Disability Insurance (SSDI) benefits. For employers that hire vocational rehabilitation referrals, Supplemental Security Income recipients, or SSDI recipients, the bill also (1) increases the amount of wages that may be taken into account for the credit, and (2) allows an additional credit for second-year wages. </p> <p>With respect to the tax credit for expenditures by eligible small businesses to provide access to disabled individuals, the bill increases the limits that apply to (1) the amount of expenditures that are eligible for the credit, and (2) the gross receipts and full-time employees of eligible small businesses.</p> <p>The bill also expands the tax deduction for expenditures to remove architectural and transportation barriers to the handicapped and elderly. The bill modifies the deduction to (1) increase limitation on the amount of the deduction, and (2) allow the deduction to be used for certain improvements in the accessibility of Internet or telecommunications services to handicapped and elderly individuals.</p>]]></text>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>115</congress>
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>A bill to amend the Internal Revenue Code of 1986 to include individuals receiving Social Security Disability Insurance benefits under the work opportunity credit, increase the work opportunity credit for vocational rehabilitation referrals, qualified SSI recipients, and qualified SSDI recipients, expand the disabled access credit, and enhance the deduction for expenditures to remove architectural and transportation barriers to the handicapped and elderly.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Disability Employment Incentive Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>Disability Employment Incentive Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Disability Employment Incentive Act</title>
+      </item>
+    </titles>
+    <title>Disability Employment Incentive Act</title>
+    <committeeReports />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

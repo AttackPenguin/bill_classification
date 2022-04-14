@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>House of Representatives</name>
+          </item>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <relatedBills>
+      <item>
+        <number>1</number>
+        <congress>115</congress>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2017-12-22</actionDate>
+          <text>Became Public Law No: 115-97.</text>
+        </latestAction>
+        <latestTitle>An Act to provide for reconciliation pursuant to titles II and V of the concurrent resolution on the budget for fiscal year 2018.</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Procedurally-related</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+          <activities>
+            <item>
+              <name>Reported original measure</name>
+              <date>2017-12-20T14:13:46Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <text><![CDATA[Sets forth the rule for consideration of the Senate amendment to the bill (H.R. 1) to provide for reconciliation pursuant to titles II and V of the concurrent resolution on the budget for fiscal year 2018.]]></text>
+          <actionDate>2017-12-20</actionDate>
+          <lastSummaryUpdateDate>2017-12-21T09:07:09Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2017-12-20T05:00:00Z</updateDate>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <version>1.0.0</version>
+    <originChamber>House</originChamber>
+    <congress>115</congress>
+    <latestAction>
+      <actionTime>11:52:35</actionTime>
+      <actionDate>2017-12-20</actionDate>
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      <links />
+    </latestAction>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <committeeReportOfAnOriginalMeasure>1</committeeReportOfAnOriginalMeasure>
+        <provisionsOfARule>1</provisionsOfARule>
+        <houseCalendarAssignment>1</houseCalendarAssignment>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <considerationByHouse>1</considerationByHouse>
+        <generalDebate>1</generalDebate>
+        <reportedToHouse>1</reportedToHouse>
+        <motionForPreviousQuestion>1</motionForPreviousQuestion>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+      </actionTypeCounts>
+      <item>
+        <actionCode>H38310</actionCode>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-12-20</actionDate>
+        <type>Floor</type>
+        <links />
+        <committee />
+        <actionTime>11:52:35</actionTime>
+      </item>
+      <item>
+        <actionCode>H37100</actionCode>
+        <text>On agreeing to the resolution Agreed to by the Yeas and Nays: 232 - 190 (Roll no. 698). (text: CR H10252)</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-12-20</actionDate>
+        <type>Floor</type>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H10252</url>
+            <name>H10252</name>
+          </link>
+          <link>
+            <url>http://clerk.house.gov/evs/2017/roll698.xml</url>
+            <name>Roll no. 698</name>
+          </link>
+        </links>
+        <committee />
+        <actionTime>11:52:33</actionTime>
+      </item>
+      <item>
+        <actionCode>8000</actionCode>
+        <text>Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 232 - 190 (Roll no. 698).(text: CR H10252)</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-12-20</actionDate>
+        <type>Floor</type>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H10252</url>
+            <name>H10252</name>
+          </link>
+          <link>
+            <url>http://clerk.house.gov/evs/2017/roll698.xml</url>
+            <name>Roll no. 698</name>
+          </link>
+        </links>
+        <committee />
+        <actionTime>11:52:33</actionTime>
+      </item>
+      <item>
+        <actionCode>H35000</actionCode>
+        <text>On ordering the previous question Agreed to by the Yeas and Nays: 234 - 188 (Roll no. 697). (consideration: CR H10260-10261)</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-12-20</actionDate>
+        <type>Floor</type>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H10260-10261</url>
+            <name>H10260-10261</name>
+          </link>
+          <link>
+            <url>http://clerk.house.gov/evs/2017/roll697.xml</url>
+            <name>Roll no. 697</name>
+          </link>
+        </links>
+        <committee />
+        <actionTime>11:44:42</actionTime>
+      </item>
+      <item>
+        <actionCode>H8D000</actionCode>
+        <text>DEBATE - The House proceeded with one hour of debate on H. Res. 668.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-12-20</actionDate>
+        <type>Floor</type>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/668</url>
+            <name>H. Res. 668</name>
+          </link>
+        </links>
+        <committee />
+        <actionTime>10:15:54</actionTime>
+      </item>
+      <item>
+        <actionCode>H30000</actionCode>
+        <text>Considered as privileged matter. (consideration: CR H10252-10261)</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-12-20</actionDate>
+        <type>Floor</type>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H10252-10261</url>
+            <name>H10252-10261</name>
+          </link>
+        </links>
+        <committee />
+        <actionTime>10:15:01</actionTime>
+      </item>
+      <item>
+        <actionCode>H12420</actionCode>
+        <text>Placed on the House Calendar, Calendar No. 112.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-12-20</actionDate>
+        <type>Calendars</type>
+        <links />
+        <committee />
+      </item>
+      <item>
+        <actionCode>H12700</actionCode>
+        <text>Rule provides for consideration of Senate Amendment to H.R. 1. Previous question shall be considered as ordered without intervening motions.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-12-20</actionDate>
+        <type>Floor</type>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/1</url>
+            <name>H.R. 1</name>
+          </link>
+        </links>
+        <committee />
+        <actionTime>09:13:47</actionTime>
+      </item>
+      <item>
+        <actionCode>H12100</actionCode>
+        <text>The House Committee on Rules reported an original measure, H. Rept. 115-476, by Mr. Sessions.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-12-20</actionDate>
+        <type>Committee</type>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/476</url>
+            <name>H. Rept. 115-476</name>
+          </link>
+        </links>
+        <committee>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+        </committee>
+      </item>
+      <item>
+        <actionCode>5000</actionCode>
+        <text>The House Committee on Rules reported an original measure, H. Rept. 115-476, by Mr. Sessions.</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-12-20</actionDate>
+        <type>Committee</type>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/476</url>
+            <name>H. Rept. 115-476</name>
+          </link>
+        </links>
+        <committee>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+        </committee>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-12-20</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>11</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <createDate>2017-12-21T03:11:05Z</createDate>
+    <laws />
+    <titles>
+      <item>
+        <title>Providing for consideration of the Senate amendment to the bill (H.R. 1) to provide for reconciliation pursuant to titles II and V of the concurrent resolution on the budget for fiscal year 2018.</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>Providing for consideration of the Senate amendment to the bill (H.R. 1) to provide for reconciliation pursuant to titles II and V of the concurrent resolution on the budget for fiscal year 2018.</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <constitutionalAuthorityStatementText />
+    <introducedDate>2017-12-20</introducedDate>
+    <calendarNumbers>
+      <item>
+        <calendar>H00112</calendar>
+        <number />
+      </item>
+    </calendarNumbers>
+    <recordedVotes>
+      <recordedVote>
+        <rollNumber>698</rollNumber>
+        <congress>115</congress>
+        <fullActionName>Passage of a Measure</fullActionName>
+        <sessionNumber>1</sessionNumber>
+        <chamber>House</chamber>
+        <url>http://clerk.house.gov/evs/2017/roll698.xml</url>
+        <date>2017-12-20T16:52:33Z</date>
+      </recordedVote>
+      <recordedVote>
+        <rollNumber>697</rollNumber>
+        <congress>115</congress>
+        <fullActionName>Motion for Previous Question</fullActionName>
+        <sessionNumber>1</sessionNumber>
+        <chamber>House</chamber>
+        <url>http://clerk.house.gov/evs/2017/roll697.xml</url>
+        <date>2017-12-20T16:44:42Z</date>
+      </recordedVote>
+    </recordedVotes>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hres668eh/xml/BILLS-115hres668eh.xml</url>
+          </item>
+        </formats>
+        <date>2017-12-20T05:00:00Z</date>
+        <type>Engrossed in House</type>
+      </item>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hres668rh/xml/BILLS-115hres668rh.xml</url>
+          </item>
+        </formats>
+        <date>2017-12-20T05:00:00Z</date>
+        <type>Reported in House</type>
+      </item>
+    </textVersions>
+    <cosponsors />
+    <amendments />
+    <billNumber>668</billNumber>
+    <updateDate>2019-11-15T21:47:02Z</updateDate>
+    <cboCostEstimates />
+    <title>Providing for consideration of the Senate amendment to the bill (H.R. 1) to provide for reconciliation pursuant to titles II and V of the concurrent resolution on the budget for fiscal year 2018.</title>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-476</citation>
+      </committeeReport>
+    </committeeReports>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <district>32</district>
+        <lastName>SESSIONS</lastName>
+        <firstName>PETE</firstName>
+        <state>TX</state>
+        <fullName>Rep. Sessions, Pete [R-TX-32]</fullName>
+        <identifiers>
+          <lisID>1525</lisID>
+          <gpoId>8188</gpoId>
+          <bioguideId>S000250</bioguideId>
+        </identifiers>
+        <middleName />
+        <bioguideId>S000250</bioguideId>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <billType>HRES</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

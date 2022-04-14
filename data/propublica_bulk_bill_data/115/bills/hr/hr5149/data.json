@@ -1,0 +1,162 @@
+{
+  "actions": [
+    {
+      "acted_at": "2018-03-01", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-03-01", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2018-03-06", 
+      "action_code": "B00100", 
+      "links": [
+        {
+          "name": "H1380", 
+          "url": "https://www.congress.gov/congressional-record/volume-164/house-section/page/H1380"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H1380", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-03-13", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Federal Lands.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2018-06-21", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5149-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "hearings", 
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on National Parks, Forests, and Public Lands", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "G000565", 
+      "district": "4", 
+      "name": "Gosar, Paul A.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2018-06-21", 
+      "state": "AZ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2018-06-21", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2018-03-01", 
+  "number": "5149", 
+  "official_title": "To provide that certain wilderness study areas in Montana have been adequately studied for wilderness designation.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Unlocking Public Lands Act", 
+  "sponsor": {
+    "bioguide_id": "G000584", 
+    "district": "0", 
+    "name": "Gianforte, Greg", 
+    "state": "MT", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2018-03-01", 
+  "subjects": [
+    "Government studies and investigations", 
+    "Land use and conservation", 
+    "Montana", 
+    "Public lands and natural resources", 
+    "Wilderness and natural areas, wildlife refuges, wild rivers, habitats"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2018-03-01T05:00:00Z", 
+    "text": "Unlocking Public Lands Act\n\nThis bill releases specified wilderness study areas in Montana\u00a0as adequately studied for wilderness designation. Such lands shall be managed in accordance with land management plans adopted by the Federal Land Policy and Management Act of 1976."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide that certain wilderness study areas in Montana have been adequately studied for wilderness designation.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Unlocking Public Lands Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Unlocking Public Lands Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Unlocking Public Lands Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-11-15T21:31:26Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr5149.xml"
+}

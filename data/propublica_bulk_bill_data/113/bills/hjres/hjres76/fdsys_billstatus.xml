@@ -1,0 +1,1278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>HJRES</billType>
+    <introducedDate>2013-10-03</introducedDate>
+    <committeeReports />
+    <congress>113</congress>
+    <cosponsors />
+    <recordedVotes>
+      <recordedVote>
+        <sessionNumber>2</sessionNumber>
+        <chamber>House</chamber>
+        <congress>113</congress>
+        <url>http://clerk.house.gov/evs/2014/roll480.xml</url>
+        <date>2014-08-02T02:04:05Z</date>
+        <rollNumber>480</rollNumber>
+        <fullActionName>Vote on House Agreeing to the Senate Action</fullActionName>
+      </recordedVote>
+      <recordedVote>
+        <sessionNumber>1</sessionNumber>
+        <chamber>House</chamber>
+        <congress>113</congress>
+        <url>http://clerk.house.gov/evs/2013/roll542.xml</url>
+        <date>2013-10-11T15:07:52Z</date>
+        <rollNumber>542</rollNumber>
+        <fullActionName>Passage of a Measure</fullActionName>
+      </recordedVote>
+      <recordedVote>
+        <sessionNumber>1</sessionNumber>
+        <chamber>House</chamber>
+        <congress>113</congress>
+        <url>http://clerk.house.gov/evs/2013/roll541.xml</url>
+        <date>2013-10-11T14:56:50Z</date>
+        <rollNumber>541</rollNumber>
+        <fullActionName>Free Form Motions Results</fullActionName>
+      </recordedVote>
+    </recordedVotes>
+    <latestAction>
+      <text>Became Public Law No: 113-145.</text>
+      <links>
+        <link>
+          <name>Public Law No: 113-145</name>
+          <url>https://www.congress.gov/bill/113th-congress/house-joint-resolution/76/text/pl</url>
+        </link>
+      </links>
+      <actionDate>2014-08-04</actionDate>
+    </latestAction>
+    <relatedBills>
+      <item>
+        <number>371</number>
+        <latestAction>
+          <actionDate>2013-10-04</actionDate>
+          <text>DEBATE - Mr. Cole asked unanimous consent to modify the text of H.Res. 371 with the amendment at the desk. Agreed to without objection.</text>
+          <actionTime>15:02:59</actionTime>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>House</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <type>HRES</type>
+        <latestTitle>Providing for consideration of the joint resolution (H.J. Res. 75) making continuing appropriations for the Special Supplemental Nutrition Program for Women, Infants, and Children for fiscal year 2014, and for other purposes; providing for consideration of motions to suspend the rules; waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules; and for other purposes.</latestTitle>
+      </item>
+    </relatedBills>
+    <updateDate>2016-10-25T17:06:44Z</updateDate>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>25</houseOfRepresentatives>
+        <senate>6</senate>
+      </actionByCounts>
+      <item>
+        <text>Became Public Law No: 113-145.</text>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/113th-congress/house-joint-resolution/76/text/pl</url>
+            <name>Public Law No: 113-145</name>
+          </link>
+        </links>
+        <type>President</type>
+        <actionDate>2014-08-04</actionDate>
+        <actionCode>E40000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Became Public Law No: 113-145.</text>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/113th-congress/house-joint-resolution/76/text/pl</url>
+            <name>Public Law No: 113-145</name>
+          </link>
+        </links>
+        <type>BecameLaw</type>
+        <actionDate>2014-08-04</actionDate>
+        <actionCode>36000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Signed by President.</text>
+        <committee />
+        <links />
+        <type>President</type>
+        <actionDate>2014-08-04</actionDate>
+        <actionCode>E30000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Signed by President.</text>
+        <committee />
+        <links />
+        <type>BecameLaw</type>
+        <actionDate>2014-08-04</actionDate>
+        <actionCode>36000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Presented to President.</text>
+        <committee />
+        <links />
+        <type>Floor</type>
+        <actionDate>2014-08-04</actionDate>
+        <actionCode>E20000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Presented to President.</text>
+        <committee />
+        <links />
+        <type>President</type>
+        <actionDate>2014-08-04</actionDate>
+        <actionCode>28000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <committee />
+        <actionTime>22:04:06</actionTime>
+        <links />
+        <type>ResolvingDifferences</type>
+        <actionDate>2014-08-01</actionDate>
+        <actionCode>H41931</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>On motion that the House agree to the Senate amendments Agreed to by the Yeas and Nays: 395 - 8 (Roll no. 480). (text as House agreed to Senate Amendments: CR H7205)</text>
+        <committee />
+        <actionTime>22:04:05</actionTime>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-160/house-section/page/H7205</url>
+            <name>H7205</name>
+          </link>
+          <link>
+            <url>http://clerk.house.gov/evs/2014/roll480.xml</url>
+            <name>Roll no. 480</name>
+          </link>
+        </links>
+        <type>ResolvingDifferences</type>
+        <actionDate>2014-08-01</actionDate>
+        <actionCode>H41610</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Resolving differences -- House actions: On motion that the House agree to the Senate amendments Agreed to by the Yeas and Nays: 395 - 8 (Roll no. 480).(text as House agreed to Senate Amendments: CR H7205)</text>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-160/house-section/page/H7205</url>
+            <name>H7205</name>
+          </link>
+          <link>
+            <url>http://clerk.house.gov/evs/2014/roll480.xml</url>
+            <name>Roll no. 480</name>
+          </link>
+        </links>
+        <type>NotUsed</type>
+        <actionDate>2014-08-01</actionDate>
+        <actionCode>19500</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Rogers (KY) motion to agree in the Senate amendments to H.J.Res. 76, the Chair put the question on agreeing to the Senate amendments and by voice vote, announced that the ayes prevailed. Mr. Rogers (KY) demanded the yeas and nays and the Chair postponed further proceedings until later in the legislative day.</text>
+        <committee />
+        <actionTime>17:39:46</actionTime>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/113th-congress/house-joint-resolution/76</url>
+            <name>H.J.Res. 76</name>
+          </link>
+        </links>
+        <type>Floor</type>
+        <actionDate>2014-08-01</actionDate>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>The previous question was ordered without objection. (consideration: CR H7205)</text>
+        <committee />
+        <actionTime>17:38:51</actionTime>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-160/house-section/page/H7205</url>
+            <name>H7205</name>
+          </link>
+        </links>
+        <type>ResolvingDifferences</type>
+        <actionDate>2014-08-01</actionDate>
+        <actionCode>H41400</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Mr. Rogers (KY) moved that the House agree to the Senate amendments. (consideration: CR H7205, H7236)</text>
+        <committee />
+        <actionTime>17:38:50</actionTime>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-160/house-section/page/H7205</url>
+            <name>H7205</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-160/house-section/page/H7236</url>
+            <name>H7236</name>
+          </link>
+        </links>
+        <type>ResolvingDifferences</type>
+        <actionDate>2014-08-01</actionDate>
+        <actionCode>H40150</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>ORDER OF BUSINESS - Mr. Sessions asked unanimous consent that it be in order at any time to take from the Speaker's table H.J.Res. 76, with the Senate amendments thereto, and to consider in the House, without intervention of any point of order, a single motion offered by the Chair of the Committee on Appropriations or his designee that the House concur in the Senate amendments; the Senate amendments be considered as read; the previous question be considered as ordered on the motion to adoption without intervening motion or demand for division of the question; and the Chair may postpone the question of adoption of the motion as though under clause 8 of rule 20.</text>
+        <committee />
+        <actionTime>17:38:21</actionTime>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/113th-congress/house-joint-resolution/76</url>
+            <name>H.J.Res. 76</name>
+          </link>
+        </links>
+        <type>Floor</type>
+        <actionDate>2014-08-01</actionDate>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2014-08-01</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2014-08-01</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <text>Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.</text>
+        <committee />
+        <links />
+        <type>Floor</type>
+        <actionDate>2014-08-01</actionDate>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2014-08-01</actionDate>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-160/senate-section/page/S5318-5319</url>
+            <name>S5318-5319</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Measure laid before Senate by unanimous consent. (consideration: CR S5318-5319)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2013-10-13</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 220.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2013-10-12</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <committee />
+        <actionTime>11:07:52</actionTime>
+        <links />
+        <type>Floor</type>
+        <actionDate>2013-10-11</actionDate>
+        <actionCode>H38310</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>On passage Passed by recorded vote: 248 - 176 (Roll no. 542). (text: CR H6497)</text>
+        <committee />
+        <actionTime>11:07:52</actionTime>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-159/house-section/page/H6497</url>
+            <name>H6497</name>
+          </link>
+          <link>
+            <url>http://clerk.house.gov/evs/2013/roll542.xml</url>
+            <name>Roll no. 542</name>
+          </link>
+        </links>
+        <type>Floor</type>
+        <actionDate>2013-10-11</actionDate>
+        <actionCode>H37100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Passed/agreed to in House: On passage Passed by recorded vote: 248 - 176 (Roll no. 542).(text: CR H6497)</text>
+        <committee />
+        <actionTime>11:07:52</actionTime>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-159/house-section/page/H6497</url>
+            <name>H6497</name>
+          </link>
+          <link>
+            <url>http://clerk.house.gov/evs/2013/roll542.xml</url>
+            <name>Roll no. 542</name>
+          </link>
+        </links>
+        <type>Floor</type>
+        <actionDate>2013-10-11</actionDate>
+        <actionCode>8000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>On motion to table the appeal of the ruling of the Chair Agreed to by the Yeas and Nays: 226 - 195 (Roll no. 541).</text>
+        <committee />
+        <actionTime>10:56:50</actionTime>
+        <links>
+          <link>
+            <url>http://clerk.house.gov/evs/2013/roll541.xml</url>
+            <name>Roll no. 541</name>
+          </link>
+        </links>
+        <type>Floor</type>
+        <actionDate>2013-10-11</actionDate>
+        <actionCode>H36610</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Mr. Frelinghuysen moved to table the appeal of the ruling of the Chair.</text>
+        <committee />
+        <actionTime>10:32:22</actionTime>
+        <links />
+        <type>Floor</type>
+        <actionDate>2013-10-11</actionDate>
+        <actionCode>H36600</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Ms. Kelly (IL) appealed the ruling of the chair. The question was then put on sustaining the ruling of the chair. (consideration: CR H6502)</text>
+        <committee />
+        <actionTime>10:32:06</actionTime>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-159/house-section/page/H6502</url>
+            <name>H6502</name>
+          </link>
+        </links>
+        <type>Floor</type>
+        <actionDate>2013-10-11</actionDate>
+        <actionCode>H36800</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Point of order sustained against the motion to recommit with instructions.</text>
+        <committee>
+          <systemCode>hsap00</systemCode>
+          <name>Appropriations Committee</name>
+        </committee>
+        <actionTime>10:30:11</actionTime>
+        <links />
+        <type>Floor</type>
+        <actionDate>2013-10-11</actionDate>
+        <actionCode>H36110</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Mr. Frelinghuysen raised a point of order against the motion to recommit with instructions. Mr. Frelinghuysen stated that the amendment was not germane to the underlying bill. Sustained by the Chair.</text>
+        <committee />
+        <actionTime>10:30:11</actionTime>
+        <links />
+        <type>ResolvingDifferences</type>
+        <actionDate>2013-10-11</actionDate>
+        <actionCode>H81000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>DEBATE - The House proceeded with 10 minutes of debate on the Kelly (IL) motion recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House forthwith with an amendment to replace the underlying bill with the Senate Amendment to H.J. Res. 59, Continuing Appropriations Resolution, 2014, pending reservation of a point of order.</text>
+        <committee />
+        <actionTime>10:27:21</actionTime>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/113th-congress/house-joint-resolution/59</url>
+            <name>H.J. Res. 59</name>
+          </link>
+        </links>
+        <type>Floor</type>
+        <actionDate>2013-10-11</actionDate>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Ms. Kelly (IL) moved to recommit with instructions to Appropriations. (consideration: CR H6502; text: CR H6502)</text>
+        <committee>
+          <systemCode>hsap00</systemCode>
+          <name>Appropriations Committee</name>
+        </committee>
+        <actionTime>10:27:07</actionTime>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-159/house-section/page/H6502</url>
+            <name>H6502</name>
+          </link>
+        </links>
+        <type>Floor</type>
+        <actionDate>2013-10-11</actionDate>
+        <actionCode>H36100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Considered as unfinished business. (consideration: CR H6502-6504)</text>
+        <committee />
+        <actionTime>10:26:53</actionTime>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-159/house-section/page/H6502-6504</url>
+            <name>H6502-6504</name>
+          </link>
+        </links>
+        <type>Floor</type>
+        <actionDate>2013-10-11</actionDate>
+        <actionCode>H30000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>POSTPONED PROCEEDINGS - The Chair announced that further proceedings on H.J. Res. 76 had been postponed.</text>
+        <committee />
+        <actionTime>09:57:40</actionTime>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/113th-congress/house-joint-resolution/76</url>
+            <name>H.J. Res. 76</name>
+          </link>
+        </links>
+        <type>Floor</type>
+        <actionDate>2013-10-11</actionDate>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>The previous question was ordered pursuant to the rule. (consideration: CR H6502)</text>
+        <committee />
+        <actionTime>09:57:32</actionTime>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-159/house-section/page/H6502</url>
+            <name>H6502</name>
+          </link>
+        </links>
+        <type>Floor</type>
+        <actionDate>2013-10-11</actionDate>
+        <actionCode>H35000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>DEBATE - The House proceeded with 40 minutes of debate on H.J. Res. 76.</text>
+        <committee />
+        <actionTime>09:13:17</actionTime>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/113th-congress/house-joint-resolution/76</url>
+            <name>H.J. Res. 76</name>
+          </link>
+        </links>
+        <type>Floor</type>
+        <actionDate>2013-10-11</actionDate>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Considered under the provisions of rule H. Res. 371. (consideration: CR H6497-6502)</text>
+        <committee />
+        <actionTime>09:12:49</actionTime>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/113th-congress/house-resolution/371</url>
+            <name>H. Res. 371</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-159/house-section/page/H6497-6502</url>
+            <name>H6497-6502</name>
+          </link>
+        </links>
+        <type>Floor</type>
+        <actionDate>2013-10-11</actionDate>
+        <actionCode>H30000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Referred to the House Committee on Appropriations.</text>
+        <committee>
+          <systemCode>hsap00</systemCode>
+          <name>Appropriations Committee</name>
+        </committee>
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2013-10-03</actionDate>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2013-10-03</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2013-10-03</actionDate>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <motionToCommitRecommitWithInstructionsResults>1</motionToCommitRecommitWithInstructionsResults>
+        <motionForThePreviousQuestionOffered>1</motionForThePreviousQuestionOffered>
+        <passedSenate>1</passedSenate>
+        <freeFormMotionsOffered>1</freeFormMotionsOffered>
+        <voteOnHouseAgreeingToTheSenateAction>1</voteOnHouseAgreeingToTheSenateAction>
+        <presentedToPresident>1</presentedToPresident>
+        <introducedInHouse>1</introducedInHouse>
+        <pointOfOrderAgainstAMotion>1</pointOfOrderAgainstAMotion>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <lastSenateActionBeingConsideredByOtherTypeOfConsideration>1</lastSenateActionBeingConsideredByOtherTypeOfConsideration>
+        <considerationByHouse>2</considerationByHouse>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <resolvingDifferencesHouseActions>1</resolvingDifferencesHouseActions>
+        <generalDebate>5</generalDebate>
+        <measureLaidBeforeSenate>1</measureLaidBeforeSenate>
+        <sentToHouse>1</sentToHouse>
+        <becamePublicLaw>2</becamePublicLaw>
+        <motionToCommitRecommitWithInstructionsOffered>1</motionToCommitRecommitWithInstructionsOffered>
+        <placedOnCalendarSection>2</placedOnCalendarSection>
+        <placeholderTextForE>3</placeholderTextForE>
+        <motionToReconsiderResults>2</motionToReconsiderResults>
+        <motionForPreviousQuestion>1</motionForPreviousQuestion>
+        <freeFormMotionsResults>1</freeFormMotionsResults>
+      </actionTypeCounts>
+    </actions>
+    <calendarNumbers>
+      <item>
+        <number>0220</number>
+        <calendar>Senate Calendar of Business</calendar>
+      </item>
+      <item>
+        <number />
+        <calendar>Senate Calendar of Business</calendar>
+      </item>
+    </calendarNumbers>
+    <amendments>
+      <amendment>
+        <congress>113</congress>
+        <number>3781</number>
+        <type>SAMDT</type>
+        <latestAction>
+          <actionDate>2014-08-01</actionDate>
+          <text>Amendment SA 3781 agreed to in Senate by Unanimous Consent.</text>
+        </latestAction>
+        <description />
+        <purpose>To amend the title.</purpose>
+        <number>3781</number>
+        <congress>113</congress>
+        <createDate>2014-08-02T04:54:48Z</createDate>
+        <amendedBill>
+          <number>76</number>
+          <type>HJRES</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <title>Emergency Supplemental Appropriations Resolution, 2014</title>
+          <congress>113</congress>
+        </amendedBill>
+        <type>SAMDT</type>
+        <proposedDate>2014-08-01T04:00:00Z</proposedDate>
+        <submittedDate>2014-08-01T04:00:00Z</submittedDate>
+        <links />
+        <amendedAmendment />
+        <titles />
+        <updateDate>2016-10-25T17:06:44Z</updateDate>
+        <chamber>Senate</chamber>
+        <purpose>To amend the title.</purpose>
+        <notes />
+        <actions>
+          <count>6</count>
+          <actions>
+            <item>
+              <actionDate>2014-08-01</actionDate>
+              <committee />
+              <links>
+                <link>
+                  <name>S.Amdt.3781</name>
+                  <url>https://www.congress.gov/amendment/113th-congress/senate-amendment/3781</url>
+                </link>
+                <link>
+                  <name>SA 3781</name>
+                  <url>https://www.congress.gov/amendment/113th-congress/senate-amendment/3781</url>
+                </link>
+              </links>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 3781 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2014-08-01</actionDate>
+              <committee />
+              <links>
+                <link>
+                  <name>S.Amdt.3781</name>
+                  <url>https://www.congress.gov/amendment/113th-congress/senate-amendment/3781</url>
+                </link>
+                <link>
+                  <name>S5319</name>
+                  <url>https://www.congress.gov/congressional-record/volume-160/senate-section/page/S5319</url>
+                </link>
+                <link>
+                  <name>SA 3781</name>
+                  <url>https://www.congress.gov/amendment/113th-congress/senate-amendment/3781</url>
+                </link>
+              </links>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 3781 proposed by Senator Reid. (consideration: CR S5319; text: CR S5319)</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2014-08-01</actionDate>
+              <committee />
+              <links />
+              <text />
+            </item>
+            <item>
+              <actionCode>94000</actionCode>
+              <type>Floor</type>
+              <committee />
+              <actionDate>2014-08-01</actionDate>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <links>
+                <link>
+                  <name>S.Amdt.3781</name>
+                  <url>https://www.congress.gov/amendment/113th-congress/senate-amendment/3781</url>
+                </link>
+                <link>
+                  <name>SA 3781</name>
+                  <url>https://www.congress.gov/amendment/113th-congress/senate-amendment/3781</url>
+                </link>
+              </links>
+              <text>Senate amendment agreed to: Amendment SA 3781 agreed to in Senate by Unanimous Consent.</text>
+            </item>
+            <item>
+              <actionCode>93000</actionCode>
+              <type>Floor</type>
+              <committee />
+              <actionDate>2014-08-01</actionDate>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <links>
+                <link>
+                  <name>S.Amdt.3781</name>
+                  <url>https://www.congress.gov/amendment/113th-congress/senate-amendment/3781</url>
+                </link>
+                <link>
+                  <name>S5319</name>
+                  <url>https://www.congress.gov/congressional-record/volume-160/senate-section/page/S5319</url>
+                </link>
+                <link>
+                  <name>SA 3781</name>
+                  <url>https://www.congress.gov/amendment/113th-congress/senate-amendment/3781</url>
+                </link>
+              </links>
+              <text>Senate amendment proposed (on the floor): Amendment SA 3781 proposed by Senator Reid.(consideration: CR S5319; text: CR S5319)</text>
+            </item>
+            <item>
+              <actionCode>91000</actionCode>
+              <type>Floor</type>
+              <committee />
+              <actionDate>2014-08-01</actionDate>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <links />
+              <text>Senate amendment submitted</text>
+            </item>
+          </actions>
+          <actionByCounts>
+            <senate>5</senate>
+          </actionByCounts>
+          <actionTypeCounts>
+            <amendmentAgreedTo>1</amendmentAgreedTo>
+            <senateAmendmentAgreedTo>1</senateAmendmentAgreedTo>
+            <amendmentProposed>1</amendmentProposed>
+            <senateAmendmentProposedOnTheFloor>1</senateAmendmentProposedOnTheFloor>
+            <senateAmendmentSubmitted>1</senateAmendmentSubmitted>
+          </actionTypeCounts>
+        </actions>
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <cosponsors>
+          <totalCount>2</totalCount>
+          <currentCount>2</currentCount>
+        </cosponsors>
+        <description />
+        <sponsors>
+          <item>
+            <party>D</party>
+            <firstName>HARRY</firstName>
+            <bioguideId>R000146</bioguideId>
+            <middleName>M.</middleName>
+            <state>NV</state>
+            <fullName>Sen. Reid, Harry [D-NV]</fullName>
+            <lastName>REID</lastName>
+          </item>
+        </sponsors>
+      </amendment>
+      <amendment>
+        <congress>113</congress>
+        <number>3780</number>
+        <type>SAMDT</type>
+        <latestAction>
+          <actionDate>2014-08-01</actionDate>
+          <text>Amendment SA 3780 agreed to in Senate by Unanimous Consent.</text>
+        </latestAction>
+        <description />
+        <purpose>Of a perfecting nature.</purpose>
+        <createDate>2014-08-02T04:54:48Z</createDate>
+        <updateDate>2016-10-25T17:06:44Z</updateDate>
+        <congress>113</congress>
+        <actions>
+          <actions>
+            <item>
+              <actionDate>2014-08-01</actionDate>
+              <committee />
+              <links>
+                <link>
+                  <name>S.Amdt.3780</name>
+                  <url>https://www.congress.gov/amendment/113th-congress/senate-amendment/3780</url>
+                </link>
+                <link>
+                  <name>SA 3780</name>
+                  <url>https://www.congress.gov/amendment/113th-congress/senate-amendment/3780</url>
+                </link>
+              </links>
+              <sourceSystem>
+                <name>Senate</name>
+                <code>0</code>
+              </sourceSystem>
+              <text>Amendment SA 3780 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2014-08-01</actionDate>
+              <committee />
+              <links>
+                <link>
+                  <name>S.Amdt.3780</name>
+                  <url>https://www.congress.gov/amendment/113th-congress/senate-amendment/3780</url>
+                </link>
+                <link>
+                  <name>S5319</name>
+                  <url>https://www.congress.gov/congressional-record/volume-160/senate-section/page/S5319</url>
+                </link>
+                <link>
+                  <name>SA 3780</name>
+                  <url>https://www.congress.gov/amendment/113th-congress/senate-amendment/3780</url>
+                </link>
+              </links>
+              <sourceSystem>
+                <name>Senate</name>
+                <code>0</code>
+              </sourceSystem>
+              <text>Amendment SA 3780 proposed by Senator Reid. (consideration: CR S5319; text: CR S5319)</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2014-08-01</actionDate>
+              <committee />
+              <links />
+              <text />
+            </item>
+            <item>
+              <links>
+                <link>
+                  <name>S.Amdt.3780</name>
+                  <url>https://www.congress.gov/amendment/113th-congress/senate-amendment/3780</url>
+                </link>
+                <link>
+                  <name>S5319</name>
+                  <url>https://www.congress.gov/congressional-record/volume-160/senate-section/page/S5319</url>
+                </link>
+                <link>
+                  <name>SA 3780</name>
+                  <url>https://www.congress.gov/amendment/113th-congress/senate-amendment/3780</url>
+                </link>
+              </links>
+              <actionDate>2014-08-01</actionDate>
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+              <text>Senate amendment proposed (on the floor): Amendment SA 3780 proposed by Senator Reid.(consideration: CR S5319; text: CR S5319)</text>
+              <type>Floor</type>
+              <actionCode>93000</actionCode>
+              <committee />
+            </item>
+            <item>
+              <links>
+                <link>
+                  <name>S.Amdt.3780</name>
+                  <url>https://www.congress.gov/amendment/113th-congress/senate-amendment/3780</url>
+                </link>
+                <link>
+                  <name>SA 3780</name>
+                  <url>https://www.congress.gov/amendment/113th-congress/senate-amendment/3780</url>
+                </link>
+              </links>
+              <actionDate>2014-08-01</actionDate>
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+              <text>Senate amendment agreed to: Amendment SA 3780 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+              <actionCode>94000</actionCode>
+              <committee />
+            </item>
+            <item>
+              <links />
+              <actionDate>2014-08-01</actionDate>
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <committee />
+            </item>
+          </actions>
+          <actionTypeCounts>
+            <amendmentAgreedTo>1</amendmentAgreedTo>
+            <amendmentProposed>1</amendmentProposed>
+            <senateAmendmentSubmitted>1</senateAmendmentSubmitted>
+            <senateAmendmentProposedOnTheFloor>1</senateAmendmentProposedOnTheFloor>
+            <senateAmendmentAgreedTo>1</senateAmendmentAgreedTo>
+          </actionTypeCounts>
+          <actionByCounts>
+            <senate>5</senate>
+          </actionByCounts>
+          <count>6</count>
+        </actions>
+        <amendedAmendment />
+        <proposedDate>2014-08-01T04:00:00Z</proposedDate>
+        <chamber>Senate</chamber>
+        <number>3780</number>
+        <amendedBill>
+          <congress>113</congress>
+          <type>HJRES</type>
+          <originChamber>House</originChamber>
+          <title>Emergency Supplemental Appropriations Resolution, 2014</title>
+          <originChamberCode>H</originChamberCode>
+          <number>76</number>
+        </amendedBill>
+        <sponsors>
+          <item>
+            <middleName>M.</middleName>
+            <firstName>HARRY</firstName>
+            <lastName>REID</lastName>
+            <fullName>Sen. Reid, Harry [D-NV]</fullName>
+            <party>D</party>
+            <bioguideId>R000146</bioguideId>
+            <state>NV</state>
+          </item>
+        </sponsors>
+        <titles />
+        <description />
+        <type>SAMDT</type>
+        <links />
+        <cosponsors>
+          <totalCount>13</totalCount>
+          <currentCount>13</currentCount>
+        </cosponsors>
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <notes />
+        <purpose>Of a perfecting nature.</purpose>
+        <submittedDate>2014-08-01T04:00:00Z</submittedDate>
+      </amendment>
+    </amendments>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2013-10-03</actionDate>
+          <updateDate>2013-10-03T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2013-10-04T21:06:26Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>National Nuclear Security Administration Continuing Appropriations Resolution, 2014 - Makes appropriations, out of any money in the Treasury not otherwise appropriated, and out of applicable corporate or other revenues, receipts, and funds, for the National Nuclear Security Administration (NNSA) for FY2014, and for other purposes, such amounts as may be necessary, at a rate for operations as provided in the Full-Year Continuing Appropriations Act, 2013 (division F of P.L. 113-6), for continuing projects or activities (including the costs of direct loans and loan guarantees) of NNSA that are not otherwise specifically provided for in this joint resolution or in the Pay Our Military Act (P.L. 113-39), that were conducted in FY2013, and for which appropriations, funds, or other authority were made available by such Act under the following headings:</p> <ul> <li>&quot;Weapons Activities,&quot;</li> <li>&quot;Defense Nuclear Nonproliferation,&quot;</li> <li>&quot;Naval Reactors,&quot; and</li> <li>&quot;Office of the Administrator.&quot;</li> </ul> <p>Requires the rate of operations for each such account to be calculated to reflect the full amount of any reduction required in FY2013 pursuant to: (1) the Consolidated and Further Continuing Appropriations Act, 2013 (P.L. 113-6), and (2) the presidential sequestration order dated March 1, 2013, except as attributable to budget authority made available by the Disaster Relief Appropriations Act, 2013 (P.L. 113-2). </p> <p>Makes appropriations and funds made available and authority granted under this joint resolution available until whichever of the following first occurs: (1) enactment into law of an appropriation for any project or activity provided for in this joint resolution, (2) enactment into law of the applicable appropriations Act for FY2014 without any provision for such project or activity, or (3) December 15, 2013. </p> <p>Requires implementation of this joint resolution so that only the most limited funding action be taken in order to provide for continuation of projects and activities. </p> <p>Authorizes amounts made available for civilian personnel compensation and benefits to be apportioned up to the rate for operations necessary to avoid furloughs, consistent with the applicable appropriations Act for FY2013, except that such authority shall not be used until after the agency has taken all necessary actions to reduce or defer non-personnel-related administrative expenses. </p> <p>Expresses the sense of Congress that this joint resolution may also be referred to as the Nuclear Weapon Security &amp; Non-Proliferation Act. </p>]]></text>
+          <name>Introduced in House</name>
+        </item>
+        <item>
+          <actionDate>2013-10-11</actionDate>
+          <updateDate>2013-10-11T12:37:54Z</updateDate>
+          <versionCode>81</versionCode>
+          <actionDesc>Passed House without amendment</actionDesc>
+          <lastSummaryUpdateDate>2013-10-15T21:05:48Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</b></p> <p>National Nuclear Security Administration Continuing Appropriations Resolution, 2014 - Makes appropriations, out of any money in the Treasury not otherwise appropriated, and out of applicable corporate or other revenues, receipts, and funds, for the National Nuclear Security Administration (NNSA) for FY2014, and for other purposes, such amounts as may be necessary, at a rate for operations as provided in the Full-Year Continuing Appropriations Act, 2013 (division F of P.L. 113-6), for continuing projects or activities (including the costs of direct loans and loan guarantees) of NNSA that are not otherwise specifically provided for in this joint resolution or in the Pay Our Military Act (P.L. 113-39), that were conducted in FY2013, and for which appropriations, funds, or other authority were made available by such Act under the following headings:</p> <ul> <li>"Weapons Activities," </li> <li>"Defense Nuclear Nonproliferation," </li> <li>"Naval Reactors," and </li> <li>"Office of the Administrator." </li></ul> <p>Requires the rate of operations for each such account to be calculated to reflect the full amount of any reduction required in FY2013 pursuant to: (1) the Consolidated and Further Continuing Appropriations Act, 2013 (P.L. 113-6), and (2) the presidential sequestration order dated March 1, 2013, except as attributable to budget authority made available by the Disaster Relief Appropriations Act, 2013 (P.L. 113-2). </p> <p>Makes appropriations and funds made available and authority granted under this joint resolution available until whichever of the following first occurs: (1) enactment into law of an appropriation for any project or activity provided for in this joint resolution, (2) enactment into law of the applicable appropriations Act for FY2014 without any provision for such project or activity, or (3) December 15, 2013. </p> <p>Requires implementation of this joint resolution so that only the most limited funding action be taken in order to provide for continuation of projects and activities. </p> <p>Authorizes amounts made available for civilian personnel compensation and benefits to be apportioned up to the rate for operations necessary to avoid furloughs, consistent with the applicable appropriations Act for FY2013, except that such authority shall not be used until after the agency has taken all necessary actions to reduce or defer non-personnel-related administrative expenses. </p> <p>Expresses the sense of Congress that this joint resolution may also be referred to as the Nuclear Weapon Security &amp; Non-Proliferation Act. </p>]]></text>
+          <name>Passed House without amendment</name>
+        </item>
+        <item>
+          <actionDate>2014-08-01</actionDate>
+          <updateDate>2014-08-01T12:30:24Z</updateDate>
+          <versionCode>35</versionCode>
+          <actionDesc>Passed Senate amended</actionDesc>
+          <lastSummaryUpdateDate>2014-08-07T23:19:29Z</lastSummaryUpdateDate>
+          <text><![CDATA[<br />Emergency Supplemental Appropriations Resolution, 2014 - Appropriates FY2014 supplemental funds to the Department of Defense (DOD) to assist the government of Israel with procurement of the Iron Dome defense system to counter short-range rocket threats. <p class="MsoNormal" style="line-height: normal;">Provides that the funds shall be transferred immediately only through an exchange of letters to address emergent operations in support of Operation Protective Edge, notwithstanding the U.S-Israel Iron Dome Procurement Agreement.</p> <p class="MsoNormal" style="line-height: normal;">Designates funding provided in this joint resolution as an emergency requirement pursuant to the Balanced Budget And Emergency Deficit Control Act of 1985. </p>]]></text>
+          <name>Passed Senate amended</name>
+        </item>
+        <item>
+          <actionDate>2014-08-04</actionDate>
+          <updateDate>2014-08-05T03:59:58Z</updateDate>
+          <versionCode>49</versionCode>
+          <actionDesc>Public Law</actionDesc>
+          <lastSummaryUpdateDate>2014-08-07T23:20:05Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>(This measure has not been amended since it was passed by the Senate on August 1, 2014.&nbsp; The summary of that version is repeated here.)</b><br /></p> <p class="MsoNormal" style="line-height: normal;">Emergency Supplemental Appropriations Resolution, 2014 - Appropriates FY2014 supplemental funds to the Department of Defense (DOD) to assist the government of Israel with procurement of the Iron Dome defense system to counter short-range rocket threats.</p> <p class="MsoNormal" style="line-height: normal;">Provides that the funds shall be transferred immediately only through an exchange of letters to address emergent operations in support of Operation Protective Edge, notwithstanding the U.S-Israel Iron Dome Procurement Agreement.</p> <p class="MsoNormal" style="line-height: normal;">Designates funding provided in this joint resolution as an emergency requirement pursuant to the Balanced Budget And Emergency Deficit Control Act of 1985. </p>]]></text>
+          <name>Public Law</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Appropriations</name>
+          </item>
+          <item>
+            <name>Arms control and nonproliferation</name>
+          </item>
+          <item>
+            <name>Defense spending</name>
+          </item>
+          <item>
+            <name>Department of Energy</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Israel</name>
+          </item>
+          <item>
+            <name>Middle East</name>
+          </item>
+          <item>
+            <name>Military assistance, sales, and agreements</name>
+          </item>
+          <item>
+            <name>Military procurement, research, weapons development</name>
+          </item>
+          <item>
+            <name>Nuclear weapons</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <title>Emergency Supplemental Appropriations Resolution, 2014</title>
+    <originChamber>House</originChamber>
+    <sponsors>
+      <item>
+        <lastName>FRELINGHUYSEN</lastName>
+        <bioguideId>F000372</bioguideId>
+        <middleName />
+        <fullName>Rep. Frelinghuysen, Rodney P. [R-NJ-11]</fullName>
+        <identifiers>
+          <lisID>414</lisID>
+          <gpoId>8053</gpoId>
+          <bioguideId>F000372</bioguideId>
+        </identifiers>
+        <district>11</district>
+        <firstName>RODNEY</firstName>
+        <party>R</party>
+        <state>NJ</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <laws>
+      <item>
+        <type>Public Law</type>
+        <number>113-145</number>
+      </item>
+    </laws>
+    <notes />
+    <createDate>2013-10-04T09:13:09Z</createDate>
+    <billNumber>76</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Appropriations Committee</name>
+          <type>Standing</type>
+          <systemCode>hsap00</systemCode>
+          <chamber>House</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-10-03T14:01:40Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. FRELINGHUYSEN:H.J. Res. 76.Congress has the power to enact this legislation pursuantto the following:The principal constitutional authority for this legislationis clause 7 of section 9 of article I of the Constitution ofthe United States (the appropriation power), which states:``No Money shall be drawn from the Treasury, but inConsequence of Appropriations made by Law. . . .'' Inaddition, clause 1 of section 8 of article I of theConstitution (the spending power) provides: ``The Congressshall have the Power . . . to pay the Debts and provide forthe common Defence and general Welfare of the United States.. . .'' Together, these specific constitutional provisionsestablish the congressional power of the purse, grantingCongress the authority to appropriate funds, to determinetheir purpose, amount, and period of availability, and to setforth terms and conditions governing their use.[Page H6224]</pre>]]></constitutionalAuthorityStatementText>
+    <cboCostEstimates>
+      <item>
+        <url>http://www.cbo.gov/publication/44646</url>
+        <pubDate>2013-10-04T14:40:00Z</pubDate>
+        <title>H.J. Res. 76, National Nuclear Security Administration Continuing Appropriations Resolution, 2014</title>
+      </item>
+      <item>
+        <url>https://www.cbo.gov/publication/44646</url>
+        <pubDate>2013-10-04T14:40:00Z</pubDate>
+        <title>H.J. Res. 76, National Nuclear Security Administration Continuing Appropriations Resolution, 2014</title>
+      </item>
+      <item>
+        <url>http://www.cbo.gov/publication/45624</url>
+        <pubDate>2014-08-07T17:44:00Z</pubDate>
+        <title>H.J.Res. 76, Emergency Supplemental Appropriations Resolution, 2014</title>
+      </item>
+      <item>
+        <url>https://www.cbo.gov/publication/45624</url>
+        <pubDate>2014-08-07T17:44:00Z</pubDate>
+        <title>H.J.Res. 76, Emergency Supplemental Appropriations Resolution, 2014</title>
+      </item>
+    </cboCostEstimates>
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType>Popular Title</parentTitleType>
+        <titleType>Popular Titles</titleType>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <title>Nuclear weapon security &amp; non-proliferation bill</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Enacted</titleType>
+        <chamberName />
+        <parentTitleType>Short Title</parentTitleType>
+        <title>Emergency Supplemental Appropriations Resolution, 2014</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Passed Senate</titleType>
+        <chamberName>Senate</chamberName>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <title>Emergency Supplemental Appropriations Resolution, 2014</title>
+        <chamberCode>S</chamberCode>
+      </item>
+      <item>
+        <titleType>Short Titles as Passed House</titleType>
+        <chamberName>House</chamberName>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <title>National Nuclear Security Administration Continuing Appropriations Resolution, 2014</title>
+        <chamberCode>H</chamberCode>
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>National Nuclear Security Administration Continuing Appropriations Resolution, 2014</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Titles as Amended by Senate</titleType>
+        <chamberName>Senate</chamberName>
+        <parentTitleType>Official Titles Senate</parentTitleType>
+        <title>A joint resolution making an emergency supplemental appropriation for the fiscal year ending September 30, 2014, to provide funding to Israel for the Iron Dome defense system to counter short-range rocket threats.</title>
+        <chamberCode>S</chamberCode>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Making continuing appropriations for the National Nuclear Security Administration for fiscal year 2014, and for other purposes.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Emergency Supplemental Appropriations Resolution, 2014</title>
+        <chamberCode />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,124 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-06-07", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-06-07", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2017-06-16", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Federal Lands.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2816-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on National Parks, Forests, and Public Lands", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-06-07", 
+  "number": "2816", 
+  "official_title": "To authorize a settlement in accordance with the agreement entered into by the Tennessee Valley Authority and the United States Department of the Interior, and counties within the Great Smoky Mountains National Park.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Great Smoky Mountains National Park Agreement Act of 2017", 
+  "sponsor": {
+    "bioguide_id": "M001187", 
+    "district": "11", 
+    "name": "Meadows, Mark", 
+    "state": "NC", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-06-07", 
+  "subjects": [
+    "Appropriations", 
+    "Department of the Interior", 
+    "Executive agency funding and structure", 
+    "North Carolina", 
+    "Parks, recreation areas, trails", 
+    "Public lands and natural resources", 
+    "Roads and highways", 
+    "Transportation programs funding"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2017-06-07T04:00:00Z", 
+    "text": "Great Smoky Mountains National Park Agreement Act of 2017\n\n This bill directs the National Park Service to transfer a specified amount to counties within Great Smoky Mountains National Park in accordance with the Memorandum of Agreement entered into by the Tennessee Valley Authority and the Department of the Interior, dated February 2010, that supersedes the agreement of July 30, 1943."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To authorize a settlement in accordance with the agreement entered into by the Tennessee Valley Authority and the United States Department of the Interior, and counties within the Great Smoky Mountains National Park.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Great Smoky Mountains National Park Agreement Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Great Smoky Mountains National Park Agreement Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Great Smoky Mountains National Park Agreement Act of 2017", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-11-15T21:31:27Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr2816.xml"
+}

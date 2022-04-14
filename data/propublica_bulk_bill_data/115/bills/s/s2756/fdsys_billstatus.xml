@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <systemCode>ssbk00</systemCode>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Hearings by</name>
+              <date>2018-06-28T14:00:40Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2018-04-25T20:24:01Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <billNumber>2756</billNumber>
+    <latestAction>
+      <actionDate>2018-06-28</actionDate>
+      <links />
+      <text>Committee on Banking, Housing, and Urban Affairs. Hearings held.</text>
+    </latestAction>
+    <actions>
+      <item>
+        <actionDate>2018-06-28</actionDate>
+        <committee>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <systemCode>ssbk00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Banking, Housing, and Urban Affairs. Hearings held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2018-04-25</actionDate>
+        <committee>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <systemCode>ssbk00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <actionDate>2018-04-25</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <hearingsHeld>1</hearingsHeld>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+    </actions>
+    <billType>S</billType>
+    <policyArea>
+      <name>Finance and Financial Sector</name>
+    </policyArea>
+    <calendarNumbers />
+    <sponsors>
+      <item>
+        <bioguideId>T000476</bioguideId>
+        <state>NC</state>
+        <firstName>Thomas</firstName>
+        <middleName>Roland</middleName>
+        <fullName>Sen. Tillis, Thom [R-NC]</fullName>
+        <identifiers>
+          <lisID>2291</lisID>
+          <bioguideId>T000476</bioguideId>
+          <gpoId />
+        </identifiers>
+        <byRequestType />
+        <party>R</party>
+        <lastName>Tillis</lastName>
+      </item>
+    </sponsors>
+    <updateDate>2019-05-01T14:27:31Z</updateDate>
+    <createDate>2018-04-26T04:25:58Z</createDate>
+    <relatedBills />
+    <introducedDate>2018-04-25</introducedDate>
+    <laws />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Finance and Financial Sector</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <cboCostEstimates />
+    <amendments />
+    <cosponsors>
+      <item>
+        <firstName>Catherine</firstName>
+        <fullName>Sen. Cortez Masto, Catherine  [D-NV]</fullName>
+        <lastName>Cortez Masto</lastName>
+        <sponsorshipDate>2018-04-25</sponsorshipDate>
+        <middleName />
+        <bioguideId>C001113</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>NV</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2299</lisID>
+          <bioguideId>C001113</bioguideId>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>Gary</firstName>
+        <fullName>Sen. Peters, Gary C. [D-MI]</fullName>
+        <lastName>Peters</lastName>
+        <sponsorshipDate>2018-05-24</sponsorshipDate>
+        <middleName>C.</middleName>
+        <bioguideId>P000595</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>MI</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7994</gpoId>
+          <lisID>1929</lisID>
+          <bioguideId>P000595</bioguideId>
+        </identifiers>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>Dean</firstName>
+        <fullName>Sen. Heller, Dean [R-NV]</fullName>
+        <lastName>Heller</lastName>
+        <sponsorshipDate>2018-05-24</sponsorshipDate>
+        <middleName />
+        <bioguideId>H001041</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>NV</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1863</lisID>
+          <bioguideId>H001041</bioguideId>
+          <gpoId>8060</gpoId>
+        </identifiers>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>Heidi</firstName>
+        <fullName>Sen. Heitkamp, Heidi [D-ND]</fullName>
+        <lastName>Heitkamp</lastName>
+        <sponsorshipDate>2018-06-06</sponsorshipDate>
+        <middleName />
+        <bioguideId>H001069</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>ND</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <bioguideId>H001069</bioguideId>
+          <lisID>2174</lisID>
+        </identifiers>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>Pat</firstName>
+        <fullName>Sen. Toomey, Pat [R-PA]</fullName>
+        <lastName>Toomey</lastName>
+        <sponsorshipDate>2018-06-06</sponsorshipDate>
+        <middleName />
+        <bioguideId>T000461</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>PA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1594</lisID>
+          <bioguideId>T000461</bioguideId>
+          <gpoId />
+        </identifiers>
+        <party>R</party>
+      </item>
+    </cosponsors>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2018-04-25T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115s2756is/xml/BILLS-115s2756is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <name>Introduced in Senate</name>
+          <lastSummaryUpdateDate>2019-04-24T20:21:18Z</lastSummaryUpdateDate>
+          <actionDate>2018-04-25</actionDate>
+          <updateDate>2018-04-25T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><b>Fair Investment Opportunities for Professional Experts Act</b></p> <p>This bill amends the Securities Act of 1933 to modify the definition of "accredited investor" for purposes of participating in private offerings to include: </p> <ul> <li>an individual whose net worth or joint net worth with their spouse exceeds $1 million (adjusted for inflation), excluding from the calculation of their net worth their primary residence and a mortgage secured by that residence in certain circumstances; </li> <li>an individual whose income over the last two years exceeded $200,000 (adjusted for inflation) or joint spousal income exceeded $300,000 (adjusted for inflation) and who has a reasonable expectation of reaching the same income level in the current year; </li> <li>an individual who holds previously purchased securities, if&nbsp;the issuer believes that the individual met such income requirements at the time of purchase and would continue to do so; </li> <li>an individual who is licensed as a broker or investment advisor by certain entities; and </li> <li>an individual determined by the Securities and Exchange Commission (SEC) to have qualifying education or experience. </li></ul> <p>(Certain unregistered securities may be offered only to accredited investors.)</p> <p>The SEC is directed to revise the definition of "accredited investor" in Regulation D (which exempts certain offerings from SEC registration requirements) to conform to changes in this bill. </p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>115</congress>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>A bill to amend the Securities Act of 1933 to direct the Securities and Exchange Commission to revise the regulations of the Commission regarding the qualifications of natural persons as accredited investors.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Fair Investment Opportunities for Professional Experts Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Fair Investment Opportunities for Professional Experts Act</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Fair Investment Opportunities for Professional Experts Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <title>Fair Investment Opportunities for Professional Experts Act</title>
+    <committeeReports />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,233 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-06-12", 
+      "action_code": "1000", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-06-12", 
+      "action_code": "H12100", 
+      "committees": [
+        "HSRU"
+      ], 
+      "links": [
+        {
+          "name": "H. Rept. 115-177", 
+          "url": "https://www.congress.gov/congressional-report/115th-congress/house-report/177"
+        }
+      ], 
+      "references": [], 
+      "text": "The House Committee on Rules reported an original measure, H. Rept. 115-177, by Mr. Buck.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-06-12T19:15:14-04:00", 
+      "action_code": "H12700", 
+      "bill_ids": [
+        "hr2581-115", 
+        "s1094-115"
+      ], 
+      "links": [
+        {
+          "name": "H.R. 2581", 
+          "url": "https://www.congress.gov/bill/115th-congress/house-bill/2581"
+        }, 
+        {
+          "name": "S. 1094", 
+          "url": "https://www.congress.gov/bill/115th-congress/senate-bill/1094"
+        }
+      ], 
+      "references": [], 
+      "text": "Rule provides for consideration of H.R. 2581 and S. 1094, with 1 hour of general debate for each bill. Previous question shall be considered as ordered without intervening motions except a motion to recommit with or without instructions on H.R. 2581, and a motion to commit on S. 1094. Both measures will be considered read and are closed to amendments.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-06-12", 
+      "action_code": "H12420", 
+      "calendar": "House", 
+      "number": "55", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Placed on the House Calendar, Calendar No. 55.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2017-06-13T12:20:41-04:00", 
+      "action_code": "H30000", 
+      "links": [
+        {
+          "name": "H4867-4874", 
+          "url": "https://www.congress.gov/congressional-record/volume-163/house-section/page/H4867-4874"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H4867-4874", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as privileged matter.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-06-13T12:22:38-04:00", 
+      "action_code": "H8D000", 
+      "links": [
+        {
+          "name": "H. Res. 378", 
+          "url": "https://www.congress.gov/bill/115th-congress/house-resolution/378"
+        }
+      ], 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with one hour of debate on H. Res. 378.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-06-13T13:22:00-04:00", 
+      "action_code": "H35000", 
+      "links": [
+        {
+          "name": "H4873", 
+          "url": "https://www.congress.gov/congressional-record/volume-163/house-section/page/H4873"
+        }, 
+        {
+          "name": "Roll no. 302", 
+          "url": "http://clerk.house.gov/evs/2017/roll302.xml"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H4873", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "On ordering the previous question Agreed to by the Yeas and Nays: 229 - 189 (Roll no. 302).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-06-13T13:28:39-04:00", 
+      "action_code": "H37100", 
+      "how": "roll", 
+      "links": [
+        {
+          "name": "H4867-4868", 
+          "url": "https://www.congress.gov/congressional-record/volume-163/house-section/page/H4867-4868"
+        }, 
+        {
+          "name": "Roll no. 303", 
+          "url": "http://clerk.house.gov/evs/2017/roll303.xml"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H4867-4868", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "303", 
+      "status": "PASSED:SIMPLERES", 
+      "suspension": null, 
+      "text": "On agreeing to the resolution Agreed to by recorded vote: 229 - 190 (Roll no. 303).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2017-06-13T13:28:42-04:00", 
+      "action_code": "H38310", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hres378-115", 
+  "bill_type": "hres", 
+  "by_request": false, 
+  "committee_reports": [
+    "H. Rept. 115-177"
+  ], 
+  "committees": [
+    {
+      "activity": [
+        "origin", 
+        "reporting"
+      ], 
+      "committee": "House Rules", 
+      "committee_id": "HSRU"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2017-06-12", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2017-06-13T13:28:39-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-06-12", 
+  "number": "378", 
+  "official_title": "Providing for consideration of the bill (H.R. 2581) to amend the Internal Revenue Code of 1986 to require the provision of social security numbers as a condition of receiving the health insurance premium tax credit, and providing for consideration of the bill (S. 1094) to amend title 38, United States Code, to improve the accountability of employees of the Department of Veterans Affairs, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr2581-115", 
+      "identified_by": "House", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s1094-115", 
+      "identified_by": "House", 
+      "reason": "procedurally-related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "B001297", 
+    "district": "4", 
+    "name": "Buck, Ken", 
+    "state": "CO", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:SIMPLERES", 
+  "status_at": "2017-06-13T13:28:39-04:00", 
+  "subjects": [
+    "Congress", 
+    "House of Representatives", 
+    "Legislative rules and procedure"
+  ], 
+  "subjects_top_term": "Congress", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2017-06-12T04:00:00Z", 
+    "text": "Sets forth the rule for consideration of the bill (H.R. 2581) to amend the Internal Revenue Code of 1986 to require the provision of social security numbers as a condition of receiving the health insurance premium tax credit, and providing for consideration of the bill (S. 1094) to amend title 38, United States Code, to improve the accountability of employees of the Department of Veterans Affairs."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Providing for consideration of the bill (H.R. 2581) to amend the Internal Revenue Code of 1986 to require the provision of social security numbers as a condition of receiving the health insurance premium tax credit, and providing for consideration of the bill (S. 1094) to amend title 38, United States Code, to improve the accountability of employees of the Department of Veterans Affairs, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Providing for consideration of the bill (H.R. 2581) to amend the Internal Revenue Code of 1986 to require the provision of social security numbers as a condition of receiving the health insurance premium tax credit, and providing for consideration of the bill (S. 1094) to amend title 38, United States Code, to improve the accountability of employees of the Department of Veterans Affairs, and for other purposes.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-11-15T21:46:55Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/115/hres/BILLSTATUS-115hres378.xml"
+}

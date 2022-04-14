@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2013-01-23</actionDate>
+        <committee>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>S222</name>
+            <url>https://www.congress.gov/congressional-record/volume-159/senate-section/page/S222</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Judiciary. (text of measure as introduced: CR S222)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>B00100</actionCode>
+        <text>Sponsor introductory remarks on measure. (CR S220-221)</text>
+        <links>
+          <link>
+            <name>S220-221</name>
+            <url>https://www.congress.gov/congressional-record/volume-159/senate-section/page/S220-221</url>
+          </link>
+        </links>
+        <actionDate>2013-01-23</actionDate>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <links />
+        <actionDate>2013-01-23</actionDate>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <placeholderTextForB>1</placeholderTextForB>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <introducedDate>2013-01-23</introducedDate>
+    <updateDate>2016-10-25T16:20:06Z</updateDate>
+    <createDate>2013-01-24T07:00:55Z</createDate>
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <systemCode>ssju00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Judiciary Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-01-23T20:26:08Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <bioguideId>W000802</bioguideId>
+        <identifiers>
+          <bioguideId>W000802</bioguideId>
+          <gpoId>8264</gpoId>
+          <lisID>1823</lisID>
+        </identifiers>
+        <middleName />
+        <fullName>Sen. Whitehouse, Sheldon [D-RI]</fullName>
+        <firstName>Sheldon</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2013-01-23</sponsorshipDate>
+        <lastName>Whitehouse</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>RI</state>
+      </item>
+      <item>
+        <bioguideId>F000457</bioguideId>
+        <identifiers>
+          <lisID>1969</lisID>
+          <bioguideId>F000457</bioguideId>
+          <gpoId>8339</gpoId>
+        </identifiers>
+        <middleName />
+        <fullName>Sen. Franken, Al [D-MN]</fullName>
+        <firstName>Al</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2013-01-23</sponsorshipDate>
+        <lastName>Franken</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>MN</state>
+      </item>
+      <item>
+        <bioguideId>H000206</bioguideId>
+        <identifiers>
+          <bioguideId>H000206</bioguideId>
+          <gpoId>8317</gpoId>
+          <lisID>501</lisID>
+        </identifiers>
+        <middleName>RICHARD</middleName>
+        <fullName>Sen. Harkin, Tom [D-IA]</fullName>
+        <firstName>THOMAS</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2013-01-23</sponsorshipDate>
+        <lastName>HARKIN</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>IA</state>
+      </item>
+      <item>
+        <bioguideId>R000122</bioguideId>
+        <identifiers>
+          <lisID>949</lisID>
+          <gpoId>8272</gpoId>
+          <bioguideId>R000122</bioguideId>
+        </identifiers>
+        <middleName>F.</middleName>
+        <fullName>Sen. Reed, Jack [D-RI]</fullName>
+        <firstName>JOHN</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2013-01-23</sponsorshipDate>
+        <lastName>REED</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>RI</state>
+      </item>
+      <item>
+        <bioguideId>W000817</bioguideId>
+        <identifiers>
+          <lisID>2182</lisID>
+          <bioguideId>W000817</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName>A.</middleName>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <firstName>Elizabeth</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2013-01-23</sponsorshipDate>
+        <lastName>Warren</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>MA</state>
+      </item>
+      <item>
+        <bioguideId>B000711</bioguideId>
+        <identifiers>
+          <lisID>116</lisID>
+          <gpoId>8306</gpoId>
+          <bioguideId>B000711</bioguideId>
+        </identifiers>
+        <middleName />
+        <fullName>Sen. Boxer, Barbara [D-CA]</fullName>
+        <firstName>BARBARA</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2013-01-28</sponsorshipDate>
+        <lastName>BOXER</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>CA</state>
+      </item>
+      <item>
+        <bioguideId>R000361</bioguideId>
+        <identifiers>
+          <bioguideId>R000361</bioguideId>
+          <lisID>1424</lisID>
+          <gpoId>8273</gpoId>
+        </identifiers>
+        <middleName />
+        <fullName>Sen. Rockefeller, John D., IV [D-WV]</fullName>
+        <firstName>JAY</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2013-02-04</sponsorshipDate>
+        <lastName>ROCKEFELLER</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>WV</state>
+      </item>
+      <item>
+        <bioguideId>S000033</bioguideId>
+        <identifiers>
+          <bioguideId>S000033</bioguideId>
+          <lisID>1010</lisID>
+          <gpoId>8270</gpoId>
+        </identifiers>
+        <middleName />
+        <fullName>Sen. Sanders, Bernard [I-VT]</fullName>
+        <firstName>BERNARD</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2013-03-22</sponsorshipDate>
+        <lastName>SANDERS</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>I</party>
+        <state>VT</state>
+      </item>
+      <item>
+        <bioguideId>B001230</bioguideId>
+        <identifiers>
+          <lisID>1558</lisID>
+          <gpoId>8215</gpoId>
+          <bioguideId>B001230</bioguideId>
+        </identifiers>
+        <middleName />
+        <fullName>Sen. Baldwin, Tammy [D-WI]</fullName>
+        <firstName>TAMMY</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2013-06-07</sponsorshipDate>
+        <lastName>BALDWIN</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>WI</state>
+      </item>
+      <item>
+        <bioguideId>M001169</bioguideId>
+        <identifiers>
+          <lisID>1837</lisID>
+          <bioguideId>M001169</bioguideId>
+          <gpoId>7870</gpoId>
+        </identifiers>
+        <middleName />
+        <fullName>Sen. Murphy, Christopher S. [D-CT]</fullName>
+        <firstName>Christopher</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2013-06-24</sponsorshipDate>
+        <lastName>Murphy</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>CT</state>
+      </item>
+      <item>
+        <bioguideId>H001042</bioguideId>
+        <identifiers>
+          <bioguideId>H001042</bioguideId>
+          <lisID>1844</lisID>
+          <gpoId>7913</gpoId>
+        </identifiers>
+        <middleName>K.</middleName>
+        <fullName>Sen. Hirono, Mazie K. [D-HI]</fullName>
+        <firstName>Mazie</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2013-09-23</sponsorshipDate>
+        <lastName>Hirono</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>HI</state>
+      </item>
+      <item>
+        <bioguideId>G000555</bioguideId>
+        <identifiers>
+          <lisID>1866</lisID>
+          <bioguideId>G000555</bioguideId>
+          <gpoId>8336</gpoId>
+        </identifiers>
+        <middleName>E.</middleName>
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+        <firstName>Kirsten</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2014-02-03</sponsorshipDate>
+        <lastName>Gillibrand</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>NY</state>
+      </item>
+      <item>
+        <bioguideId>W000779</bioguideId>
+        <identifiers>
+          <gpoId>8265</gpoId>
+          <lisID>1247</lisID>
+          <bioguideId>W000779</bioguideId>
+        </identifiers>
+        <middleName />
+        <fullName>Sen. Wyden, Ron [D-OR]</fullName>
+        <firstName>RON</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2014-02-03</sponsorshipDate>
+        <lastName>WYDEN</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>OR</state>
+      </item>
+      <item>
+        <bioguideId>S001194</bioguideId>
+        <identifiers>
+          <lisID>2173</lisID>
+          <bioguideId>S001194</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <fullName>Sen. Schatz, Brian [D-HI]</fullName>
+        <firstName>Brian</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2014-03-05</sponsorshipDate>
+        <lastName>Schatz</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>HI</state>
+      </item>
+      <item>
+        <bioguideId>B001277</bioguideId>
+        <identifiers>
+          <bioguideId>B001277</bioguideId>
+          <lisID>2076</lisID>
+          <gpoId>8332</gpoId>
+        </identifiers>
+        <middleName />
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <firstName>Richard</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2014-06-17</sponsorshipDate>
+        <lastName>Blumenthal</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>CT</state>
+      </item>
+      <item>
+        <bioguideId>K000384</bioguideId>
+        <identifiers>
+          <lisID>2176</lisID>
+          <bioguideId>K000384</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <fullName>Sen. Kaine, Tim [D-VA]</fullName>
+        <firstName>Timothy</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2014-07-22</sponsorshipDate>
+        <lastName>Kaine</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>VA</state>
+      </item>
+    </cosponsors>
+    <congress>113</congress>
+    <billType>S</billType>
+    <title>Fairness for Struggling Students Act of 2013</title>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>Fairness for Struggling Students Act of 2013</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>A bill to amend title 11, United States Code, with respect to certain exceptions to discharge in bankruptcy.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>Fairness for Struggling Students Act of 2013</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>Fairness for Struggling Students Act of 2013 - Revises federal bankruptcy law with respect to the exemption from the exception to discharge in bankruptcy for certain educational loans if excepting such debt from discharge would impose an undue hardship on the debtor and debtor's dependents.</p> <p>Limits such exemption to the existing ones for: (1) an educational benefit overpayment or loan made, insured, or guaranteed by a governmental unit or made under any program funded in whole or in part by a governmental unit; and (2) an obligation to repay funds received from a governmental unit as an educational benefit, scholarship, or stipend.</p> <p>Repeals the current exemption for: (1) any loan made under any program funded in whole or in part by a nonprofit institution; and (2) any other qualified education loan incurred by an individual debtor on behalf of the taxpayer, the taxpayer's spouse, or any dependent, including indebtedness used to refinance a qualified education loan. (Thus makes both kinds of loans nondischargeable in bankruptcy.)</p>]]></text>
+          <actionDate>2013-01-23</actionDate>
+          <name>Introduced in Senate</name>
+          <updateDate>2013-01-23T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2015-01-13T19:16:13Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <recordedVotes />
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Bankruptcy</name>
+          </item>
+          <item>
+            <name>Higher education</name>
+          </item>
+          <item>
+            <name>Student aid and college costs</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Finance and Financial Sector</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on the Judiciary. (text of measure as introduced: CR S222)</text>
+      <actionDate>2013-01-23</actionDate>
+    </latestAction>
+    <billNumber>114</billNumber>
+    <policyArea>
+      <name>Finance and Financial Sector</name>
+    </policyArea>
+    <amendments />
+    <sponsors>
+      <item>
+        <firstName>RICHARD</firstName>
+        <party>D</party>
+        <fullName>Sen. Durbin, Richard [D-IL]</fullName>
+        <bioguideId>D000563</bioguideId>
+        <identifiers>
+          <lisID>326</lisID>
+          <gpoId>8326</gpoId>
+          <bioguideId>D000563</bioguideId>
+        </identifiers>
+        <lastName>DURBIN</lastName>
+        <middleName>J.</middleName>
+        <state>IL</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

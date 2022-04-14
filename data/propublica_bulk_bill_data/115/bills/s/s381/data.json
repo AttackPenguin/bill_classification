@@ -1,0 +1,172 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-02-15", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-02-15", 
+      "action_code": "", 
+      "committees": [
+        "SLIA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Indian Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2017-03-29", 
+      "action_code": "", 
+      "committees": [
+        "SLIA"
+      ], 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Committee on Indian Affairs. Ordered to be reported without amendment favorably.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2017-06-28", 
+      "action_code": "", 
+      "committee": "Indian Affairs", 
+      "committees": [
+        "SLIA"
+      ], 
+      "links": [
+        {
+          "name": "report No. 115-122", 
+          "url": "https://www.congress.gov/congressional-report/115th-congress/senate-report/122"
+        }
+      ], 
+      "references": [], 
+      "text": "Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 115-122.", 
+      "type": "reported"
+    }, 
+    {
+      "acted_at": "2017-06-28", 
+      "action_code": "", 
+      "calendar": "Senate Legislative", 
+      "number": "160", 
+      "references": [], 
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 160.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s381-115", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [
+    "S. Rept. 115-122"
+  ], 
+  "committees": [
+    {
+      "activity": [
+        "reporting", 
+        "markup", 
+        "referral"
+      ], 
+      "committee": "Senate Indian Affairs", 
+      "committee_id": "SLIA"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "E000295", 
+      "district": null, 
+      "name": "Ernst, Joni", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-02-15", 
+      "state": "IA", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000174", 
+      "district": null, 
+      "name": "Leahy, Patrick J.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-02-15", 
+      "state": "VT", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "U000039", 
+      "district": null, 
+      "name": "Udall, Tom", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-03-27", 
+      "state": "NM", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2017-06-28", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-02-15", 
+  "number": "381", 
+  "official_title": "A bill to repeal the Act entitled \"An Act to confer jurisdiction on the State of Iowa over offenses committed by or against Indians on the Sac and Fox Indian Reservation\".", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr1074-115", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "G000386", 
+    "district": null, 
+    "name": "Grassley, Chuck", 
+    "state": "IA", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2017-03-29", 
+  "subjects": [
+    "Criminal investigation, prosecution, interrogation", 
+    "Federal-Indian relations", 
+    "Iowa", 
+    "Jurisdiction and venue", 
+    "Native Americans", 
+    "State and local courts"
+  ], 
+  "subjects_top_term": "Native Americans", 
+  "summary": {
+    "as": "Reported to Senate without amendment", 
+    "date": "2017-06-28T14:01:49Z", 
+    "text": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)\n\n(Sec. 1) This bill repeals the Act entitled \"An Act to confer jurisdiction on the State of Iowa over offenses committed by or against Indians on the Sac and Fox Indian Reservation.\""
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to repeal the Act entitled \"An Act to confer jurisdiction on the State of Iowa over offenses committed by or against Indians on the Sac and Fox Indian Reservation\".", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "A bill to repeal the Act entitled \"An Act to confer jurisdiction on the State of Iowa over offenses committed by or against Indians on the Sac and Fox Indian Reservation\".", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-06-21T11:07:16Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/115/s/BILLSTATUS-115s381.xml"
+}

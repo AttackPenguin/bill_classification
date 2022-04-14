@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <congress>113</congress>
+    <notes />
+    <sponsors>
+      <item>
+        <middleName />
+        <byRequestType />
+        <bioguideId>B001283</bioguideId>
+        <fullName>Rep. Bridenstine, Jim [R-OK-1]</fullName>
+        <state>OK</state>
+        <lastName>Bridenstine</lastName>
+        <identifiers>
+          <lisID>2155</lisID>
+          <bioguideId>B001283</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>1</district>
+        <party>R</party>
+        <firstName>Jim</firstName>
+      </item>
+    </sponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Constitution and constitutional amendments</name>
+          </item>
+          <item>
+            <name>Tax administration and collection, taxpayers</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <amendments />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Proposing an amendment to the Constitution of the United States to repeal the sixteenth article of amendment.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Proposing an amendment to the Constitution of the United States to repeal the sixteenth article of amendment.</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <introducedDate>2013-11-15</introducedDate>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2014-01-09</actionDate>
+        <committee>
+          <systemCode>hsju10</systemCode>
+          <name>Constitution and Civil Justice Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <actionDate>2013-11-15</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <actionDate>2013-11-15</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <committee />
+        <actionDate>2013-11-15</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <cboCostEstimates />
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2014-01-25T15:54:35Z</lastSummaryUpdateDate>
+          <actionDate>2013-11-15</actionDate>
+          <text><![CDATA[<p>Constitutional Amendment - Repeals the Sixteenth Amendment to the Constitution and declares that Congress shall have no power to lay and collect taxes on incomes, except in time of war declared by Congress.</p>]]></text>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2013-11-15T05:00:00Z</updateDate>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <relatedBills>
+      <item>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Proposing an amendment to the Constitution of the United States to repeal the sixteenth article of amendment.</latestTitle>
+        <number>16</number>
+        <latestAction>
+          <text>Referred to the Subcommittee on the Constitution And Civil Justice.</text>
+          <actionDate>2013-01-25</actionDate>
+        </latestAction>
+        <type>HJRES</type>
+      </item>
+    </relatedBills>
+    <laws />
+    <originChamber>House</originChamber>
+    <calendarNumbers />
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <recordedVotes />
+    <updateDate>2018-06-05T15:54:51Z</updateDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Judiciary Committee</name>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <systemCode>hsju10</systemCode>
+              <name>Constitution and Civil Justice Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2014-01-09T18:56:44Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <systemCode>hsju00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-11-15T14:00:16Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Massie, Thomas [R-KY-4]</fullName>
+        <party>R</party>
+        <middleName />
+        <sponsorshipDate>2013-11-15</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>KY</state>
+        <bioguideId>M001184</bioguideId>
+        <firstName>Thomas</firstName>
+        <identifiers>
+          <gpoId>8371</gpoId>
+          <bioguideId>M001184</bioguideId>
+          <lisID>2094</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>4</district>
+        <lastName>Massie</lastName>
+      </item>
+      <item>
+        <fullName>Rep. DeSantis, Ron [R-FL-6]</fullName>
+        <party>R</party>
+        <middleName />
+        <sponsorshipDate>2013-11-15</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>FL</state>
+        <bioguideId>D000621</bioguideId>
+        <firstName>Ron</firstName>
+        <identifiers>
+          <lisID>2116</lisID>
+          <gpoId />
+          <bioguideId>D000621</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>6</district>
+        <lastName>DeSantis</lastName>
+      </item>
+      <item>
+        <fullName>Rep. Woodall, Rob [R-GA-7]</fullName>
+        <party>R</party>
+        <middleName />
+        <sponsorshipDate>2013-11-21</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>GA</state>
+        <bioguideId>W000810</bioguideId>
+        <firstName>Rob</firstName>
+        <identifiers>
+          <lisID>2008</lisID>
+          <gpoId>7904</gpoId>
+          <bioguideId>W000810</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>7</district>
+        <lastName>Woodall</lastName>
+      </item>
+      <item>
+        <fullName>Rep. Harris, Andy [R-MD-1]</fullName>
+        <party>R</party>
+        <middleName />
+        <sponsorshipDate>2013-11-21</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>MD</state>
+        <bioguideId>H001052</bioguideId>
+        <firstName>Andy</firstName>
+        <identifiers>
+          <lisID>2026</lisID>
+          <gpoId>7976</gpoId>
+          <bioguideId>H001052</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>1</district>
+        <lastName>Harris</lastName>
+      </item>
+      <item>
+        <fullName>Rep. Weber, Randy K., Sr. [R-TX-14]</fullName>
+        <party>R</party>
+        <middleName>K.</middleName>
+        <sponsorshipDate>2013-11-21</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>TX</state>
+        <bioguideId>W000814</bioguideId>
+        <firstName>Randy</firstName>
+        <identifiers>
+          <bioguideId>W000814</bioguideId>
+          <lisID>2161</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>14</district>
+        <lastName>Weber</lastName>
+      </item>
+      <item>
+        <fullName>Rep. Yoho, Ted S. [R-FL-3]</fullName>
+        <party>R</party>
+        <middleName>S.</middleName>
+        <sponsorshipDate>2013-11-21</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>FL</state>
+        <bioguideId>Y000065</bioguideId>
+        <firstName>Ted</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2115</lisID>
+          <bioguideId>Y000065</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>3</district>
+        <lastName>Yoho</lastName>
+      </item>
+      <item>
+        <fullName>Rep. Broun, Paul C. [R-GA-10]</fullName>
+        <party>R</party>
+        <middleName>C.</middleName>
+        <sponsorshipDate>2013-11-21</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>GA</state>
+        <bioguideId>B001262</bioguideId>
+        <firstName>Paul</firstName>
+        <identifiers>
+          <bioguideId>B001262</bioguideId>
+          <lisID>1882</lisID>
+          <gpoId>7907</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>10</district>
+        <lastName>Broun</lastName>
+      </item>
+      <item>
+        <fullName>Rep. Thornberry, Mac [R-TX-13]</fullName>
+        <party>R</party>
+        <middleName>M.</middleName>
+        <sponsorshipDate>2013-11-21</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>TX</state>
+        <bioguideId>T000238</bioguideId>
+        <firstName>WILLIAM</firstName>
+        <identifiers>
+          <gpoId>8755</gpoId>
+          <lisID>1155</lisID>
+          <bioguideId>T000238</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>13</district>
+        <lastName>THORNBERRY</lastName>
+      </item>
+      <item>
+        <fullName>Rep. Salmon, Matt [R-AZ-5]</fullName>
+        <party>R</party>
+        <middleName />
+        <sponsorshipDate>2013-11-21</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>AZ</state>
+        <bioguideId>S000018</bioguideId>
+        <firstName>MATT</firstName>
+        <identifiers>
+          <lisID>1009</lisID>
+          <gpoId />
+          <bioguideId>S000018</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>5</district>
+        <lastName>SALMON</lastName>
+      </item>
+      <item>
+        <fullName>Rep. Bentivolio, Kerry L. [R-MI-11]</fullName>
+        <party>R</party>
+        <middleName>L.</middleName>
+        <sponsorshipDate>2013-12-04</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>MI</state>
+        <bioguideId>B001280</bioguideId>
+        <firstName>Kerry</firstName>
+        <identifiers>
+          <lisID>2135</lisID>
+          <bioguideId>B001280</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>11</district>
+        <lastName>Bentivolio</lastName>
+      </item>
+      <item>
+        <fullName>Rep. Lucas, Frank D. [R-OK-3]</fullName>
+        <party>R</party>
+        <middleName>D.</middleName>
+        <sponsorshipDate>2014-03-11</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>OK</state>
+        <bioguideId>L000491</bioguideId>
+        <firstName>FRANK</firstName>
+        <identifiers>
+          <lisID>711</lisID>
+          <gpoId>8111</gpoId>
+          <bioguideId>L000491</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>3</district>
+        <lastName>LUCAS</lastName>
+      </item>
+      <item>
+        <fullName>Rep. Duncan, Jeff [R-SC-3]</fullName>
+        <party>R</party>
+        <middleName />
+        <sponsorshipDate>2014-05-06</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>SC</state>
+        <bioguideId>D000615</bioguideId>
+        <firstName>Jeff</firstName>
+        <identifiers>
+          <bioguideId>D000615</bioguideId>
+          <gpoId>8143</gpoId>
+          <lisID>2057</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>3</district>
+        <lastName>Duncan</lastName>
+      </item>
+    </cosponsors>
+    <title>Proposing an amendment to the Constitution of the United States to repeal the sixteenth article of amendment.</title>
+    <createDate>2013-11-16T07:01:09Z</createDate>
+    <billType>HJRES</billType>
+    <billNumber>104</billNumber>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 159, Number 163 (Friday, November 15, 2013)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. BRIDENSTINE:H.J. Res. 104.Congress has the power to enact this legislation pursuantto the following:This joint resolution is enacted pursuant to the powergranted to Congress to propose amendments to the Constitutionunder Article V of the United States Constitution.____________________[Page H7153]</pre>]]></constitutionalAuthorityStatementText>
+    <committeeReports />
+    <latestAction>
+      <actionDate>2014-01-09</actionDate>
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

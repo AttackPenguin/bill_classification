@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <receivedInTheHouse>1</receivedInTheHouse>
+        <passedSenate>1</passedSenate>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <billReferrals>1</billReferrals>
+        <sentToHouse>1</sentToHouse>
+        <reportedToSenate>2</reportedToSenate>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <introducedInSenate>1</introducedInSenate>
+        <placeholderTextForH>1</placeholderTextForH>
+        <orderedReported>1</orderedReported>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2013-06-21</actionDate>
+        <committee>
+          <name>Federal Lands Subcommittee</name>
+          <systemCode>hsii10</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <actionDate>2013-06-20</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <text>Referred to the House Committee on Natural Resources.</text>
+        <committee>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <actionDate>2013-06-20</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionTime>14:00:09</actionTime>
+        <actionCode>H14000</actionCode>
+        <actionDate>2013-06-20</actionDate>
+        <type>Floor</type>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Received in the House.</text>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2013-06-19</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S4717-4722</name>
+            <url>https://www.congress.gov/congressional-record/volume-159/senate-section/page/S4717-4722</url>
+          </link>
+          <link>
+            <name>S4721</name>
+            <url>https://www.congress.gov/congressional-record/volume-159/senate-section/page/S4721</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Passed Senate without amendment by Unanimous Consent. (consideration: CR S4717-4722; text as passed Senate: CR S4721)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionCode>17000</actionCode>
+        <actionDate>2013-06-19</actionDate>
+        <type>Floor</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>S4717-4722</name>
+            <url>https://www.congress.gov/congressional-record/volume-159/senate-section/page/S4717-4722</url>
+          </link>
+          <link>
+            <name>S4721</name>
+            <url>https://www.congress.gov/congressional-record/volume-159/senate-section/page/S4721</url>
+          </link>
+        </links>
+        <text>Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4717-4722; text as passed Senate: CR S4721)</text>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2013-04-22</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 62.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2013-04-22</actionDate>
+        <committee>
+          <name>Energy and Natural Resources Committee</name>
+          <systemCode>sseg00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>report No. 113-31</name>
+            <url>https://www.congress.gov/congressional-report/113th-congress/senate-report/31</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Energy and Natural Resources. Reported by Senator Wyden without amendment. With written report No. 113-31.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>14000</actionCode>
+        <actionDate>2013-04-22</actionDate>
+        <type>Committee</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>report No. 113-31</name>
+            <url>https://www.congress.gov/congressional-report/113th-congress/senate-report/31</url>
+          </link>
+        </links>
+        <text>Committee on Energy and Natural Resources. Reported by Senator Wyden without amendment. With written report No. 113-31.</text>
+        <committee>
+          <name>Energy and Natural Resources Committee</name>
+          <systemCode>sseg00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <actionDate>2013-03-14</actionDate>
+        <committee>
+          <name>Energy and Natural Resources Committee</name>
+          <systemCode>sseg00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-02-27</actionDate>
+        <committee>
+          <name>Energy and Natural Resources Committee</name>
+          <systemCode>sseg00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <actionDate>2013-02-27</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <text>Introduced in Senate</text>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>9</senate>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <introducedDate>2013-02-27</introducedDate>
+    <updateDate>2016-10-25T16:21:11Z</updateDate>
+    <createDate>2013-02-28T07:00:52Z</createDate>
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hsii00</systemCode>
+          <activities>
+            <item>
+              <date>2013-06-20T19:43:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2013-06-21T21:10:51Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Federal Lands Subcommittee</name>
+              <systemCode>hsii10</systemCode>
+            </item>
+          </subcommittees>
+          <name>Natural Resources Committee</name>
+        </item>
+        <item>
+          <chamber>Senate</chamber>
+          <systemCode>sseg00</systemCode>
+          <activities>
+            <item>
+              <date>2013-04-22T20:40:51Z</date>
+              <name>Reported by</name>
+            </item>
+            <item>
+              <date>2013-03-14T18:17:36Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2013-02-27T16:55:11Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Energy and Natural Resources Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <middleName>R.</middleName>
+        <firstName>THOMAS</firstName>
+        <identifiers>
+          <lisID>179</lisID>
+          <bioguideId>C000174</bioguideId>
+          <gpoId>8283</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>CARPER</lastName>
+        <fullName>Sen. Carper, Thomas R. [D-DE]</fullName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C000174</bioguideId>
+        <sponsorshipDate>2013-02-27</sponsorshipDate>
+        <state>DE</state>
+      </item>
+      <item>
+        <middleName />
+        <firstName>Bob</firstName>
+        <identifiers>
+          <lisID>1828</lisID>
+          <bioguideId>C001070</bioguideId>
+          <gpoId>8282</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Casey</lastName>
+        <fullName>Sen. Casey, Robert P., Jr. [D-PA]</fullName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C001070</bioguideId>
+        <sponsorshipDate>2013-04-09</sponsorshipDate>
+        <state>PA</state>
+      </item>
+    </cosponsors>
+    <congress>113</congress>
+    <billType>S</billType>
+    <title>White Clay Creek Wild and Scenic River Expansion Act of 2013</title>
+    <titles>
+      <item>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <chamberName>Senate</chamberName>
+        <title>White Clay Creek Wild and Scenic River Expansion Act of 2013</title>
+        <titleType>Short Titles as Passed Senate</titleType>
+        <chamberCode>S</chamberCode>
+      </item>
+      <item>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <chamberName>Senate</chamberName>
+        <title>White Clay Creek Wild and Scenic River Expansion Act of 2013</title>
+        <titleType>Short Titles as Reported to Senate</titleType>
+        <chamberCode>S</chamberCode>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>White Clay Creek Wild and Scenic River Expansion Act of 2013</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>A bill to designate additional segments and tributaries of White Clay Creek, in the States of Delaware and Pennsylvania, as a component of the National Wild and Scenic Rivers System.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>White Clay Creek Wild and Scenic River Expansion Act of 2013</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+    <committeeReports>
+      <committeeReport>
+        <citation>S. Rept. 113-31</citation>
+      </committeeReport>
+    </committeeReports>
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in Senate</name>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2013-03-15T18:44:17Z</lastSummaryUpdateDate>
+          <actionDate>2013-02-27</actionDate>
+          <text><![CDATA[<p> White Clay Creek Wild and Scenic River Expansion Act of 2013 - Amends the Wild and Scenic Rivers Act to designate additional segments and tributaries of the White Clay Creek in Delaware and Pennsylvania as components of the National Wild and Scenic Rivers System. </p>]]></text>
+          <versionCode>00</versionCode>
+          <updateDate>2013-02-27T05:00:00Z</updateDate>
+        </item>
+        <item>
+          <name>Reported to Senate without amendment</name>
+          <actionDesc>Reported to Senate without amendment</actionDesc>
+          <lastSummaryUpdateDate>2013-05-07T19:38:34Z</lastSummaryUpdateDate>
+          <actionDate>2013-04-22</actionDate>
+          <text><![CDATA[<p><b>(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)</b></p> <p> White Clay Creek Wild and Scenic River Expansion Act of 2013 - Amends the Wild and Scenic Rivers Act to designate additional segments and tributaries of the White Clay Creek in Delaware and Pennsylvania as components of the National Wild and Scenic Rivers System. </p> <p>Applies the White Clay Creek Wild and Scenic Rivers System Act to such additional segments and tributaries of White Clay Creek. </p>]]></text>
+          <versionCode>80</versionCode>
+          <updateDate>2013-04-22T12:57:26Z</updateDate>
+        </item>
+        <item>
+          <name>Passed Senate without amendment</name>
+          <actionDesc>Passed Senate without amendment</actionDesc>
+          <lastSummaryUpdateDate>2013-09-06T18:28:21Z</lastSummaryUpdateDate>
+          <actionDate>2013-06-19</actionDate>
+          <text><![CDATA[<p><b>(This measure has not been amended since it was introduced. The expanded summary of the Senate reported version is repeated here.)</b></p> <p> White Clay Creek Wild and Scenic River Expansion Act of 2013 - Amends the Wild and Scenic Rivers Act to designate additional segments and tributaries of the White Clay Creek in Delaware and Pennsylvania as components of the National Wild and Scenic Rivers System. </p> <p>Applies the White Clay Creek Wild and Scenic Rivers System Act to such additional segments and tributaries of White Clay Creek. </p>]]></text>
+          <versionCode>82</versionCode>
+          <updateDate>2013-06-19T15:59:43Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates>
+      <item>
+        <title>S. 393, White Clay Creek Wild and Scenic River Expansion Act of 2013</title>
+        <url>http://www.cbo.gov/publication/44057</url>
+        <pubDate>2013-04-03T18:11:00Z</pubDate>
+      </item>
+      <item>
+        <title>S. 393, White Clay Creek Wild and Scenic River Expansion Act of 2013</title>
+        <url>https://www.cbo.gov/publication/44057</url>
+        <pubDate>2013-04-03T18:11:00Z</pubDate>
+      </item>
+    </cboCostEstimates>
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <number>869</number>
+        <type>HR</type>
+        <latestTitle>White Clay Creek Wild and Scenic River Expansion Act of 2013</latestTitle>
+        <latestAction>
+          <actionDate>2013-03-04</actionDate>
+          <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Delaware</name>
+          </item>
+          <item>
+            <name>Pennsylvania</name>
+          </item>
+          <item>
+            <name>Wilderness and natural areas, wildlife refuges, wild rivers, habitats</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+      <actionDate>2013-06-21</actionDate>
+    </latestAction>
+    <billNumber>393</billNumber>
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <amendments />
+    <sponsors>
+      <item>
+        <firstName>Christopher</firstName>
+        <party>D</party>
+        <fullName>Sen. Coons, Christopher A. [D-DE]</fullName>
+        <bioguideId>C001088</bioguideId>
+        <identifiers>
+          <gpoId>8297</gpoId>
+          <lisID>1984</lisID>
+          <bioguideId>C001088</bioguideId>
+        </identifiers>
+        <lastName>Coons</lastName>
+        <middleName>A.</middleName>
+        <state>DE</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <calendarNumbers>
+      <item>
+        <number>0062</number>
+        <calendar>Senate Calendar of Business</calendar>
+      </item>
+    </calendarNumbers>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

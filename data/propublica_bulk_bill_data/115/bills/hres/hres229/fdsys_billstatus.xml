@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>House of Representatives</name>
+          </item>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <latestAction>
+          <actionDate>2017-03-30</actionDate>
+          <text>Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.</text>
+        </latestAction>
+        <number>1430</number>
+        <type>HR</type>
+        <latestTitle>HONEST Act</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Procedurally-related</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <type>Standing</type>
+          <systemCode>hsru00</systemCode>
+          <chamber>House</chamber>
+          <name>Rules Committee</name>
+          <activities>
+            <item>
+              <date>2017-03-27T22:38:03Z</date>
+              <name>Reported original measure</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-03-28T08:04:08Z</lastSummaryUpdateDate>
+          <text><![CDATA[Sets forth the rule for consideration of the bill (H.R. 1430) to prohibit the Environmental Protection Agency from proposing, finalizing, or disseminating regulations or assessments based upon science that is not transparent or reproducible.]]></text>
+          <versionCode>00</versionCode>
+          <actionDate>2017-03-27</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2017-03-27T04:00:00Z</updateDate>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <version>1.0.0</version>
+    <originChamber>House</originChamber>
+    <congress>115</congress>
+    <latestAction>
+      <actionTime>15:33:28</actionTime>
+      <actionDate>2017-03-28</actionDate>
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      <links />
+    </latestAction>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>13</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <committee />
+        <type>Floor</type>
+        <actionDate>2017-03-28</actionDate>
+        <actionCode>H38310</actionCode>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <actionTime>15:33:28</actionTime>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <type>Floor</type>
+        <actionDate>2017-03-28</actionDate>
+        <actionCode>H37100</actionCode>
+        <text>On agreeing to the resolution Agreed to by recorded vote: 231 - 185 (Roll no. 198). (text: CR H2471)</text>
+        <actionTime>15:33:26</actionTime>
+        <links>
+          <link>
+            <name>H2471</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H2471</url>
+          </link>
+          <link>
+            <name>Roll no. 198</name>
+            <url>http://clerk.house.gov/evs/2017/roll198.xml</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <type>Floor</type>
+        <actionDate>2017-03-28</actionDate>
+        <actionCode>8000</actionCode>
+        <text>Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 231 - 185 (Roll no. 198).(text: CR H2471)</text>
+        <actionTime>15:33:26</actionTime>
+        <links>
+          <link>
+            <name>H2471</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H2471</url>
+          </link>
+          <link>
+            <name>Roll no. 198</name>
+            <url>http://clerk.house.gov/evs/2017/roll198.xml</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <type>Floor</type>
+        <actionDate>2017-03-28</actionDate>
+        <actionCode>H35000</actionCode>
+        <text>On ordering the previous question Agreed to by the Yeas and Nays: 231 - 189 (Roll no. 197). (consideration: CR H2486-2487)</text>
+        <actionTime>15:26:43</actionTime>
+        <links>
+          <link>
+            <name>H2486-2487</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H2486-2487</url>
+          </link>
+          <link>
+            <name>Roll no. 197</name>
+            <url>http://clerk.house.gov/evs/2017/roll197.xml</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <type>Floor</type>
+        <actionDate>2017-03-28</actionDate>
+        <actionCode>H30000</actionCode>
+        <text>Considered as unfinished business. (consideration: CR H2486-2487)</text>
+        <actionTime>15:01:15</actionTime>
+        <links>
+          <link>
+            <name>H2486-2487</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H2486-2487</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <type>Floor</type>
+        <actionDate>2017-03-28</actionDate>
+        <actionCode>H8D000</actionCode>
+        <text>POSTPONED PROCEEDINGS - At conclusion of debate on H.Res. 229, the Chair put the question on ordering the previous question on H.Res. 229 and by voice vote, announced that the ayes had prevailed. Mr. Polis demanded the yeas and nays and the Chair postponed further proceedings on ordering the previous question until a time to be announced.</text>
+        <actionTime>13:11:50</actionTime>
+        <links>
+          <link>
+            <name>H.Res. 229</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/229</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <type>Floor</type>
+        <actionDate>2017-03-28</actionDate>
+        <actionCode>H8D000</actionCode>
+        <text>DEBATE - The House proceeded with one hour of debate on H. Res. 229.</text>
+        <actionTime>12:26:31</actionTime>
+        <links>
+          <link>
+            <name>H. Res. 229</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/229</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <type>Floor</type>
+        <actionDate>2017-03-28</actionDate>
+        <actionCode>H30000</actionCode>
+        <text>Considered as privileged matter. (consideration: CR H2471-2478)</text>
+        <actionTime>12:23:24</actionTime>
+        <links>
+          <link>
+            <name>H2471-2478</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H2471-2478</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <type>Calendars</type>
+        <actionDate>2017-03-27</actionDate>
+        <actionCode>H12420</actionCode>
+        <text>Placed on the House Calendar, Calendar No. 27.</text>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <type>Floor</type>
+        <actionDate>2017-03-27</actionDate>
+        <actionCode>H12700</actionCode>
+        <text>Rule provides for consideration of H.R. 1430 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments.</text>
+        <actionTime>18:38:04</actionTime>
+        <links>
+          <link>
+            <name>H.R. 1430</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/1430</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+        </committee>
+        <text>The House Committee on Rules reported an original measure, H. Rept. 115-60, by Mr. Woodall.</text>
+        <actionDate>2017-03-27</actionDate>
+        <actionCode>H12100</actionCode>
+        <type>Committee</type>
+        <links>
+          <link>
+            <name>H. Rept. 115-60</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/60</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+        </committee>
+        <text>The House Committee on Rules reported an original measure, H. Rept. 115-60, by Mr. Woodall.</text>
+        <actionDate>2017-03-27</actionDate>
+        <actionCode>5000</actionCode>
+        <type>Committee</type>
+        <links>
+          <link>
+            <name>H. Rept. 115-60</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/60</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2017-03-27</actionDate>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <provisionsOfARule>1</provisionsOfARule>
+        <generalDebate>2</generalDebate>
+        <motionForPreviousQuestion>1</motionForPreviousQuestion>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <considerationByHouse>2</considerationByHouse>
+        <houseCalendarAssignment>1</houseCalendarAssignment>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <reportedToHouse>1</reportedToHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <committeeReportOfAnOriginalMeasure>1</committeeReportOfAnOriginalMeasure>
+      </actionTypeCounts>
+    </actions>
+    <createDate>2017-03-28T05:32:29Z</createDate>
+    <laws />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>Providing for consideration of the bill (H.R. 1430) to prohibit the Environmental Protection Agency from proposing, finalizing, or disseminating regulations or assessments based upon science that is not transparent or reproducible.</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>Providing for consideration of the bill (H.R. 1430) to prohibit the Environmental Protection Agency from proposing, finalizing, or disseminating regulations or assessments based upon science that is not transparent or reproducible.</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <constitutionalAuthorityStatementText />
+    <introducedDate>2017-03-27</introducedDate>
+    <calendarNumbers>
+      <item>
+        <calendar>H00027</calendar>
+        <number />
+      </item>
+    </calendarNumbers>
+    <recordedVotes>
+      <recordedVote>
+        <rollNumber>198</rollNumber>
+        <congress>115</congress>
+        <fullActionName>Passage of a Measure</fullActionName>
+        <sessionNumber>1</sessionNumber>
+        <chamber>House</chamber>
+        <url>http://clerk.house.gov/evs/2017/roll198.xml</url>
+        <date>2017-03-28T19:33:26Z</date>
+      </recordedVote>
+      <recordedVote>
+        <rollNumber>197</rollNumber>
+        <congress>115</congress>
+        <fullActionName>Motion for Previous Question</fullActionName>
+        <sessionNumber>1</sessionNumber>
+        <chamber>House</chamber>
+        <url>http://clerk.house.gov/evs/2017/roll197.xml</url>
+        <date>2017-03-28T19:26:43Z</date>
+      </recordedVote>
+    </recordedVotes>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hres229eh/xml/BILLS-115hres229eh.xml</url>
+          </item>
+        </formats>
+        <date>2017-03-28T04:00:00Z</date>
+        <type>Engrossed in House</type>
+      </item>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hres229rh/xml/BILLS-115hres229rh.xml</url>
+          </item>
+        </formats>
+        <date>2017-03-27T04:00:00Z</date>
+        <type>Reported in House</type>
+      </item>
+    </textVersions>
+    <cosponsors />
+    <amendments />
+    <billNumber>229</billNumber>
+    <updateDate>2019-11-15T21:46:46Z</updateDate>
+    <cboCostEstimates />
+    <title>Providing for consideration of the bill (H.R. 1430) to prohibit the Environmental Protection Agency from proposing, finalizing, or disseminating regulations or assessments based upon science that is not transparent or reproducible.</title>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-60</citation>
+      </committeeReport>
+    </committeeReports>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <district>7</district>
+        <lastName>Woodall</lastName>
+        <firstName>Rob</firstName>
+        <state>GA</state>
+        <fullName>Rep. Woodall, Rob [R-GA-7]</fullName>
+        <identifiers>
+          <lisID>2008</lisID>
+          <gpoId>7904</gpoId>
+          <bioguideId>W000810</bioguideId>
+        </identifiers>
+        <middleName />
+        <bioguideId>W000810</bioguideId>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <billType>HRES</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

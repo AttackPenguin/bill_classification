@@ -1,0 +1,123 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-09-06", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-09-06", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2017-09-21", 
+      "action_code": "", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Immigration and Border Security.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3689-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Immigration and Citizenship", 
+      "subcommittee_id": "01"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-09-06", 
+  "number": "3689", 
+  "official_title": "To amend the Immigration and Nationality Act to eliminate the 1-year limitation on the period of time an alien may be accorded nonimmigrant status to study at a public secondary school, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Student Exchange Program Parity Act", 
+  "sponsor": {
+    "bioguide_id": "M001193", 
+    "district": "3", 
+    "name": "MacArthur, Thomas", 
+    "state": "NJ", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-09-06", 
+  "subjects": [
+    "Canada", 
+    "Elementary and secondary education", 
+    "Immigration", 
+    "Immigration status and procedures", 
+    "International exchange and broadcasting", 
+    "Latin America", 
+    "Mexico"
+  ], 
+  "subjects_top_term": "Immigration", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2017-09-06T04:00:00Z", 
+    "text": "Student Exchange Program Parity Act\n\nThis bill amends the Immigration and Nationality Act to eliminate the one-year limitation on the period of time an alien may be accorded nonimmigrant student status, including Mexican and Canadian full- or part-time commuting students, to study at a public secondary school."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Immigration and Nationality Act to eliminate the 1-year limitation on the period of time an alien may be accorded nonimmigrant status to study at a public secondary school, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Student Exchange Program Parity Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Student Exchange Program Parity Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Student Exchange Program Parity Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-11-15T21:36:21Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr3689.xml"
+}

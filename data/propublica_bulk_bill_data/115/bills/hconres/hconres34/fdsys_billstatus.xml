@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <congress>115</congress>
+    <originChamber>House</originChamber>
+    <constitutionalAuthorityStatementText />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <subcommittees />
+          <name>Ways and Means Committee</name>
+          <activities>
+            <item>
+              <date>2017-03-17T13:00:46Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hswm00</systemCode>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Charitable contributions</name>
+          </item>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Income tax deductions</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <latestAction>
+      <links />
+      <text>Referred to the House Committee on Ways and Means.</text>
+      <actionDate>2017-03-17</actionDate>
+    </latestAction>
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <actionDate>2017-03-17</actionDate>
+          <lastSummaryUpdateDate>2017-03-24T18:28:18Z</lastSummaryUpdateDate>
+          <updateDate>2017-03-17T04:00:00Z</updateDate>
+          <text><![CDATA[<p>Reaffirms the importance of encouraging rather than diminishing philanthropic services which respond to the needs of communities. Recognizes the 100th anniversary of the tax deduction for charitable contributions. </p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>Recognizing the 100th anniversary of the charitable contribution deduction.</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Recognizing the 100th anniversary of the charitable contribution deduction.</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <laws />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <actionCode>H11100</actionCode>
+        <links />
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-03-17</actionDate>
+        <type>IntroReferral</type>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-03-17</actionDate>
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <links />
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-03-17</actionDate>
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+    </actions>
+    <version>1.0.0</version>
+    <cboCostEstimates />
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <calendarNumbers />
+    <cosponsors>
+      <item>
+        <firstName>PATRICK</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>J.</middleName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-03-17</sponsorshipDate>
+        <district>12</district>
+        <lastName>TIBERI</lastName>
+        <bioguideId>T000462</bioguideId>
+        <state>OH</state>
+        <identifiers>
+          <lisID>1664</lisID>
+          <bioguideId>T000462</bioguideId>
+          <gpoId>8102</gpoId>
+        </identifiers>
+        <fullName>Rep. Tiberi, Patrick J. [R-OH-12]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>DANNY</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>K.</middleName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+        <district>7</district>
+        <lastName>DAVIS</lastName>
+        <bioguideId>D000096</bioguideId>
+        <state>IL</state>
+        <identifiers>
+          <gpoId>7927</gpoId>
+          <bioguideId>D000096</bioguideId>
+          <lisID>1477</lisID>
+        </identifiers>
+        <fullName>Rep. Davis, Danny K. [D-IL-7]</fullName>
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <billType>HCONRES</billType>
+    <sponsors>
+      <item>
+        <firstName>JOHN</firstName>
+        <fullName>Rep. Lewis, John [D-GA-5]</fullName>
+        <middleName />
+        <bioguideId>L000287</bioguideId>
+        <lastName>LEWIS</lastName>
+        <state>GA</state>
+        <party>D</party>
+        <identifiers>
+          <gpoId>7902</gpoId>
+          <lisID>688</lisID>
+          <bioguideId>L000287</bioguideId>
+        </identifiers>
+        <district>5</district>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <recordedVotes />
+    <notes />
+    <billNumber>34</billNumber>
+    <updateDate>2019-04-18T15:52:36Z</updateDate>
+    <relatedBills />
+    <amendments />
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hconres34ih/xml/BILLS-115hconres34ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+        <date>2017-03-17T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <createDate>2017-03-18T04:55:10Z</createDate>
+    <introducedDate>2017-03-17</introducedDate>
+    <committeeReports />
+    <title>Recognizing the 100th anniversary of the charitable contribution deduction.</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

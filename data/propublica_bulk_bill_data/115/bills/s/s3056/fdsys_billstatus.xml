@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cboCostEstimates />
+    <notes />
+    <updateDate>2019-10-18T16:08:13Z</updateDate>
+    <sponsors>
+      <item>
+        <bioguideId>H001061</bioguideId>
+        <lastName>Hoeven</lastName>
+        <byRequestType />
+        <fullName>Sen. Hoeven, John [R-ND]</fullName>
+        <middleName />
+        <party>R</party>
+        <identifiers>
+          <lisID>2079</lisID>
+          <gpoId>8331</gpoId>
+          <bioguideId>H001061</bioguideId>
+        </identifiers>
+        <firstName>John</firstName>
+        <state>ND</state>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <name>Energy and Natural Resources Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-06-12T22:05:19Z</date>
+            </item>
+          </activities>
+          <systemCode>sseg00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>Senate</originChamber>
+    <cosponsors />
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2018-06-12T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2019-08-09T14:11:53Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><b>North American Energy Infrastructure Act </b></p> <p>This bill prohibits any person from constructing, connecting, operating, or maintaining a border-crossing facility for the import or export of oil, natural gas, or electricity across an international border of the United States without obtaining a certificate of crossing, subject to specified exclusions.</p>]]></text>
+          <actionDate>2018-06-12</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billType>S</billType>
+    <policyArea>
+      <name>Energy</name>
+    </policyArea>
+    <laws />
+    <title>North American Energy Infrastructure Act</title>
+    <latestAction>
+      <links />
+      <actionDate>2018-06-12</actionDate>
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </latestAction>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115s3056is/xml/BILLS-115s3056is.xml</url>
+          </item>
+        </formats>
+        <date>2018-06-12T04:00:00Z</date>
+        <type>Introduced in Senate</type>
+      </item>
+    </textVersions>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2018-06-12</actionDate>
+        <committee>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>10000</actionCode>
+        <links />
+        <actionDate>2018-06-12</actionDate>
+        <text>Introduced in Senate</text>
+      </item>
+    </actions>
+    <congress>115</congress>
+    <recordedVotes />
+    <version>1.0.0</version>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Energy</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to establish a more uniform, transparent, and modern process to authorize the construction, connection, operation, and maintenance of international border-crossing facilities for the import and export of oil and natural gas and the transmission of electricity.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>North American Energy Infrastructure Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>North American Energy Infrastructure Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>North American Energy Infrastructure Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <amendments />
+    <createDate>2018-06-13T04:25:51Z</createDate>
+    <introducedDate>2018-06-12</introducedDate>
+    <committeeReports />
+    <billNumber>3056</billNumber>
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2017-07-20</actionDate>
+          <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        </latestAction>
+        <type>HR</type>
+        <latestTitle>Promoting Cross-Border Energy Infrastructure Act</latestTitle>
+        <number>2883</number>
+        <congress>115</congress>
+      </item>
+    </relatedBills>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

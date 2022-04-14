@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Criminal procedure and sentencing</name>
+          </item>
+          <item>
+            <name>Drug trafficking and controlled substances</name>
+          </item>
+          <item>
+            <name>Postal service</name>
+          </item>
+          <item>
+            <name>Trade restrictions</name>
+          </item>
+          <item>
+            <name>U.S. Sentencing Commission</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <latestAction>
+          <actionDate>2018-04-11</actionDate>
+          <text>Committee on the Judiciary Subcommittee on Crime and Terrorism. Hearings held.</text>
+        </latestAction>
+        <number>2635</number>
+        <type>S</type>
+        <latestTitle>Ending the Fentanyl Crisis Act of 2018</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-04-10T16:02:10Z</date>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <name>Crime, Terrorism, and Homeland Security Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2018-05-21T19:15:11Z</date>
+                </item>
+              </activities>
+              <systemCode>hsju08</systemCode>
+            </item>
+          </subcommittees>
+        </item>
+        <item>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Reform Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-04-10T16:02:20Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+        </item>
+        <item>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-04-10T16:02:15Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><b>Ending the Fentanyl Crisis Act of 2018</b></p> <p> This bill amends the Controlled Substances Act and the Controlled Substances Import and Export Act to modify the drug quantity thresholds that trigger a mandatory minimum prison term for a defendant who manufactures, distributes, imports, exports, or possesses with intent to distribute fentanyl. </p> <p>Specifically, the bill reduces from 400 to 20 grams the fentanyl quantity and from 100 to 5 grams the fentanyl analogue quantity that trigger a 10-year or 20-year mandatory minimum prison term for high-level first-time or repeat offenders. It also reduces from 40 to 2 grams the fentanyl quantity and from 10 to 0.5 grams the fentanyl analogue quantity that trigger a 5-year or 10-year mandatory minimum prison term for low-level first-time or repeat offenders.</p> <p>Additionally, the bill directs the U.S. Postal Service to increase the availability of chemical screening devices and dedicate the appropriate number of personnel to interdict fentanyl and other substances that are unlawfully imported into the United States.</p>]]></text>
+          <actionDate>2018-04-10</actionDate>
+          <lastSummaryUpdateDate>2019-07-23T20:34:29Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2018-04-10T04:00:00Z</updateDate>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <version>1.0.0</version>
+    <originChamber>House</originChamber>
+    <congress>115</congress>
+    <latestAction>
+      <actionDate>2018-05-21</actionDate>
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+      <links />
+    </latestAction>
+    <actions>
+      <actionTypeCounts>
+        <billReferrals>3</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2018-05-21</actionDate>
+        <committee>
+          <name>Crime, Terrorism, and Homeland Security Subcommittee</name>
+          <systemCode>hsju08</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Oversight and Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the Committee on the Judiciary, and in addition to the Committees on Energy and Commerce, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2018-04-10</actionDate>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the Committee on the Judiciary, and in addition to the Committees on Energy and Commerce, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2018-04-10</actionDate>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the Committee on the Judiciary, and in addition to the Committees on Energy and Commerce, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2018-04-10</actionDate>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <actionDate>2018-04-10</actionDate>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <actionDate>2018-04-10</actionDate>
+        <type>IntroReferral</type>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <createDate>2018-04-11T12:25:58Z</createDate>
+    <laws />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>To amend the Controlled Substances Act and the Controlled Substances Import and Export Act to modify the offenses relating to fentanyl, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>Ending the Fentanyl Crisis Act of 2018</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>Ending the Fentanyl Crisis Act of 2018</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>Ending the Fentanyl Crisis Act of 2018</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 164, Number 57 (Tuesday, April 10, 2018)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. HILL:H.R. 5459.Congress has the power to enact this legislation pursuantto the following:Section 8 of article 1 of the Constitution.[Page H3096]</pre>]]></constitutionalAuthorityStatementText>
+    <introducedDate>2018-04-10</introducedDate>
+    <calendarNumbers />
+    <recordedVotes />
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr5459ih/xml/BILLS-115hr5459ih.xml</url>
+          </item>
+        </formats>
+        <date>2018-04-10T04:00:00Z</date>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <cosponsors>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2018-04-18</sponsorshipDate>
+        <identifiers>
+          <bioguideId>S000583</bioguideId>
+          <lisID>1075</lisID>
+          <gpoId>8177</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>21</district>
+        <bioguideId>S000583</bioguideId>
+        <lastName>SMITH</lastName>
+        <state>TX</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>LAMAR</firstName>
+        <fullName>Rep. Smith, Lamar [R-TX-21]</fullName>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2018-04-18</sponsorshipDate>
+        <identifiers>
+          <bioguideId>M001180</bioguideId>
+          <lisID>2074</lisID>
+          <gpoId>8222</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>1</district>
+        <bioguideId>M001180</bioguideId>
+        <lastName>McKinley</lastName>
+        <state>WV</state>
+        <middleName>B.</middleName>
+        <sponsorshipWithdrawnDate />
+        <firstName>David</firstName>
+        <fullName>Rep. McKinley, David B. [R-WV-1]</fullName>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2018-04-18</sponsorshipDate>
+        <identifiers>
+          <lisID>2330</lisID>
+          <gpoId />
+          <bioguideId>J000299</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>4</district>
+        <bioguideId>J000299</bioguideId>
+        <lastName>Johnson</lastName>
+        <state>LA</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Mike</firstName>
+        <fullName>Rep. Johnson, Mike [R-LA-4]</fullName>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2018-04-18</sponsorshipDate>
+        <identifiers>
+          <bioguideId>W000795</bioguideId>
+          <lisID>1688</lisID>
+          <gpoId>8142</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>2</district>
+        <bioguideId>W000795</bioguideId>
+        <lastName>Wilson</lastName>
+        <state>SC</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Joe</firstName>
+        <fullName>Rep. Wilson, Joe [R-SC-2]</fullName>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2018-04-18</sponsorshipDate>
+        <identifiers>
+          <lisID>2361</lisID>
+          <gpoId />
+          <bioguideId>N000190</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>5</district>
+        <bioguideId>N000190</bioguideId>
+        <lastName>Norman</lastName>
+        <state>SC</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Ralph</firstName>
+        <fullName>Rep. Norman, Ralph [R-SC-5]</fullName>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2018-04-18</sponsorshipDate>
+        <identifiers>
+          <lisID>2161</lisID>
+          <gpoId />
+          <bioguideId>W000814</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>14</district>
+        <bioguideId>W000814</bioguideId>
+        <lastName>Weber</lastName>
+        <state>TX</state>
+        <middleName>K.</middleName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Randy</firstName>
+        <fullName>Rep. Weber, Randy K., Sr. [R-TX-14]</fullName>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2018-04-18</sponsorshipDate>
+        <identifiers>
+          <bioguideId>B001291</bioguideId>
+          <lisID>2270</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>36</district>
+        <bioguideId>B001291</bioguideId>
+        <lastName>Babin</lastName>
+        <state>TX</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Brian</firstName>
+        <fullName>Rep. Babin, Brian [R-TX-36]</fullName>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2018-04-18</sponsorshipDate>
+        <identifiers>
+          <bioguideId>H001052</bioguideId>
+          <gpoId>7976</gpoId>
+          <lisID>2026</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>1</district>
+        <bioguideId>H001052</bioguideId>
+        <lastName>Harris</lastName>
+        <state>MD</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Andy</firstName>
+        <fullName>Rep. Harris, Andy [R-MD-1]</fullName>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2018-04-18</sponsorshipDate>
+        <identifiers>
+          <bioguideId>H001059</bioguideId>
+          <gpoId>7934</gpoId>
+          <lisID>2015</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>14</district>
+        <bioguideId>H001059</bioguideId>
+        <lastName>Hultgren</lastName>
+        <state>IL</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Randy</firstName>
+        <fullName>Rep. Hultgren, Randy [R-IL-14]</fullName>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2018-04-18</sponsorshipDate>
+        <identifiers>
+          <lisID>1742</lisID>
+          <gpoId>8112</gpoId>
+          <bioguideId>C001053</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>4</district>
+        <bioguideId>C001053</bioguideId>
+        <lastName>Cole</lastName>
+        <state>OK</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Tom</firstName>
+        <fullName>Rep. Cole, Tom [R-OK-4]</fullName>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2018-04-24</sponsorshipDate>
+        <identifiers>
+          <lisID>2144</lisID>
+          <gpoId />
+          <bioguideId>C001096</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>0</district>
+        <bioguideId>C001096</bioguideId>
+        <lastName>Cramer</lastName>
+        <state>ND</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Kevin</firstName>
+        <fullName>Rep. Cramer, Kevin [R-ND-At Large]</fullName>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2018-05-07</sponsorshipDate>
+        <identifiers>
+          <lisID>2337</lisID>
+          <gpoId />
+          <bioguideId>B001298</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>2</district>
+        <bioguideId>B001298</bioguideId>
+        <lastName>Bacon</lastName>
+        <state>NE</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Don</firstName>
+        <fullName>Rep. Bacon, Don [R-NE-2]</fullName>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2018-06-12</sponsorshipDate>
+        <identifiers>
+          <lisID>2239</lisID>
+          <gpoId />
+          <bioguideId>A000372</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>12</district>
+        <bioguideId>A000372</bioguideId>
+        <lastName>Allen</lastName>
+        <state>GA</state>
+        <middleName>W.</middleName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Rick</firstName>
+        <fullName>Rep. Allen, Rick W. [R-GA-12]</fullName>
+      </item>
+    </cosponsors>
+    <amendments />
+    <billNumber>5459</billNumber>
+    <updateDate>2019-11-15T21:33:57Z</updateDate>
+    <cboCostEstimates />
+    <title>Ending the Fentanyl Crisis Act of 2018</title>
+    <committeeReports />
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <district>2</district>
+        <lastName>Hill</lastName>
+        <firstName>J.</firstName>
+        <state>AR</state>
+        <fullName>Rep. Hill, J. French [R-AR-2]</fullName>
+        <identifiers>
+          <lisID>2223</lisID>
+          <gpoId />
+          <bioguideId>H001072</bioguideId>
+        </identifiers>
+        <middleName>French</middleName>
+        <bioguideId>H001072</bioguideId>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

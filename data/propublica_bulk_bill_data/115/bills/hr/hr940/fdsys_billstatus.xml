@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Computer security and identity theft</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Crimes against property</name>
+          </item>
+          <item>
+            <name>Electric power generation and transmission</name>
+          </item>
+          <item>
+            <name>Emergency communications systems</name>
+          </item>
+          <item>
+            <name>Emergency planning and evacuation</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Infrastructure development</name>
+          </item>
+          <item>
+            <name>International organizations and cooperation</name>
+          </item>
+          <item>
+            <name>Law enforcement administration and funding</name>
+          </item>
+          <item>
+            <name>Public utilities and utility rates</name>
+          </item>
+          <item>
+            <name>Telephone and wireless communication</name>
+          </item>
+          <item>
+            <name>Terrorism</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Emergency Management</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <relatedBills />
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2017-02-24T19:10:10Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Intelligence and Counterterrorism Subcommittee</name>
+              <systemCode>hshm05</systemCode>
+            </item>
+            <item>
+              <activities>
+                <item>
+                  <date>2017-02-24T19:10:00Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Cybersecurity, Infrastructure Protection, and Innovation Subcommittee</name>
+              <systemCode>hshm08</systemCode>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <systemCode>hshm00</systemCode>
+          <chamber>House</chamber>
+          <name>Homeland Security Committee</name>
+          <activities>
+            <item>
+              <date>2017-02-07T15:11:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2017-02-07</actionDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <updateDate>2017-02-07T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-08-17T20:01:32Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[<p><strong>Securing Communications of Utilities from Terrorist Threats or the SCOUTS Act</strong></p> <p>This bill authorizes the Department of Homeland Security (DHS) to work with critical infrastructure owners and operators and state, local, tribal, and territorial entities to seek voluntary participation of sector-specific agencies to determine how DHS can best serve cybersecurity needs to manage risk and strengthen the security and resilience of the nation's critical infrastructure against terrorist attacks. A "sector-specific agency" is a federal agency designated as such by Presidential Policy Directive 21 relating to critical infrastructure security and resilience.</p> <p>DHS: (1) shall seek to reduce vulnerabilities, minimize consequences, identify and disrupt terrorism threats, and hasten response and recovery efforts related to impacted critical infrastructures; (2) may investigate the best means for engaging sector-specific agencies in a voluntary cybersecurity information sharing, emergency support, and emerging threat awareness program; and (3) shall establish voluntary opportunities for such agencies and critical infrastructure owners and operators to inform DHS of sector-specific challenges to cybersecurity.</p> <p>DHS shall: (1) establish terrorism prevention policy to engage with international partners to strengthen the security and resilience of domestic critical infrastructure and critical infrastructure located outside of the United States or in its territorial waters, and (2) facilitate the timely exchange of terrorism threat and vulnerability information as well as information that allows for the development of a situational awareness capability for federal civilian agencies during terrorist incidents.</p> <p>DHS shall implement an integration and analysis function for critical infrastructure that includes: (1) operational and strategic analysis on terrorism incidents, threats, and emerging risks; and (2) integration of data sharing capabilities with Fusion Centers.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <version>1.0.0</version>
+    <originChamber>House</originChamber>
+    <congress>115</congress>
+    <latestAction>
+      <actionDate>2017-02-24</actionDate>
+      <text>Referred to the Subcommittee on Counterterrorism and Intelligence.</text>
+      <links />
+    </latestAction>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-02-24</actionDate>
+        <committee>
+          <systemCode>hshm05</systemCode>
+          <name>Intelligence and Counterterrorism Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Counterterrorism and Intelligence.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-02-24</actionDate>
+        <committee>
+          <systemCode>hshm08</systemCode>
+          <name>Cybersecurity, Infrastructure Protection, and Innovation Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Cybersecurity and Infrastructure Protection.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hshm00</systemCode>
+          <name>Homeland Security Committee</name>
+        </committee>
+        <text>Referred to the House Committee on Homeland Security.</text>
+        <actionDate>2017-02-07</actionDate>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2017-02-07</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2017-02-07</actionDate>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>2</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <createDate>2017-02-08T04:46:00Z</createDate>
+    <laws />
+    <titles>
+      <item>
+        <title>To secure communications of utilities from terrorist threats, and for other purposes.</title>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <title>Securing Communications of Utilities from Terrorist Threats</title>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <title>SCOUTS Act</title>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <title>SCOUTS Act</title>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <title>SCOUTS Act</title>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <title>Securing Communications of Utilities from Terrorist Threats</title>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 21 (Tuesday, February 7, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. JACKSON LEE:H.R. 940.Congress has the power to enact this legislation pursuantto the following:This bill is enacted pursuant to the power granted toCongress under Article I, Section 8, Clauses 1, 3 and 18 ofthe United States Constitution.[Page H1085]</pre>]]></constitutionalAuthorityStatementText>
+    <introducedDate>2017-02-07</introducedDate>
+    <calendarNumbers />
+    <recordedVotes />
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr940ih/xml/BILLS-115hr940ih.xml</url>
+          </item>
+        </formats>
+        <date>2017-02-07T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <cosponsors />
+    <amendments />
+    <billNumber>940</billNumber>
+    <updateDate>2019-11-15T21:12:55Z</updateDate>
+    <cboCostEstimates />
+    <title>SCOUTS Act</title>
+    <committeeReports />
+    <policyArea>
+      <name>Emergency Management</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <district>18</district>
+        <lastName>JACKSON LEE</lastName>
+        <firstName>SHEILA</firstName>
+        <state>TX</state>
+        <fullName>Rep. Jackson Lee, Sheila [D-TX-18]</fullName>
+        <identifiers>
+          <lisID>588</lisID>
+          <gpoId>8174</gpoId>
+          <bioguideId>J000032</bioguideId>
+        </identifiers>
+        <middleName />
+        <bioguideId>J000032</bioguideId>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

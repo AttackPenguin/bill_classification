@@ -1,0 +1,259 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-07-27", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-07-27", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2017-08-14", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Federal Lands.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2017-11-07", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-11-08", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-11-08", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Subcommittee on Federal Lands Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-11-08", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Unanimous Consent.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2017-11-21", 
+      "action_code": "H12200", 
+      "committees": [
+        "HSII"
+      ], 
+      "links": [
+        {
+          "name": "H. Rept. 115-421", 
+          "url": "https://www.congress.gov/congressional-report/115th-congress/house-report/421"
+        }
+      ], 
+      "references": [], 
+      "text": "Reported by the Committee on Natural Resources. H. Rept. 115-421.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-11-21", 
+      "action_code": "H12420", 
+      "calendar": "House", 
+      "number": "103", 
+      "references": [], 
+      "text": "Placed on the House Calendar, Calendar No. 103.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2018-03-13T17:12:09-04:00", 
+      "action_code": "H30300", 
+      "references": [], 
+      "text": "Mr. Curtis moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-03-13T17:12:19-04:00", 
+      "action_code": "H30000", 
+      "links": [
+        {
+          "name": "H1517-1518", 
+          "url": "https://www.congress.gov/congressional-record/volume-164/house-section/page/H1517-1518"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H1517-1518", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-03-13T17:12:20-04:00", 
+      "action_code": "H8D000", 
+      "links": [
+        {
+          "name": "H.R. 3469", 
+          "url": "https://www.congress.gov/bill/115th-congress/house-bill/3469"
+        }
+      ], 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 3469.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-03-13T17:19:57-04:00", 
+      "action_code": "H37300", 
+      "how": "by voice vote", 
+      "links": [
+        {
+          "name": "H1517", 
+          "url": "https://www.congress.gov/congressional-record/volume-164/house-section/page/H1517"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H1517", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2018-03-13T17:20:01-04:00", 
+      "action_code": "H38310", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-03-14", 
+      "action_code": "", 
+      "references": [], 
+      "text": "Received in the Senate.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3469-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [
+    "H. Rept. 115-421"
+  ], 
+  "committees": [
+    {
+      "activity": [
+        "reporting", 
+        "markup", 
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "discharged", 
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on National Parks, Forests, and Public Lands", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2017-11-07", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2018-03-13T17:19:57-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-07-27", 
+  "number": "3469", 
+  "official_title": "To designate the bridge located in Blount County, Tennessee, on the Foothills Parkway (commonly known as \"Bridge 2\") as the \"Dean Stone Bridge\".", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "D000533", 
+    "district": "2", 
+    "name": "Duncan, John J., Jr.", 
+    "state": "TN", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2018-03-13T17:19:57-04:00", 
+  "subjects": [
+    "Congressional tributes", 
+    "Roads and highways", 
+    "Tennessee", 
+    "Transportation and public works"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2018-03-13T12:42:33Z", 
+    "text": "(This measure has not been amended since it was introduced. The expanded summary of the House version is repeated here.)\n\n(Sec. 1) This bill designates the bridge located in Blount County, Tennessee, on the Foothills Parkway (commonly known as Bridge 2) as the \"Dean Stone Bridge.\""
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To designate the bridge located in Blount County, Tennessee, on the Foothills Parkway (commonly known as \"Bridge 2\") as the \"Dean Stone Bridge\".", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "To designate the bridge located in Blount County, Tennessee, on the Foothills Parkway (commonly known as \"Bridge 2\") as the \"Dean Stone Bridge\".", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-11-15T21:31:29Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr3469.xml"
+}

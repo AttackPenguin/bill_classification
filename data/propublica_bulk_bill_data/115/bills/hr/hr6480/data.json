@@ -1,0 +1,135 @@
+{
+  "actions": [
+    {
+      "acted_at": "2018-07-24", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-07-24", 
+      "action_code": "B00100", 
+      "links": [
+        {
+          "name": "H7090", 
+          "url": "https://www.congress.gov/congressional-record/volume-164/house-section/page/H7090"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H7090", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-07-24", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2018-07-24", 
+      "action_code": "", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Immigration and Border Security.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr6480-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Immigration and Citizenship", 
+      "subcommittee_id": "01"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2018-07-24", 
+  "number": "6480", 
+  "official_title": "To allow the Governor of Guam to determine temporary need of nonimmigrant workers on Guam, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Guam Temporary Workforce Act", 
+  "sponsor": {
+    "bioguide_id": "B001245", 
+    "district": "0", 
+    "name": "Bordallo, Madeleine Z.", 
+    "state": "GU", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2018-07-24", 
+  "subjects": [
+    "Immigration"
+  ], 
+  "subjects_top_term": "Immigration", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2018-07-24T04:00:00Z", 
+    "text": "Guam Temporary Workforce Act\n\nThis bill directs the Department of Homeland Security to approve a completed employer petition for a nonimmigrant H-2B visa alien (temporary nonagricultural services) on Guam as long as the petition includes an approved temporary labor certification issued by the Governor of Guam within the last 365 days.\n\nSuch certification may only be invalidated if a court of law determines that the certification request involved fraud, willful misrepresentation, or gross misconduct."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To allow the Governor of Guam to determine temporary need of nonimmigrant workers on Guam, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Guam Temporary Workforce Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Guam Temporary Workforce Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Guam Temporary Workforce Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-11-15T21:36:27Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr6480.xml"
+}

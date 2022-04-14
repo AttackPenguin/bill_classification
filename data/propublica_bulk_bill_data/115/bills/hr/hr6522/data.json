@@ -1,0 +1,121 @@
+{
+  "actions": [
+    {
+      "acted_at": "2018-07-25", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-07-25", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2018-08-08", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Federal Lands.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr6522-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on National Parks, Forests, and Public Lands", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2018-07-25", 
+  "number": "6522", 
+  "official_title": "To establish the Santa Cruz Valley National Heritage Area, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Santa Cruz Valley National Heritage Area Act", 
+  "sponsor": {
+    "bioguide_id": "G000551", 
+    "district": "3", 
+    "name": "Grijalva, Raul M.", 
+    "state": "AZ", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2018-07-25", 
+  "subjects": [
+    "Arizona", 
+    "Historic sites and heritage areas", 
+    "Historical and cultural resources", 
+    "Outdoor recreation", 
+    "Public lands and natural resources"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2018-07-25T04:00:00Z", 
+    "text": "Santa Cruz Valley National Heritage Area Act\n\n This bill establishes the Santa Cruz Valley National Heritage Area in Arizona."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To establish the Santa Cruz Valley National Heritage Area, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Santa Cruz Valley National Heritage Area Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Santa Cruz Valley National Heritage Area Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Santa Cruz Valley National Heritage Area Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-11-15T21:31:17Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr6522.xml"
+}

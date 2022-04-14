@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>SRES</billType>
+    <introducedDate>2013-02-26</introducedDate>
+    <committeeReports />
+    <congress>113</congress>
+    <cosponsors />
+    <recordedVotes />
+    <latestAction>
+      <text>Referred to the Committee on Rules and Administration.</text>
+      <links />
+      <actionDate>2013-02-26</actionDate>
+    </latestAction>
+    <relatedBills />
+    <updateDate>2016-10-25T16:18:12Z</updateDate>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <actions>
+      <item>
+        <actionDate>2013-02-26</actionDate>
+        <committee>
+          <systemCode>ssra00</systemCode>
+          <name>Rules and Administration Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Referred to the Committee on Rules and Administration.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2013-02-26</actionDate>
+        <committee>
+          <systemCode>slin00</systemCode>
+          <name>Intelligence Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>S875</name>
+            <url>https://www.congress.gov/congressional-record/volume-159/senate-section/page/S875</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Select Committee on Intelligence. Original measure reported to Senate by Senator Feinstein. Without written report. (text of measure as reported in Senate: CR S875)</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Select Committee on Intelligence. Original measure reported to Senate by Senator Feinstein. Without written report.(text of measure as reported in Senate: CR S875)</text>
+        <type>Committee</type>
+        <actionCode>14000</actionCode>
+        <committee>
+          <systemCode>slin00</systemCode>
+          <name>Intelligence Committee</name>
+        </committee>
+        <actionDate>2013-02-26</actionDate>
+        <links>
+          <link>
+            <name>S875</name>
+            <url>https://www.congress.gov/congressional-record/volume-159/senate-section/page/S875</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <committee />
+        <actionDate>2013-02-26</actionDate>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <reportedToSenate>1</reportedToSenate>
+        <originalBillReported>1</originalBillReported>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>4</senate>
+      </actionByCounts>
+    </actions>
+    <calendarNumbers />
+    <amendments />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Authorizes expenditures by the Senate Select Committee on Intelligence from March 1, 2013, through September 30, 2013.</p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <actionDate>2013-02-26</actionDate>
+          <updateDate>2013-02-26T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2013-03-13T20:40:04Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+          <versionCode>00</versionCode>
+        </item>
+        <item>
+          <text><![CDATA[<p><b>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</b></p> <p>Authorizes expenditures by the Senate Select Committee on Intelligence from March 1, 2013, through September 30, 2013.</p>]]></text>
+          <actionDesc>Reported to Senate without amendment</actionDesc>
+          <actionDate>2013-02-26</actionDate>
+          <updateDate>2013-02-26T20:00:50Z</updateDate>
+          <lastSummaryUpdateDate>2013-03-13T20:40:13Z</lastSummaryUpdateDate>
+          <name>Reported to Senate without amendment</name>
+          <versionCode>80</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional committees</name>
+          </item>
+          <item>
+            <name>Senate Select Committee on Intelligence</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <title>An original resolution authorizing expenditures by the Select Committee on Intelligence.</title>
+    <originChamber>Senate</originChamber>
+    <sponsors>
+      <item>
+        <lastName>FEINSTEIN</lastName>
+        <bioguideId>F000062</bioguideId>
+        <fullName>Sen. Feinstein, Dianne [D-CA]</fullName>
+        <identifiers>
+          <lisID>1332</lisID>
+          <gpoId>8338</gpoId>
+          <bioguideId>F000062</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <firstName>DIANNE</firstName>
+        <middleName />
+        <state>CA</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <laws />
+    <notes />
+    <createDate>2013-02-27T07:00:51Z</createDate>
+    <billNumber>50</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <systemCode>ssra00</systemCode>
+          <activities>
+            <item>
+              <date>2013-02-26T21:18:45Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Rules and Administration Committee</name>
+        </item>
+        <item>
+          <chamber>Senate</chamber>
+          <systemCode>slin00</systemCode>
+          <activities>
+            <item>
+              <date>2013-02-26T21:18:28Z</date>
+              <name>Reported original measure</name>
+            </item>
+          </activities>
+          <type>Select</type>
+          <subcommittees />
+          <name>Intelligence Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>An original resolution authorizing expenditures by the Select Committee on Intelligence.</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>An original resolution authorizing expenditures by the Select Committee on Intelligence.</title>
+        <chamberName />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

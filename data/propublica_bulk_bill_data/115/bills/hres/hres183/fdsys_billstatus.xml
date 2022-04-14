@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>House of Representatives</name>
+          </item>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <relatedBills />
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <type>Standing</type>
+          <systemCode>hsru00</systemCode>
+          <chamber>House</chamber>
+          <name>Rules Committee</name>
+          <activities>
+            <item>
+              <date>2017-03-08T15:01:20Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2017-03-08T05:00:00Z</updateDate>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2017-06-15T20:09:20Z</lastSummaryUpdateDate>
+          <actionDate>2017-03-08</actionDate>
+          <text><![CDATA[<p>Amends Rule XI (Procedures of Committees and Unfinished Business) of the Rules of the House of Representatives to require the text of any legislation that will be marked up at a committee meeting to be publicly available in electronic form at least 72 (currently, 24) hours before the commencement of the meeting.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <version>1.0.0</version>
+    <originChamber>House</originChamber>
+    <congress>115</congress>
+    <latestAction>
+      <actionDate>2017-03-08</actionDate>
+      <text>Referred to the House Committee on Rules.</text>
+      <links />
+    </latestAction>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2017-03-08</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the House Committee on Rules.</text>
+        <links />
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Rules Committee</name>
+          <systemCode>hsru00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2017-03-08</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2017-03-08</actionDate>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+    </actions>
+    <createDate>2017-03-09T05:25:08Z</createDate>
+    <laws />
+    <titles>
+      <item>
+        <chamberName />
+        <title>Amending the Rules of the House of Representatives to require the text of any legislation that will be marked up at a meeting for the markup of legislation by a committee to be publicly available in electronic form at least 72 hours prior to the commencement of the meeting.</title>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>Amending the Rules of the House of Representatives to require the text of any legislation that will be marked up at a meeting for the markup of legislation by a committee to be publicly available in electronic form at least 72 hours prior to the commencement of the meeting.</title>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+    <constitutionalAuthorityStatementText />
+    <introducedDate>2017-03-08</introducedDate>
+    <calendarNumbers />
+    <recordedVotes />
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hres183ih/xml/BILLS-115hres183ih.xml</url>
+          </item>
+        </formats>
+        <date>2017-03-08T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <lisID>2298</lisID>
+          <gpoId />
+          <bioguideId>E000296</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Dwight</firstName>
+        <district>2</district>
+        <fullName>Rep. Evans, Dwight [D-PA-2]</fullName>
+        <lastName>Evans</lastName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <state>PA</state>
+        <bioguideId>E000296</bioguideId>
+        <sponsorshipDate>2017-03-08</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1504</lisID>
+          <gpoId>7968</gpoId>
+          <bioguideId>M000312</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>JAMES</firstName>
+        <district>2</district>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <lastName>MCGOVERN</lastName>
+        <sponsorshipWithdrawnDate />
+        <middleName>P.</middleName>
+        <state>MA</state>
+        <bioguideId>M000312</bioguideId>
+        <sponsorshipDate>2017-03-08</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2319</lisID>
+          <gpoId />
+          <bioguideId>S001200</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Darren</firstName>
+        <district>9</district>
+        <fullName>Rep. Soto, Darren [D-FL-9]</fullName>
+        <lastName>Soto</lastName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <state>FL</state>
+        <bioguideId>S001200</bioguideId>
+        <sponsorshipDate>2017-03-08</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2332</lisID>
+          <gpoId />
+          <bioguideId>R000606</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Jamie</firstName>
+        <district>8</district>
+        <fullName>Rep. Raskin, Jamie [D-MD-8]</fullName>
+        <lastName>Raskin</lastName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <state>MD</state>
+        <bioguideId>R000606</bioguideId>
+        <sponsorshipDate>2017-03-10</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <amendments />
+    <billNumber>183</billNumber>
+    <updateDate>2019-11-15T21:46:45Z</updateDate>
+    <cboCostEstimates />
+    <title>Amending the Rules of the House of Representatives to require the text of any legislation that will be marked up at a meeting for the markup of legislation by a committee to be publicly available in electronic form at least 72 hours prior to the commencement of the meeting.</title>
+    <committeeReports />
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <district>1</district>
+        <lastName>O'Halleran</lastName>
+        <firstName>Tom</firstName>
+        <state>AZ</state>
+        <fullName>Rep. O'Halleran, Tom [D-AZ-1]</fullName>
+        <identifiers>
+          <lisID>2306</lisID>
+          <gpoId />
+          <bioguideId>O000171</bioguideId>
+        </identifiers>
+        <middleName />
+        <bioguideId>O000171</bioguideId>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <billType>HRES</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

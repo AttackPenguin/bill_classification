@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <recordedVotes />
+    <introducedDate>2013-09-17</introducedDate>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>Authorizes expenditures by the Senate Committee on Homeland Security and Governmental Affairs for the 113th Congress.</p>]]></text>
+          <actionDate>2013-09-17</actionDate>
+          <name>Introduced in Senate</name>
+          <updateDate>2013-09-17T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2013-09-23T15:49:37Z</lastSummaryUpdateDate>
+        </item>
+        <item>
+          <actionDesc>Reported to Senate without amendment</actionDesc>
+          <versionCode>80</versionCode>
+          <text><![CDATA[<p><b>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</b></p> <p>Authorizes expenditures by the Senate Committee on Homeland Security and Governmental Affairs for the 113th Congress.</p>]]></text>
+          <actionDate>2013-09-17</actionDate>
+          <name>Reported to Senate without amendment</name>
+          <updateDate>2013-09-17T16:49:22Z</updateDate>
+          <lastSummaryUpdateDate>2013-09-23T15:49:23Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Rules and Administration Committee</name>
+          <type>Standing</type>
+          <systemCode>ssra00</systemCode>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-09-17T21:51:56Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <type>Standing</type>
+          <systemCode>ssga00</systemCode>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Reported original measure</name>
+              <date>2013-09-17T21:51:43Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports />
+    <updateDate>2016-10-25T16:18:38Z</updateDate>
+    <amendments />
+    <title>A resolution authorizing expenditures by the Committee on Homeland Security and Governmental Affairs.</title>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional committees</name>
+          </item>
+          <item>
+            <name>Senate Committee on Homeland Security and Governmental Affairs</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Rules and Administration.</text>
+      <links />
+      <actionDate>2013-09-17</actionDate>
+    </latestAction>
+    <cboCostEstimates />
+    <calendarNumbers />
+    <congress>113</congress>
+    <createDate>2013-09-18T07:01:07Z</createDate>
+    <originChamber>Senate</originChamber>
+    <laws />
+    <relatedBills />
+    <actions>
+      <item>
+        <actionDate>2013-09-17</actionDate>
+        <committee>
+          <name>Rules and Administration Committee</name>
+          <systemCode>ssra00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Rules and Administration.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2013-09-17</actionDate>
+        <committee>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <systemCode>ssga00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>S6529-6530</name>
+            <url>https://www.congress.gov/congressional-record/volume-159/senate-section/page/S6529-6530</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Homeland Security and Governmental Affairs. Original measure reported to Senate by Senator Carper. Without written report. (text of measure as reported in Senate: CR S6529-6530)</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links>
+          <link>
+            <name>S6529-6530</name>
+            <url>https://www.congress.gov/congressional-record/volume-159/senate-section/page/S6529-6530</url>
+          </link>
+        </links>
+        <actionDate>2013-09-17</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Committee on Homeland Security and Governmental Affairs. Original measure reported to Senate by Senator Carper. Without written report.(text of measure as reported in Senate: CR S6529-6530)</text>
+        <type>Committee</type>
+        <actionCode>14000</actionCode>
+        <committee>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <systemCode>ssga00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <links />
+        <actionDate>2013-09-17</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <reportedToSenate>1</reportedToSenate>
+        <originalBillReported>1</originalBillReported>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>4</senate>
+      </actionByCounts>
+    </actions>
+    <billNumber>234</billNumber>
+    <cosponsors />
+    <notes />
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <billType>SRES</billType>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>A resolution authorizing expenditures by the Committee on Homeland Security and Governmental Affairs.</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>A resolution authorizing expenditures by the Committee on Homeland Security and Governmental Affairs.</title>
+        <chamberName />
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <middleName>R.</middleName>
+        <bioguideId>C000174</bioguideId>
+        <state>DE</state>
+        <byRequestType />
+        <firstName>THOMAS</firstName>
+        <identifiers>
+          <gpoId>8283</gpoId>
+          <lisID>179</lisID>
+          <bioguideId>C000174</bioguideId>
+        </identifiers>
+        <fullName>Sen. Carper, Thomas R. [D-DE]</fullName>
+        <lastName>CARPER</lastName>
+      </item>
+    </sponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

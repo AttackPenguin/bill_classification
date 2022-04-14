@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Social Welfare</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <relatedBills />
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Ways and Means Committee</name>
+          <activities>
+            <item>
+              <date>2018-03-08T14:02:05Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <systemCode>hswm01</systemCode>
+              <name>Social Security Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2018-03-20T18:08:16Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <systemCode>hswm00</systemCode>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>This bill prohibits the Social Security Administration from using funds to develop, test, deploy, implement, or administer the Disability Case Processing System or any similar program unless authorized to do so by Congress.<br /></p>]]></text>
+          <actionDate>2018-03-08</actionDate>
+          <lastSummaryUpdateDate>2018-04-09T14:07:51Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2018-03-08T05:00:00Z</updateDate>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <version>1.0.0</version>
+    <originChamber>House</originChamber>
+    <congress>115</congress>
+    <latestAction>
+      <actionDate>2018-03-20</actionDate>
+      <text>Referred to the Subcommittee on Social Security.</text>
+      <links />
+    </latestAction>
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2018-03-20</actionDate>
+        <committee>
+          <systemCode>hswm01</systemCode>
+          <name>Social Security Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Social Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2018-03-08</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2018-03-08</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2018-03-08</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <createDate>2018-03-09T08:11:00Z</createDate>
+    <laws />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>To prohibit the use of funds to develop, test, deploy, implement, or administer the Disability Case Processing System, and for other purposes.</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>To prohibit the use of funds to develop, test, deploy, implement, or administer the Disability Case Processing System, and for other purposes.</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 164, Number 41 (Thursday, March 8, 2018)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. GROTHMAN:H.R. 5221.Congress has the power to enact this legislation pursuantto the following:This bill is enacted pursuant to the power granted toCongress under Article I, Section 8, Clauses 1 and 18 of theUnited States Constitution.[Page H1502]</pre>]]></constitutionalAuthorityStatementText>
+    <introducedDate>2018-03-08</introducedDate>
+    <calendarNumbers />
+    <recordedVotes />
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr5221ih/xml/BILLS-115hr5221ih.xml</url>
+          </item>
+        </formats>
+        <date>2018-03-08T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <lisID>2238</lisID>
+          <gpoId />
+          <bioguideId>L000583</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Barry</firstName>
+        <district>11</district>
+        <fullName>Rep. Loudermilk, Barry [R-GA-11]</fullName>
+        <lastName>Loudermilk</lastName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <state>GA</state>
+        <bioguideId>L000583</bioguideId>
+        <sponsorshipDate>2018-03-08</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>D000616</bioguideId>
+          <gpoId>8151</gpoId>
+          <lisID>2062</lisID>
+        </identifiers>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Scott</firstName>
+        <district>4</district>
+        <fullName>Rep. DesJarlais, Scott [R-TN-4]</fullName>
+        <lastName>DesJarlais</lastName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <state>TN</state>
+        <bioguideId>D000616</bioguideId>
+        <sponsorshipDate>2018-03-08</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2236</lisID>
+          <gpoId />
+          <bioguideId>C001103</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Earl</firstName>
+        <district>1</district>
+        <fullName>Rep. Carter, Earl L. "Buddy" [R-GA-1]</fullName>
+        <lastName>Carter</lastName>
+        <sponsorshipWithdrawnDate />
+        <middleName>L. "Buddy"</middleName>
+        <state>GA</state>
+        <bioguideId>C001103</bioguideId>
+        <sponsorshipDate>2018-04-12</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2265</lisID>
+          <gpoId />
+          <bioguideId>R000604</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Steve</firstName>
+        <district>5</district>
+        <fullName>Rep. Russell, Steve [R-OK-5]</fullName>
+        <lastName>Russell</lastName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <state>OK</state>
+        <bioguideId>R000604</bioguideId>
+        <sponsorshipDate>2018-04-26</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <amendments />
+    <billNumber>5221</billNumber>
+    <updateDate>2019-11-15T21:43:50Z</updateDate>
+    <cboCostEstimates />
+    <title>To prohibit the use of funds to develop, test, deploy, implement, or administer the Disability Case Processing System, and for other purposes.</title>
+    <committeeReports />
+    <policyArea>
+      <name>Social Welfare</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <district>6</district>
+        <lastName>Grothman</lastName>
+        <firstName>Glenn</firstName>
+        <state>WI</state>
+        <fullName>Rep. Grothman, Glenn [R-WI-6]</fullName>
+        <identifiers>
+          <bioguideId>G000576</bioguideId>
+          <gpoId />
+          <lisID>2276</lisID>
+        </identifiers>
+        <middleName />
+        <bioguideId>G000576</bioguideId>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

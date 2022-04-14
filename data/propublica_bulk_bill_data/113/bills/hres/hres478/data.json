@@ -1,0 +1,213 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-02-11", 
+      "action_code": "1000", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-02-11", 
+      "action_code": "H12100", 
+      "committees": [
+        "HSRU"
+      ], 
+      "links": [
+        {
+          "name": "H. Rept. 113-351", 
+          "url": "https://www.congress.gov/congressional-report/113th-congress/house-report/351"
+        }
+      ], 
+      "references": [], 
+      "text": "The House Committee on Rules reported an original measure, H. Rept. 113-351, by Mr. Woodall.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-02-11T15:45:05-05:00", 
+      "action_code": "H12700", 
+      "bill_ids": [
+        "s540-113"
+      ], 
+      "links": [
+        {
+          "name": "S. 540", 
+          "url": "https://www.congress.gov/bill/113th-congress/senate-bill/540"
+        }
+      ], 
+      "references": [], 
+      "text": "Rule provides for consideration of S. 540 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-02-11", 
+      "action_code": "H12420", 
+      "calendar": "House", 
+      "number": "85", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Placed on the House Calendar, Calendar No. 85.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2014-02-11T15:47:34-05:00", 
+      "action_code": "H30000", 
+      "links": [
+        {
+          "name": "H1748-1752", 
+          "url": "https://www.congress.gov/congressional-record/volume-160/house-section/page/H1748-1752"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H1748-1752", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as privileged matter.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-02-11T15:48:40-05:00", 
+      "action_code": "H8D000", 
+      "links": [
+        {
+          "name": "H. Res. 478", 
+          "url": "https://www.congress.gov/bill/113th-congress/house-resolution/478"
+        }
+      ], 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with one hour of debate on H. Res. 478.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-02-11T16:14:01-05:00", 
+      "action_code": "H35000", 
+      "links": [
+        {
+          "name": "H1752", 
+          "url": "https://www.congress.gov/congressional-record/volume-160/house-section/page/H1752"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H1752", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "The previous question was ordered without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-02-11T16:14:18-05:00", 
+      "action_code": "H37100", 
+      "how": "by voice vote", 
+      "links": [
+        {
+          "name": "H1748-1749", 
+          "url": "https://www.congress.gov/congressional-record/volume-160/house-section/page/H1748-1749"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H1748-1749", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:SIMPLERES", 
+      "suspension": null, 
+      "text": "On agreeing to the resolution Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2014-02-11T16:14:28-05:00", 
+      "action_code": "H38310", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hres478-113", 
+  "bill_type": "hres", 
+  "by_request": false, 
+  "committee_reports": [
+    "H. Rept. 113-351"
+  ], 
+  "committees": [
+    {
+      "activity": [
+        "origin", 
+        "reporting"
+      ], 
+      "committee": "House Rules", 
+      "committee_id": "HSRU"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-02-11", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2014-02-11T16:14:18-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-02-11", 
+  "number": "478", 
+  "official_title": "Providing for consideration of the bill (S. 540), to designate the air route traffic control center located in Nashua, New Hampshire, as the \"Patricia Clark Boston Air Route Traffic Control Center\", and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s540-113", 
+      "identified_by": "House", 
+      "reason": "procedurally-related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "W000810", 
+    "district": "7", 
+    "name": "Woodall, Rob", 
+    "state": "GA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:SIMPLERES", 
+  "status_at": "2014-02-11T16:14:18-05:00", 
+  "subjects": [
+    "Congress", 
+    "House of Representatives", 
+    "Legislative rules and procedure"
+  ], 
+  "subjects_top_term": "Congress", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2014-02-11T05:00:00Z", 
+    "text": "Sets forth the rule for consideration of the bill (S. 540), to designate the air route traffic control center located in Nashua, New Hampshire, as the \"Patricia Clark Boston Air Route Traffic Control Center."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Providing for consideration of the bill (S. 540), to designate the air route traffic control center located in Nashua, New Hampshire, as the \"Patricia Clark Boston Air Route Traffic Control Center\", and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Providing for consideration of the bill (S. 540), to designate the air route traffic control center located in Nashua, New Hampshire, as the \"Patricia Clark Boston Air Route Traffic Control Center\", and for other purposes.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2018-06-05T15:49:13Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/113/hres/BILLSTATUS-113hres478.xml"
+}

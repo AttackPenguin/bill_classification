@@ -1,0 +1,686 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <reportedToSenate>2</reportedToSenate>
+        <amendmentAgreedTo>1</amendmentAgreedTo>
+        <orderedReported>1</orderedReported>
+        <billReferrals>1</billReferrals>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <passedSenate>1</passedSenate>
+        <measureLaidBeforeSenate>1</measureLaidBeforeSenate>
+        <sentToHouse>1</sentToHouse>
+        <receivedInTheHouse>1</receivedInTheHouse>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>2</houseOfRepresentatives>
+        <senate>11</senate>
+      </actionByCounts>
+      <item>
+        <text>Referred to the House Committee on Oversight and Government Reform.</text>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Reform Committee</name>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2017-11-08</actionDate>
+      </item>
+      <item>
+        <text>Received in the House.</text>
+        <actionCode>H14000</actionCode>
+        <committee />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <links />
+        <actionDate>2017-11-08</actionDate>
+        <actionTime>12:32:44</actionTime>
+      </item>
+      <item>
+        <actionDate>2017-11-08</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2017-11-07</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S7068</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S7068</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Passed Senate with amendments by Unanimous Consent. (text: CR S7068)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <text>Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.(text: CR S7068)</text>
+        <actionCode>17000</actionCode>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>S7068</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S7068</url>
+          </link>
+        </links>
+        <actionDate>2017-11-07</actionDate>
+      </item>
+      <item>
+        <actionDate>2017-11-07</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>The committee amendments agreed to by Unanimous Consent.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2017-11-07</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S7066-7068</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S7066-7068</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Measure laid before Senate by unanimous consent. (consideration: CR S7066-7068)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2017-09-14</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 220.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2017-09-14</actionDate>
+        <committee>
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>report No. 115-156</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/senate-report/156</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with amendments. With written report No. 115-156.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with amendments. With written report No. 115-156.</text>
+        <actionCode>14000</actionCode>
+        <committee>
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+        </committee>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>Committee</type>
+        <links>
+          <link>
+            <name>report No. 115-156</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/senate-report/156</url>
+          </link>
+        </links>
+        <actionDate>2017-09-14</actionDate>
+      </item>
+      <item>
+        <actionDate>2017-05-17</actionDate>
+        <committee>
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported with amendments favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-05-10</actionDate>
+        <committee>
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <actionCode>10000</actionCode>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2017-05-10</actionDate>
+      </item>
+    </actions>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <subcommittees />
+          <chamber>House</chamber>
+          <name>Oversight and Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-11-08T17:40:37Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <type>Standing</type>
+          <subcommittees />
+          <chamber>Senate</chamber>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <systemCode>ssga00</systemCode>
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2017-09-14T17:38:04Z</date>
+            </item>
+            <item>
+              <name>Markup by</name>
+              <date>2017-05-17T14:00:34Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2017-05-10T15:55:32Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <notes />
+    <updateDate>2019-06-13T18:31:53Z</updateDate>
+    <recordedVotes />
+    <introducedDate>2017-05-10</introducedDate>
+    <committeeReports>
+      <committeeReport>
+        <citation>S. Rept. 115-156</citation>
+      </committeeReport>
+    </committeeReports>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <firstName>Claire</firstName>
+        <bioguideId>M001170</bioguideId>
+        <state>MO</state>
+        <party>D</party>
+        <fullName>Sen. McCaskill, Claire [D-MO]</fullName>
+        <lastName>McCaskill</lastName>
+        <identifiers>
+          <lisID>1820</lisID>
+          <bioguideId>M001170</bioguideId>
+          <gpoId>8252</gpoId>
+        </identifiers>
+        <middleName />
+      </item>
+    </sponsors>
+    <title>Federal Agency Customer Experience Act of 2017</title>
+    <cboCostEstimates>
+      <item>
+        <url>https://www.cbo.gov/publication/52917</url>
+        <pubDate>2017-07-14T20:00:00Z</pubDate>
+        <title>S. 1088, Federal Agency Customer Experience Act of 2017</title>
+      </item>
+    </cboCostEstimates>
+    <originChamber>Senate</originChamber>
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <latestAction>
+          <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+          <actionDate>2018-12-03</actionDate>
+        </latestAction>
+        <latestTitle>Federal Agency Customer Experience Act of 2018</latestTitle>
+        <number>2846</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+      </item>
+    </relatedBills>
+    <laws />
+    <createDate>2017-05-11T00:41:40Z</createDate>
+    <latestAction>
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+      <actionDate>2017-11-08</actionDate>
+      <links />
+    </latestAction>
+    <titles>
+      <item>
+        <chamberName />
+        <title>A bill to require the collection of voluntary feedback on services provided by agencies, and for other purposes.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <title>Federal Agency Customer Experience Act of 2017</title>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName>Senate</chamberName>
+        <title>Federal Agency Customer Experience Act of 2017</title>
+        <chamberCode>S</chamberCode>
+        <titleType>Short Titles as Reported to Senate</titleType>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+      </item>
+      <item>
+        <chamberName>Senate</chamberName>
+        <title>Federal Agency Customer Experience Act of 2017</title>
+        <chamberCode>S</chamberCode>
+        <titleType>Short Titles as Passed Senate</titleType>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+      </item>
+      <item>
+        <chamberName />
+        <title>Federal Agency Customer Experience Act of 2017</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName>Senate</chamberName>
+        <title>Federal Agency Customer Experience Act of 2017</title>
+        <chamberCode>S</chamberCode>
+        <titleType>(Extracted from GPO) Short Titles as Passed Senate</titleType>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName>Senate</chamberName>
+        <title>Federal Agency Customer Experience Act of 2017</title>
+        <chamberCode>S</chamberCode>
+        <titleType>(Extracted from GPO) Short Titles as Reported to Senate</titleType>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <title>Federal Agency Customer Experience Act of 2017</title>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+      </item>
+    </titles>
+    <calendarNumbers>
+      <item>
+        <number>0220</number>
+        <calendar>Senate Calendar of Business</calendar>
+      </item>
+    </calendarNumbers>
+    <amendments>
+      <amendment>
+        <description />
+        <latestAction>
+          <text>Amendment SA 1580 agreed to in Senate by Unanimous Consent.</text>
+          <actionDate>2017-11-07</actionDate>
+        </latestAction>
+        <congress>115</congress>
+        <purpose>To improve the bill.</purpose>
+        <type>SAMDT</type>
+        <number>1580</number>
+        <actions>
+          <actions>
+            <item>
+              <actionDate>2017-11-07</actionDate>
+              <committee />
+              <links>
+                <link>
+                  <name>S.Amdt.1580</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/1580</url>
+                </link>
+                <link>
+                  <name>SA 1580</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/1580</url>
+                </link>
+              </links>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 1580 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2017-11-07</actionDate>
+              <committee />
+              <links>
+                <link>
+                  <name>S.Amdt.1580</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/1580</url>
+                </link>
+                <link>
+                  <name>S7067-7068</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S7067-7068</url>
+                </link>
+                <link>
+                  <name>SA 1580</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/1580</url>
+                </link>
+              </links>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 1580 proposed by Senator Daines for Senator McCaskill. (consideration: CR S7067-7068; text: CR S7067-7068) To improve the bill.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2017-11-07</actionDate>
+              <committee />
+              <links />
+              <text />
+            </item>
+            <item>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <committee />
+              <text>Senate amendment submitted</text>
+              <actionDate>2017-11-07</actionDate>
+              <links />
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <type>Floor</type>
+              <actionCode>93000</actionCode>
+              <committee />
+              <text>Senate amendment proposed (on the floor): Amendment SA 1580 proposed by Senator Daines for Senator McCaskill.(consideration: CR S7067-7068; text: CR S7067-7068)</text>
+              <actionDate>2017-11-07</actionDate>
+              <links>
+                <link>
+                  <name>S.Amdt.1580</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/1580</url>
+                </link>
+                <link>
+                  <name>S7067-7068</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S7067-7068</url>
+                </link>
+                <link>
+                  <name>SA 1580</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/1580</url>
+                </link>
+              </links>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <type>Floor</type>
+              <actionCode>94000</actionCode>
+              <committee />
+              <text>Senate amendment agreed to: Amendment SA 1580 agreed to in Senate by Unanimous Consent.</text>
+              <actionDate>2017-11-07</actionDate>
+              <links>
+                <link>
+                  <name>S.Amdt.1580</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/1580</url>
+                </link>
+                <link>
+                  <name>SA 1580</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/1580</url>
+                </link>
+              </links>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+          <actionTypeCounts>
+            <amendmentAgreedTo>1</amendmentAgreedTo>
+            <senateAmendmentAgreedTo>1</senateAmendmentAgreedTo>
+            <amendmentProposed>1</amendmentProposed>
+            <senateAmendmentProposedOnTheFloor>1</senateAmendmentProposedOnTheFloor>
+            <senateAmendmentSubmitted>1</senateAmendmentSubmitted>
+          </actionTypeCounts>
+          <actionByCounts>
+            <senate>5</senate>
+          </actionByCounts>
+          <count>6</count>
+        </actions>
+        <sponsors>
+          <item>
+            <identifiers>
+              <lisID>1820</lisID>
+              <bioguideId>M001170</bioguideId>
+              <gpoId>8252</gpoId>
+            </identifiers>
+            <lastName>McCaskill</lastName>
+            <state>MO</state>
+            <party>D</party>
+            <bioguideId>M001170</bioguideId>
+            <middleName />
+            <fullName>Sen. McCaskill, Claire [D-MO]</fullName>
+            <firstName>Claire</firstName>
+          </item>
+        </sponsors>
+        <purpose>To improve the bill.</purpose>
+        <description />
+        <updateDate>2019-06-13T18:31:53Z</updateDate>
+        <number>1580</number>
+        <version>1.0.0</version>
+        <amendedAmendment />
+        <links />
+        <chamber>Senate</chamber>
+        <cosponsors>
+          <totalCount>0</totalCount>
+          <currentCount>0</currentCount>
+        </cosponsors>
+        <type>SAMDT</type>
+        <createDate>2017-11-08T05:31:09Z</createDate>
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <proposedDate>2017-11-07T05:00:00Z</proposedDate>
+        <submittedDate>2017-11-07T05:00:00Z</submittedDate>
+        <congress>115</congress>
+        <notes />
+        <amendedBill>
+          <type>S</type>
+          <originChamberCode>S</originChamberCode>
+          <title>Federal Agency Customer Experience Act of 2017</title>
+          <congress>115</congress>
+          <originChamber>Senate</originChamber>
+          <number>1088</number>
+        </amendedBill>
+        <titles />
+      </amendment>
+    </amendments>
+    <billNumber>1088</billNumber>
+    <version>1.0.0</version>
+    <congress>115</congress>
+    <cosponsors>
+      <item>
+        <fullName>Sen. Lankford, James [R-OK]</fullName>
+        <sponsorshipWithdrawnDate />
+        <firstName>James</firstName>
+        <bioguideId>L000575</bioguideId>
+        <state>OK</state>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Lankford</lastName>
+        <identifiers>
+          <gpoId>8113</gpoId>
+          <bioguideId>L000575</bioguideId>
+          <lisID>2050</lisID>
+        </identifiers>
+        <middleName />
+        <sponsorshipDate>2017-05-10</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Performance measurement</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <billType>S</billType>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115s1088rfh/xml/BILLS-115s1088rfh.xml</url>
+          </item>
+        </formats>
+        <type>Referred in House</type>
+        <date>2017-11-08T05:00:00Z</date>
+      </item>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115s1088es/xml/BILLS-115s1088es.xml</url>
+          </item>
+        </formats>
+        <type>Engrossed in Senate</type>
+        <date>2017-11-07T05:00:00Z</date>
+      </item>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115s1088rs/xml/BILLS-115s1088rs.xml</url>
+          </item>
+        </formats>
+        <type>Reported to Senate</type>
+        <date>2017-09-14T04:00:00Z</date>
+      </item>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115s1088is/xml/BILLS-115s1088is.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in Senate</type>
+        <date>2017-05-10T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <name>Introduced in Senate</name>
+          <updateDate>2017-05-10T04:00:00Z</updateDate>
+          <text><![CDATA[<p><strong>Federal Agency Customer Experience Act of 2017</strong></p> <p>This bill exempts an agency's authority to collect information that is voluntary feedback from the federal information resources management activities authority of the the Office of Management and Budget (OMB) under the Paperwork Reduction Act. &quot;Voluntary feedback&quot; is defined as any submission of information, opinion, or concern that is: (1) voluntarily made by a specific individual or entity relating to a particular service of or transaction with an agency, and (2) specifically solicited by that agency.</p> <p>Each agency that solicits voluntary feedback shall ensure that:</p> <ul> <li> responses to the solicitation remain anonymous,</li> <li> individuals who decline to participate shall not be treated differently by the agency for purposes of providing services or information,</li> <li> the voluntary nature of the solicitation is clear, and </li> <li> the proposed solicitation of voluntary feedback will contribute to improved customer service.</li> </ul> <p>Each agency shall: (1) collect voluntary feedback with respect to its services and transactions, (2) annually publish such feedback on its website and report on such feedback to OMB, and (3) publish aggregated reports on the solicitation of such feedback. </p> <p>OMB shall: (1) develop a set of standardized questions for use by agencies in collecting such feedback on service satisfaction, timeliness, and professionalism; and (2) include and maintain on a publicly available website links to the information provided on the agency websites.</p> <p>The Government Accountability Office shall make publicly available and submit to Congress a scorecard report assessing the quality of services provided to the public by each agency.</p>]]></text>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2017-12-19T23:07:40Z</lastSummaryUpdateDate>
+          <actionDate>2017-05-10</actionDate>
+        </item>
+        <item>
+          <actionDesc>Reported to Senate with amendment(s)</actionDesc>
+          <name>Reported to Senate with amendment(s)</name>
+          <updateDate>2017-09-14T12:27:54Z</updateDate>
+          <text><![CDATA[<p><strong>Federal Agency Customer Experience Act of 2017</strong></p> <p>(Sec. 2) This bill expresses the sense of Congress that all agencies should strive to provide high-quality, courteous, effective, and efficient services and seek to measure, collect, report, and utilize metrics relating to the experience of persons interacting with them to continually improve services.</p> <p>(Sec. 4) The bill amends the Paperwork Reduction Act to exempt the collection of information by an agency that is voluntary feedback from the agency's authority to prescribe policies, rules, regulations, and procedures for federal information resources management activities. &quot;Voluntary feedback&quot; is defined as any submission of information, opinion, or concern voluntarily made by a specific person relating to a particular service of or transaction with an agency that is specifically solicited by that agency.</p> <p>(Sec. 5) Each agency that solicits voluntary feedback shall, among other things, ensure that:</p> <ul> <li> responses to the solicitation remain anonymous,</li> <li> person who decline to participate shall not be treated differently by the agency for purposes of providing services or information,</li> <li> the voluntary nature of the solicitation is clear, and </li> <li> the proposed solicitation of voluntary feedback will contribute to improved customer service.</li> </ul> <p>(Sec. 6) Each agency shall collect voluntary feedback with respect to its services and transactions. The Office of Management and Budget (OMB), in coordination with the General Services Administration, shall develop a set of standardized questions for use by agencies in collecting feedback, which shall address:</p> <ul> <li>overall satisfaction of persons with the specific interaction or service received,</li> <li>the extent to which such persons were able to accomplish their intended purpose,</li> <li>whether such persons were treated with respect and professionalism, and </li> <li>whether such persons believe they were served in a timely manner.</li> </ul> <p>Each agency shall: (1) collect voluntary feedback across all platforms or channels through which it interacts with persons to deliver information or services, (2) publish on its website and submit to the OMB a report that includes the voluntary feedback required to be collected, and (3) regularly publish an aggregated report on the solicitation of voluntary feedback. The OMB shall maintain on a publicly available website links to the information provided on the agency websites. </p> <p>(Sec. 7) The Government Accountability Office shall, by 15 months after this bill's enactment and annually thereafter for 10 years, make publicly available and submit to Congress a scorecard report assessing the quality of services provided to the public by each agency.</p>]]></text>
+          <versionCode>01</versionCode>
+          <lastSummaryUpdateDate>2018-02-03T16:57:59Z</lastSummaryUpdateDate>
+          <actionDate>2017-09-14</actionDate>
+        </item>
+        <item>
+          <actionDesc>Passed Senate amended</actionDesc>
+          <name>Passed Senate amended</name>
+          <updateDate>2017-11-07T14:25:58Z</updateDate>
+          <text><![CDATA[<p><strong>Federal Agency Customer Experience Act of 2017</strong></p> <p>(Sec. 2) This bill expresses the sense of Congress that all agencies should strive to provide high-quality, courteous, effective, and efficient services and seek to measure, collect, report, and utilize metrics relating to the experience of persons interacting with them to continually improve services.</p> <p>(Sec. 4) The bill amends the Paperwork Reduction Act to exempt the collection of information by an agency that is voluntary feedback from the agency's authority to prescribe policies, rules, regulations, and procedures for federal information resources management activities. &quot;Voluntary feedback&quot; is defined as any submission of information, opinion, or concern voluntarily made by a specific person relating to a particular service of or transaction with an agency that is specifically solicited by that agency.</p> <p>(Sec. 5) Each agency that solicits voluntary feedback shall, among other things, ensure that:</p> <ul> <li> responses to the solicitation remain anonymous,</li> <li> person who decline to participate shall not be treated differently by the agency for purposes of providing services or information,</li> <li> the voluntary nature of the solicitation is clear, and </li> <li> the proposed solicitation of voluntary feedback will contribute to improved customer service.</li> </ul> <p>(Sec. 6) Each agency shall collect voluntary feedback with respect to its services and transactions. The Office of Management and Budget (OMB), in coordination with the General Services Administration, shall develop a set of standardized questions for use by agencies in collecting feedback, which shall address:</p> <ul> <li>overall satisfaction of persons with the specific interaction or service received,</li> <li>the extent to which such persons were able to accomplish their intended purpose,</li> <li>whether such persons were treated with respect and professionalism, and </li> <li>whether such persons believe they were served in a timely manner.</li> </ul> <p>Each agency shall: (1) collect voluntary feedback across all platforms or channels through which it interacts with persons to deliver information or services, (2) publish on its website and submit to the OMB a report that includes the voluntary feedback required to be collected, and (3) regularly publish an aggregated report on the solicitation of voluntary feedback. The OMB shall maintain on a publicly available website links to the information provided on the agency websites. </p> <p>(Sec. 7) The Government Accountability Office shall, by 15 months after the date on which all agencies have submitted the first annual reports and every 2 years thereafter until 10 years after such date, make publicly available and submit to Congress a scorecard report assessing the data collected and reported by the agencies.</p>]]></text>
+          <versionCode>35</versionCode>
+          <lastSummaryUpdateDate>2018-02-03T17:02:07Z</lastSummaryUpdateDate>
+          <actionDate>2017-11-07</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

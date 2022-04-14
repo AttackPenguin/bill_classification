@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+          <item>
+            <name>Senate</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <relatedBills />
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <subcommittees />
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-01-22T17:01:00Z</date>
+            </item>
+          </activities>
+          <name>Rules Committee</name>
+          <systemCode>hsru00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Expresses the sense of the House of Representatives that the Senate should change its rules to eliminate the modern filibuster that has allowed Senators to block debate on and passage of legislation and prevented the democratic process from working as the Founding Fathers intended.</p>]]></text>
+          <actionDate>2018-01-22</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2018-02-06T20:44:49Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <updateDate>2018-01-22T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <version>1.0.0</version>
+    <originChamber>House</originChamber>
+    <congress>115</congress>
+    <latestAction>
+      <actionDate>2018-01-22</actionDate>
+      <text>Referred to the House Committee on Rules.</text>
+      <links />
+    </latestAction>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <committee>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+        </committee>
+        <text>Referred to the House Committee on Rules.</text>
+        <actionDate>2018-01-22</actionDate>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2018-01-22</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2018-01-22</actionDate>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <createDate>2018-01-23T09:42:50Z</createDate>
+    <laws />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>Expressing the sense of the House of Representatives that the Senate should immediately change its rules and end the "modern" filibuster.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>Expressing the sense of the House of Representatives that the Senate should immediately change its rules and end the "modern" filibuster.</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <constitutionalAuthorityStatementText />
+    <introducedDate>2018-01-22</introducedDate>
+    <calendarNumbers />
+    <recordedVotes />
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hres712ih/xml/BILLS-115hres712ih.xml</url>
+          </item>
+        </formats>
+        <date>2018-01-22T05:00:00Z</date>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <cosponsors>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2018-01-22</sponsorshipDate>
+        <identifiers>
+          <lisID>2144</lisID>
+          <gpoId />
+          <bioguideId>C001096</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>0</district>
+        <bioguideId>C001096</bioguideId>
+        <lastName>Cramer</lastName>
+        <state>ND</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Kevin</firstName>
+        <fullName>Rep. Cramer, Kevin [R-ND-At Large]</fullName>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2018-01-22</sponsorshipDate>
+        <identifiers>
+          <bioguideId>H001071</bioguideId>
+          <lisID>2237</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>10</district>
+        <bioguideId>H001071</bioguideId>
+        <lastName>Hice</lastName>
+        <state>GA</state>
+        <middleName>B.</middleName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Jody</firstName>
+        <fullName>Rep. Hice, Jody B. [R-GA-10]</fullName>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2018-01-22</sponsorshipDate>
+        <identifiers>
+          <bioguideId>B001302</bioguideId>
+          <lisID>2307</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>5</district>
+        <bioguideId>B001302</bioguideId>
+        <lastName>Biggs</lastName>
+        <state>AZ</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Andy</firstName>
+        <fullName>Rep. Biggs, Andy [R-AZ-5]</fullName>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2018-01-22</sponsorshipDate>
+        <identifiers>
+          <bioguideId>C001109</bioguideId>
+          <gpoId />
+          <lisID>2356</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>0</district>
+        <bioguideId>C001109</bioguideId>
+        <lastName>Cheney</lastName>
+        <state>WY</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Liz</firstName>
+        <fullName>Rep. Cheney, Liz [R-WY-At Large]</fullName>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2018-01-22</sponsorshipDate>
+        <identifiers>
+          <bioguideId>G000568</bioguideId>
+          <lisID>2070</lisID>
+          <gpoId>8200</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>9</district>
+        <bioguideId>G000568</bioguideId>
+        <lastName>Griffith</lastName>
+        <state>VA</state>
+        <middleName>Morgan</middleName>
+        <sponsorshipWithdrawnDate />
+        <firstName>H.</firstName>
+        <fullName>Rep. Griffith, H. Morgan [R-VA-9]</fullName>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2018-01-22</sponsorshipDate>
+        <identifiers>
+          <lisID>2063</lisID>
+          <gpoId>8153</gpoId>
+          <bioguideId>B001273</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>6</district>
+        <bioguideId>B001273</bioguideId>
+        <lastName>Black</lastName>
+        <state>TN</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Diane</firstName>
+        <fullName>Rep. Black, Diane [R-TN-6]</fullName>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2018-02-02</sponsorshipDate>
+        <identifiers>
+          <lisID>2151</lisID>
+          <gpoId />
+          <bioguideId>C001092</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>27</district>
+        <bioguideId>C001092</bioguideId>
+        <lastName>Collins</lastName>
+        <state>NY</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Chris</firstName>
+        <fullName>Rep. Collins, Chris [R-NY-27]</fullName>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2018-02-08</sponsorshipDate>
+        <identifiers>
+          <lisID>1954</lisID>
+          <gpoId>8148</gpoId>
+          <bioguideId>R000582</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>1</district>
+        <bioguideId>R000582</bioguideId>
+        <lastName>Roe</lastName>
+        <state>TN</state>
+        <middleName>P.</middleName>
+        <sponsorshipWithdrawnDate />
+        <firstName>David</firstName>
+        <fullName>Rep. Roe, David P. [R-TN-1]</fullName>
+      </item>
+    </cosponsors>
+    <amendments />
+    <billNumber>712</billNumber>
+    <updateDate>2019-11-15T21:46:53Z</updateDate>
+    <cboCostEstimates />
+    <title>Expressing the sense of the House of Representatives that the Senate should immediately change its rules and end the "modern" filibuster.</title>
+    <committeeReports />
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <district>6</district>
+        <lastName>Messer</lastName>
+        <firstName>Luke</firstName>
+        <state>IN</state>
+        <fullName>Rep. Messer, Luke [R-IN-6]</fullName>
+        <identifiers>
+          <lisID>2130</lisID>
+          <gpoId />
+          <bioguideId>M001189</bioguideId>
+        </identifiers>
+        <middleName />
+        <bioguideId>M001189</bioguideId>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <billType>HRES</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

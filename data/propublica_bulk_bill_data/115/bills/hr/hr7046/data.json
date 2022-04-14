@@ -1,0 +1,159 @@
+{
+  "actions": [
+    {
+      "acted_at": "2018-10-05", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-10-05", 
+      "action_code": "B00100", 
+      "links": [
+        {
+          "name": "E1379", 
+          "url": "https://www.congress.gov/congressional-record/volume-164/extensions-of-remarks-section/page/E1379"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR E1379", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-10-05", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2018-10-05", 
+      "action_code": "", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr7046-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Crime, Terrorism, and Homeland Security", 
+      "subcommittee_id": "08"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "J000032", 
+      "district": "18", 
+      "name": "Jackson Lee, Sheila", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2018-10-12", 
+      "state": "TX", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "J000298", 
+      "district": "7", 
+      "name": "Jayapal, Pramila", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2018-10-12", 
+      "state": "WA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2018-10-05", 
+  "number": "7046", 
+  "official_title": "To amend title 18, United States Code, to limit the ability to assess a fee for health care services for prisoners, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Federal Bureau of Prisons Medical Care Act of 2018", 
+  "sponsor": {
+    "bioguide_id": "N000147", 
+    "district": "0", 
+    "name": "Norton, Eleanor Holmes", 
+    "state": "DC", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2018-10-05", 
+  "subjects": [
+    "Administrative remedies", 
+    "Correctional facilities and imprisonment", 
+    "Crime and law enforcement", 
+    "Health care costs and insurance"
+  ], 
+  "subjects_top_term": "Crime and law enforcement", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2018-10-05T04:00:00Z", 
+    "text": "Federal Bureau of Prisons Medical Care Act of 2018\n\nThis bill amends the federal criminal code to limit the circumstances under which the Bureau of Prisons may assess a fee for health care services provided to a prisoner."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 18, United States Code, to limit the ability to assess a fee for health care services for prisoners, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Federal Bureau of Prisons Medical Care Act of 2018", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Federal Bureau of Prisons Medical Care Act of 2018", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Federal Bureau of Prisons Medical Care Act of 2018", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-11-15T21:33:54Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr7046.xml"
+}

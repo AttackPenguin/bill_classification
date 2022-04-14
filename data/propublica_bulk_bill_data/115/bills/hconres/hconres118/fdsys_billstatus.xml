@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <calendarNumbers />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>10</houseOfRepresentatives>
+        <senate>1</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2018-05-07</actionDate>
+        <committee>
+          <name>Rules and Administration Committee</name>
+          <systemCode>ssra00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Received in the Senate and referred to the Committee on Rules and Administration.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <actionTime>17:49:52</actionTime>
+        <type>Floor</type>
+        <actionDate>2018-04-26</actionDate>
+        <actionCode>H38310</actionCode>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <links>
+          <link>
+            <name>H3688-3689</name>
+            <url>https://www.congress.gov/congressional-record/volume-164/house-section/page/H3688-3689</url>
+          </link>
+        </links>
+        <actionTime>17:49:32</actionTime>
+        <type>Floor</type>
+        <actionDate>2018-04-26</actionDate>
+        <actionCode>H37100</actionCode>
+        <text>On agreeing to the resolution Agreed to without objection. (text: CR H3688-3689)</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <links>
+          <link>
+            <name>H3688-3689</name>
+            <url>https://www.congress.gov/congressional-record/volume-164/house-section/page/H3688-3689</url>
+          </link>
+        </links>
+        <actionTime>17:49:32</actionTime>
+        <type>Floor</type>
+        <actionDate>2018-04-26</actionDate>
+        <actionCode>8000</actionCode>
+        <text>Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H3688-3689)</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <links>
+          <link>
+            <name>H3688-3689</name>
+            <url>https://www.congress.gov/congressional-record/volume-164/house-section/page/H3688-3689</url>
+          </link>
+        </links>
+        <actionTime>17:49:30</actionTime>
+        <type>Floor</type>
+        <actionDate>2018-04-26</actionDate>
+        <actionCode>H30000</actionCode>
+        <text>Considered by unanimous consent. (consideration: CR H3688-3689)</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee>
+          <name>House Administration Committee</name>
+          <systemCode>hsha00</systemCode>
+        </committee>
+        <links />
+        <actionDate>2018-04-26</actionDate>
+        <type>Discharge</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H12300</actionCode>
+        <text>Committee on House Administration discharged.</text>
+      </item>
+      <item>
+        <committee>
+          <name>House Administration Committee</name>
+          <systemCode>hsha00</systemCode>
+        </committee>
+        <links />
+        <actionDate>2018-04-26</actionDate>
+        <type>Committee</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>5500</actionCode>
+        <text>Committee on House Administration discharged.</text>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <actionTime>17:49:17</actionTime>
+        <type>Floor</type>
+        <actionDate>2018-04-26</actionDate>
+        <actionCode>H30200</actionCode>
+        <text>Mr. Harper asked unanimous consent to discharge from committee and consider.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee>
+          <name>House Administration Committee</name>
+          <systemCode>hsha00</systemCode>
+        </committee>
+        <links />
+        <actionDate>2018-04-25</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on House Administration.</text>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <actionDate>2018-04-25</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <actionDate>2018-04-25</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <unanimousConsentRequestToConsider>1</unanimousConsentRequestToConsider>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInHouse>1</introducedInHouse>
+        <considerationByHouse>1</considerationByHouse>
+        <billReferrals>1</billReferrals>
+        <committeeDischarged>1</committeeDischarged>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <houseCommitteeDischarged>1</houseCommitteeDischarged>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>Authorizing the printing of "United States Capitol Grounds: Landscape Architect Frederick Law Olmstead's Design for Democracy" as a House document.</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Authorizing the printing of "United States Capitol Grounds: Landscape Architect Frederick Law Olmstead's Design for Democracy" as a House document.</title>
+      </item>
+    </titles>
+    <title>Authorizing the printing of "United States Capitol Grounds: Landscape Architect Frederick Law Olmstead's Design for Democracy" as a House document.</title>
+    <committeeReports />
+    <latestAction>
+      <text>Received in the Senate and referred to the Committee on Rules and Administration.</text>
+      <actionDate>2018-05-07</actionDate>
+      <links />
+    </latestAction>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2018-05-29T20:43:17Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <updateDate>2018-04-25T04:00:00Z</updateDate>
+          <text><![CDATA[<p>Authorizes the printing of the book titled &quot;United States Capitol Grounds: Landscape Architect Frederick Law Olmstead's Design for Democracy,&quot; prepared by the Office of the Architect of the Capitol (AOC), as a House document, including additional copies for the use of the AOC.</p>]]></text>
+          <name>Introduced in House</name>
+          <actionDate>2018-04-25</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+        <item>
+          <lastSummaryUpdateDate>2018-06-01T21:26:35Z</lastSummaryUpdateDate>
+          <versionCode>81</versionCode>
+          <updateDate>2018-04-26T18:15:42Z</updateDate>
+          <text><![CDATA[<p>(Sec. 1) Authorizes the printing of the book titled &quot;United States Capitol Grounds: Landscape Architect Frederick Law Olmstead's Design for Democracy,&quot; prepared by the Office of the Architect of the Capitol (AOC), as a House document, including additional copies for the use of the AOC.</p>]]></text>
+          <name>Passed House without amendment</name>
+          <actionDate>2018-04-26</actionDate>
+          <actionDesc>Passed House without amendment</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <sponsors>
+      <item>
+        <state>MS</state>
+        <identifiers>
+          <bioguideId>H001045</bioguideId>
+          <lisID>1933</lisID>
+          <gpoId>8021</gpoId>
+        </identifiers>
+        <bioguideId>H001045</bioguideId>
+        <middleName />
+        <fullName>Rep. Harper, Gregg [R-MS-3]</fullName>
+        <firstName>Gregg</firstName>
+        <party>R</party>
+        <lastName>Harper</lastName>
+        <district>3</district>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <updateDate>2019-04-18T15:52:52Z</updateDate>
+    <relatedBills />
+    <billType>HCONRES</billType>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <name>Rules and Administration Committee</name>
+          <activities>
+            <item>
+              <date>2018-05-07T19:52:06Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>ssra00</systemCode>
+          <type>Standing</type>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <subcommittees />
+          <name>House Administration Committee</name>
+          <activities>
+            <item>
+              <date>2018-04-26T21:49:20Z</date>
+              <name>Discharged from</name>
+            </item>
+            <item>
+              <date>2018-04-25T13:01:40Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsha00</systemCode>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <createDate>2018-04-26T07:10:50Z</createDate>
+    <introducedDate>2018-04-25</introducedDate>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <recordedVotes />
+    <billNumber>118</billNumber>
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>ROBERT</firstName>
+        <state>PA</state>
+        <lastName>BRADY</lastName>
+        <middleName>A.</middleName>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <bioguideId>B001227</bioguideId>
+        <sponsorshipDate>2018-04-25</sponsorshipDate>
+        <identifiers>
+          <lisID>1469</lisID>
+          <bioguideId>B001227</bioguideId>
+          <gpoId>8119</gpoId>
+        </identifiers>
+        <fullName>Rep. Brady, Robert A. [D-PA-1]</fullName>
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <originChamber>House</originChamber>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <notes />
+    <constitutionalAuthorityStatementText />
+    <textVersions>
+      <item>
+        <date>2018-05-07T04:00:00Z</date>
+        <type>Referred in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hconres118rfs/xml/BILLS-115hconres118rfs.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date>2018-04-26T04:00:00Z</date>
+        <type>Engrossed in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hconres118eh/xml/BILLS-115hconres118eh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date>2018-04-25T04:00:00Z</date>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hconres118ih/xml/BILLS-115hconres118ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <laws />
+    <version>1.0.0</version>
+    <congress>115</congress>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,897 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>2044</billNumber>
+    <createDate>2015-09-17T09:09:41Z</createDate>
+    <updateDate>2020-12-15T19:05:27Z</updateDate>
+    <originChamber>Senate</originChamber>
+    <billType>S</billType>
+    <introducedDate>2015-09-16</introducedDate>
+    <congress>114</congress>
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hsif17</systemCode>
+              <name>Consumer Protection and Commerce Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2015-12-18T22:16:31Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2015-12-16T01:06:55Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2015-12-08T17:13:30Z</date>
+            </item>
+            <item>
+              <name>Markup by</name>
+              <date>2015-11-18T16:34:08Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2015-09-16T22:46:33Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports>
+      <committeeReport>
+        <citation>S. Rept. 114-175</citation>
+      </committeeReport>
+    </committeeReports>
+    <relatedBills>
+      <item>
+        <latestTitle>Consumer Review Freedom Act of 2015</latestTitle>
+        <congress>114</congress>
+        <number>2110</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2015-05-01</actionDate>
+          <text>Referred to the Subcommittee on Commerce, Manufacturing, and Trade.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Consumer Review Fairness Act of 2016</latestTitle>
+        <congress>114</congress>
+        <number>5111</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2016-12-14</actionDate>
+          <text>Became Public Law No: 114-258.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2015-12-18</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsif17</systemCode>
+            <name>Consumer Protection and Commerce Subcommittee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Commerce, Manufacturing, and Trade.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2015-12-15</actionDate>
+        <links />
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsif00</systemCode>
+            <name>Energy and Commerce Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2015-12-15</actionDate>
+        <actionTime>14:03:58</actionTime>
+        <links />
+        <text>Received in the House.</text>
+        <type>Floor</type>
+        <actionCode>H14000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2015-12-15</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2015-12-14</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Passed Senate with an amendment by Unanimous Consent.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2015-12-14</actionDate>
+        <links />
+        <text>Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.</text>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2015-12-14</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>The committee substitute withdrawn by Unanimous Consent. (consideration: CR S8639-8640; text as reported to Senate: CR S8639)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2015-12-14</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Measure laid before Senate by unanimous consent. (consideration: CR S8639-8640)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2015-12-08</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 316.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2015-12-08</actionDate>
+        <committees>
+          <item>
+            <systemCode>sscm00</systemCode>
+            <name>Commerce, Science, and Transportation Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 114-175.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2015-12-08</actionDate>
+        <links />
+        <text>Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 114-175.</text>
+        <type>Committee</type>
+        <actionCode>14000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>sscm00</systemCode>
+            <name>Commerce, Science, and Transportation Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2015-11-18</actionDate>
+        <committees>
+          <item>
+            <systemCode>sscm00</systemCode>
+            <name>Commerce, Science, and Transportation Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2015-09-16</actionDate>
+        <committees>
+          <item>
+            <systemCode>sscm00</systemCode>
+            <name>Commerce, Science, and Transportation Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2015-09-16</actionDate>
+        <links />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <receivedInTheHouse>1</receivedInTheHouse>
+        <sentToHouse>1</sentToHouse>
+        <passedSenate>1</passedSenate>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <amendmentAgreedTo>1</amendmentAgreedTo>
+        <measureLaidBeforeSenate>1</measureLaidBeforeSenate>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <reportedToSenate>2</reportedToSenate>
+        <orderedReported>1</orderedReported>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+        <senate>11</senate>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>T000250</bioguideId>
+        <fullName>Sen. Thune, John [R-SD]</fullName>
+        <firstName>JOHN</firstName>
+        <middleName>R.</middleName>
+        <lastName>THUNE</lastName>
+        <party>R</party>
+        <state>SD</state>
+        <identifiers>
+          <lisID>1534</lisID>
+          <bioguideId>T000250</bioguideId>
+          <gpoId>8257</gpoId>
+        </identifiers>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>S001194</bioguideId>
+        <fullName>Sen. Schatz, Brian [D-HI]</fullName>
+        <firstName>Brian</firstName>
+        <middleName />
+        <lastName>Schatz</lastName>
+        <party>D</party>
+        <state>HI</state>
+        <identifiers>
+          <lisID>2173</lisID>
+          <bioguideId>S001194</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2015-09-16</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>M000934</bioguideId>
+        <fullName>Sen. Moran, Jerry [R-KS]</fullName>
+        <firstName>Jerry</firstName>
+        <middleName />
+        <lastName>Moran</lastName>
+        <party>R</party>
+        <state>KS</state>
+        <identifiers>
+          <lisID>1507</lisID>
+          <bioguideId>M000934</bioguideId>
+          <gpoId>8307</gpoId>
+        </identifiers>
+        <sponsorshipDate>2015-09-16</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>B001277</bioguideId>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <firstName>Richard</firstName>
+        <middleName />
+        <lastName>Blumenthal</lastName>
+        <party>D</party>
+        <state>CT</state>
+        <identifiers>
+          <lisID>2076</lisID>
+          <bioguideId>B001277</bioguideId>
+          <gpoId>8332</gpoId>
+        </identifiers>
+        <sponsorshipDate>2015-11-03</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>M001170</bioguideId>
+        <fullName>Sen. McCaskill, Claire [D-MO]</fullName>
+        <firstName>Claire</firstName>
+        <middleName />
+        <lastName>McCaskill</lastName>
+        <party>D</party>
+        <state>MO</state>
+        <identifiers>
+          <lisID>1820</lisID>
+          <bioguideId>M001170</bioguideId>
+          <gpoId>8252</gpoId>
+        </identifiers>
+        <sponsorshipDate>2015-11-03</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>N000032</bioguideId>
+        <fullName>Sen. Nelson, Bill [D-FL]</fullName>
+        <firstName>CLARENCE</firstName>
+        <middleName>WILLIAM</middleName>
+        <lastName>NELSON</lastName>
+        <party>D</party>
+        <state>FL</state>
+        <identifiers>
+          <lisID>859</lisID>
+          <bioguideId>N000032</bioguideId>
+          <gpoId>8236</gpoId>
+        </identifiers>
+        <sponsorshipDate>2015-11-04</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>D000618</bioguideId>
+        <fullName>Sen. Daines, Steve [R-MT]</fullName>
+        <firstName>Steve</firstName>
+        <middleName />
+        <lastName>Daines</lastName>
+        <party>R</party>
+        <state>MT</state>
+        <identifiers>
+          <lisID>2138</lisID>
+          <bioguideId>D000618</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2015-11-05</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>B001288</bioguideId>
+        <fullName>Sen. Booker, Cory A. [D-NJ]</fullName>
+        <firstName>Cory</firstName>
+        <middleName>A.</middleName>
+        <lastName>Booker</lastName>
+        <party>D</party>
+        <state>NJ</state>
+        <identifiers>
+          <lisID>2194</lisID>
+          <bioguideId>B001288</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2015-11-17</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>W000779</bioguideId>
+        <fullName>Sen. Wyden, Ron [D-OR]</fullName>
+        <firstName>RON</firstName>
+        <middleName />
+        <lastName>WYDEN</lastName>
+        <party>D</party>
+        <state>OR</state>
+        <identifiers>
+          <lisID>1247</lisID>
+          <bioguideId>W000779</bioguideId>
+          <gpoId>8265</gpoId>
+        </identifiers>
+        <sponsorshipDate>2015-12-15</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <cboCostEstimates>
+      <item>
+        <pubDate>2015-12-10T13:23:00Z</pubDate>
+        <title>S. 2044, Consumer Review Freedom Act of 2015</title>
+        <url>https://www.cbo.gov/publication/51083</url>
+      </item>
+    </cboCostEstimates>
+    <laws />
+    <notes />
+    <policyArea>
+      <name>Commerce</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Business education</name>
+          </item>
+          <item>
+            <name>Civil actions and liability</name>
+          </item>
+          <item>
+            <name>Consumer affairs</name>
+          </item>
+          <item>
+            <name>Contracts and agency</name>
+          </item>
+          <item>
+            <name>Federal Trade Commission (FTC)</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Intellectual property</name>
+          </item>
+          <item>
+            <name>Self-employed</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Commerce</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2015-09-16</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2015-10-21T19:06:59Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Consumer Review Freedom Act of 2015</b></p> <p>This bill makes a provision of a form contract void from the inception if it: (1) prohibits or restricts an individual who is a party to such a contract from engaging in written, verbal, or pictorial reviews, or other similar performance assessments or analyses of, the products, services, or conduct of a person that is also a party to the contract; (2) imposes penalties or fees against individuals who engage in such communications; or (3) transfers or requires the individual to transfer any intellectual property rights in any such otherwise lawful communications about such person or the goods or services provided by such person. </p> <p>Exceptions are provided under which a provision shall not be considered void under this Act if the provision prohibits disclosure of certain: (1) trade secrets or commercial or financial information, (2) personnel and medical files, or (3) law enforcement records. </p> <p>The bill does not apply to contracts establishing an employer-employee or independent contractor relationship.</p> <p>A person is prohibited from offering or entering into form contracts containing a provision that is considered void under this Act. </p> <p>Enforcement authority is provided to the Federal Trade Commission (FTC) and states.</p> <p>The FTC must provide businesses with nonbinding best practices for compliance.</p>]]></text>
+          <updateDate>2015-09-16T04:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+        </item>
+        <item>
+          <versionCode>01</versionCode>
+          <actionDate>2015-12-08</actionDate>
+          <actionDesc>Reported to Senate with amendment(s)</actionDesc>
+          <lastSummaryUpdateDate>2016-01-13T15:52:02Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Consumer Review Freedom Act of 2015</b></p> <p>(Sec. 2) This bill makes a provision of a form contract void from the inception if it: (1) prohibits or restricts an individual who is a party to such a contract from engaging in written, oral, or pictorial reviews, or other similar performance assessments or analyses of, including by electronic means, the goods, services, or conduct of a person that is also a party to the contract; (2) imposes penalties or fees against individuals who engage in such communications; or (3) transfers or requires the individual to transfer intellectual property rights in review or feedback content (with the exception of a nonexclusive license to use the content) in any otherwise lawful communications about such person or the goods or services provided by such person. </p> <p>A &quot;form contract&quot; is a contract with standardized terms: (1) used by a person in the course of selling or leasing the person's goods or services, and (2) imposed on an individual without a meaningful opportunity to negotiate the standardized terms. The definition excludes an employer-employee or independent contractor contract.</p> <p>The standards under which provisions of a form contract are considered void under this Act shall not be construed to affect:</p> <ul> <li>legal duties of confidentiality;</li> <li>civil actions for defamation, libel, or slander;</li> <li>any party's right to remove or refuse to publish any statement on an Internet website owned or operated by such party that contains the personal information or likeness of another person or is libelous, harassing, abusive, obscene, vulgar, sexually explicit, inappropriate with respect to race, gender, sexuality, ethnicity, or other intrinsic characteristic, or that is unrelated to the goods or services offered by such party; or</li> <li>a party's right to establish terms and conditions for the creation of photographs or video of such party's property when those photographs or video are created by an employee or independent contractor of a commercial entity and are solely intended to be used for commercial purposes by that entity.</li> </ul> <p>A provision also shall not be considered void under this Act to the extent that it prohibits disclosure of certain: (1) trade secrets or commercial or financial information, (2) personnel and medical files, or (3) law enforcement records.</p> <p>A person is prohibited from offering or entering into form contracts containing a provision that is considered void under this Act. </p> <p>Enforcement authority is provided to the Federal Trade Commission (FTC) and states.</p> <p>The FTC must provide businesses with nonbinding best practices for compliance.</p>]]></text>
+          <updateDate>2015-12-08T14:13:14Z</updateDate>
+          <name>Reported to Senate with amendment(s)</name>
+        </item>
+        <item>
+          <versionCode>35</versionCode>
+          <actionDate>2015-12-14</actionDate>
+          <actionDesc>Passed Senate amended</actionDesc>
+          <lastSummaryUpdateDate>2016-01-13T19:57:41Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Consumer Review Freedom Act of 2015</b></p> <p>(Sec. 2) This bill makes a provision of a form contract void from the inception if it: (1) prohibits or restricts an individual who is a party to such a contract from engaging in written, oral, or pictorial reviews, or other similar performance assessments or analyses of, including by electronic means, the goods, services, or conduct of a person that is also a party to the contract; (2) imposes penalties or fees against individuals who engage in such communications; or (3) transfers or requires the individual to transfer intellectual property rights in review or feedback content (with the exception of a nonexclusive license to use the content) in any otherwise lawful communications about such person or the goods or services provided by such person. </p> <p>A &quot;form contract&quot; is a contract with standardized terms: (1) used by a person in the course of selling or leasing the person's goods or services, and (2) imposed on an individual without a meaningful opportunity to negotiate the standardized terms. The definition excludes an employer-employee or independent contractor contract.</p> <p>The standards under which provisions of a form contract are considered void under this Act shall not be construed to affect:</p> <ul> <li>legal duties of confidentiality;</li> <li>civil actions for defamation, libel, or slander; or</li> <li>a party's right to establish terms and conditions for the creation of photographs or video of such party's property when those photographs or video are created by an employee or independent contractor of a commercial entity and are solely intended to be used for commercial purposes by that entity.</li> </ul> <p>Such standards also shall not be construed to affect any party's right to remove or refuse to display publicly on an Internet website or webpage owned, operated, or controlled by such party content that: (1) contains the personal information or likeness of another person or is libelous, harassing, abusive, obscene, vulgar, sexually explicit, inappropriate with respect to race, gender, sexuality, ethnicity, or other intrinsic characteristic; (2) is unrelated to the goods or services offered by or available at such party's website; or (3) is clearly false or misleading.</p> <p>A provision shall not be considered void under this Act to the extent that it prohibits disclosure or submission of, or reserves the right of a person or business that hosts online consumer reviews or comments to remove, certain: (1) trade secrets or commercial or financial information; (2) personnel and medical files; (3) law enforcement records; (4) content that is unlawful or that a party has a right to remove or refuse to display; or (5) computer viruses or other potentially damaging computer code, processes, applications, or files.</p> <p>A person is prohibited from offering form contracts containing a provision that is considered void under this Act. </p> <p>Enforcement authority is provided to the Federal Trade Commission (FTC) and states.</p> <p>The FTC must provide businesses with nonbinding best practices for compliance.</p>]]></text>
+          <updateDate>2015-12-14T13:13:37Z</updateDate>
+          <name>Passed Senate amended</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>Consumer Review Freedom Act of 2015</title>
+    <titles>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <parentTitleType />
+        <title>Consumer Review Freedom Act of 2015</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Title(s) as Reported to Senate</titleType>
+        <parentTitleType />
+        <title>Consumer Review Freedom Act of 2015</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Passed Senate</titleType>
+        <parentTitleType />
+        <title>Consumer Review Freedom Act of 2015</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <titleType>Short Titles as Reported to Senate</titleType>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <title>Consumer Review Freedom Act of 2015</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <titleType>Short Titles as Passed Senate</titleType>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <title>Consumer Review Freedom Act of 2015</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Consumer Review Freedom Act of 2015</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Consumer Review Freedom Act of 2015</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to prohibit the use of certain clauses in form contracts that restrict the ability of a consumer to communicate regarding the goods or services offered in interstate commerce that were the subject of the contract, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <amendments>
+      <amendment>
+        <number>2927</number>
+        <description />
+        <purpose>In the nature of a substitute.</purpose>
+        <congress>114</congress>
+        <type>SAMDT</type>
+        <latestAction>
+          <actionDate>2015-12-14</actionDate>
+          <text>Amendment SA 2927 agreed to in Senate by Unanimous Consent.</text>
+        </latestAction>
+        <number>2927</number>
+        <description />
+        <purpose>In the nature of a substitute.</purpose>
+        <congress>114</congress>
+        <type>SAMDT</type>
+        <createDate>2015-12-15T10:05:41Z</createDate>
+        <updateDate>2020-12-15T19:05:27Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>T000250</bioguideId>
+            <fullName>Sen. Thune, John [R-SD]</fullName>
+            <firstName>JOHN</firstName>
+            <middleName>R.</middleName>
+            <lastName>THUNE</lastName>
+            <party>R</party>
+            <state>SD</state>
+            <identifiers>
+              <lisID>1534</lisID>
+              <bioguideId>T000250</bioguideId>
+              <gpoId>8257</gpoId>
+            </identifiers>
+          </item>
+        </sponsors>
+        <cosponsors>
+          <totalCount>6</totalCount>
+          <currentCount>6</currentCount>
+          <item>
+            <bioguideId>S001194</bioguideId>
+            <fullName>Sen. Schatz, Brian [D-HI]</fullName>
+            <firstName>Brian</firstName>
+            <middleName />
+            <lastName>Schatz</lastName>
+            <party>D</party>
+            <state>HI</state>
+            <identifiers>
+              <lisID>2173</lisID>
+              <bioguideId>S001194</bioguideId>
+              <gpoId />
+            </identifiers>
+            <sponsorshipDate>2015-12-14</sponsorshipDate>
+            <isOriginalCosponsor>True</isOriginalCosponsor>
+            <sponsorshipWithdrawnDate />
+          </item>
+          <item>
+            <bioguideId>M000934</bioguideId>
+            <fullName>Sen. Moran, Jerry [R-KS]</fullName>
+            <firstName>Jerry</firstName>
+            <middleName />
+            <lastName>Moran</lastName>
+            <party>R</party>
+            <state>KS</state>
+            <identifiers>
+              <lisID>1507</lisID>
+              <bioguideId>M000934</bioguideId>
+              <gpoId>8307</gpoId>
+            </identifiers>
+            <sponsorshipDate>2015-12-14</sponsorshipDate>
+            <isOriginalCosponsor>True</isOriginalCosponsor>
+            <sponsorshipWithdrawnDate />
+          </item>
+          <item>
+            <bioguideId>D000618</bioguideId>
+            <fullName>Sen. Daines, Steve [R-MT]</fullName>
+            <firstName>Steve</firstName>
+            <middleName />
+            <lastName>Daines</lastName>
+            <party>R</party>
+            <state>MT</state>
+            <identifiers>
+              <lisID>2138</lisID>
+              <bioguideId>D000618</bioguideId>
+              <gpoId />
+            </identifiers>
+            <sponsorshipDate>2015-12-14</sponsorshipDate>
+            <isOriginalCosponsor>True</isOriginalCosponsor>
+            <sponsorshipWithdrawnDate />
+          </item>
+          <item>
+            <bioguideId>B001277</bioguideId>
+            <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+            <firstName>Richard</firstName>
+            <middleName />
+            <lastName>Blumenthal</lastName>
+            <party>D</party>
+            <state>CT</state>
+            <identifiers>
+              <lisID>2076</lisID>
+              <bioguideId>B001277</bioguideId>
+              <gpoId>8332</gpoId>
+            </identifiers>
+            <sponsorshipDate>2015-12-14</sponsorshipDate>
+            <isOriginalCosponsor>True</isOriginalCosponsor>
+            <sponsorshipWithdrawnDate />
+          </item>
+          <item>
+            <bioguideId>B001288</bioguideId>
+            <fullName>Sen. Booker, Cory A. [D-NJ]</fullName>
+            <firstName>Cory</firstName>
+            <middleName>A.</middleName>
+            <lastName>Booker</lastName>
+            <party>D</party>
+            <state>NJ</state>
+            <identifiers>
+              <lisID>2194</lisID>
+              <bioguideId>B001288</bioguideId>
+              <gpoId />
+            </identifiers>
+            <sponsorshipDate>2015-12-14</sponsorshipDate>
+            <isOriginalCosponsor>True</isOriginalCosponsor>
+            <sponsorshipWithdrawnDate />
+          </item>
+          <item>
+            <bioguideId>W000779</bioguideId>
+            <fullName>Sen. Wyden, Ron [D-OR]</fullName>
+            <firstName>RON</firstName>
+            <middleName />
+            <lastName>WYDEN</lastName>
+            <party>D</party>
+            <state>OR</state>
+            <identifiers>
+              <lisID>1247</lisID>
+              <bioguideId>W000779</bioguideId>
+              <gpoId>8265</gpoId>
+            </identifiers>
+            <sponsorshipDate>2015-12-14</sponsorshipDate>
+            <isOriginalCosponsor>True</isOriginalCosponsor>
+            <sponsorshipWithdrawnDate />
+          </item>
+        </cosponsors>
+        <titles />
+        <proposedDate>2015-12-14T05:00:00Z</proposedDate>
+        <submittedDate>2015-12-14T05:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>114</congress>
+          <type>S</type>
+          <originChamber>Senate</originChamber>
+          <originChamberCode>S</originChamberCode>
+          <number>2044</number>
+          <title>Consumer Review Freedom Act of 2015</title>
+        </amendedBill>
+        <amendedAmendment />
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <links />
+        <notes />
+        <actions>
+          <count>6</count>
+          <actions>
+            <item>
+              <actionDate>2015-12-14</actionDate>
+              <links />
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 2927 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2015-12-14</actionDate>
+              <links />
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 2927 proposed by Senator McConnell for Senator Thune. (consideration: CR S8639-8640) In the nature of a substitute.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2015-12-14</actionDate>
+              <links />
+              <text />
+            </item>
+            <item>
+              <actionDate>2015-12-14</actionDate>
+              <links />
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2015-12-14</actionDate>
+              <links />
+              <text>Senate amendment proposed (on the floor): Amendment SA 2927 proposed by Senator McConnell for Senator Thune.(consideration: CR S8639-8640)</text>
+              <type>Floor</type>
+              <actionCode>93000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2015-12-14</actionDate>
+              <links />
+              <text>Senate amendment agreed to: Amendment SA 2927 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+              <actionCode>94000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+          </actions>
+          <actionTypeCounts>
+            <amendmentAgreedTo>1</amendmentAgreedTo>
+            <amendmentProposed>1</amendmentProposed>
+            <senateAmendmentSubmitted>1</senateAmendmentSubmitted>
+            <senateAmendmentProposedOnTheFloor>1</senateAmendmentProposedOnTheFloor>
+            <senateAmendmentAgreedTo>1</senateAmendmentAgreedTo>
+          </actionTypeCounts>
+          <actionByCounts>
+            <senate>5</senate>
+          </actionByCounts>
+        </actions>
+        <version>1.0.0</version>
+      </amendment>
+    </amendments>
+    <textVersions>
+      <item>
+        <type>Referred in House</type>
+        <date>2015-12-15T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-114s2044rfh/xml/BILLS-114s2044rfh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Engrossed in Senate</type>
+        <date>2015-12-14T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-114s2044es/xml/BILLS-114s2044es.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Reported to Senate</type>
+        <date>2015-12-08T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-114s2044rs/xml/BILLS-114s2044rs.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2015-09-16T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-114s2044is/xml/BILLS-114s2044is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2015-12-18</actionDate>
+      <text>Referred to the Subcommittee on Commerce, Manufacturing, and Trade.</text>
+      <links />
+    </latestAction>
+    <calendarNumbers>
+      <item>
+        <calendar>Senate Calendar of Business</calendar>
+        <number>0316</number>
+      </item>
+    </calendarNumbers>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

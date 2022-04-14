@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2018-05-16T07:10:51Z</createDate>
+    <introducedDate>2018-05-15</introducedDate>
+    <version>1.0.0</version>
+    <actions>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>Calendars</type>
+        <committee />
+        <actionCode>H12410</actionCode>
+        <actionDate>2018-06-12</actionDate>
+        <links />
+        <text>Placed on the Union Calendar, Calendar No. 565.</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2018-06-12</actionDate>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <actionCode>H12200</actionCode>
+        <type>Committee</type>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/730</url>
+            <name>H. Rept. 115-730</name>
+          </link>
+        </links>
+        <text>Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 115-730.</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2018-06-12</actionDate>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <actionCode>5000</actionCode>
+        <type>Committee</type>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/730</url>
+            <name>H. Rept. 115-730</name>
+          </link>
+        </links>
+        <text>Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 115-730.</text>
+      </item>
+      <item>
+        <actionDate>2018-05-17</actionDate>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2018-05-17</actionDate>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2018-05-15</actionDate>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2018-05-15</actionDate>
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <committee />
+        <actionCode>1000</actionCode>
+        <actionDate>2018-05-15</actionDate>
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>8</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <committeeReportOfABill>1</committeeReportOfABill>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <unionCalendarAssignment>1</unionCalendarAssignment>
+        <actionStageOverride>1</actionStageOverride>
+        <placeholderTextForH>1</placeholderTextForH>
+        <reportedToHouse>1</reportedToHouse>
+      </actionTypeCounts>
+    </actions>
+    <latestAction>
+      <links />
+      <text>Placed on the Union Calendar, Calendar No. 565.</text>
+      <actionDate>2018-06-12</actionDate>
+    </latestAction>
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p>This bill allows states to receive federal payment under Medicaid for outside services that are provided to pregnant and postpartum women who are substance use disorder patients at institutions for mental diseases. State Medicaid programs may also cover residential pediatric recovery center services for infants with neonatal abstinence syndrome.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2018-11-06T18:58:20Z</lastSummaryUpdateDate>
+          <actionDate>2018-05-15</actionDate>
+          <updateDate>2018-05-15T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+        </item>
+        <item>
+          <name>Reported to House with amendment(s)</name>
+          <text><![CDATA[<p>This bill requires the Centers for Medicare &amp; Medicaid Services to develop guidance for states on neonatal abstinence syndrome services, including coverage options under Medicaid and the Children's Health Insurance Program (CHIP). The Government Accountability Office must also study Medicaid coverage gaps for pregnant and postpartum women with substance-use disorders.</p>]]></text>
+          <actionDesc>Reported to House with amendment(s)</actionDesc>
+          <lastSummaryUpdateDate>2018-11-16T15:23:10Z</lastSummaryUpdateDate>
+          <actionDate>2018-06-12</actionDate>
+          <updateDate>2018-06-12T15:02:55Z</updateDate>
+          <versionCode>17</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>5789</billNumber>
+    <laws />
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>1888</lisID>
+          <gpoId>7355</gpoId>
+          <bioguideId>F000454</bioguideId>
+        </identifiers>
+        <bioguideId>F000454</bioguideId>
+        <middleName />
+        <party>D</party>
+        <fullName>Rep. Foster, Bill [D-IL-11]</fullName>
+        <firstName>Bill</firstName>
+        <state>IL</state>
+        <lastName>Foster</lastName>
+        <byRequestType />
+        <district>11</district>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <calendarNumbers>
+      <item>
+        <number />
+        <calendar>U00565</calendar>
+      </item>
+    </calendarNumbers>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-730</citation>
+      </committeeReport>
+    </committeeReports>
+    <congress>115</congress>
+    <updateDate>2019-04-18T16:23:27Z</updateDate>
+    <amendments />
+    <notes />
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr5789rh/xml/BILLS-115hr5789rh.xml</url>
+          </item>
+        </formats>
+        <date>2018-06-12T04:00:00Z</date>
+        <type>Reported in House</type>
+      </item>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr5789ih/xml/BILLS-115hr5789ih.xml</url>
+          </item>
+        </formats>
+        <date>2018-05-15T04:00:00Z</date>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <billType>HR</billType>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Child health</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Drug, alcohol, tobacco use</name>
+          </item>
+          <item>
+            <name>Family relationships</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Health care costs and insurance</name>
+          </item>
+          <item>
+            <name>Health facilities and institutions</name>
+          </item>
+          <item>
+            <name>Health promotion and preventive care</name>
+          </item>
+          <item>
+            <name>Home and outpatient care</name>
+          </item>
+          <item>
+            <name>Hospital care</name>
+          </item>
+          <item>
+            <name>Medicaid</name>
+          </item>
+          <item>
+            <name>Medical tests and diagnostic methods</name>
+          </item>
+          <item>
+            <name>Mental health</name>
+          </item>
+          <item>
+            <name>Women's health</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 164, Number 79 (Tuesday, May 15, 2018)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. FOSTER:H.R. 5789.Congress has the power to enact this legislation pursuantto the following:This bill is enacted pursuant to the power granted toCongress under Article I, Section 8, Clauses 1 and 18 of theUnited States Constitution.[Page H3977]</pre>]]></constitutionalAuthorityStatementText>
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>115</congress>
+        <type>HR</type>
+        <latestTitle>SUPPORT for Patients and Communities Act</latestTitle>
+        <number>6</number>
+        <latestAction>
+          <actionDate>2018-10-24</actionDate>
+          <text>Became Public Law No: 115-271.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <cboCostEstimates>
+      <item>
+        <url>https://www.cbo.gov/publication/54008</url>
+        <pubDate>2018-06-11T20:00:00Z</pubDate>
+        <title>H.R. 5789, a bill to require the Secretary of Health and Human Services to issue guidance to improve care for infants with neonatal abstinence syndrome and their mothers, and to require the Comptroller General of the United States to conduct a study...</title>
+      </item>
+    </cboCostEstimates>
+    <originChamber>House</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsif00</systemCode>
+          <activities>
+            <item>
+              <date>2018-06-12T16:58:14Z</date>
+              <name>Reported by</name>
+            </item>
+            <item>
+              <date>2018-05-17T15:39:32Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2018-05-15T16:00:46Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <type>Standing</type>
+          <name>Energy and Commerce Committee</name>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <gpoId>7954</gpoId>
+          <lisID>1922</lisID>
+          <bioguideId>G000558</bioguideId>
+        </identifiers>
+        <bioguideId>G000558</bioguideId>
+        <party>R</party>
+        <fullName>Rep. Guthrie, Brett [R-KY-2]</fullName>
+        <sponsorshipDate>2018-05-15</sponsorshipDate>
+        <state>KY</state>
+        <sponsorshipWithdrawnDate />
+        <district>2</district>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Brett</firstName>
+        <lastName>Guthrie</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1748</lisID>
+          <bioguideId>B001243</bioguideId>
+          <gpoId>8154</gpoId>
+        </identifiers>
+        <bioguideId>B001243</bioguideId>
+        <party>R</party>
+        <fullName>Rep. Blackburn, Marsha [R-TN-7]</fullName>
+        <sponsorshipDate>2018-05-18</sponsorshipDate>
+        <state>TN</state>
+        <sponsorshipWithdrawnDate />
+        <district>7</district>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Marsha</firstName>
+        <lastName>Blackburn</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1596</lisID>
+          <bioguideId>W000791</bioguideId>
+          <gpoId>8115</gpoId>
+        </identifiers>
+        <bioguideId>W000791</bioguideId>
+        <party>R</party>
+        <fullName>Rep. Walden, Greg [R-OR-2]</fullName>
+        <sponsorshipDate>2018-05-24</sponsorshipDate>
+        <state>OR</state>
+        <sponsorshipWithdrawnDate />
+        <district>2</district>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>GREG</firstName>
+        <lastName>WALDEN</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>H001056</bioguideId>
+          <lisID>2071</lisID>
+          <gpoId>8207</gpoId>
+        </identifiers>
+        <bioguideId>H001056</bioguideId>
+        <party>R</party>
+        <fullName>Rep. Herrera Beutler, Jaime [R-WA-3]</fullName>
+        <sponsorshipDate>2018-05-24</sponsorshipDate>
+        <state>WA</state>
+        <sponsorshipWithdrawnDate />
+        <district>3</district>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Jaime</firstName>
+        <lastName>Herrera Beutler</lastName>
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend title XIX of the Social Security Act to provide for Medicaid coverage protections for pregnant and post-partum women while receiving inpatient treatment for a substance use disorder, and for other purposes.</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>To amend title XIX of the Social Security Act to provide for Medicaid coverage protections for pregnant and post-partum women while receiving inpatient treatment for a substance use disorder, and for other purposes.</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <title>To amend title XIX of the Social Security Act to provide for Medicaid coverage protections for pregnant and post-partum women while receiving inpatient treatment for a substance use disorder, and for other purposes.</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

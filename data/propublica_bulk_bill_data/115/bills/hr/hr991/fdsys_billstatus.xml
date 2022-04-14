@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Aging</name>
+          </item>
+          <item>
+            <name>Inflation and prices</name>
+          </item>
+          <item>
+            <name>Social security and elderly assistance</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Social Welfare</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <relatedBills />
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Ways and Means Committee</name>
+          <activities>
+            <item>
+              <date>2017-02-09T19:31:05Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <systemCode>hswm01</systemCode>
+              <name>Social Security Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2017-02-22T21:51:05Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <systemCode>hswm00</systemCode>
+          <chamber>House</chamber>
+        </item>
+        <item>
+          <type>Standing</type>
+          <name>Education and Labor Committee</name>
+          <activities>
+            <item>
+              <date>2017-02-09T19:31:10Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <systemCode>hsed00</systemCode>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><b>Guaranteed 3 Percent COLA for Seniors Act of 2017</b> <p> This bill directs the Bureau of Labor Statistics to prepare and publish a monthly Consumer Price Index for Elderly Consumers that indicates changes over time in expenditures for consumption which are typical for individuals in the United States who are age 62 or older. <p> The bill amends title II (Old Age, Survivors and Disability Insurance) of the Social Security Act to: (1) require the use of such index to compute cost-of-living increases for Social Security benefits; and (2) provide, in the case of individuals who have attained age 62, for an annual cost-of-living increase of at least 3%.</p>]]></text>
+          <actionDate>2017-02-09</actionDate>
+          <lastSummaryUpdateDate>2017-10-18T16:57:21Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2017-02-09T05:00:00Z</updateDate>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <version>1.0.0</version>
+    <originChamber>House</originChamber>
+    <congress>115</congress>
+    <latestAction>
+      <actionDate>2017-02-22</actionDate>
+      <text>Referred to the Subcommittee on Social Security.</text>
+      <links />
+    </latestAction>
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>2</billReferrals>
+        <billReferralsAggregate>1</billReferralsAggregate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-02-22</actionDate>
+        <committee>
+          <systemCode>hswm01</systemCode>
+          <name>Social Security Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Social Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-02-09</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <committee>
+          <systemCode>hsed00</systemCode>
+          <name>Education and Labor Committee</name>
+        </committee>
+      </item>
+      <item>
+        <actionCode>H11100-A</actionCode>
+        <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-02-09</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-02-09</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-02-09</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-02-09</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <createDate>2017-02-10T04:45:53Z</createDate>
+    <laws />
+    <titles>
+      <item>
+        <title>To require the establishment of a Consumer Price Index for Elderly Consumers to compute cost-of-living increases for Social Security benefits under title II of the Social Security Act and to provide, in the case of elderly beneficiaries under such title, for an annual cost-of-living increase which is not less than 3 percent.</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>Guaranteed 3 Percent COLA for Seniors Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>Guaranteed 3 Percent COLA for Seniors Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>Guaranteed 3 Percent COLA for Seniors Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 23 (Thursday, February 9, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. ENGEL:H.R. 991.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 1 of the Constitution.[Page H1100]</pre>]]></constitutionalAuthorityStatementText>
+    <introducedDate>2017-02-09</introducedDate>
+    <calendarNumbers />
+    <recordedVotes />
+    <textVersions>
+      <item>
+        <date>2017-02-09T05:00:00Z</date>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr991ih/xml/BILLS-115hr991ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <cosponsors>
+      <item>
+        <firstName>Steve</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Cohen</lastName>
+        <sponsorshipDate>2017-02-09</sponsorshipDate>
+        <middleName />
+        <district>9</district>
+        <state>TN</state>
+        <identifiers>
+          <bioguideId>C001068</bioguideId>
+          <gpoId>8156</gpoId>
+          <lisID>1878</lisID>
+        </identifiers>
+        <bioguideId>C001068</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>Yvette</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Clarke</lastName>
+        <sponsorshipDate>2017-02-09</sponsorshipDate>
+        <middleName>D.</middleName>
+        <district>9</district>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>C001067</bioguideId>
+          <lisID>1864</lisID>
+          <gpoId>8072</gpoId>
+        </identifiers>
+        <bioguideId>C001067</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Clarke, Yvette D. [D-NY-9]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>NYDIA</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>VELAZQUEZ</lastName>
+        <sponsorshipDate>2017-04-06</sponsorshipDate>
+        <middleName>M.</middleName>
+        <district>7</district>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>V000081</bioguideId>
+          <gpoId>8073</gpoId>
+          <lisID>1184</lisID>
+        </identifiers>
+        <bioguideId>V000081</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Velazquez, Nydia M. [D-NY-7]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>Donald</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Payne</lastName>
+        <sponsorshipDate>2017-05-11</sponsorshipDate>
+        <middleName>M.</middleName>
+        <district>10</district>
+        <state>NJ</state>
+        <identifiers>
+          <bioguideId>P000604</bioguideId>
+          <gpoId>8373</gpoId>
+          <lisID>2097</lisID>
+        </identifiers>
+        <bioguideId>P000604</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Payne, Donald M., Jr. [D-NJ-10]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>GENE</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>GREEN</lastName>
+        <sponsorshipDate>2017-09-07</sponsorshipDate>
+        <middleName />
+        <district>29</district>
+        <state>TX</state>
+        <identifiers>
+          <lisID>462</lisID>
+          <gpoId>8185</gpoId>
+          <bioguideId>G000410</bioguideId>
+        </identifiers>
+        <bioguideId>G000410</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Green, Gene [D-TX-29]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>Andre</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Carson</lastName>
+        <sponsorshipDate>2017-10-25</sponsorshipDate>
+        <middleName />
+        <district>7</district>
+        <state>IN</state>
+        <identifiers>
+          <lisID>1889</lisID>
+          <gpoId>7946</gpoId>
+          <bioguideId>C001072</bioguideId>
+        </identifiers>
+        <bioguideId>C001072</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Carson, Andre [D-IN-7]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>MARCY</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>KAPTUR</lastName>
+        <sponsorshipDate>2018-01-08</sponsorshipDate>
+        <middleName />
+        <district>9</district>
+        <state>OH</state>
+        <identifiers>
+          <bioguideId>K000009</bioguideId>
+          <gpoId>8099</gpoId>
+          <lisID>616</lisID>
+        </identifiers>
+        <bioguideId>K000009</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Kaptur, Marcy [D-OH-9]</fullName>
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <amendments />
+    <billNumber>991</billNumber>
+    <updateDate>2019-11-15T21:43:47Z</updateDate>
+    <cboCostEstimates />
+    <title>Guaranteed 3 Percent COLA for Seniors Act of 2017</title>
+    <committeeReports />
+    <policyArea>
+      <name>Social Welfare</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <district>16</district>
+        <lastName>ENGEL</lastName>
+        <firstName>ELIOT</firstName>
+        <state>NY</state>
+        <fullName>Rep. Engel, Eliot L. [D-NY-16]</fullName>
+        <identifiers>
+          <bioguideId>E000179</bioguideId>
+          <gpoId>8078</gpoId>
+          <lisID>344</lisID>
+        </identifiers>
+        <middleName>L.</middleName>
+        <bioguideId>E000179</bioguideId>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

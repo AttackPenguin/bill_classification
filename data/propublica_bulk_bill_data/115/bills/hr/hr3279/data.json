@@ -1,0 +1,323 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-07-18", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-07-18", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2017-07-26", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-07-26", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Unanimous Consent.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2017-10-23", 
+      "action_code": "H12200", 
+      "committees": [
+        "HSII"
+      ], 
+      "links": [
+        {
+          "name": "H. Rept. 115-365", 
+          "url": "https://www.congress.gov/congressional-report/115th-congress/house-report/365"
+        }
+      ], 
+      "references": [], 
+      "text": "Reported by the Committee on Natural Resources. H. Rept. 115-365.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-10-23", 
+      "action_code": "H12410", 
+      "calendar": "Union", 
+      "number": "267", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 267.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2017-11-01T14:37:49-04:00", 
+      "action_code": "H30300", 
+      "references": [], 
+      "text": "Mr. Cook moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-11-01T14:37:51-04:00", 
+      "action_code": "H30000", 
+      "links": [
+        {
+          "name": "H8323", 
+          "url": "https://www.congress.gov/congressional-record/volume-163/house-section/page/H8323"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H8323", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-11-01T14:37:59-04:00", 
+      "action_code": "H8D000", 
+      "links": [
+        {
+          "name": "H.R. 3279", 
+          "url": "https://www.congress.gov/bill/115th-congress/house-bill/3279"
+        }
+      ], 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 3279.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-11-01T14:44:25-04:00", 
+      "action_code": "H37300", 
+      "how": "by voice vote", 
+      "links": [
+        {
+          "name": "H8323", 
+          "url": "https://www.congress.gov/congressional-record/volume-163/house-section/page/H8323"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H8323", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2017-11-01T14:44:27-04:00", 
+      "action_code": "H38310", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-11-02", 
+      "action_code": "", 
+      "committees": [
+        "SSEG"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2018-10-02", 
+      "action_code": "", 
+      "committees": [
+        "SSEG"
+      ], 
+      "references": [], 
+      "text": "Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2018-11-27", 
+      "action_code": "", 
+      "committee": "Energy and Natural Resources", 
+      "committees": [
+        "SSEG"
+      ], 
+      "links": [
+        {
+          "name": "report No. 115-391", 
+          "url": "https://www.congress.gov/congressional-report/115th-congress/senate-report/391"
+        }
+      ], 
+      "references": [], 
+      "text": "Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-391.", 
+      "type": "reported"
+    }, 
+    {
+      "acted_at": "2018-11-27", 
+      "action_code": "", 
+      "calendar": "Senate Legislative", 
+      "number": "678", 
+      "references": [], 
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 678.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3279-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [
+    "H. Rept. 115-365", 
+    "S. Rept. 115-391"
+  ], 
+  "committees": [
+    {
+      "activity": [
+        "reporting", 
+        "markup", 
+        "referral"
+      ], 
+      "committee": "Senate Energy and Natural Resources", 
+      "committee_id": "SSEG"
+    }, 
+    {
+      "activity": [
+        "reporting", 
+        "markup", 
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2017-07-26", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2017-11-01T14:44:25-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-07-18", 
+  "number": "3279", 
+  "official_title": "To amend the Mineral Leasing Act to provide that extraction of helium from gas produced under a Federal mineral lease shall maintain the lease as if the helium were oil and gas.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1572-115", 
+      "identified_by": "CRS", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Helium Extraction Act of 2017", 
+  "sponsor": {
+    "bioguide_id": "C001094", 
+    "district": "8", 
+    "name": "Cook, Paul", 
+    "state": "CA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2017-11-01T14:44:25-04:00", 
+  "subjects": [
+    "Energy", 
+    "Land use and conservation", 
+    "Oil and gas"
+  ], 
+  "subjects_top_term": "Energy", 
+  "summary": {
+    "as": "Reported to Senate without amendment", 
+    "date": "2018-11-27T16:05:48Z", 
+    "text": "Helium Extraction Act of 2017\n\nThis bill amends the Mineral Leasing Act to require that land leased by the Department of the Interior for the extraction of helium shall fall under the same lease terms as a federal oil and gas lease."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Mineral Leasing Act to provide that extraction of helium from gas produced under a Federal mineral lease shall maintain the lease as if the helium were oil and gas.", 
+      "type": "official"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Helium Extraction Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Helium Extraction Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to senate", 
+      "is_for_portion": false, 
+      "title": "Helium Extraction Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to senate", 
+      "is_for_portion": false, 
+      "title": "Helium Extraction Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Helium Extraction Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Helium Extraction Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Helium Extraction Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Helium Extraction Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Helium Extraction Act of 2017", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-10-18T16:05:19Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr3279.xml"
+}

@@ -1,0 +1,222 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-07-24", 
+      "action_code": "1000", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-07-24", 
+      "action_code": "H12100", 
+      "committees": [
+        "HSRU"
+      ], 
+      "links": [
+        {
+          "name": "H. Rept. 115-252", 
+          "url": "https://www.congress.gov/congressional-report/115th-congress/house-report/252"
+        }
+      ], 
+      "references": [], 
+      "text": "The House Committee on Rules reported an original measure, H. Rept. 115-252, by Mr. Buck.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-07-24T18:45:37-04:00", 
+      "action_code": "H12700", 
+      "bill_ids": [
+        "hjres111-115"
+      ], 
+      "links": [
+        {
+          "name": "H.J. Res. 111", 
+          "url": "https://www.congress.gov/bill/115th-congress/house-joint-resolution/111"
+        }
+      ], 
+      "references": [], 
+      "text": "Rule provides for consideration of H.J. Res. 111 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Bill is closed to amendments.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-07-24", 
+      "action_code": "H12420", 
+      "calendar": "House", 
+      "number": "67", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Placed on the House Calendar, Calendar No. 67.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2017-07-25T12:30:02-04:00", 
+      "action_code": "H30000", 
+      "links": [
+        {
+          "name": "H6225-6233", 
+          "url": "https://www.congress.gov/congressional-record/volume-163/house-section/page/H6225-6233"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H6225-6233", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as privileged matter.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-07-25T12:31:01-04:00", 
+      "action_code": "H8D000", 
+      "links": [
+        {
+          "name": "H. Res. 468", 
+          "url": "https://www.congress.gov/bill/115th-congress/house-resolution/468"
+        }
+      ], 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with one hour of debate on H. Res. 468.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-07-25T13:31:55-04:00", 
+      "action_code": "H35000", 
+      "links": [
+        {
+          "name": "H6232", 
+          "url": "https://www.congress.gov/congressional-record/volume-163/house-section/page/H6232"
+        }, 
+        {
+          "name": "Roll no. 410", 
+          "url": "http://clerk.house.gov/evs/2017/roll410.xml"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H6232", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "On ordering the previous question Agreed to by the Yeas and Nays: 229 - 184 (Roll no. 410).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-07-25T13:38:41-04:00", 
+      "action_code": "H37100", 
+      "how": "roll", 
+      "links": [
+        {
+          "name": "H6225", 
+          "url": "https://www.congress.gov/congressional-record/volume-163/house-section/page/H6225"
+        }, 
+        {
+          "name": "Roll no. 411", 
+          "url": "http://clerk.house.gov/evs/2017/roll411.xml"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H6225", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "411", 
+      "status": "PASSED:SIMPLERES", 
+      "suspension": null, 
+      "text": "On agreeing to the resolution Agreed to by recorded vote: 233 - 188 (Roll no. 411).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2017-07-25T13:38:43-04:00", 
+      "action_code": "H38310", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hres468-115", 
+  "bill_type": "hres", 
+  "by_request": false, 
+  "committee_reports": [
+    "H. Rept. 115-252"
+  ], 
+  "committees": [
+    {
+      "activity": [
+        "origin", 
+        "reporting"
+      ], 
+      "committee": "House Rules", 
+      "committee_id": "HSRU"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2017-07-24", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2017-07-25T13:38:41-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-07-24", 
+  "number": "468", 
+  "official_title": "Providing for consideration of the joint resolution (H.J. Res. 111) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by Bureau of Consumer Financial Protection relating to \"Arbitration Agreements\".", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hjres111-115", 
+      "identified_by": "House", 
+      "reason": "procedurally-related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "B001297", 
+    "district": "4", 
+    "name": "Buck, Ken", 
+    "state": "CO", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:SIMPLERES", 
+  "status_at": "2017-07-25T13:38:41-04:00", 
+  "subjects": [
+    "Congress", 
+    "House of Representatives", 
+    "Legislative rules and procedure"
+  ], 
+  "subjects_top_term": "Congress", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2017-07-24T04:00:00Z", 
+    "text": "Sets forth the rule for consideration of the joint resolution (H.J. Res. 111) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by Bureau of Consumer Financial Protection relating to \"Arbitration Agreements\"."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Providing for consideration of the joint resolution (H.J. Res. 111) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by Bureau of Consumer Financial Protection relating to \"Arbitration Agreements\".", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Providing for consideration of the joint resolution (H.J. Res. 111) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by Bureau of Consumer Financial Protection relating to \"Arbitration Agreements\".", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-11-15T21:46:51Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/115/hres/BILLSTATUS-115hres468.xml"
+}

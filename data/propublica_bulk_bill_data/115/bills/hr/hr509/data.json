@@ -1,0 +1,129 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-01-12", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-01-12", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2017-02-08", 
+      "action_code": "", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr509-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Crime, Terrorism, and Homeland Security", 
+      "subcommittee_id": "08"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-01-12", 
+  "number": "509", 
+  "official_title": "To abolish the Bureau of Alcohol, Tobacco, Firearms, and Explosives, transfer its functions relating to the Federal firearms, explosives, and arson laws, violent crime, and domestic terrorism to the Federal Bureau of Investigation, and transfer its functions relating to the Federal alcohol and tobacco smuggling laws to the Drug Enforcement Administration, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "ATF Elimination Act", 
+  "sponsor": {
+    "bioguide_id": "S000244", 
+    "district": "5", 
+    "name": "Sensenbrenner, F. James, Jr.", 
+    "state": "WI", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-01-12", 
+  "subjects": [
+    "Alcoholic beverages", 
+    "Crime and law enforcement", 
+    "Crimes against property", 
+    "Criminal investigation, prosecution, interrogation", 
+    "Department of Justice", 
+    "Drug Enforcement Administration (DEA)", 
+    "Drug, alcohol, tobacco use", 
+    "Executive agency funding and structure", 
+    "Federal Bureau of Investigation (FBI)", 
+    "Firearms and explosives", 
+    "Smuggling and trafficking", 
+    "Terrorism", 
+    "Violent crime"
+  ], 
+  "subjects_top_term": "Crime and law enforcement", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2017-01-12T05:00:00Z", 
+    "text": "ATF Elimination Act\n\nThis bill abolishes the Bureau of Alcohol, Tobacco, Firearms, and Explosives (ATF).\n\nIt transfers the ATF's authorities, functions, personnel, and assets to the Department of Justice, the Drug Enforcement Administration, and the Federal Bureau of Investigation."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To abolish the Bureau of Alcohol, Tobacco, Firearms, and Explosives, transfer its functions relating to the Federal firearms, explosives, and arson laws, violent crime, and domestic terrorism to the Federal Bureau of Investigation, and transfer its functions relating to the Federal alcohol and tobacco smuggling laws to the Drug Enforcement Administration, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "ATF Elimination Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "ATF Elimination Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "ATF Elimination Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-11-15T21:33:52Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr509.xml"
+}

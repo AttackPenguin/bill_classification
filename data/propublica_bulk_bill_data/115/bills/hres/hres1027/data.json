@@ -1,0 +1,217 @@
+{
+  "actions": [
+    {
+      "acted_at": "2018-07-25", 
+      "action_code": "1000", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-07-25", 
+      "action_code": "H12100", 
+      "committees": [
+        "HSRU"
+      ], 
+      "links": [
+        {
+          "name": "H. Rept. 115-875", 
+          "url": "https://www.congress.gov/congressional-report/115th-congress/house-report/875"
+        }
+      ], 
+      "references": [], 
+      "text": "The House Committee on Rules reported an original measure, H. Rept. 115-875, by Mr. Byrne.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-07-25T16:42:59-04:00", 
+      "action_code": "H12700", 
+      "bill_ids": [
+        "hr5515-115"
+      ], 
+      "links": [
+        {
+          "name": "H.R. 5515", 
+          "url": "https://www.congress.gov/bill/115th-congress/house-bill/5515"
+        }
+      ], 
+      "references": [], 
+      "text": "Rule provides for consideration of the conference report to H.R. 5515.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-07-25", 
+      "action_code": "H12420", 
+      "calendar": "House", 
+      "number": "176", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Placed on the House Calendar, Calendar No. 176.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2018-07-26T09:13:03-04:00", 
+      "action_code": "H30000", 
+      "links": [
+        {
+          "name": "H7693-7699", 
+          "url": "https://www.congress.gov/congressional-record/volume-164/house-section/page/H7693-7699"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H7693-7699", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as privileged matter.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-07-26T09:14:28-04:00", 
+      "action_code": "H8D000", 
+      "links": [
+        {
+          "name": "H. Res. 1027", 
+          "url": "https://www.congress.gov/bill/115th-congress/house-resolution/1027"
+        }
+      ], 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with one hour of debate on H. Res. 1027.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-07-26T10:27:05-04:00", 
+      "action_code": "H35000", 
+      "links": [
+        {
+          "name": "H7699", 
+          "url": "https://www.congress.gov/congressional-record/volume-164/house-section/page/H7699"
+        }, 
+        {
+          "name": "Roll no. 378", 
+          "url": "http://clerk.house.gov/evs/2018/roll378.xml"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H7699", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "On ordering the previous question Agreed to by the Yeas and Nays: 226 - 183 (Roll no. 378).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-07-26T10:27:07-04:00", 
+      "action_code": "H37100", 
+      "how": "by voice vote", 
+      "links": [
+        {
+          "name": "H7693", 
+          "url": "https://www.congress.gov/congressional-record/volume-164/house-section/page/H7693"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H7693", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:SIMPLERES", 
+      "suspension": null, 
+      "text": "On agreeing to the resolution Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2018-07-26T10:27:18-04:00", 
+      "action_code": "H38310", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hres1027-115", 
+  "bill_type": "hres", 
+  "by_request": false, 
+  "committee_reports": [
+    "H. Rept. 115-875"
+  ], 
+  "committees": [
+    {
+      "activity": [
+        "origin", 
+        "reporting"
+      ], 
+      "committee": "House Rules", 
+      "committee_id": "HSRU"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2018-07-25", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2018-07-26T10:27:07-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2018-07-25", 
+  "number": "1027", 
+  "official_title": "Providing for consideration of the conference report to accompany the bill (H.R. 5515) to authorize appropriations for fiscal year 2019 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr5515-115", 
+      "identified_by": "House", 
+      "reason": "procedurally-related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "B001289", 
+    "district": "1", 
+    "name": "Byrne, Bradley", 
+    "state": "AL", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:SIMPLERES", 
+  "status_at": "2018-07-26T10:27:07-04:00", 
+  "subjects": [
+    "Congress", 
+    "House of Representatives", 
+    "Legislative rules and procedure"
+  ], 
+  "subjects_top_term": "Congress", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2018-07-25T04:00:00Z", 
+    "text": "Sets forth the rule for consideration of the conference report to accompany the bill (H.R. 5515) to authorize appropriations for fiscal year 2019 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Providing for consideration of the conference report to accompany the bill (H.R. 5515) to authorize appropriations for fiscal year 2019 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Providing for consideration of the conference report to accompany the bill (H.R. 5515) to authorize appropriations for fiscal year 2019 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-11-15T21:46:54Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/115/hres/BILLSTATUS-115hres1027.xml"
+}

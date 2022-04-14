@@ -1,0 +1,724 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <calendarNumbers />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <committee>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+        </committee>
+        <links />
+        <actionDate>2017-01-03</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Natural Resources.</text>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <actionDate>2017-01-03</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <actionDate>2017-01-03</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>Disapproving the rule submitted by the Department of the Interior known as the Stream Protection Rule.</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Disapproving the rule submitted by the Department of the Interior known as the Stream Protection Rule.</title>
+      </item>
+    </titles>
+    <title>Disapproving the rule submitted by the Department of the Interior known as the Stream Protection Rule.</title>
+    <committeeReports />
+    <latestAction>
+      <text>Referred to the House Committee on Natural Resources.</text>
+      <actionDate>2017-01-03</actionDate>
+      <links />
+    </latestAction>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-01-26T16:44:54Z</lastSummaryUpdateDate>
+          <actionDate>2017-01-03</actionDate>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[<p>This joint resolution nullifies the Stream Protection Rule finalized by the Department of the Interior's Office of Surface Mining Reclamation and Enforcement on December 20, 2016. The rule addresses the impacts of surface coal mining operations on surface water, groundwater, and the productivity of mining operation sites.</p>]]></text>
+          <updateDate>2017-01-03T05:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <sponsors>
+      <item>
+        <state>WV</state>
+        <identifiers>
+          <bioguideId>J000297</bioguideId>
+          <lisID>2278</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>J000297</bioguideId>
+        <middleName>H.</middleName>
+        <fullName>Rep. Jenkins, Evan H. [R-WV-3]</fullName>
+        <firstName>Evan</firstName>
+        <party>R</party>
+        <lastName>Jenkins</lastName>
+        <district>3</district>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <updateDate>2019-04-18T15:56:23Z</updateDate>
+    <relatedBills>
+      <item>
+        <latestTitle>Disapproving a rule submitted by the Department of the Interior known as the "Stream Protection Rule".</latestTitle>
+        <number>16</number>
+        <latestAction>
+          <text>Referred to the House Committee on Natural Resources.</text>
+          <actionDate>2017-01-04</actionDate>
+        </latestAction>
+        <type>HJRES</type>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the final rule submitted by the Secretary of the Interior relating to stream protection.</latestTitle>
+        <number>10</number>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+          <actionDate>2017-01-30</actionDate>
+        </latestAction>
+        <type>SJRES</type>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Disapproving the rule submitted by the Department of the Interior known as the Stream Protection Rule.</latestTitle>
+        <number>38</number>
+        <latestAction>
+          <text>Became Public Law No: 115-5.</text>
+          <actionDate>2017-02-16</actionDate>
+        </latestAction>
+        <type>HJRES</type>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <billType>HJRES</billType>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+          <activities>
+            <item>
+              <date>2017-01-03T17:04:10Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <type>Standing</type>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <createDate>2017-01-04T07:01:08Z</createDate>
+    <introducedDate>2017-01-03</introducedDate>
+    <policyArea>
+      <name>Environmental Protection</name>
+    </policyArea>
+    <recordedVotes />
+    <billNumber>11</billNumber>
+    <cosponsors>
+      <item>
+        <state>KY</state>
+        <firstName>Andy</firstName>
+        <identifiers>
+          <bioguideId>B001282</bioguideId>
+          <gpoId />
+          <lisID>2131</lisID>
+        </identifiers>
+        <fullName>Rep. Barr, Andy [R-KY-6]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Barr</lastName>
+        <middleName />
+        <district>6</district>
+        <sponsorshipDate>2017-01-03</sponsorshipDate>
+        <party>R</party>
+        <bioguideId>B001282</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>KY</state>
+        <firstName>HAROLD</firstName>
+        <identifiers>
+          <lisID>977</lisID>
+          <bioguideId>R000395</bioguideId>
+          <gpoId>7957</gpoId>
+        </identifiers>
+        <fullName>Rep. Rogers, Harold [R-KY-5]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>ROGERS</lastName>
+        <middleName />
+        <district>5</district>
+        <sponsorshipDate>2017-01-03</sponsorshipDate>
+        <party>R</party>
+        <bioguideId>R000395</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>VA</state>
+        <firstName>H.</firstName>
+        <identifiers>
+          <lisID>2070</lisID>
+          <bioguideId>G000568</bioguideId>
+          <gpoId>8200</gpoId>
+        </identifiers>
+        <fullName>Rep. Griffith, H. Morgan [R-VA-9]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Griffith</lastName>
+        <middleName>Morgan</middleName>
+        <district>9</district>
+        <sponsorshipDate>2017-01-03</sponsorshipDate>
+        <party>R</party>
+        <bioguideId>G000568</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>CO</state>
+        <firstName>Scott</firstName>
+        <identifiers>
+          <gpoId>7861</gpoId>
+          <lisID>1997</lisID>
+          <bioguideId>T000470</bioguideId>
+        </identifiers>
+        <fullName>Rep. Tipton, Scott  R. [R-CO-3]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Tipton</lastName>
+        <middleName>R.</middleName>
+        <district>3</district>
+        <sponsorshipDate>2017-01-03</sponsorshipDate>
+        <party>R</party>
+        <bioguideId>T000470</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>WV</state>
+        <firstName>Alexander</firstName>
+        <identifiers>
+          <lisID>2277</lisID>
+          <bioguideId>M001195</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Mooney, Alexander X. [R-WV-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Mooney</lastName>
+        <middleName>X.</middleName>
+        <district>2</district>
+        <sponsorshipDate>2017-01-04</sponsorshipDate>
+        <party>R</party>
+        <bioguideId>M001195</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>PA</state>
+        <firstName>Mike</firstName>
+        <identifiers>
+          <bioguideId>K000376</bioguideId>
+          <gpoId>8708</gpoId>
+          <lisID>2051</lisID>
+        </identifiers>
+        <fullName>Rep. Kelly, Mike [R-PA-3]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Kelly</lastName>
+        <middleName />
+        <district>3</district>
+        <sponsorshipDate>2017-01-04</sponsorshipDate>
+        <party>R</party>
+        <bioguideId>K000376</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>OH</state>
+        <firstName>David</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2154</lisID>
+          <bioguideId>J000295</bioguideId>
+        </identifiers>
+        <fullName>Rep. Joyce, David P. [R-OH-14]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Joyce</lastName>
+        <middleName>P.</middleName>
+        <district>14</district>
+        <sponsorshipDate>2017-01-04</sponsorshipDate>
+        <party>R</party>
+        <bioguideId>J000295</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>MO</state>
+        <firstName>Ann</firstName>
+        <identifiers>
+          <bioguideId>W000812</bioguideId>
+          <gpoId />
+          <lisID>2137</lisID>
+        </identifiers>
+        <fullName>Rep. Wagner, Ann [R-MO-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Wagner</lastName>
+        <middleName />
+        <district>2</district>
+        <sponsorshipDate>2017-01-04</sponsorshipDate>
+        <party>R</party>
+        <bioguideId>W000812</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>IN</state>
+        <firstName>Larry</firstName>
+        <identifiers>
+          <lisID>2018</lisID>
+          <bioguideId>B001275</bioguideId>
+          <gpoId>7947</gpoId>
+        </identifiers>
+        <fullName>Rep. Bucshon, Larry [R-IN-8]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Bucshon</lastName>
+        <middleName />
+        <district>8</district>
+        <sponsorshipDate>2017-01-04</sponsorshipDate>
+        <party>R</party>
+        <bioguideId>B001275</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>TN</state>
+        <firstName>Charles</firstName>
+        <identifiers>
+          <lisID>2061</lisID>
+          <bioguideId>F000459</bioguideId>
+          <gpoId>8150</gpoId>
+        </identifiers>
+        <fullName>Rep. Fleischmann, Charles J. "Chuck" [R-TN-3]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Fleischmann</lastName>
+        <middleName>J. "Chuck"</middleName>
+        <district>3</district>
+        <sponsorshipDate>2017-01-04</sponsorshipDate>
+        <party>R</party>
+        <bioguideId>F000459</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>PA</state>
+        <firstName>Glenn</firstName>
+        <identifiers>
+          <gpoId>8123</gpoId>
+          <lisID>1952</lisID>
+          <bioguideId>T000467</bioguideId>
+        </identifiers>
+        <fullName>Rep. Thompson, Glenn [R-PA-5]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Thompson</lastName>
+        <middleName />
+        <district>5</district>
+        <sponsorshipDate>2017-01-04</sponsorshipDate>
+        <party>R</party>
+        <bioguideId>T000467</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>CA</state>
+        <firstName>Tom</firstName>
+        <identifiers>
+          <gpoId>7809</gpoId>
+          <lisID>1908</lisID>
+          <bioguideId>M001177</bioguideId>
+        </identifiers>
+        <fullName>Rep. McClintock, Tom [R-CA-4]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>McClintock</lastName>
+        <middleName />
+        <district>4</district>
+        <sponsorshipDate>2017-01-04</sponsorshipDate>
+        <party>R</party>
+        <bioguideId>M001177</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>AL</state>
+        <firstName>Bradley</firstName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>B001289</bioguideId>
+          <lisID>2197</lisID>
+        </identifiers>
+        <fullName>Rep. Byrne, Bradley [R-AL-1]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Byrne</lastName>
+        <middleName />
+        <district>1</district>
+        <sponsorshipDate>2017-01-05</sponsorshipDate>
+        <party>R</party>
+        <bioguideId>B001289</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>ND</state>
+        <firstName>Kevin</firstName>
+        <identifiers>
+          <lisID>2144</lisID>
+          <bioguideId>C001096</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Cramer, Kevin [R-ND-At Large]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Cramer</lastName>
+        <middleName />
+        <district>0</district>
+        <sponsorshipDate>2017-01-05</sponsorshipDate>
+        <party>R</party>
+        <bioguideId>C001096</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>MD</state>
+        <firstName>Andy</firstName>
+        <identifiers>
+          <gpoId>7976</gpoId>
+          <lisID>2026</lisID>
+          <bioguideId>H001052</bioguideId>
+        </identifiers>
+        <fullName>Rep. Harris, Andy [R-MD-1]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Harris</lastName>
+        <middleName />
+        <district>1</district>
+        <sponsorshipDate>2017-01-05</sponsorshipDate>
+        <party>R</party>
+        <bioguideId>H001052</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>IL</state>
+        <firstName>Rodney</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2126</lisID>
+          <bioguideId>D000619</bioguideId>
+        </identifiers>
+        <fullName>Rep. Davis, Rodney [R-IL-13]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Davis</lastName>
+        <middleName />
+        <district>13</district>
+        <sponsorshipDate>2017-01-06</sponsorshipDate>
+        <party>R</party>
+        <bioguideId>D000619</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>IL</state>
+        <firstName>JOHN</firstName>
+        <identifiers>
+          <bioguideId>S000364</bioguideId>
+          <lisID>1527</lisID>
+          <gpoId>7939</gpoId>
+        </identifiers>
+        <fullName>Rep. Shimkus, John [R-IL-15]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>SHIMKUS</lastName>
+        <middleName>M.</middleName>
+        <district>15</district>
+        <sponsorshipDate>2017-01-06</sponsorshipDate>
+        <party>R</party>
+        <bioguideId>S000364</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>AZ</state>
+        <firstName>Paul</firstName>
+        <identifiers>
+          <lisID>1992</lisID>
+          <bioguideId>G000565</bioguideId>
+          <gpoId>7798</gpoId>
+        </identifiers>
+        <fullName>Rep. Gosar, Paul A. [R-AZ-4]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Gosar</lastName>
+        <middleName>A.</middleName>
+        <district>4</district>
+        <sponsorshipDate>2017-01-06</sponsorshipDate>
+        <party>R</party>
+        <bioguideId>G000565</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>IL</state>
+        <firstName>Darin</firstName>
+        <identifiers>
+          <bioguideId>L000585</bioguideId>
+          <lisID>2295</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. LaHood, Darin [R-IL-18]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>LaHood</lastName>
+        <middleName />
+        <district>18</district>
+        <sponsorshipDate>2017-01-06</sponsorshipDate>
+        <party>R</party>
+        <bioguideId>L000585</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>AR</state>
+        <firstName>Bruce</firstName>
+        <identifiers>
+          <bioguideId>W000821</bioguideId>
+          <gpoId />
+          <lisID>2224</lisID>
+        </identifiers>
+        <fullName>Rep. Westerman, Bruce [R-AR-4]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Westerman</lastName>
+        <middleName />
+        <district>4</district>
+        <sponsorshipDate>2017-01-06</sponsorshipDate>
+        <party>R</party>
+        <bioguideId>W000821</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>OH</state>
+        <firstName>Steve</firstName>
+        <identifiers>
+          <gpoId>8105</gpoId>
+          <lisID>2047</lisID>
+          <bioguideId>S001187</bioguideId>
+        </identifiers>
+        <fullName>Rep. Stivers, Steve [R-OH-15]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Stivers</lastName>
+        <middleName />
+        <district>15</district>
+        <sponsorshipDate>2017-01-06</sponsorshipDate>
+        <party>R</party>
+        <bioguideId>S001187</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>CA</state>
+        <firstName>Paul</firstName>
+        <identifiers>
+          <lisID>2103</lisID>
+          <bioguideId>C001094</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Cook, Paul [R-CA-8]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Cook</lastName>
+        <middleName />
+        <district>8</district>
+        <sponsorshipDate>2017-01-06</sponsorshipDate>
+        <party>R</party>
+        <bioguideId>C001094</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>IL</state>
+        <firstName>Mike</firstName>
+        <identifiers>
+          <lisID>2243</lisID>
+          <bioguideId>B001295</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Bost, Mike [R-IL-12]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Bost</lastName>
+        <middleName />
+        <district>12</district>
+        <sponsorshipDate>2017-01-10</sponsorshipDate>
+        <party>R</party>
+        <bioguideId>B001295</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>IL</state>
+        <firstName>Adam</firstName>
+        <identifiers>
+          <lisID>2014</lisID>
+          <bioguideId>K000378</bioguideId>
+          <gpoId>7931</gpoId>
+        </identifiers>
+        <fullName>Rep. Kinzinger, Adam [R-IL-16]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Kinzinger</lastName>
+        <middleName />
+        <district>16</district>
+        <sponsorshipDate>2017-01-12</sponsorshipDate>
+        <party>R</party>
+        <bioguideId>K000378</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>AR</state>
+        <firstName>Steve</firstName>
+        <identifiers>
+          <lisID>1991</lisID>
+          <bioguideId>W000809</bioguideId>
+          <gpoId>7795</gpoId>
+        </identifiers>
+        <fullName>Rep. Womack, Steve [R-AR-3]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Womack</lastName>
+        <middleName />
+        <district>3</district>
+        <sponsorshipDate>2017-01-12</sponsorshipDate>
+        <party>R</party>
+        <bioguideId>W000809</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>TX</state>
+        <firstName>Bill</firstName>
+        <identifiers>
+          <lisID>2065</lisID>
+          <bioguideId>F000461</bioguideId>
+          <gpoId>8173</gpoId>
+        </identifiers>
+        <fullName>Rep. Flores, Bill [R-TX-17]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Flores</lastName>
+        <middleName />
+        <district>17</district>
+        <sponsorshipDate>2017-01-13</sponsorshipDate>
+        <party>R</party>
+        <bioguideId>F000461</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <originChamber>House</originChamber>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Coal</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Department of the Interior</name>
+          </item>
+          <item>
+            <name>Environmental assessment, monitoring, research</name>
+          </item>
+          <item>
+            <name>Environmental regulatory procedures</name>
+          </item>
+          <item>
+            <name>Hydrology and hydrography</name>
+          </item>
+          <item>
+            <name>Lakes and rivers</name>
+          </item>
+          <item>
+            <name>Licensing and registrations</name>
+          </item>
+          <item>
+            <name>Mining</name>
+          </item>
+          <item>
+            <name>Water quality</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Environmental Protection</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <notes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 1 (Tuesday, January 3, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. JENKINS of West Virginia:H.J. Res. 11.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 18[Page H53]</pre>]]></constitutionalAuthorityStatementText>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hjres11ih/xml/BILLS-115hjres11ih.xml</url>
+          </item>
+        </formats>
+        <date>2017-01-03T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <laws />
+    <version>1.0.0</version>
+    <congress>115</congress>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

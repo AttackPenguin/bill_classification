@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <relatedBills />
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-07-25T14:01:35Z</date>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <name>Health Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2018-08-08T17:46:05Z</date>
+                </item>
+              </activities>
+              <systemCode>hswm02</systemCode>
+            </item>
+          </subcommittees>
+        </item>
+        <item>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-07-25T14:01:40Z</date>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <name>Health Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2018-07-27T17:40:57Z</date>
+                </item>
+              </activities>
+              <systemCode>hsif14</systemCode>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2019-08-05T18:17:16Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Reducing Unnecessary Senior Hospitalizations Act of 2018 or the RUSH Act of 2018</b></p> <p>This bill establishes a program&nbsp;through which qualified group practices may provide certain items and services that are normally provided at hospital emergency departments to individuals who (1) are entitled to Medicare hospital services, (2) are enrolled for Medicare medical services, and (3) reside in qualified skilled nursing facilities. </p>]]></text>
+          <versionCode>00</versionCode>
+          <actionDate>2018-07-25</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2018-07-25T04:00:00Z</updateDate>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <version>1.0.0</version>
+    <originChamber>House</originChamber>
+    <congress>115</congress>
+    <latestAction>
+      <actionDate>2018-08-08</actionDate>
+      <text>Referred to the Subcommittee on Health.</text>
+      <links />
+    </latestAction>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2018-08-08</actionDate>
+        <committee>
+          <systemCode>hswm02</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2018-07-27</actionDate>
+        <committee>
+          <systemCode>hsif14</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2018-07-25</actionDate>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2018-07-25</actionDate>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2018-07-25</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2018-07-25</actionDate>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>2</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>2</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <createDate>2018-07-26T07:10:50Z</createDate>
+    <laws />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>To amend title XVIII of the Social Security Act to establish a program to allow qualified group practices to furnish certain items and services at qualified skilled nursing facilities to individuals entitled to benefits under part A and enrolled under part B of the Medicare program to reduce unnecessary hospitalizations, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>Reducing Unnecessary Senior Hospitalizations Act of 2018</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>RUSH Act of 2018</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>RUSH Act of 2018</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>RUSH Act of 2018</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>Reducing Unnecessary Senior Hospitalizations Act of 2018</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 164, Number 125 (Wednesday, July 25, 2018)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. SMITH of Nebraska:H.R. 6502.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 1.[Page H7687]</pre>]]></constitutionalAuthorityStatementText>
+    <introducedDate>2018-07-25</introducedDate>
+    <calendarNumbers />
+    <recordedVotes />
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr6502ih/xml/BILLS-115hr6502ih.xml</url>
+          </item>
+        </formats>
+        <date>2018-07-25T04:00:00Z</date>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <cosponsors>
+      <item>
+        <firstName>Diane</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Black</lastName>
+        <sponsorshipDate>2018-07-25</sponsorshipDate>
+        <middleName />
+        <district>6</district>
+        <state>TN</state>
+        <identifiers>
+          <lisID>2063</lisID>
+          <gpoId>8153</gpoId>
+          <bioguideId>B001273</bioguideId>
+        </identifiers>
+        <bioguideId>B001273</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Black, Diane [R-TN-6]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>JOSEPH</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>CROWLEY</lastName>
+        <sponsorshipDate>2018-07-25</sponsorshipDate>
+        <middleName />
+        <district>14</district>
+        <state>NY</state>
+        <identifiers>
+          <lisID>1604</lisID>
+          <gpoId>8068</gpoId>
+          <bioguideId>C001038</bioguideId>
+        </identifiers>
+        <bioguideId>C001038</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Crowley, Joseph [D-NY-14]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>H.</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Griffith</lastName>
+        <sponsorshipDate>2018-07-25</sponsorshipDate>
+        <middleName>Morgan</middleName>
+        <district>9</district>
+        <state>VA</state>
+        <identifiers>
+          <bioguideId>G000568</bioguideId>
+          <gpoId>8200</gpoId>
+          <lisID>2070</lisID>
+        </identifiers>
+        <bioguideId>G000568</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Griffith, H. Morgan [R-VA-9]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>Ben</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Lujan</lastName>
+        <sponsorshipDate>2018-07-25</sponsorshipDate>
+        <middleName>Ray</middleName>
+        <district>3</district>
+        <state>NM</state>
+        <identifiers>
+          <lisID>1939</lisID>
+          <gpoId>8058</gpoId>
+          <bioguideId>L000570</bioguideId>
+        </identifiers>
+        <bioguideId>L000570</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Lujan, Ben Ray [D-NM-3]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>David</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Schweikert</lastName>
+        <sponsorshipDate>2018-08-03</sponsorshipDate>
+        <middleName />
+        <district>6</district>
+        <state>AZ</state>
+        <identifiers>
+          <bioguideId>S001183</bioguideId>
+          <gpoId>7802</gpoId>
+          <lisID>1994</lisID>
+        </identifiers>
+        <bioguideId>S001183</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Schweikert, David [R-AZ-6]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>ANNA</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>ESHOO</lastName>
+        <sponsorshipDate>2018-11-09</sponsorshipDate>
+        <middleName>G.</middleName>
+        <district>18</district>
+        <state>CA</state>
+        <identifiers>
+          <lisID>355</lisID>
+          <gpoId>7819</gpoId>
+          <bioguideId>E000215</bioguideId>
+        </identifiers>
+        <bioguideId>E000215</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Eshoo, Anna G. [D-CA-18]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>Derek</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Kilmer</lastName>
+        <sponsorshipDate>2018-12-06</sponsorshipDate>
+        <middleName />
+        <district>6</district>
+        <state>WA</state>
+        <identifiers>
+          <bioguideId>K000381</bioguideId>
+          <lisID>2169</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>K000381</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Kilmer, Derek [D-WA-6]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>Yvette</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Clarke</lastName>
+        <sponsorshipDate>2018-12-06</sponsorshipDate>
+        <middleName>D.</middleName>
+        <district>9</district>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>C001067</bioguideId>
+          <lisID>1864</lisID>
+          <gpoId>8072</gpoId>
+        </identifiers>
+        <bioguideId>C001067</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Clarke, Yvette D. [D-NY-9]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>Paul</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Cook</lastName>
+        <sponsorshipDate>2018-12-10</sponsorshipDate>
+        <middleName />
+        <district>8</district>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>C001094</bioguideId>
+          <gpoId />
+          <lisID>2103</lisID>
+        </identifiers>
+        <bioguideId>C001094</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Cook, Paul [R-CA-8]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>COLLIN</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>PETERSON</lastName>
+        <sponsorshipDate>2018-12-12</sponsorshipDate>
+        <middleName>C.</middleName>
+        <district>7</district>
+        <state>MN</state>
+        <identifiers>
+          <lisID>910</lisID>
+          <gpoId>8007</gpoId>
+          <bioguideId>P000258</bioguideId>
+        </identifiers>
+        <bioguideId>P000258</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Peterson, Collin C. [D-MN-7]</fullName>
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <amendments />
+    <billNumber>6502</billNumber>
+    <updateDate>2019-11-15T21:43:15Z</updateDate>
+    <cboCostEstimates />
+    <title>RUSH Act of 2018</title>
+    <committeeReports />
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <district>3</district>
+        <lastName>Smith</lastName>
+        <firstName>Adrian</firstName>
+        <state>NE</state>
+        <fullName>Rep. Smith, Adrian [R-NE-3]</fullName>
+        <identifiers>
+          <lisID>1860</lisID>
+          <gpoId>8040</gpoId>
+          <bioguideId>S001172</bioguideId>
+        </identifiers>
+        <middleName />
+        <bioguideId>S001172</bioguideId>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

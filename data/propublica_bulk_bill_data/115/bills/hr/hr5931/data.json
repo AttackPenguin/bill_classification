@@ -1,0 +1,105 @@
+{
+  "actions": [
+    {
+      "acted_at": "2018-05-23", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-05-23", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSED"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Education and the Workforce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2018-10-19", 
+      "action_code": "", 
+      "committees": [
+        "HSED"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Higher Education and Workforce Development.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5931-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and Labor", 
+      "committee_id": "HSED"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and Labor", 
+      "committee_id": "HSED", 
+      "subcommittee": "Subcommittee on Higher Education and Workforce Investment", 
+      "subcommittee_id": "13"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2018-05-23", 
+  "number": "5931", 
+  "official_title": "To repeal the authority to establish certain special volunteer programs under the Domestic Volunteer Service Act.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "B001302", 
+    "district": "5", 
+    "name": "Biggs, Andy", 
+    "state": "AZ", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2018-05-23", 
+  "subjects": [
+    "Education"
+  ], 
+  "subjects_top_term": "Education", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2018-05-23T04:00:00Z", 
+    "text": "This bill repeals the Department of Education's authority to establish and operate certain volunteer and demonstration programs under the Domestic Volunteer Service Act and prohibits funds made available to the Corporation for National and Community Service from being used for new Americorps positions."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To repeal the authority to establish certain special volunteer programs under the Domestic Volunteer Service Act.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "To repeal the authority to establish certain special volunteer programs under the Domestic Volunteer Service Act.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-11-15T21:04:50Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr5931.xml"
+}

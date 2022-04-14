@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2013-09-17</actionDate>
+        <committee>
+          <name>Rules and Administration Committee</name>
+          <systemCode>ssra00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Referred to the Committee on Rules and Administration.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2013-09-17</actionDate>
+        <committee>
+          <name>Agriculture, Nutrition, and Forestry Committee</name>
+          <systemCode>ssaf00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>S6528</name>
+            <url>https://www.congress.gov/congressional-record/volume-159/senate-section/page/S6528</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Agriculture, Nutrition, and Forestry. Original measure reported to Senate by Senator Stabenow. Without written report. (text of measure as reported in Senate: CR S6528)</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <name>Agriculture, Nutrition, and Forestry Committee</name>
+          <systemCode>ssaf00</systemCode>
+        </committee>
+        <text>Committee on Agriculture, Nutrition, and Forestry. Original measure reported to Senate by Senator Stabenow. Without written report.(text of measure as reported in Senate: CR S6528)</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>Committee</type>
+        <actionDate>2013-09-17</actionDate>
+        <actionCode>14000</actionCode>
+        <links>
+          <link>
+            <name>S6528</name>
+            <url>https://www.congress.gov/congressional-record/volume-159/senate-section/page/S6528</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2013-09-17</actionDate>
+        <actionCode>10000</actionCode>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <originalBillReported>1</originalBillReported>
+        <referredToCommittee>1</referredToCommittee>
+        <reportedToSenate>1</reportedToSenate>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>4</senate>
+      </actionByCounts>
+    </actions>
+    <introducedDate>2013-09-17</introducedDate>
+    <updateDate>2016-10-25T16:18:38Z</updateDate>
+    <createDate>2013-09-18T07:01:06Z</createDate>
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssra00</systemCode>
+          <activities>
+            <item>
+              <date>2013-09-17T21:58:22Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <name>Rules and Administration Committee</name>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+        <item>
+          <systemCode>ssaf00</systemCode>
+          <activities>
+            <item>
+              <date>2013-09-17T21:58:04Z</date>
+              <name>Reported original measure</name>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <name>Agriculture, Nutrition, and Forestry Committee</name>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors />
+    <congress>113</congress>
+    <billType>SRES</billType>
+    <title>An original resolution authorizing expenditures by the Committee on Agriculture, Nutrition, and Forestry.</title>
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>An original resolution authorizing expenditures by the Committee on Agriculture, Nutrition, and Forestry.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>An original resolution authorizing expenditures by the Committee on Agriculture, Nutrition, and Forestry.</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2013-09-17</actionDate>
+          <updateDate>2013-09-17T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2013-09-20T20:47:09Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Authorizes expenditures by the Senate Committee on Agriculture, Nutrition, and Forestry for the 113th Congress. </p>]]></text>
+          <name>Introduced in Senate</name>
+        </item>
+        <item>
+          <actionDate>2013-09-17</actionDate>
+          <updateDate>2013-09-17T16:46:58Z</updateDate>
+          <versionCode>80</versionCode>
+          <actionDesc>Reported to Senate without amendment</actionDesc>
+          <lastSummaryUpdateDate>2013-09-20T21:04:31Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</b></p> <p>Authorizes expenditures by the Senate Committee on Agriculture, Nutrition, and Forestry for the 113th Congress. </p>]]></text>
+          <name>Reported to Senate without amendment</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <recordedVotes />
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional committees</name>
+          </item>
+          <item>
+            <name>Senate Committee on Agriculture, Nutrition, and Forestry</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Referred to the Committee on Rules and Administration.</text>
+      <actionDate>2013-09-17</actionDate>
+    </latestAction>
+    <billNumber>230</billNumber>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <amendments />
+    <sponsors>
+      <item>
+        <firstName>DEBORAH</firstName>
+        <party>D</party>
+        <fullName>Sen. Stabenow, Debbie [D-MI]</fullName>
+        <bioguideId>S000770</bioguideId>
+        <identifiers>
+          <lisID>1531</lisID>
+          <bioguideId>S000770</bioguideId>
+          <gpoId>8261</gpoId>
+        </identifiers>
+        <lastName>STABENOW</lastName>
+        <middleName>ANN</middleName>
+        <state>MI</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

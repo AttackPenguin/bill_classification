@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Transportation and Public Works</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <relatedBills />
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Armed Services Committee</name>
+          <activities>
+            <item>
+              <date>2018-02-13T17:00:40Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <systemCode>hsas03</systemCode>
+              <name>Readiness Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2018-02-14T20:06:09Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <systemCode>hsas00</systemCode>
+          <chamber>House</chamber>
+        </item>
+        <item>
+          <type>Standing</type>
+          <name>Transportation Committee</name>
+          <activities>
+            <item>
+              <date>2018-02-13T17:00:35Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <systemCode>hspw00</systemCode>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><b>Free to Fly Act</b></p> <p>The bill modifies definitions relating to aviation to permit a foreign air carrier to own U.S. domestic air routes. The foreign carrier may establish U.S.-based subsidiaries for such purpose. </p> <p>All foreign-owed air carriers that obtain a certificate to fly domestic routes may only hire U.S. citizens or nationals, or permanent legal residents. The Department of Transportation (DOT) may issue a certificate of public convenience and necessity to a foreign air carrier with a board of directors that is comprised of more than 49% non-U.S. citizens.</p> <p>The bill expands the scope of the President's review of DOT actions involving foreign air carriers.</p> <p>The Department of Defense may waive citizenship requirements for certain foreign air carriers participating in the civil reserve air fleet.]]></text>
+          <actionDate>2018-02-13</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2018-11-21T18:09:54Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <updateDate>2018-02-13T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <version>1.0.0</version>
+    <originChamber>House</originChamber>
+    <congress>115</congress>
+    <latestAction>
+      <actionDate>2018-02-14</actionDate>
+      <text>Referred to the Subcommittee on Readiness.</text>
+      <links />
+    </latestAction>
+    <actions>
+      <actionTypeCounts>
+        <billReferrals>2</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>2</placeholderTextForH>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2018-02-14</actionDate>
+        <committee>
+          <name>Readiness Subcommittee</name>
+          <systemCode>hsas03</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Readiness.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2018-02-14</actionDate>
+        <committee>
+          <name>Aviation Subcommittee</name>
+          <systemCode>hspw05</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Aviation.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Armed Services Committee</name>
+          <systemCode>hsas00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2018-02-13</actionDate>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Transportation Committee</name>
+          <systemCode>hspw00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2018-02-13</actionDate>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <actionDate>2018-02-13</actionDate>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <actionDate>2018-02-13</actionDate>
+        <type>IntroReferral</type>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <createDate>2018-02-14T03:11:02Z</createDate>
+    <laws />
+    <titles>
+      <item>
+        <title>To amend title 49, United States Code, to allow certain persons to own and control an air carrier providing air transportation or intrastate air transportation, and for other purposes.</title>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <title>Free to Fly Act</title>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <title>Free to Fly Act</title>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <title>Free to Fly Act</title>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 164, Number 28 (Tuesday, February 13, 2018)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. BRAT:H.R. 5000.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 3: ``To regulate Commerce withforeign Nations, and among the several States, and with theIndian Tribes''.The Commerce Clause of the United States Constitutionincludes granting Congress the power to regulate interstatecommerce and commerce with foreign nations, which wouldtherefore include air commerce such as interstate and foreignair travel.Article I, Section 8, Clauses 14 and 15: ``To make Rulesfor the Government and Regulation of the land and navalForces'' and ``To provide for calling forth the Militia toexecute the Laws of the Union, suppress Insurrections andrepel Invasions''.The Military Regulations and Militia Clauses give Congressthe power to regulate the military or military components andmake rules for war, giving Congress the power to authorizeand amend programs like the Civil Reserve Air Fleet.Article I, Section 8, Clause 18: ``To make all Laws whichshall be necessary and proper for carrying into Execution theforegoing Powers, and all other Powers vested by thisConstitution in the Government of the United States, or inany Department or Officer thereof.''The Necessary and Proper Clause further recognizes thatCongress has the legal authority to exercise powersenumerated under Article I.[Page H1126]</pre>]]></constitutionalAuthorityStatementText>
+    <introducedDate>2018-02-13</introducedDate>
+    <calendarNumbers />
+    <recordedVotes />
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr5000ih/xml/BILLS-115hr5000ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+        <date>2018-02-13T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <cosponsors />
+    <amendments />
+    <billNumber>5000</billNumber>
+    <updateDate>2019-11-15T20:47:28Z</updateDate>
+    <cboCostEstimates />
+    <title>Free to Fly Act</title>
+    <committeeReports />
+    <policyArea>
+      <name>Transportation and Public Works</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <district>7</district>
+        <lastName>Brat</lastName>
+        <firstName>Dave</firstName>
+        <state>VA</state>
+        <fullName>Rep. Brat, Dave [R-VA-7]</fullName>
+        <identifiers>
+          <lisID>2203</lisID>
+          <gpoId />
+          <bioguideId>B001290</bioguideId>
+        </identifiers>
+        <middleName />
+        <bioguideId>B001290</bioguideId>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

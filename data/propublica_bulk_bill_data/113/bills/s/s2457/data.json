@@ -1,0 +1,124 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-10", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-10", 
+      "action_code": "B00100", 
+      "links": [
+        {
+          "name": "S3548-3549", 
+          "url": "https://www.congress.gov/congressional-record/volume-160/senate-section/page/S3548-3549"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR S3548-3549", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-10", 
+      "action_code": "", 
+      "committees": [
+        "SSEV"
+      ], 
+      "links": [
+        {
+          "name": "S3549-3550", 
+          "url": "https://www.congress.gov/congressional-record/volume-160/senate-section/page/S3549-3550"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR S3549-3550", 
+          "type": "text of measure as introduced"
+        }
+      ], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Environment and Public Works.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2457-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Environment and Public Works", 
+      "committee_id": "SSEV"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-06-10", 
+  "number": "2457", 
+  "official_title": "A bill to require States to establish highway stormwater management programs.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Highway Runoff Management Act", 
+  "sponsor": {
+    "bioguide_id": "C000141", 
+    "district": null, 
+    "name": "Cardin, Benjamin L.", 
+    "state": "MD", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-06-10", 
+  "subjects": [
+    "Hydrology and hydrography", 
+    "Roads and highways", 
+    "Transportation and public works", 
+    "Water quality"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": {
+    "as": "Introduced in Senate", 
+    "date": "2014-06-10T04:00:00Z", 
+    "text": "Highway Runoff Management Act - Requires each state to develop for approval a state highway stormwater management program consisting of management measures to prevent, reduce, or control highway runoff from federal-aid highway projects.\n\nDirects the Secretary of Transportation (DOT) to publish guidance to assist states in the establishment of such measures."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Highway Runoff Management Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to require States to establish highway stormwater management programs.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Highway Runoff Management Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2016-10-25T16:30:50Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/113/s/BILLSTATUS-113s2457.xml"
+}

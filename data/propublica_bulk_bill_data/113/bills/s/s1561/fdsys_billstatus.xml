@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+        <senate>9</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2013-11-15</actionDate>
+        <committee>
+          <systemCode>hsif14</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <actionDate>2013-11-12</actionDate>
+      </item>
+      <item>
+        <links />
+        <type>Floor</type>
+        <actionCode>H14000</actionCode>
+        <text>Received in the House.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee />
+        <actionTime>14:06:00</actionTime>
+        <actionDate>2013-11-12</actionDate>
+      </item>
+      <item>
+        <actionDate>2013-10-31</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2013-10-30</actionDate>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-159/senate-section/page/S7684-7685</url>
+            <name>S7684-7685</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-159/senate-section/page/S7685</url>
+            <name>S7685</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Passed Senate with an amendment by Unanimous Consent. (consideration: CR S7684-7685; text as passed Senate: CR S7685)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-159/senate-section/page/S7684-7685</url>
+            <name>S7684-7685</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-159/senate-section/page/S7685</url>
+            <name>S7685</name>
+          </link>
+        </links>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <text>Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S7684-7685; text as passed Senate: CR S7685)</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2013-10-30</actionDate>
+      </item>
+      <item>
+        <actionDate>2013-10-30</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 228.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2013-10-30</actionDate>
+        <committee>
+          <systemCode>sshr00</systemCode>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Health, Education, Labor, and Pensions. Reported by Senator Harkin with an amendment in the nature of a substitute. Without written report.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <type>Committee</type>
+        <actionCode>14000</actionCode>
+        <text>Committee on Health, Education, Labor, and Pensions. Reported by Senator Harkin with an amendment in the nature of a substitute. Without written report.</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>sshr00</systemCode>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+        </committee>
+        <actionDate>2013-10-30</actionDate>
+      </item>
+      <item>
+        <actionDate>2013-10-30</actionDate>
+        <committee>
+          <systemCode>sshr00</systemCode>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-09-30</actionDate>
+        <committee>
+          <systemCode>sshr00</systemCode>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2013-09-30</actionDate>
+      </item>
+      <actionTypeCounts>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <orderedReported>1</orderedReported>
+        <sentToHouse>1</sentToHouse>
+        <billReferrals>1</billReferrals>
+        <passedSenate>1</passedSenate>
+        <placeholderTextForH>1</placeholderTextForH>
+        <referredToCommittee>1</referredToCommittee>
+        <reportedToSenate>2</reportedToSenate>
+        <receivedInTheHouse>1</receivedInTheHouse>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <introducedDate>2013-09-30</introducedDate>
+    <updateDate>2016-10-25T16:27:05Z</updateDate>
+    <createDate>2013-10-01T07:26:18Z</createDate>
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <name>Health Subcommittee</name>
+              <systemCode>hsif14</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2013-11-15T16:30:28Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <name>Energy and Commerce Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-11-12T23:34:15Z</date>
+            </item>
+          </activities>
+          <systemCode>hsif00</systemCode>
+          <chamber>House</chamber>
+        </item>
+        <item>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2013-10-30T18:31:09Z</date>
+            </item>
+            <item>
+              <name>Markup by</name>
+              <date>2013-10-30T14:43:58Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2013-09-30T20:33:38Z</date>
+            </item>
+          </activities>
+          <systemCode>sshr00</systemCode>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <firstName>Lamar</firstName>
+        <party>R</party>
+        <fullName>Sen. Alexander, Lamar [R-TN]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>A000360</bioguideId>
+        <identifiers>
+          <lisID>1695</lisID>
+          <gpoId>8304</gpoId>
+          <bioguideId>A000360</bioguideId>
+        </identifiers>
+        <lastName>Alexander</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>TN</state>
+        <sponsorshipDate>2013-09-30</sponsorshipDate>
+        <middleName />
+      </item>
+      <item>
+        <firstName>RICHARD</firstName>
+        <party>R</party>
+        <fullName>Sen. Burr, Richard [R-NC]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>B001135</bioguideId>
+        <identifiers>
+          <gpoId>8286</gpoId>
+          <lisID>153</lisID>
+          <bioguideId>B001135</bioguideId>
+        </identifiers>
+        <lastName>BURR</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>NC</state>
+        <sponsorshipDate>2013-10-01</sponsorshipDate>
+        <middleName />
+      </item>
+      <item>
+        <firstName>MARY</firstName>
+        <party>D</party>
+        <fullName>Sen. Landrieu, Mary L. [D-LA]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>L000550</bioguideId>
+        <identifiers>
+          <lisID>1546</lisID>
+          <gpoId>8251</gpoId>
+          <bioguideId>L000550</bioguideId>
+        </identifiers>
+        <lastName>LANDRIEU</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>LA</state>
+        <sponsorshipDate>2013-10-30</sponsorshipDate>
+        <middleName />
+      </item>
+      <item>
+        <firstName>SUSAN</firstName>
+        <party>R</party>
+        <fullName>Sen. Collins, Susan M. [R-ME]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C001035</bioguideId>
+        <identifiers>
+          <lisID>1541</lisID>
+          <gpoId>8291</gpoId>
+          <bioguideId>C001035</bioguideId>
+        </identifiers>
+        <lastName>COLLINS</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>ME</state>
+        <sponsorshipDate>2013-10-30</sponsorshipDate>
+        <middleName>MARGARET</middleName>
+      </item>
+    </cosponsors>
+    <congress>113</congress>
+    <billType>S</billType>
+    <title>CHIMP Act Amendments of 2013</title>
+    <titles>
+      <item>
+        <titleType>Short Titles as Passed Senate</titleType>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <chamberCode>S</chamberCode>
+        <title>CHIMP Act Amendments of 2013</title>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <titleType>Short Titles as Reported to Senate</titleType>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <chamberCode>S</chamberCode>
+        <title>CHIMP Act Amendments of 2013</title>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>CHIMP Act Amendments of 2013</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>A bill to amend the Public Health Service Act to improve provisions relating to the sanctuary system for surplus chimpanzees.</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>CHIMP Act Amendments of 2013</title>
+        <chamberName />
+      </item>
+    </titles>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>CHIMP Act Amendments of 2013 - Amends the Public Health Service Act, with respect to the lifetime care of chimpanzees used in federally conducted or supported medical research, to: (1) require the Secretary of Health and Human Services (HHS) to reserve appropriations through FY2023 for the sanctuary system and other compliant facilities, and (2) allow reservation of funds beyond a total of $30 million if the Secretary determines that doing so would enable the National Institutes of Health (NIH) to operate more efficiently and economically by decreasing the overall federal cost of supporting and maintaining chimpanzees from FY2014-FY2023. Requires such a determination to be reported to Congress and include biennial updates regarding the care and maintenance of the chimpanzees and related costs.</p> <p>Removes construction and renovation of sanctuary system facilities as a purpose of expenditure of the reserved funds. Requires the use of funds for other compliant facilities to be determined by the Secretary (rather than, as under current law, by the board of directors of the nonprofit entity operating the facility).</p> <p>Requires the Comptroller General (GAO) to evaluate: (1) the research status of NIH-owned or supported chimpanzees, (2) the cost for the care and maintenance of such chimpanzees, (3) the extent to which requirements that a nonprofit private entity match funding have been met, and (4) any options for cost savings for support and maintenance that may be identified.</p>]]></text>
+          <updateDate>2013-09-30T04:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2013-12-19T18:47:24Z</lastSummaryUpdateDate>
+          <actionDate>2013-09-30</actionDate>
+        </item>
+        <item>
+          <text><![CDATA[<p>CHIMP Act Amendments of 2013 - Amends the Public Health Service Act, with respect to the lifetime care of chimpanzees used in federally conducted or supported medical research, to: (1) require the Secretary of Health and Human Services (HHS) to reserve appropriations through FY2023 for the sanctuary system and other compliant facilities, and (2) allow reservation of funds beyond a total of $30 million if the Secretary determines that doing so would enable the National Institutes of Health (NIH) to operate more efficiently and economically by decreasing the overall federal cost of supporting and maintaining chimpanzees from FY2014-FY2023. Requires such a determination to be reported to Congress and include biennial updates regarding the care and maintenance of the chimpanzees and related costs.</p> <p>Removes construction and renovation of sanctuary system facilities as a purpose of expenditure of the reserved funds. Requires the use of funds for other compliant facilities to be determined by the Secretary (rather than, as under current law, by the board of directors of the nonprofit entity operating the facility).</p> <p>Requires the Comptroller General (GAO) to evaluate: (1) the research status of NIH-owned or supported chimpanzees, (2) the cost for the care and maintenance of such chimpanzees, (3) the extent to which requirements that a nonprofit private entity match funding have been met, and (4) any options for cost savings for support and maintenance that may be identified.</p>]]></text>
+          <updateDate>2013-10-30T15:20:22Z</updateDate>
+          <name>Passed Senate amended</name>
+          <versionCode>35</versionCode>
+          <actionDesc>Passed Senate amended</actionDesc>
+          <lastSummaryUpdateDate>2013-12-20T16:53:15Z</lastSummaryUpdateDate>
+          <actionDate>2013-10-30</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <recordedVotes />
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Animal protection and human-animal relationships</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Health programs administration and funding</name>
+          </item>
+          <item>
+            <name>Mammals</name>
+          </item>
+          <item>
+            <name>Medical research</name>
+          </item>
+          <item>
+            <name>Research administration and funding</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Health.</text>
+      <actionDate>2013-11-15</actionDate>
+    </latestAction>
+    <billNumber>1561</billNumber>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <amendments />
+    <sponsors>
+      <item>
+        <firstName>THOMAS</firstName>
+        <party>D</party>
+        <fullName>Sen. Harkin, Tom [D-IA]</fullName>
+        <bioguideId>H000206</bioguideId>
+        <identifiers>
+          <gpoId>8317</gpoId>
+          <lisID>501</lisID>
+          <bioguideId>H000206</bioguideId>
+        </identifiers>
+        <lastName>HARKIN</lastName>
+        <middleName>RICHARD</middleName>
+        <state>IA</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <calendarNumbers>
+      <item>
+        <number>0228</number>
+        <calendar>Senate Calendar of Business</calendar>
+      </item>
+    </calendarNumbers>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

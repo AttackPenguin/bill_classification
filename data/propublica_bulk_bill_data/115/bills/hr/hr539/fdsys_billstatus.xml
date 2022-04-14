@@ -1,0 +1,780 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <relatedBills />
+    <introducedDate>2017-01-13</introducedDate>
+    <committeeReports />
+    <amendments />
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr539ih/xml/BILLS-115hr539ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+        <date>2017-01-13T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <cboCostEstimates />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Advisory bodies</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Government ethics and transparency, public corruption</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Health care costs and insurance</name>
+          </item>
+          <item>
+            <name>Health care coverage and access</name>
+          </item>
+          <item>
+            <name>Health care quality</name>
+          </item>
+          <item>
+            <name>Health information and medical records</name>
+          </item>
+          <item>
+            <name>Health promotion and preventive care</name>
+          </item>
+          <item>
+            <name>Health technology, devices, supplies</name>
+          </item>
+          <item>
+            <name>Medical research</name>
+          </item>
+          <item>
+            <name>Medical tests and diagnostic methods</name>
+          </item>
+          <item>
+            <name>Medicare</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <calendarNumbers />
+    <notes />
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>2</billReferrals>
+        <billReferralsAggregate>1</billReferralsAggregate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-02-01</actionDate>
+        <committee>
+          <systemCode>hswm02</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-01-13</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+      </item>
+      <item>
+        <actionCode>H11100-A</actionCode>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-01-13</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-01-13</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-01-13</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-01-13</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <originChamber>House</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <name>Health Subcommittee</name>
+              <systemCode>hswm02</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-02-01T22:05:08Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-01-13T14:10:10Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <type>Standing</type>
+          <subcommittees />
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-01-13T14:10:05Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <titles>
+      <item>
+        <title>To amend title IX of the Public Health Service Act to revise the operations of the United States Preventive Services Task Force, and for other purposes.</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>USPSTF Transparency and Accountability Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>USPSTF Transparency and Accountability Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>USPSTF Transparency and Accountability Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><b>USPSTF Transparency and Accountability Act of 2017</b></p> <p>This bill amends the Public Health Service Act to expand the scope and responsibilities of the United States Preventive Services Task Force to require it to: (1) publish research plans to guide its review of scientific evidence relating to the effectiveness of preventive services; (2) make evidence reports and recommendations available for public comment; (3) establish a system for grading preventive care (Grades A, B, C, and D and a Grade I for insufficient information); and (4) convene a preventive services stakeholders board to provide feedback on task force activities and recommend preventive services and scientific evidence for the task force to review. Members of the task force and the preventive services stakeholders board must disclose conflicts of interest.</p> <p>The Government Accountability Office must report on: (1) current recommendations of the task force; (2) task force recommendations and recommendations of other federal health agencies, national medical professional societies, and patient and disease advocacy organizations; and (3) the impact of task force recommendations on insurance coverage, access, and outcomes, including the impact on morbidity and mortality.</p> <p>This bill amends title XVIII (Medicare) of the Social Security Act to revise HHS's authority to modify coverage of preventive services. HHS may modify such coverage only based on a task force grade or recommendation that was developed or updated in accordance with this bill.</p> Medicare quality measures related to a recommendation of the task force may only be applied if the recommendation was developed or updated in accordance with this bill.]]></text>
+          <actionDate>2017-01-13</actionDate>
+          <lastSummaryUpdateDate>2017-04-03T13:08:12Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2017-01-13T05:00:00Z</updateDate>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <recordedVotes />
+    <title>USPSTF Transparency and Accountability Act of 2017</title>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <state>TN</state>
+        <identifiers>
+          <lisID>1748</lisID>
+          <gpoId>8154</gpoId>
+          <bioguideId>B001243</bioguideId>
+        </identifiers>
+        <middleName />
+        <district>7</district>
+        <byRequestType />
+        <bioguideId>B001243</bioguideId>
+        <firstName>Marsha</firstName>
+        <fullName>Rep. Blackburn, Marsha [R-TN-7]</fullName>
+        <lastName>Blackburn</lastName>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>R000515</bioguideId>
+        <party>D</party>
+        <sponsorshipDate>2017-01-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>L.</middleName>
+        <district>1</district>
+        <state>IL</state>
+        <fullName>Rep. Rush, Bobby L. [D-IL-1]</fullName>
+        <lastName>RUSH</lastName>
+        <firstName>BOBBY</firstName>
+        <identifiers>
+          <lisID>1003</lisID>
+          <gpoId>7921</gpoId>
+          <bioguideId>R000515</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>A000372</bioguideId>
+        <party>R</party>
+        <sponsorshipDate>2017-01-20</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>W.</middleName>
+        <district>12</district>
+        <state>GA</state>
+        <fullName>Rep. Allen, Rick W. [R-GA-12]</fullName>
+        <lastName>Allen</lastName>
+        <firstName>Rick</firstName>
+        <identifiers>
+          <bioguideId>A000372</bioguideId>
+          <gpoId />
+          <lisID>2239</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>M001190</bioguideId>
+        <party>R</party>
+        <sponsorshipDate>2017-01-20</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <district>2</district>
+        <state>OK</state>
+        <fullName>Rep. Mullin, Markwayne [R-OK-2]</fullName>
+        <lastName>Mullin</lastName>
+        <firstName>Markwayne</firstName>
+        <identifiers>
+          <bioguideId>M001190</bioguideId>
+          <lisID>2156</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>R000582</bioguideId>
+        <party>R</party>
+        <sponsorshipDate>2017-01-24</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>P.</middleName>
+        <district>1</district>
+        <state>TN</state>
+        <fullName>Rep. Roe, David P. [R-TN-1]</fullName>
+        <lastName>Roe</lastName>
+        <firstName>David</firstName>
+        <identifiers>
+          <lisID>1954</lisID>
+          <gpoId>8148</gpoId>
+          <bioguideId>R000582</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>E000294</bioguideId>
+        <party>R</party>
+        <sponsorshipDate>2017-01-24</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <district>6</district>
+        <state>MN</state>
+        <fullName>Rep. Emmer, Tom [R-MN-6]</fullName>
+        <lastName>Emmer</lastName>
+        <firstName>Tom</firstName>
+        <identifiers>
+          <bioguideId>E000294</bioguideId>
+          <gpoId />
+          <lisID>2253</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>C001092</bioguideId>
+        <party>R</party>
+        <sponsorshipDate>2017-01-31</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <district>27</district>
+        <state>NY</state>
+        <fullName>Rep. Collins, Chris [R-NY-27]</fullName>
+        <lastName>Collins</lastName>
+        <firstName>Chris</firstName>
+        <identifiers>
+          <lisID>2151</lisID>
+          <gpoId />
+          <bioguideId>C001092</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>B001282</bioguideId>
+        <party>R</party>
+        <sponsorshipDate>2017-02-06</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <district>6</district>
+        <state>KY</state>
+        <fullName>Rep. Barr, Andy [R-KY-6]</fullName>
+        <lastName>Barr</lastName>
+        <firstName>Andy</firstName>
+        <identifiers>
+          <lisID>2131</lisID>
+          <gpoId />
+          <bioguideId>B001282</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>H001052</bioguideId>
+        <party>R</party>
+        <sponsorshipDate>2017-02-17</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <district>1</district>
+        <state>MD</state>
+        <fullName>Rep. Harris, Andy [R-MD-1]</fullName>
+        <lastName>Harris</lastName>
+        <firstName>Andy</firstName>
+        <identifiers>
+          <lisID>2026</lisID>
+          <gpoId>7976</gpoId>
+          <bioguideId>H001052</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>R000576</bioguideId>
+        <party>D</party>
+        <sponsorshipDate>2017-02-21</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>Dutch</middleName>
+        <district>2</district>
+        <state>MD</state>
+        <fullName>Rep. Ruppersberger, C. A. Dutch [D-MD-2]</fullName>
+        <lastName>Ruppersberger</lastName>
+        <firstName>C. A.</firstName>
+        <identifiers>
+          <bioguideId>R000576</bioguideId>
+          <lisID>1728</lisID>
+          <gpoId>7977</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>W000815</bioguideId>
+        <party>R</party>
+        <sponsorshipDate>2017-03-02</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>R.</middleName>
+        <district>2</district>
+        <state>OH</state>
+        <fullName>Rep. Wenstrup, Brad R. [R-OH-2]</fullName>
+        <lastName>Wenstrup</lastName>
+        <firstName>Brad</firstName>
+        <identifiers>
+          <lisID>2152</lisID>
+          <gpoId />
+          <bioguideId>W000815</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>J000297</bioguideId>
+        <party>R</party>
+        <sponsorshipDate>2017-03-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>H.</middleName>
+        <district>3</district>
+        <state>WV</state>
+        <fullName>Rep. Jenkins, Evan H. [R-WV-3]</fullName>
+        <lastName>Jenkins</lastName>
+        <firstName>Evan</firstName>
+        <identifiers>
+          <lisID>2278</lisID>
+          <gpoId />
+          <bioguideId>J000297</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>L000567</bioguideId>
+        <party>R</party>
+        <sponsorshipDate>2017-03-21</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <district>7</district>
+        <state>NJ</state>
+        <fullName>Rep. Lance, Leonard [R-NJ-7]</fullName>
+        <lastName>Lance</lastName>
+        <firstName>Leonard</firstName>
+        <identifiers>
+          <lisID>1936</lisID>
+          <gpoId>8049</gpoId>
+          <bioguideId>L000567</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>H001077</bioguideId>
+        <party>R</party>
+        <sponsorshipDate>2017-04-04</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <district>3</district>
+        <state>LA</state>
+        <fullName>Rep. Higgins, Clay [R-LA-3]</fullName>
+        <lastName>Higgins</lastName>
+        <firstName>Clay</firstName>
+        <identifiers>
+          <bioguideId>H001077</bioguideId>
+          <gpoId />
+          <lisID>2329</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>M001180</bioguideId>
+        <party>R</party>
+        <sponsorshipDate>2017-04-04</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>B.</middleName>
+        <district>1</district>
+        <state>WV</state>
+        <fullName>Rep. McKinley, David B. [R-WV-1]</fullName>
+        <lastName>McKinley</lastName>
+        <firstName>David</firstName>
+        <identifiers>
+          <lisID>2074</lisID>
+          <gpoId>8222</gpoId>
+          <bioguideId>M001180</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>A000374</bioguideId>
+        <party>R</party>
+        <sponsorshipDate>2017-04-04</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>Lee</middleName>
+        <district>5</district>
+        <state>LA</state>
+        <fullName>Rep. Abraham, Ralph Lee [R-LA-5]</fullName>
+        <lastName>Abraham</lastName>
+        <firstName>Ralph</firstName>
+        <identifiers>
+          <lisID>2244</lisID>
+          <gpoId />
+          <bioguideId>A000374</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>K000381</bioguideId>
+        <party>D</party>
+        <sponsorshipDate>2017-04-12</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <district>6</district>
+        <state>WA</state>
+        <fullName>Rep. Kilmer, Derek [D-WA-6]</fullName>
+        <lastName>Kilmer</lastName>
+        <firstName>Derek</firstName>
+        <identifiers>
+          <bioguideId>K000381</bioguideId>
+          <lisID>2169</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>L000569</bioguideId>
+        <party>R</party>
+        <sponsorshipDate>2017-04-12</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <district>3</district>
+        <state>MO</state>
+        <fullName>Rep. Luetkemeyer, Blaine [R-MO-3]</fullName>
+        <lastName>Luetkemeyer</lastName>
+        <firstName>Blaine</firstName>
+        <identifiers>
+          <bioguideId>L000569</bioguideId>
+          <lisID>1931</lisID>
+          <gpoId>8017</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>G000568</bioguideId>
+        <party>R</party>
+        <sponsorshipDate>2017-05-19</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>Morgan</middleName>
+        <district>9</district>
+        <state>VA</state>
+        <fullName>Rep. Griffith, H. Morgan [R-VA-9]</fullName>
+        <lastName>Griffith</lastName>
+        <firstName>H.</firstName>
+        <identifiers>
+          <bioguideId>G000568</bioguideId>
+          <gpoId>8200</gpoId>
+          <lisID>2070</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>G000560</bioguideId>
+        <party>R</party>
+        <sponsorshipDate>2017-06-08</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <district>14</district>
+        <state>GA</state>
+        <fullName>Rep. Graves, Tom [R-GA-14]</fullName>
+        <lastName>Graves</lastName>
+        <firstName>Tom</firstName>
+        <identifiers>
+          <lisID>1979</lisID>
+          <gpoId>7906</gpoId>
+          <bioguideId>G000560</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>N000181</bioguideId>
+        <party>R</party>
+        <sponsorshipDate>2017-06-12</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <district>22</district>
+        <state>CA</state>
+        <fullName>Rep. Nunes, Devin [R-CA-22]</fullName>
+        <lastName>Nunes</lastName>
+        <firstName>Devin</firstName>
+        <identifiers>
+          <lisID>1710</lisID>
+          <gpoId>7826</gpoId>
+          <bioguideId>N000181</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>B000490</bioguideId>
+        <party>D</party>
+        <sponsorshipDate>2017-09-11</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>D.</middleName>
+        <district>2</district>
+        <state>GA</state>
+        <fullName>Rep. Bishop, Sanford D., Jr. [D-GA-2]</fullName>
+        <lastName>BISHOP</lastName>
+        <firstName>SANFORD</firstName>
+        <identifiers>
+          <bioguideId>B000490</bioguideId>
+          <gpoId>7899</gpoId>
+          <lisID>91</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>J000292</bioguideId>
+        <party>R</party>
+        <sponsorshipDate>2017-09-11</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <district>6</district>
+        <state>OH</state>
+        <fullName>Rep. Johnson, Bill [R-OH-6]</fullName>
+        <lastName>Johnson</lastName>
+        <firstName>Bill</firstName>
+        <identifiers>
+          <lisID>2046</lisID>
+          <gpoId>8096</gpoId>
+          <bioguideId>J000292</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>C001068</bioguideId>
+        <party>D</party>
+        <sponsorshipDate>2017-09-12</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <district>9</district>
+        <state>TN</state>
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <lastName>Cohen</lastName>
+        <firstName>Steve</firstName>
+        <identifiers>
+          <lisID>1878</lisID>
+          <gpoId>8156</gpoId>
+          <bioguideId>C001068</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>F000372</bioguideId>
+        <party>R</party>
+        <sponsorshipDate>2017-10-23</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <district>11</district>
+        <state>NJ</state>
+        <fullName>Rep. Frelinghuysen, Rodney P. [R-NJ-11]</fullName>
+        <lastName>FRELINGHUYSEN</lastName>
+        <firstName>RODNEY</firstName>
+        <identifiers>
+          <lisID>414</lisID>
+          <gpoId>8053</gpoId>
+          <bioguideId>F000372</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>K000210</bioguideId>
+        <party>R</party>
+        <sponsorshipDate>2017-10-23</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>T.</middleName>
+        <district>2</district>
+        <state>NY</state>
+        <fullName>Rep. King, Peter T. [R-NY-2]</fullName>
+        <lastName>KING</lastName>
+        <firstName>PETER</firstName>
+        <identifiers>
+          <lisID>635</lisID>
+          <gpoId>8064</gpoId>
+          <bioguideId>K000210</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>C001067</bioguideId>
+        <party>D</party>
+        <sponsorshipDate>2018-03-15</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>D.</middleName>
+        <district>9</district>
+        <state>NY</state>
+        <fullName>Rep. Clarke, Yvette D. [D-NY-9]</fullName>
+        <lastName>Clarke</lastName>
+        <firstName>Yvette</firstName>
+        <identifiers>
+          <lisID>1864</lisID>
+          <gpoId>8072</gpoId>
+          <bioguideId>C001067</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>M001198</bioguideId>
+        <party>R</party>
+        <sponsorshipDate>2018-05-03</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>W.</middleName>
+        <district>1</district>
+        <state>KS</state>
+        <fullName>Rep. Marshall, Roger W. [R-KS-1]</fullName>
+        <lastName>Marshall</lastName>
+        <firstName>Roger</firstName>
+        <identifiers>
+          <lisID>2328</lisID>
+          <gpoId />
+          <bioguideId>M001198</bioguideId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 9 (Friday, January 13, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mrs. BLACKBURN:H.R. 539.Congress has the power to enact this legislation pursuanttothe following:Article 1, Section 8, Clause 18[Page H547]</pre>]]></constitutionalAuthorityStatementText>
+    <billNumber>539</billNumber>
+    <congress>115</congress>
+    <latestAction>
+      <links />
+      <actionDate>2017-02-01</actionDate>
+      <text>Referred to the Subcommittee on Health.</text>
+    </latestAction>
+    <billType>HR</billType>
+    <updateDate>2019-11-15T21:43:04Z</updateDate>
+    <createDate>2017-01-14T04:47:32Z</createDate>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

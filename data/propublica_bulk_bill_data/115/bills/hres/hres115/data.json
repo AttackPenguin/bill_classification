@@ -1,0 +1,88 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-02-13", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-02-13", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSHA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on House Administration.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hres115-115", 
+  "bill_type": "hres", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Administration", 
+      "committee_id": "HSHA"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-02-13", 
+  "number": "115", 
+  "official_title": "Providing amounts for the expenses of the Committee on Rules in the One Hundred Fifteenth Congress.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "S000250", 
+    "district": "32", 
+    "name": "Sessions, Pete", 
+    "state": "TX", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-02-13", 
+  "subjects": [
+    "Congress", 
+    "Congressional committees", 
+    "House Committee on Rules"
+  ], 
+  "subjects_top_term": "Congress", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2017-02-13T05:00:00Z", 
+    "text": "Provides amounts for the expenses of the Committee on Rules for the 115th Congress."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Providing amounts for the expenses of the Committee on Rules in the One Hundred Fifteenth Congress.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Providing amounts for the expenses of the Committee on Rules in the One Hundred Fifteenth Congress.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-04-18T15:53:16Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/115/hres/BILLSTATUS-115hres115.xml"
+}

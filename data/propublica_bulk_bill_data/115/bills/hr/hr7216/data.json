@@ -1,0 +1,109 @@
+{
+  "actions": [
+    {
+      "acted_at": "2018-12-03", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-12-03", 
+      "action_code": "B00100", 
+      "links": [
+        {
+          "name": "E1596", 
+          "url": "https://www.congress.gov/congressional-record/volume-164/extensions-of-remarks-section/page/E1596"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR E1596", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-12-03", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Oversight and Government Reform.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr7216-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Oversight and Reform", 
+      "committee_id": "HSGO"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2018-12-03", 
+  "number": "7216", 
+  "official_title": "To require the Director of the Court Services and Offender Supervision Agency for the District of Columbia and the Director of the District of Columbia Pretrial Services Agency to reside in the District of Columbia.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "N000147", 
+    "district": "0", 
+    "name": "Norton, Eleanor Holmes", 
+    "state": "DC", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2018-12-03", 
+  "subjects": [
+    "Criminal procedure and sentencing", 
+    "District of Columbia", 
+    "Government operations and politics", 
+    "Judicial procedure and administration", 
+    "State and local courts", 
+    "State and local government operations"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2018-12-03T05:00:00Z", 
+    "text": "This bill prospectively requires the Director of the Court Services and Offender Supervision Agency and the Director of the Pretrial Services Agency for the District of Columbia to reside in the District during their tenure."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require the Director of the Court Services and Offender Supervision Agency for the District of Columbia and the Director of the District of Columbia Pretrial Services Agency to reside in the District of Columbia.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "To require the Director of the Court Services and Offender Supervision Agency for the District of Columbia and the Director of the District of Columbia Pretrial Services Agency to reside in the District of Columbia.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-10-18T16:07:48Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr7216.xml"
+}

@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <actionDate>2018-04-26</actionDate>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Oversight and Government Reform.</text>
+        <type>IntroReferral</type>
+        <committee>
+          <name>Oversight and Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <actionDate>2018-04-26</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <actionDate>2018-04-26</actionDate>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+    </actions>
+    <updateDate>2019-05-07T18:14:56Z</updateDate>
+    <latestAction>
+      <actionDate>2018-04-26</actionDate>
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+      <links />
+    </latestAction>
+    <recordedVotes />
+    <originChamber>House</originChamber>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hres852ih/xml/BILLS-115hres852ih.xml</url>
+          </item>
+        </formats>
+        <date>2018-04-26T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <version>1.0.0</version>
+    <billNumber>852</billNumber>
+    <cosponsors>
+      <item>
+        <lastName>NORTON</lastName>
+        <state>DC</state>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <sponsorshipWithdrawnDate />
+        <district>0</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2018-04-26</sponsorshipDate>
+        <identifiers>
+          <gpoId>7871</gpoId>
+          <bioguideId>N000147</bioguideId>
+          <lisID>868</lisID>
+        </identifiers>
+        <firstName>ELEANOR</firstName>
+        <middleName>HOLMES</middleName>
+        <bioguideId>N000147</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <lastName>Pocan</lastName>
+        <state>WI</state>
+        <fullName>Rep. Pocan, Mark [D-WI-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <district>2</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2018-04-26</sponsorshipDate>
+        <identifiers>
+          <lisID>2171</lisID>
+          <bioguideId>P000607</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Mark</firstName>
+        <middleName />
+        <bioguideId>P000607</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <lastName>LOFGREN</lastName>
+        <state>CA</state>
+        <fullName>Rep. Lofgren, Zoe [D-CA-19]</fullName>
+        <sponsorshipWithdrawnDate />
+        <district>19</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2018-04-26</sponsorshipDate>
+        <identifiers>
+          <bioguideId>L000397</bioguideId>
+          <lisID>701</lisID>
+          <gpoId>7821</gpoId>
+        </identifiers>
+        <firstName>ZOE</firstName>
+        <middleName />
+        <bioguideId>L000397</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <lastName>Raskin</lastName>
+        <state>MD</state>
+        <fullName>Rep. Raskin, Jamie [D-MD-8]</fullName>
+        <sponsorshipWithdrawnDate />
+        <district>8</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2018-05-03</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <bioguideId>R000606</bioguideId>
+          <lisID>2332</lisID>
+        </identifiers>
+        <firstName>Jamie</firstName>
+        <middleName />
+        <bioguideId>R000606</bioguideId>
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <lastName>Huffman</lastName>
+        <party>D</party>
+        <middleName />
+        <firstName>Jared</firstName>
+        <district>2</district>
+        <byRequestType />
+        <state>CA</state>
+        <bioguideId>H001068</bioguideId>
+        <identifiers>
+          <lisID>2101</lisID>
+          <bioguideId>H001068</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Huffman, Jared [D-CA-2]</fullName>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2018-04-26T14:01:15Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <systemCode>hsgo00</systemCode>
+          <subcommittees />
+          <name>Oversight and Reform Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <titles>
+      <item>
+        <chamberCode />
+        <title>Expressing support for the designation of May 3, 2018, as a "National Day of Reason" and recognizing the importance of reason in the betterment of humanity.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Expressing support for the designation of May 3, 2018, as a "National Day of Reason" and recognizing the importance of reason in the betterment of humanity.</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2018-04-26</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2018-04-26T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2019-02-11T20:01:33Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Expresses support for the designation of a National Day of Reason. Encourages people to observe such day by focusing on the employment of reason, critical thought, the scientific method, and free inquiry to the resolution of human problems.</p> <ul> </ul>]]></text>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <createDate>2018-04-27T07:10:50Z</createDate>
+    <amendments />
+    <laws />
+    <calendarNumbers />
+    <title>Expressing support for the designation of May 3, 2018, as a "National Day of Reason" and recognizing the importance of reason in the betterment of humanity.</title>
+    <committeeReports />
+    <introducedDate>2018-04-26</introducedDate>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <text>Referred to the House Committee on Oversight and Government Reform.</text>
+          <actionDate>2017-04-06</actionDate>
+        </latestAction>
+        <latestTitle>Expressing support for the designation of May 4, 2017, as a "National Day of Reason" and recognizing the importance of reason in the betterment of humanity.</latestTitle>
+        <congress>115</congress>
+        <number>263</number>
+        <type>HRES</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Science, Technology, Communications</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>General science and technology matters</name>
+          </item>
+          <item>
+            <name>Science and engineering education</name>
+          </item>
+          <item>
+            <name>Teaching, teachers, curricula</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <congress>115</congress>
+    <billType>HRES</billType>
+    <policyArea>
+      <name>Science, Technology, Communications</name>
+    </policyArea>
+    <constitutionalAuthorityStatementText />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

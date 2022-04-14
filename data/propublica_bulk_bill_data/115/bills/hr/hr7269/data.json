@@ -1,0 +1,117 @@
+{
+  "actions": [
+    {
+      "acted_at": "2018-12-12", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-12-12", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2018-12-18", 
+      "action_code": "", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Social Security.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr7269-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM", 
+      "subcommittee": "Subcommittee on Social Security", 
+      "subcommittee_id": "01"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2018-12-12", 
+  "number": "7269", 
+  "official_title": "To amend title II of the Social Security Act to make the Social Security Trustees Report process more accountable and transparent, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Social Security Trustees Report Accountability, Transparency, and Improvement Act of 2018", 
+  "sponsor": {
+    "bioguide_id": "J000174", 
+    "district": "3", 
+    "name": "Johnson, Sam", 
+    "state": "TX", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2018-12-12", 
+  "subjects": [
+    "Social welfare"
+  ], 
+  "subjects_top_term": "Social welfare", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2018-12-12T05:00:00Z", 
+    "text": "Social Security Trustees Report Accountability, Transparency, and Improvement Act of 2018\n\nThis bill modifies the information that the Board of Trustees of the Trust Funds must report to Congress annually regarding the status of various Social Security-related trust funds."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title II of the Social Security Act to make the Social Security Trustees Report process more accountable and transparent, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Social Security Trustees Report Accountability, Transparency, and Improvement Act of 2018", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Social Security Trustees Report Accountability, Transparency, and Improvement Act of 2018", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Social Security Trustees Report Accountability, Transparency, and Improvement Act of 2018", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-11-15T21:43:49Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr7269.xml"
+}

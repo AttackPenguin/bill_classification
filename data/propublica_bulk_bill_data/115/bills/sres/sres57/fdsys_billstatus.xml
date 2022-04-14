@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <congress>115</congress>
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in Senate</name>
+          <text><![CDATA[<p>Designates the majority party membership on specified Senate committees for the 115th Congress.</p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2017-03-11T17:24:32Z</lastSummaryUpdateDate>
+          <actionDate>2017-02-09</actionDate>
+          <updateDate>2017-02-09T05:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+        </item>
+        <item>
+          <name>Passed Senate without amendment</name>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</p> <p>Designates the majority party membership on specified Senate committees for the 115th Congress.</p>]]></text>
+          <actionDesc>Passed Senate without amendment</actionDesc>
+          <lastSummaryUpdateDate>2017-03-16T19:17:31Z</lastSummaryUpdateDate>
+          <actionDate>2017-02-09</actionDate>
+          <updateDate>2017-02-09T19:14:07Z</updateDate>
+          <versionCode>82</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <createDate>2017-02-10T07:41:47Z</createDate>
+    <sponsors>
+      <item>
+        <state>KY</state>
+        <fullName>Sen. McConnell, Mitch [R-KY]</fullName>
+        <identifiers>
+          <lisID>1395</lisID>
+          <bioguideId>M000355</bioguideId>
+          <gpoId>8254</gpoId>
+        </identifiers>
+        <middleName />
+        <lastName>MCCONNELL</lastName>
+        <bioguideId>M000355</bioguideId>
+        <byRequestType />
+        <party>R</party>
+        <firstName>MITCH</firstName>
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A resolution to constitute the majority party's membership on certain committees for the One Hundred Fifteenth Congress, or until their successors are chosen.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>A resolution to constitute the majority party's membership on certain committees for the One Hundred Fifteenth Congress, or until their successors are chosen.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <recordedVotes />
+    <billNumber>57</billNumber>
+    <laws />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional committees</name>
+          </item>
+          <item>
+            <name>Members of Congress</name>
+          </item>
+          <item>
+            <name>Senate</name>
+          </item>
+          <item>
+            <name>Senate Committee on Agriculture, Nutrition, and Forestry</name>
+          </item>
+          <item>
+            <name>Senate Committee on Armed Services</name>
+          </item>
+          <item>
+            <name>Senate Committee on Energy and Natural Resources</name>
+          </item>
+          <item>
+            <name>Senate Committee on Environment and Public Works</name>
+          </item>
+          <item>
+            <name>Senate Committee on the Budget</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <cboCostEstimates />
+    <relatedBills />
+    <textVersions>
+      <item>
+        <type>Agreed to Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115sres57ats/xml/BILLS-115sres57ats.xml</url>
+          </item>
+        </formats>
+        <date>2017-02-09T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <title>A resolution to constitute the majority party's membership on certain committees for the One Hundred Fifteenth Congress, or until their successors are chosen.</title>
+    <version>1.0.0</version>
+    <committeeReports />
+    <originChamber>Senate</originChamber>
+    <actions>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-02-09</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S1070-1071</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S1070-1071</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S1070-1071; text as passed Senate: CR S1070-1071)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <text>Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S1070-1071; text as passed Senate: CR S1070-1071)</text>
+        <actionDate>2017-02-09</actionDate>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>S1070-1071</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S1070-1071</url>
+          </link>
+        </links>
+        <committee />
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <actionDate>2017-02-09</actionDate>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <passedOrAgreedToInSenateDayOf>1</passedOrAgreedToInSenateDayOf>
+      </actionTypeCounts>
+    </actions>
+    <billType>SRES</billType>
+    <committees>
+      <billCommittees />
+    </committees>
+    <latestAction>
+      <text>Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S1070-1071; text as passed Senate: CR S1070-1071)</text>
+      <links />
+      <actionDate>2017-02-09</actionDate>
+    </latestAction>
+    <calendarNumbers />
+    <introducedDate>2017-02-09</introducedDate>
+    <amendments />
+    <notes />
+    <updateDate>2019-04-18T16:29:25Z</updateDate>
+    <cosponsors />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

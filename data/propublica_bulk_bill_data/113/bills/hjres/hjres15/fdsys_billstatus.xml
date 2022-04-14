@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2013-01-25</actionDate>
+        <committee>
+          <systemCode>hsju10</systemCode>
+          <name>Constitution and Civil Justice Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on the Constitution And Civil Justice.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <actionDate>2013-01-04</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2013-01-04</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2013-01-04</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <relatedBills />
+    <congress>113</congress>
+    <billType>HJRES</billType>
+    <cosponsors />
+    <notes />
+    <createDate>2013-01-05T07:00:46Z</createDate>
+    <introducedDate>2013-01-04</introducedDate>
+    <version>1.0.0</version>
+    <committeeReports />
+    <latestAction>
+      <links />
+      <actionDate>2013-01-25</actionDate>
+      <text>Referred to the Subcommittee on the Constitution And Civil Justice.</text>
+    </latestAction>
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>Proposing an amendment to the Constitution of the United States to repeal the twenty-second article of amendment, thereby removing the limitation on the number of terms an individual may serve as President.</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>Proposing an amendment to the Constitution of the United States to repeal the twenty-second article of amendment, thereby removing the limitation on the number of terms an individual may serve as President.</title>
+      </item>
+    </titles>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Constitution and constitutional amendments</name>
+          </item>
+          <item>
+            <name>Presidents and presidential powers, Vice Presidents</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <updateDate>2018-06-05T15:51:43Z</updateDate>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <middleName>E.</middleName>
+        <fullName>Rep. Serrano, Jose E. [D-NY-15]</fullName>
+        <identifiers>
+          <bioguideId>S000248</bioguideId>
+          <gpoId>8077</gpoId>
+          <lisID>1042</lisID>
+        </identifiers>
+        <byRequestType />
+        <firstName>JOSE</firstName>
+        <lastName>SERRANO</lastName>
+        <bioguideId>S000248</bioguideId>
+        <state>NY</state>
+        <district>15</district>
+      </item>
+    </sponsors>
+    <title>Proposing an amendment to the Constitution of the United States to repeal the twenty-second article of amendment, thereby removing the limitation on the number of terms an individual may serve as President.</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2013-01-08T21:27:52Z</lastSummaryUpdateDate>
+          <actionDate>2013-01-04</actionDate>
+          <text><![CDATA[Constitutional Amendment - Repeals the 22nd Amendment to the Constitution (thereby removing the limitation on the number of terms an individual may serve as President).]]></text>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2013-01-04T05:00:00Z</updateDate>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>15</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hsju10</systemCode>
+              <name>Constitution and Civil Justice Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2013-01-25T19:23:28Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-01-04T15:07:35Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>House</originChamber>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <cboCostEstimates />
+    <recordedVotes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 159, Number 2 (Friday, January 4, 2013)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. SERRANO:H.J. Res. 15.Congress has the power to enact this legislation pursuantto the following:This proposed constitutional amendment is introducedpursuant to Article V of the Constitution, and seeks torepeal the 22nd Amendment to the Constitution.[Page H56]</pre>]]></constitutionalAuthorityStatementText>
+    <amendments />
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

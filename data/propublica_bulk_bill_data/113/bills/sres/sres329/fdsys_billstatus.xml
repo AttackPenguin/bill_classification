@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2014-01-07</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S70</name>
+            <url>https://www.congress.gov/congressional-record/volume-160/senate-section/page/S70</url>
+          </link>
+          <link>
+            <name>S83</name>
+            <url>https://www.congress.gov/congressional-record/volume-160/senate-section/page/S83</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S83; text as passed Senate: CR S70)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.(consideration: CR S83; text as passed Senate: CR S70)</text>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <committee />
+        <actionDate>2014-01-07</actionDate>
+        <links>
+          <link>
+            <name>S70</name>
+            <url>https://www.congress.gov/congressional-record/volume-160/senate-section/page/S70</url>
+          </link>
+          <link>
+            <name>S83</name>
+            <url>https://www.congress.gov/congressional-record/volume-160/senate-section/page/S83</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <committee />
+        <actionDate>2014-01-07</actionDate>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <passedOrAgreedToInSenateDayOf>1</passedOrAgreedToInSenateDayOf>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+    </actions>
+    <introducedDate>2014-01-07</introducedDate>
+    <updateDate>2016-10-25T16:18:52Z</updateDate>
+    <createDate>2014-01-08T07:02:03Z</createDate>
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees />
+    </committees>
+    <cosponsors>
+      <item>
+        <fullName>Sen. Kirk, Mark Steven [R-IL]</fullName>
+        <middleName>STEVEN</middleName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>K000360</bioguideId>
+        <identifiers>
+          <lisID>1647</lisID>
+          <bioguideId>K000360</bioguideId>
+          <gpoId>8285</gpoId>
+        </identifiers>
+        <sponsorshipDate>2014-01-07</sponsorshipDate>
+        <lastName>KIRK</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <state>IL</state>
+        <firstName>MARK</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Rockefeller, John D., IV [D-WV]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>R000361</bioguideId>
+        <identifiers>
+          <bioguideId>R000361</bioguideId>
+          <gpoId>8273</gpoId>
+          <lisID>1424</lisID>
+        </identifiers>
+        <sponsorshipDate>2014-01-07</sponsorshipDate>
+        <lastName>ROCKEFELLER</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <state>WV</state>
+        <firstName>JAY</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Alexander, Lamar [R-TN]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>A000360</bioguideId>
+        <identifiers>
+          <lisID>1695</lisID>
+          <gpoId>8304</gpoId>
+          <bioguideId>A000360</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2014-01-07</sponsorshipDate>
+        <lastName>Alexander</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <state>TN</state>
+        <firstName>Lamar</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Baucus, Max [D-MT]</fullName>
+        <middleName>SIEBEN</middleName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B000243</bioguideId>
+        <identifiers>
+          <bioguideId>B000243</bioguideId>
+          <gpoId>8298</gpoId>
+          <lisID>66</lisID>
+        </identifiers>
+        <sponsorshipDate>2014-01-07</sponsorshipDate>
+        <lastName>BAUCUS</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <state>MT</state>
+        <firstName>MAX</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Crapo, Mike [R-ID]</fullName>
+        <middleName>D.</middleName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C000880</bioguideId>
+        <identifiers>
+          <lisID>250</lisID>
+          <gpoId>8289</gpoId>
+          <bioguideId>C000880</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2014-01-07</sponsorshipDate>
+        <lastName>CRAPO</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <state>ID</state>
+        <firstName>MICHAEL</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Durbin, Richard [D-IL]</fullName>
+        <middleName>J.</middleName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>D000563</bioguideId>
+        <identifiers>
+          <bioguideId>D000563</bioguideId>
+          <lisID>326</lisID>
+          <gpoId>8326</gpoId>
+        </identifiers>
+        <sponsorshipDate>2014-01-07</sponsorshipDate>
+        <lastName>DURBIN</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <state>IL</state>
+        <firstName>RICHARD</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Ayotte, Kelly [R-NH]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>A000368</bioguideId>
+        <identifiers>
+          <lisID>2075</lisID>
+          <bioguideId>A000368</bioguideId>
+          <gpoId>8315</gpoId>
+        </identifiers>
+        <sponsorshipDate>2014-01-07</sponsorshipDate>
+        <lastName>Ayotte</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <state>NH</state>
+        <firstName>Kelly</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>K000367</bioguideId>
+        <identifiers>
+          <lisID>1826</lisID>
+          <bioguideId>K000367</bioguideId>
+          <gpoId>8249</gpoId>
+        </identifiers>
+        <sponsorshipDate>2014-01-07</sponsorshipDate>
+        <lastName>Klobuchar</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <state>MN</state>
+        <firstName>Amy</firstName>
+      </item>
+    </cosponsors>
+    <congress>113</congress>
+    <billType>SRES</billType>
+    <title>A resolution expressing support for the goals and ideals of the biennial USA Science &amp; Engineering Festival in Washington, DC and designating April 21 through April 27, 2014, as "National Science and Technology Week".</title>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A resolution expressing support for the goals and ideals of the biennial USA Science &amp; Engineering Festival in Washington, DC and designating April 21 through April 27, 2014, as "National Science and Technology Week".</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>A resolution expressing support for the goals and ideals of the biennial USA Science &amp; Engineering Festival in Washington, DC and designating April 21 through April 27, 2014, as "National Science and Technology Week".</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in Senate</name>
+          <text><![CDATA[<p>Expresses the support of the Senate for the goals and ideals of the USA Science &amp; Engineering Festival to promote scholarship in science and an interest in scientific research and development as the cornerstones of innovation and competition in the United States. </p> <p>Supports festivals such as the USA Science &amp; Engineering Festival, that focus on the importance of science and engineering to the daily lives of individuals in the United States through exhibits on topics that include human spaceflight, medicine, engineering, biotechnology, physics, and astronomy. </p> <p>Congratulates all the individuals and organizations whose efforts will make possible the USA Science &amp; Engineering Festival, highlighting the accomplishments of the United States in science and engineering. </p> <p>Designates April 21-27, 2014, as National Science and Technology Week. </p>]]></text>
+          <lastSummaryUpdateDate>2014-01-10T17:13:22Z</lastSummaryUpdateDate>
+          <updateDate>2014-01-07T05:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDate>2014-01-07</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+        </item>
+        <item>
+          <name>Passed Senate without amendment</name>
+          <text><![CDATA[<p><b>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</b></p> <p>Expresses the support of the Senate for the goals and ideals of the USA Science &amp; Engineering Festival to promote scholarship in science and an interest in scientific research and development as the cornerstones of innovation and competition in the United States. </p> <p>Supports festivals, such as the USA Science &amp; Engineering Festival, that focus on the importance of science and engineering to the daily lives of individuals in the United States through exhibits on topics that include human spaceflight, medicine, engineering, biotechnology, physics, and astronomy. </p> <p>Congratulates all the individuals and organizations whose efforts will make possible the USA Science &amp; Engineering Festival, highlighting the accomplishments of the United States in science and engineering. </p> <p>Designates April 21-27, 2014, as National Science and Technology Week. </p>]]></text>
+          <lastSummaryUpdateDate>2014-02-05T15:50:15Z</lastSummaryUpdateDate>
+          <updateDate>2014-01-07T12:14:49Z</updateDate>
+          <versionCode>82</versionCode>
+          <actionDate>2014-01-07</actionDate>
+          <actionDesc>Passed Senate without amendment</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <congress>113</congress>
+        <latestAction>
+          <text>Referred to the House Committee on Science, Space, and Technology.</text>
+          <actionDate>2013-06-25</actionDate>
+        </latestAction>
+        <latestTitle>Supporting the goals and ideals of National Science Week and the biennial USA Science &amp; Engineering Festival in Washington, D.C., and inviting State and local governments to recognize the last week in April as a National Science Week.</latestTitle>
+        <type>HRES</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>276</number>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Science, Technology, Communications</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>District of Columbia</name>
+          </item>
+          <item>
+            <name>Elementary and secondary education</name>
+          </item>
+          <item>
+            <name>Higher education</name>
+          </item>
+          <item>
+            <name>Museums, exhibitions, cultural centers</name>
+          </item>
+          <item>
+            <name>Research and development</name>
+          </item>
+          <item>
+            <name>Science and engineering education</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S83; text as passed Senate: CR S70)</text>
+      <actionDate>2014-01-07</actionDate>
+    </latestAction>
+    <billNumber>329</billNumber>
+    <policyArea>
+      <name>Science, Technology, Communications</name>
+    </policyArea>
+    <amendments />
+    <sponsors>
+      <item>
+        <firstName>Christopher</firstName>
+        <party>D</party>
+        <fullName>Sen. Coons, Christopher A. [D-DE]</fullName>
+        <bioguideId>C001088</bioguideId>
+        <identifiers>
+          <lisID>1984</lisID>
+          <bioguideId>C001088</bioguideId>
+          <gpoId>8297</gpoId>
+        </identifiers>
+        <lastName>Coons</lastName>
+        <middleName>A.</middleName>
+        <state>DE</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

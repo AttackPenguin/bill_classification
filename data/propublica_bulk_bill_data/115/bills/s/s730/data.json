@@ -1,0 +1,166 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-03-27", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-03-27", 
+      "action_code": "", 
+      "committees": [
+        "SSEG"
+      ], 
+      "links": [
+        {
+          "name": "S1999", 
+          "url": "https://www.congress.gov/congressional-record/volume-163/senate-section/page/S1999"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR S1999", 
+          "type": "Sponsor introductory remarks on measure"
+        }
+      ], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Energy and Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2017-03-30", 
+      "action_code": "", 
+      "committees": [
+        "SSEG"
+      ], 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2017-05-24", 
+      "action_code": "", 
+      "committee": "Energy and Natural Resources", 
+      "committees": [
+        "SSEG"
+      ], 
+      "links": [
+        {
+          "name": "report No. 115-82", 
+          "url": "https://www.congress.gov/congressional-report/115th-congress/senate-report/82"
+        }
+      ], 
+      "references": [], 
+      "text": "Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-82.", 
+      "type": "reported"
+    }, 
+    {
+      "acted_at": "2017-05-24", 
+      "action_code": "", 
+      "calendar": "Senate Legislative", 
+      "number": "101", 
+      "references": [], 
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 101.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s730-115", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [
+    "S. Rept. 115-82"
+  ], 
+  "committees": [
+    {
+      "activity": [
+        "reporting", 
+        "markup", 
+        "referral"
+      ], 
+      "committee": "Senate Energy and Natural Resources", 
+      "committee_id": "SSEG"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2017-05-24", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-03-27", 
+  "number": "730", 
+  "official_title": "A bill to extend the deadline for commencement of construction of certain hydroelectric projects.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr446-115", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr447-115", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr5895-115", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "K000384", 
+    "district": null, 
+    "name": "Kaine, Tim", 
+    "state": "VA", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2017-03-30", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Alternative and renewable resources", 
+    "Dams and canals", 
+    "Electric power generation and transmission", 
+    "Energy", 
+    "Federal Energy Regulatory Commission (FERC)", 
+    "Licensing and registrations", 
+    "Virginia"
+  ], 
+  "subjects_top_term": "Energy", 
+  "summary": {
+    "as": "Reported to Senate without amendment", 
+    "date": "2017-05-24T12:38:59Z", 
+    "text": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)\n\n(Sec.1)This bill authorizes the Federal Energy Regulatory Commission (FERC), upon request, to extend by six years the time period during which construction must commence on the Gathright Hydroelectric Project located in Alleghany County, Virginia, and the Flannagan Dam and Reservoir Hydroelectric Project located in Dickenson County, Virginia.\n\nAdditionally, FERC may reinstate either construction license if it is expired."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to extend the deadline for commencement of construction of certain hydroelectric projects.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "A bill to extend the deadline for commencement of construction of certain hydroelectric projects.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-04-18T16:34:19Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/115/s/BILLSTATUS-115s730.xml"
+}

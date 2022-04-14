@@ -1,0 +1,70 @@
+<bill session="113" type="s" number="2793" updated="2016-10-25T16:32:11Z">
+  <state datetime="2014-09-18">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2014-09-18"/>
+  </status>
+  <introduced datetime="2014-09-11"/>
+  <titles>
+    <title type="official" as="introduced">A bill to authorize the award of the Medal of Honor to Henry Johnson.</title>
+    <title type="display">A bill to authorize the award of the Medal of Honor to Henry Johnson.</title>
+  </titles>
+  <sponsor bioguide_id="S000148"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001288" joined="2014-09-17"/>
+    <cosponsor bioguide_id="B000944" joined="2014-09-17"/>
+    <cosponsor bioguide_id="G000555" joined="2014-09-16"/>
+    <cosponsor bioguide_id="H001049" joined="2014-09-17"/>
+    <cosponsor bioguide_id="M000639" joined="2014-09-17"/>
+    <cosponsor bioguide_id="M001176" joined="2014-09-11"/>
+    <cosponsor bioguide_id="P000603" joined="2014-09-11"/>
+    <cosponsor bioguide_id="R000361" joined="2014-09-17"/>
+    <cosponsor bioguide_id="S001184" joined="2014-09-16"/>
+    <cosponsor bioguide_id="W000779" joined="2014-09-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-09-11">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2014-09-11" state="REFERRED">
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+    </action>
+    <action datetime="2014-09-18">
+      <text>Senate Committee on Armed Services discharged by Unanimous Consent.</text>
+      <reference ref="CR S5876-5877" label="consideration"/>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2014-09-18" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S5877" label="text"/>
+    </vote>
+    <action datetime="2014-09-19">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2014-09-19T12:03:30-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2014-09-19">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAS" name="House Armed Services" activity="Referral"/>
+    <committee subcommittee="" code="SSAS" name="Senate Armed Services" activity="Discharged, Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="5459"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Conflicts and wars"/>
+    <term name="Congressional tributes"/>
+    <term name="Europe"/>
+    <term name="France"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Veterans' organizations and recognition"/>
+  </subjects>
+  <amendments/>
+  <summary date="2014-09-18T18:53:09Z" status="Passed Senate without amendment">(This measure has not been amended since it was introduced. The summary of that version is repeated here.)
+
+Authorizes the President to award the Medal of Honor to Henry Johnson for acts of valor during World War I for which he was previously awarded the Distinguished Service Cross.</summary>
+  <committee-reports/>
+</bill>

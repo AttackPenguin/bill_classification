@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <originChamber>House</originChamber>
+    <relatedBills />
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2014-03-25T04:00:00Z</updateDate>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2014-03-31T14:30:50Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[<p>Elects a specified named Member to the following House Committees on: (1) Transportation and Infrastructure, and (2) Veterans' Affairs.</p>]]></text>
+          <actionDate>2014-03-25</actionDate>
+          <versionCode>00</versionCode>
+        </item>
+        <item>
+          <updateDate>2014-03-25T14:31:44Z</updateDate>
+          <name>Passed House without amendment</name>
+          <lastSummaryUpdateDate>2014-03-31T14:31:37Z</lastSummaryUpdateDate>
+          <actionDesc>Passed House without amendment</actionDesc>
+          <text><![CDATA[<p><b>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</b></p> <p>Elects a specified named Member to the following House Committees: (1) Transportation and Infrastructure, and (2) Veterans' Affairs.</p>]]></text>
+          <actionDate>2014-03-25</actionDate>
+          <versionCode>81</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <introducedDate>2014-03-25</introducedDate>
+    <titles>
+      <item>
+        <title>Electing a Member to certain standing committees of the House of Representatives.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>Electing a Member to certain standing committees of the House of Representatives.</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <congress>113</congress>
+    <billNumber>523</billNumber>
+    <constitutionalAuthorityStatementText />
+    <updateDate>2018-06-05T15:49:33Z</updateDate>
+    <billType>HRES</billType>
+    <committees>
+      <billCommittees />
+    </committees>
+    <createDate>2014-03-26T07:19:03Z</createDate>
+    <sponsors>
+      <item>
+        <fullName>Rep. McMorris Rodgers, Cathy [R-WA-5]</fullName>
+        <byRequestType />
+        <middleName />
+        <identifiers>
+          <lisID>1809</lisID>
+          <bioguideId>M001159</bioguideId>
+          <gpoId>8209</gpoId>
+        </identifiers>
+        <district>5</district>
+        <lastName>McMorris Rodgers</lastName>
+        <party>R</party>
+        <state>WA</state>
+        <bioguideId>M001159</bioguideId>
+        <firstName>Cathy</firstName>
+      </item>
+    </sponsors>
+    <committeeReports />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <considerationByHouse>1</considerationByHouse>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2014-03-25</actionDate>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <links />
+        <type>Floor</type>
+        <actionCode>H38310</actionCode>
+        <committee />
+        <actionTime>12:30:24</actionTime>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2014-03-25</actionDate>
+        <text>On agreeing to the resolution Agreed to without objection. (text: CR H2621)</text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-160/house-section/page/H2621</url>
+            <name>H2621</name>
+          </link>
+        </links>
+        <type>Floor</type>
+        <actionCode>H37100</actionCode>
+        <committee />
+        <actionTime>12:30:16</actionTime>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2014-03-25</actionDate>
+        <text>Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H2621)</text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-160/house-section/page/H2621</url>
+            <name>H2621</name>
+          </link>
+        </links>
+        <type>Floor</type>
+        <actionCode>8000</actionCode>
+        <committee />
+        <actionTime>12:30:16</actionTime>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2014-03-25</actionDate>
+        <text>Considered as privileged matter. (consideration: CR H2621)</text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-160/house-section/page/H2621</url>
+            <name>H2621</name>
+          </link>
+        </links>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+        <committee />
+        <actionTime>12:30:00</actionTime>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2014-03-25</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2014-03-25</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <amendments />
+    <cboCostEstimates />
+    <cosponsors />
+    <recordedVotes />
+    <latestAction>
+      <actionDate>2014-03-25</actionDate>
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      <links />
+      <actionTime>12:30:24</actionTime>
+    </latestAction>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional committees</name>
+          </item>
+          <item>
+            <name>House Committee on Transportation and Infrastructure</name>
+          </item>
+          <item>
+            <name>House Committee on Veterans' Affairs</name>
+          </item>
+          <item>
+            <name>House of Representatives</name>
+          </item>
+          <item>
+            <name>Members of Congress</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <calendarNumbers />
+    <notes />
+    <laws />
+    <title>Electing a Member to certain standing committees of the House of Representatives.</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

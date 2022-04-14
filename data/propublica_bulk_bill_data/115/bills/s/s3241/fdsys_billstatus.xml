@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2018-07-20T04:40:45Z</createDate>
+    <introducedDate>2018-07-19</introducedDate>
+    <version>1.0.0</version>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2018-07-19</actionDate>
+        <committee>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>ssva00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <actionDate>2018-07-19</actionDate>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+      <actionDate>2018-07-19</actionDate>
+    </latestAction>
+    <title>Gold Star Spouses Leasing Relief Act</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><b>Gold Star Spouses Leasing Relief Act</b></p> <p>This bill amends the Servicemembers Civil Relief Act to permit a widow or widower of a service member who died while in military service to terminate a lease of premises occupied, or intended to be occupied, by the service member or the service member's dependents for a residential, professional, business, agricultural, or similar purpose without penalty within one year of the service member's death.</p>]]></text>
+          <actionDate>2018-07-19</actionDate>
+          <updateDate>2018-07-19T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2018-08-03T15:44:26Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+          <actionDesc>Introduced in Senate</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>3241</billNumber>
+    <laws />
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <identifiers>
+          <bioguideId>W000817</bioguideId>
+          <gpoId />
+          <lisID>2182</lisID>
+        </identifiers>
+        <bioguideId>W000817</bioguideId>
+        <middleName>A.</middleName>
+        <party>D</party>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <firstName>Elizabeth</firstName>
+        <state>MA</state>
+        <lastName>Warren</lastName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <calendarNumbers />
+    <committeeReports />
+    <congress>115</congress>
+    <amendments />
+    <notes />
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2018-07-19T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115s3241is/xml/BILLS-115s3241is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <billType>S</billType>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <relatedBills>
+      <item>
+        <latestTitle>Gold Star Spouses Leasing Relief Act</latestTitle>
+        <congress>115</congress>
+        <type>HR</type>
+        <number>5882</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <text>Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.</text>
+          <actionDate>2018-07-25</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <cboCostEstimates />
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Veterans' Affairs Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <systemCode>ssva00</systemCode>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-07-19T14:57:55Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <bioguideId>P000449</bioguideId>
+          <lisID>924</lisID>
+          <gpoId>8266</gpoId>
+        </identifiers>
+        <bioguideId>P000449</bioguideId>
+        <middleName />
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Portman, Rob [R-OH]</fullName>
+        <lastName>PORTMAN</lastName>
+        <state>OH</state>
+        <firstName>ROB</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-07-19</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <lisID>2179</lisID>
+          <bioguideId>F000463</bioguideId>
+        </identifiers>
+        <bioguideId>F000463</bioguideId>
+        <middleName />
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Fischer, Deb [R-NE]</fullName>
+        <lastName>Fischer</lastName>
+        <state>NE</state>
+        <firstName>Deb</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-07-19</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>N000032</bioguideId>
+          <lisID>859</lisID>
+          <gpoId>8236</gpoId>
+        </identifiers>
+        <bioguideId>N000032</bioguideId>
+        <middleName>WILLIAM</middleName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Nelson, Bill [D-FL]</fullName>
+        <lastName>NELSON</lastName>
+        <state>FL</state>
+        <firstName>CLARENCE</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-07-19</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>J000300</bioguideId>
+          <gpoId />
+          <lisID>2364</lisID>
+        </identifiers>
+        <bioguideId>J000300</bioguideId>
+        <middleName />
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Jones, Doug  [D-AL]</fullName>
+        <lastName>Jones</lastName>
+        <state>AL</state>
+        <firstName>Doug</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-07-19</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>T000461</bioguideId>
+          <gpoId />
+          <lisID>1594</lisID>
+        </identifiers>
+        <bioguideId>T000461</bioguideId>
+        <middleName />
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Toomey, Pat [R-PA]</fullName>
+        <lastName>Toomey</lastName>
+        <state>PA</state>
+        <firstName>Pat</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-07-25</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>B000944</bioguideId>
+          <gpoId>8309</gpoId>
+          <lisID>136</lisID>
+        </identifiers>
+        <bioguideId>B000944</bioguideId>
+        <middleName />
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <lastName>Brown</lastName>
+        <state>OH</state>
+        <firstName>Sherrod</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-07-25</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>C001095</bioguideId>
+          <gpoId />
+          <lisID>2098</lisID>
+        </identifiers>
+        <bioguideId>C001095</bioguideId>
+        <middleName />
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Cotton, Tom [R-AR]</fullName>
+        <lastName>Cotton</lastName>
+        <state>AR</state>
+        <firstName>Tom</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-08-01</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>949</lisID>
+          <gpoId>8272</gpoId>
+          <bioguideId>R000122</bioguideId>
+        </identifiers>
+        <bioguideId>R000122</bioguideId>
+        <middleName>F.</middleName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Reed, Jack [D-RI]</fullName>
+        <lastName>REED</lastName>
+        <state>RI</state>
+        <firstName>JOHN</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-08-01</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <lisID>2174</lisID>
+          <bioguideId>H001069</bioguideId>
+        </identifiers>
+        <bioguideId>H001069</bioguideId>
+        <middleName />
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Heitkamp, Heidi [D-ND]</fullName>
+        <lastName>Heitkamp</lastName>
+        <state>ND</state>
+        <firstName>Heidi</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-10-11</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>M001153</bioguideId>
+          <gpoId>8234</gpoId>
+          <lisID>1694</lisID>
+        </identifiers>
+        <bioguideId>M001153</bioguideId>
+        <middleName />
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Murkowski, Lisa [R-AK]</fullName>
+        <lastName>Murkowski</lastName>
+        <state>AK</state>
+        <firstName>Lisa</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-10-11</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2079</lisID>
+          <gpoId>8331</gpoId>
+          <bioguideId>H001061</bioguideId>
+        </identifiers>
+        <bioguideId>H001061</bioguideId>
+        <middleName />
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Hoeven, John [R-ND]</fullName>
+        <lastName>Hoeven</lastName>
+        <state>ND</state>
+        <firstName>John</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-11-14</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>A bill to amend the Servicemembers Civil Relief Act to provide for the termination by a spouse of a lessee of certain leases when the lessee dies while in military service.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>Gold Star Spouses Leasing Relief Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>Gold Star Spouses Leasing Relief Act</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>Gold Star Spouses Leasing Relief Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+    <updateDate>2019-04-18T16:44:45Z</updateDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

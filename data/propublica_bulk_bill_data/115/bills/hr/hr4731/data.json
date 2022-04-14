@@ -1,0 +1,179 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-12-21", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-12-21", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2018-01-02", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Federal Lands.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2018-02-28", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-03-07", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Subcommittee on Federal Lands Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-03-07", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-03-07", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2018-11-27", 
+      "action_code": "H12200", 
+      "committees": [
+        "HSII"
+      ], 
+      "links": [
+        {
+          "name": "H. Rept. 115-1049", 
+          "url": "https://www.congress.gov/congressional-report/115th-congress/house-report/1049"
+        }
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-1049.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-11-27", 
+      "action_code": "H12410", 
+      "calendar": "Union", 
+      "number": "816", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 816.", 
+      "type": "calendar", 
+      "under": null
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4731-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [
+    "H. Rept. 115-1049"
+  ], 
+  "committees": [
+    {
+      "activity": [
+        "reporting", 
+        "markup", 
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "discharged", 
+        "hearings", 
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on National Parks, Forests, and Public Lands", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2018-02-28", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-12-21", 
+  "number": "4731", 
+  "official_title": "To extend the retained use estate for the Caneel Bay resort in St. John, United States Virgin Islands, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "P000610", 
+    "district": "0", 
+    "name": "Plaskett, Stacey E.", 
+    "state": "VI", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2018-03-07", 
+  "subjects": [
+    "Public lands and natural resources"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2017-12-21T05:00:00Z", 
+    "text": "This bill directs the Department of the Interior,\u00a0upon request by the holder of the retained use estate for the operation and management of the Caneel Bay resort in the Virgin Islands National Park, to extend\u00a0the retained use estate for such purpose."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To extend the retained use estate for the Caneel Bay resort in St. John, United States Virgin Islands, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "To extend the retained use estate for the Caneel Bay resort in St. John, United States Virgin Islands, and for other purposes.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-11-15T21:31:15Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr4731.xml"
+}

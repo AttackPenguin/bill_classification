@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Disaster relief and insurance</name>
+          </item>
+          <item>
+            <name>Government trust funds</name>
+          </item>
+          <item>
+            <name>Tax administration and collection, taxpayers</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <relatedBills />
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Transportation and Infrastructure Committee</name>
+          <activities>
+            <item>
+              <date>2017-01-03T17:17:05Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <systemCode>hspw13</systemCode>
+              <name>Economic Development, Public Buildings, and Emergency Management Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2017-01-04T21:53:14Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <systemCode>hspw00</systemCode>
+          <chamber>House</chamber>
+        </item>
+        <item>
+          <type>Standing</type>
+          <name>Ways and Means Committee</name>
+          <activities>
+            <item>
+              <date>2017-01-03T17:17:00Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <systemCode>hswm00</systemCode>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><b>Donate for Disaster Relief Act of 2017</b></p> <p>This bill amends the Internal Revenue Code to allow individual taxpayers to designate an amount (not less than $1) of any overpayment of income tax to a Disaster Relief Fund, established by this bill, for the purpose of providing relief for major disasters declared under the Robert T. Stafford Disaster Relief and Emergency Assistance Act.</p>]]></text>
+          <actionDate>2017-01-03</actionDate>
+          <lastSummaryUpdateDate>2017-01-12T14:26:25Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2017-01-03T05:00:00Z</updateDate>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <version>1.0.0</version>
+    <originChamber>House</originChamber>
+    <congress>115</congress>
+    <latestAction>
+      <actionDate>2017-01-04</actionDate>
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+      <links />
+    </latestAction>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <billReferrals>2</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-01-04</actionDate>
+        <committee>
+          <name>Economic Development, Public Buildings, and Emergency Management Subcommittee</name>
+          <systemCode>hspw13</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2017-01-03</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Transportation and Infrastructure Committee</name>
+          <systemCode>hspw00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2017-01-03</actionDate>
+        <actionCode>H11100-A</actionCode>
+        <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2017-01-03</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2017-01-03</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2017-01-03</actionDate>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+    </actions>
+    <createDate>2017-01-04T07:01:12Z</createDate>
+    <laws />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>To amend the Internal Revenue Code of 1986 to allow individuals to designate overpayments of income tax for disaster relief.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>Donate for Disaster Relief Act of 2017</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>Donate for Disaster Relief Act of 2017</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>Donate for Disaster Relief Act of 2017</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 1 (Tuesday, January 3, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. HASTINGS:H.R. 168.Congress has the power to enact this legislation pursuantto the following:U.S. Constitution, Article 1, Section. 8.[Page H51]</pre>]]></constitutionalAuthorityStatementText>
+    <introducedDate>2017-01-03</introducedDate>
+    <calendarNumbers />
+    <recordedVotes />
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2017-01-03T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr168ih/xml/BILLS-115hr168ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <cosponsors>
+      <item>
+        <firstName>Al</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Green</lastName>
+        <sponsorshipDate>2017-01-11</sponsorshipDate>
+        <middleName />
+        <district>9</district>
+        <state>TX</state>
+        <identifiers>
+          <lisID>1803</lisID>
+          <gpoId>8165</gpoId>
+          <bioguideId>G000553</bioguideId>
+        </identifiers>
+        <bioguideId>G000553</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Green, Al [D-TX-9]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>Terri</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Sewell</lastName>
+        <sponsorshipDate>2017-09-06</sponsorshipDate>
+        <middleName>A.</middleName>
+        <district>7</district>
+        <state>AL</state>
+        <identifiers>
+          <lisID>1988</lisID>
+          <gpoId>7792</gpoId>
+          <bioguideId>S001185</bioguideId>
+        </identifiers>
+        <bioguideId>S001185</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Sewell, Terri A. [D-AL-7]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>EDDIE</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>JOHNSON</lastName>
+        <sponsorshipDate>2017-09-07</sponsorshipDate>
+        <middleName>BERNICE</middleName>
+        <district>30</district>
+        <state>TX</state>
+        <identifiers>
+          <lisID>599</lisID>
+          <gpoId>8186</gpoId>
+          <bioguideId>J000126</bioguideId>
+        </identifiers>
+        <bioguideId>J000126</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Johnson, Eddie Bernice [D-TX-30]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>Joyce</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Beatty</lastName>
+        <sponsorshipDate>2017-09-07</sponsorshipDate>
+        <middleName />
+        <district>3</district>
+        <state>OH</state>
+        <identifiers>
+          <lisID>2153</lisID>
+          <gpoId />
+          <bioguideId>B001281</bioguideId>
+        </identifiers>
+        <bioguideId>B001281</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Beatty, Joyce [D-OH-3]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>Frederica</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Wilson</lastName>
+        <sponsorshipDate>2017-09-07</sponsorshipDate>
+        <middleName>S.</middleName>
+        <district>24</district>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>W000808</bioguideId>
+          <gpoId>7889</gpoId>
+          <lisID>2004</lisID>
+        </identifiers>
+        <bioguideId>W000808</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Wilson, Frederica S. [D-FL-24]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>Dwight</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Evans</lastName>
+        <sponsorshipDate>2017-09-07</sponsorshipDate>
+        <middleName />
+        <district>2</district>
+        <state>PA</state>
+        <identifiers>
+          <bioguideId>E000296</bioguideId>
+          <lisID>2298</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>E000296</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Evans, Dwight [D-PA-2]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>Henry</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Johnson</lastName>
+        <sponsorshipDate>2017-09-07</sponsorshipDate>
+        <middleName>C. "Hank"</middleName>
+        <district>4</district>
+        <state>GA</state>
+        <identifiers>
+          <lisID>1843</lisID>
+          <gpoId>7901</gpoId>
+          <bioguideId>J000288</bioguideId>
+        </identifiers>
+        <bioguideId>J000288</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>SHEILA</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>JACKSON LEE</lastName>
+        <sponsorshipDate>2017-09-08</sponsorshipDate>
+        <middleName />
+        <district>18</district>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>J000032</bioguideId>
+          <lisID>588</lisID>
+          <gpoId>8174</gpoId>
+        </identifiers>
+        <bioguideId>J000032</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Jackson Lee, Sheila [D-TX-18]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>ELEANOR</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>NORTON</lastName>
+        <sponsorshipDate>2018-05-08</sponsorshipDate>
+        <middleName>HOLMES</middleName>
+        <district>0</district>
+        <state>DC</state>
+        <identifiers>
+          <lisID>868</lisID>
+          <gpoId>7871</gpoId>
+          <bioguideId>N000147</bioguideId>
+        </identifiers>
+        <bioguideId>N000147</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <amendments />
+    <billNumber>168</billNumber>
+    <updateDate>2019-11-15T21:39:56Z</updateDate>
+    <cboCostEstimates />
+    <title>Donate for Disaster Relief Act of 2017</title>
+    <committeeReports />
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <district>20</district>
+        <lastName>HASTINGS</lastName>
+        <firstName>ALCEE</firstName>
+        <state>FL</state>
+        <fullName>Rep. Hastings, Alcee L. [D-FL-20]</fullName>
+        <identifiers>
+          <lisID>511</lisID>
+          <gpoId>7895</gpoId>
+          <bioguideId>H000324</bioguideId>
+        </identifiers>
+        <middleName>L.</middleName>
+        <bioguideId>H000324</bioguideId>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

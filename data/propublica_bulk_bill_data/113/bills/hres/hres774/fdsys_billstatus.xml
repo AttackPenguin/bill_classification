@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <text>Referred to the House Committee on Oversight and Government Reform.</text>
+        <actionDate>2014-12-08</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <committee>
+          <name>Oversight and Government Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionDate>2014-12-08</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionDate>2014-12-08</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <district>23</district>
+        <fullName>Rep. Reed, Tom [R-NY-23]</fullName>
+        <lastName>Reed</lastName>
+        <middleName />
+        <state>NY</state>
+        <party>R</party>
+        <identifiers>
+          <gpoId>8090</gpoId>
+          <lisID>1982</lisID>
+          <bioguideId>R000585</bioguideId>
+        </identifiers>
+        <firstName>Tom</firstName>
+        <bioguideId>R000585</bioguideId>
+      </item>
+    </sponsors>
+    <congress>113</congress>
+    <constitutionalAuthorityStatementText />
+    <billNumber>774</billNumber>
+    <cboCostEstimates />
+    <updateDate>2016-10-25T15:56:08Z</updateDate>
+    <laws />
+    <createDate>2014-12-09T05:02:05Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Oversight and Government Reform Committee</name>
+          <subcommittees />
+          <chamber>House</chamber>
+          <systemCode>hsgo00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2014-12-08T17:01:15Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>Honors the life and accomplishments of Louis Zamperini.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2014-12-15T22:29:51Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <actionDate>2014-12-08</actionDate>
+          <updateDate>2014-12-08T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committeeReports />
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <lisID>1205</lisID>
+          <bioguideId>W000187</bioguideId>
+          <gpoId>7840</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>WATERS</lastName>
+        <middleName />
+        <sponsorshipDate>2014-12-08</sponsorshipDate>
+        <district>43</district>
+        <firstName>MAXINE</firstName>
+        <fullName>Rep. Waters, Maxine [D-CA-43]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>W000187</bioguideId>
+        <state>CA</state>
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Military history</name>
+          </item>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+          <item>
+            <name>Olympic games</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>Honoring the life, accomplishments, and legacy of Louis Zamperini and expressing condolences on his passing.</title>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Honoring the life, accomplishments, and legacy of Louis Zamperini and expressing condolences on his passing.</title>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+    </titles>
+    <originChamber>House</originChamber>
+    <notes />
+    <calendarNumbers />
+    <title>Honoring the life, accomplishments, and legacy of Louis Zamperini and expressing condolences on his passing.</title>
+    <billType>HRES</billType>
+    <introducedDate>2014-12-08</introducedDate>
+    <amendments />
+    <latestAction>
+      <actionDate>2014-12-08</actionDate>
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

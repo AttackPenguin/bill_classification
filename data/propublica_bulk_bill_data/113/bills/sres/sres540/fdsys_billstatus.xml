@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>SRES</billType>
+    <introducedDate>2014-09-10</introducedDate>
+    <committeeReports />
+    <congress>113</congress>
+    <cosponsors>
+      <item>
+        <state>AZ</state>
+        <bioguideId>M000303</bioguideId>
+        <sponsorshipDate>2014-09-10</sponsorshipDate>
+        <identifiers>
+          <lisID>754</lisID>
+          <bioguideId>M000303</bioguideId>
+          <gpoId>8253</gpoId>
+        </identifiers>
+        <party>R</party>
+        <fullName>Sen. McCain, John [R-AZ]</fullName>
+        <firstName>JOHN</firstName>
+        <lastName>MCCAIN</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>SIDNEY</middleName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>FL</state>
+        <bioguideId>R000595</bioguideId>
+        <sponsorshipDate>2014-09-18</sponsorshipDate>
+        <identifiers>
+          <lisID>2084</lisID>
+          <bioguideId>R000595</bioguideId>
+          <gpoId>8242</gpoId>
+        </identifiers>
+        <party>R</party>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <firstName>Marco</firstName>
+        <lastName>Rubio</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>NH</state>
+        <bioguideId>S001181</bioguideId>
+        <sponsorshipDate>2014-09-18</sponsorshipDate>
+        <identifiers>
+          <lisID>1901</lisID>
+          <gpoId>8276</gpoId>
+          <bioguideId>S001181</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <fullName>Sen. Shaheen, Jeanne [D-NH]</fullName>
+        <firstName>Jeanne</firstName>
+        <lastName>Shaheen</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>IL</state>
+        <bioguideId>D000563</bioguideId>
+        <sponsorshipDate>2014-11-12</sponsorshipDate>
+        <identifiers>
+          <lisID>326</lisID>
+          <bioguideId>D000563</bioguideId>
+          <gpoId>8326</gpoId>
+        </identifiers>
+        <party>D</party>
+        <fullName>Sen. Durbin, Richard [D-IL]</fullName>
+        <firstName>RICHARD</firstName>
+        <lastName>DURBIN</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>J.</middleName>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <recordedVotes />
+    <latestAction>
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S6306-6307; text as passed Senate: CR S6306-6307)</text>
+      <links />
+      <actionDate>2014-12-03</actionDate>
+    </latestAction>
+    <relatedBills />
+    <updateDate>2016-10-25T16:19:25Z</updateDate>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForB>1</placeholderTextForB>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <reportedToSenate>2</reportedToSenate>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <introducedInSenate>1</introducedInSenate>
+        <agreedToInSenate>1</agreedToInSenate>
+        <orderedReported>1</orderedReported>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2014-12-03</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S6306-6307</name>
+            <url>https://www.congress.gov/congressional-record/volume-160/senate-section/page/S6306-6307</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S6306-6307; text as passed Senate: CR S6306-6307)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionCode>17000</actionCode>
+        <actionDate>2014-12-03</actionDate>
+        <type>Floor</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>S6306-6307</name>
+            <url>https://www.congress.gov/congressional-record/volume-160/senate-section/page/S6306-6307</url>
+          </link>
+        </links>
+        <text>Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S6306-6307; text as passed Senate: CR S6306-6307)</text>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2014-09-18</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 576.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2014-09-18</actionDate>
+        <committee>
+          <name>Foreign Relations Committee</name>
+          <systemCode>ssfr00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Foreign Relations. Reported by Senator Menendez without amendment. Without written report.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>14000</actionCode>
+        <actionDate>2014-09-18</actionDate>
+        <type>Committee</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <text>Committee on Foreign Relations. Reported by Senator Menendez without amendment. Without written report.</text>
+        <committee>
+          <name>Foreign Relations Committee</name>
+          <systemCode>ssfr00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <actionDate>2014-09-18</actionDate>
+        <committee>
+          <name>Foreign Relations Committee</name>
+          <systemCode>ssfr00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Foreign Relations. Ordered to be reported without amendment favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2014-09-10</actionDate>
+        <committee>
+          <name>Foreign Relations Committee</name>
+          <systemCode>ssfr00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>S5511</name>
+            <url>https://www.congress.gov/congressional-record/volume-160/senate-section/page/S5511</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S5511)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>B00100</actionCode>
+        <actionDate>2014-09-10</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>S5511-5512</name>
+            <url>https://www.congress.gov/congressional-record/volume-160/senate-section/page/S5511-5512</url>
+          </link>
+        </links>
+        <text>Sponsor introductory remarks on measure. (CR S5511-5512)</text>
+        <committee />
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <actionDate>2014-09-10</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <text>Introduced in Senate</text>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>8</senate>
+      </actionByCounts>
+    </actions>
+    <calendarNumbers>
+      <item>
+        <number>0576</number>
+        <calendar>Senate Calendar of Business</calendar>
+      </item>
+    </calendarNumbers>
+    <amendments />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Supports the goals of the International Day of Democracy.</p> <p> Recognizes the importance of civil society to the healthy development of nations. </p> <p>Reaffirms the commitment of the United States to the protection and advancement of democracy throughout the world. </p> <p>Condemns the use of restrictions, coercion, threats, or force to impede the activities of civil society organizations. </p> <p>Recognizes the important role diplomacy plays in defending global civil society and creating new openings for civic space.</p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <actionDate>2014-09-10</actionDate>
+          <updateDate>2014-09-10T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2014-09-11T20:53:41Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+          <versionCode>00</versionCode>
+        </item>
+        <item>
+          <text><![CDATA[<p><b>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</b></p> <p>Supports the goals of the International Day of Democracy.</p> <p> Recognizes the importance of civil society to the healthy development of nations. </p> <p>Reaffirms the commitment of the United States to the protection and advancement of democracy throughout the world. </p> <p>Condemns the use of restrictions, coercion, threats, or force to impede the activities of civil society organizations. </p> <p>Recognizes the important role diplomacy plays in defending global civil society and creating new openings for civic space.</p>]]></text>
+          <actionDesc>Reported to Senate without amendment</actionDesc>
+          <actionDate>2014-09-18</actionDate>
+          <updateDate>2014-09-18T16:51:54Z</updateDate>
+          <lastSummaryUpdateDate>2014-09-19T21:09:51Z</lastSummaryUpdateDate>
+          <name>Reported to Senate without amendment</name>
+          <versionCode>80</versionCode>
+        </item>
+        <item>
+          <text><![CDATA[<p><b>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</b></p> <p>Supports the goals of the International Day of Democracy.</p> <p> Recognizes the importance of civil society to the healthy development of nations. </p> <p>Reaffirms the commitment of the United States to the protection and advancement of democracy throughout the world. </p> <p>Condemns the use of restrictions, coercion, threats, or force to impede the activities of civil society organizations. </p> <p>Recognizes the important role diplomacy plays in defending global civil society and creating new openings for civic space.</p>]]></text>
+          <actionDesc>Passed Senate without amendment</actionDesc>
+          <actionDate>2014-12-03</actionDate>
+          <updateDate>2014-12-03T15:12:11Z</updateDate>
+          <lastSummaryUpdateDate>2014-12-04T19:59:25Z</lastSummaryUpdateDate>
+          <name>Passed Senate without amendment</name>
+          <versionCode>82</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Diplomacy, foreign officials, Americans abroad</name>
+          </item>
+          <item>
+            <name>Foreign aid and international relief</name>
+          </item>
+          <item>
+            <name>Human rights</name>
+          </item>
+          <item>
+            <name>Protest and dissent</name>
+          </item>
+          <item>
+            <name>Public-private cooperation</name>
+          </item>
+          <item>
+            <name>Rule of law and government transparency</name>
+          </item>
+          <item>
+            <name>Sovereignty, recognition, national governance and status</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <title>A resolution recognizing September 15, 2014, as the International Day of Democracy, affirming the role of civil society as a cornerstone of democracy, and encouraging all governments to stand with civil society in the face of mounting restrictions on civil society organizations.</title>
+    <originChamber>Senate</originChamber>
+    <sponsors>
+      <item>
+        <lastName>CARDIN</lastName>
+        <bioguideId>C000141</bioguideId>
+        <fullName>Sen. Cardin, Benjamin L. [D-MD]</fullName>
+        <identifiers>
+          <lisID>174</lisID>
+          <bioguideId>C000141</bioguideId>
+          <gpoId>8287</gpoId>
+        </identifiers>
+        <party>D</party>
+        <firstName>BENJAMIN</firstName>
+        <middleName>L.</middleName>
+        <state>MD</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <laws />
+    <notes />
+    <createDate>2014-09-11T05:01:18Z</createDate>
+    <billNumber>540</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssfr00</systemCode>
+          <activities>
+            <item>
+              <date>2014-09-18T23:59:45Z</date>
+              <name>Reported by</name>
+            </item>
+            <item>
+              <date>2014-09-18T18:00:00Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2014-09-10T22:22:18Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <name>Foreign Relations Committee</name>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A resolution recognizing September 15, 2014, as the International Day of Democracy, affirming the role of civil society as a cornerstone of democracy, and encouraging all governments to stand with civil society in the face of mounting restrictions on civil society organizations.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>A resolution recognizing September 15, 2014, as the International Day of Democracy, affirming the role of civil society as a cornerstone of democracy, and encouraging all governments to stand with civil society in the face of mounting restrictions on civil society organizations.</title>
+        <chamberCode />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

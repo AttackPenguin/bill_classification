@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Aquaculture</name>
+          </item>
+          <item>
+            <name>Birds</name>
+          </item>
+          <item>
+            <name>Department of the Interior</name>
+          </item>
+          <item>
+            <name>Hunting and fishing</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Animals</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <number>6302</number>
+        <congress>115</congress>
+        <latestAction>
+          <actionDate>2018-10-23</actionDate>
+          <text>Placed on the Union Calendar, Calendar No. 776.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Cormorant Relief Act</latestTitle>
+      </item>
+      <item>
+        <type>S</type>
+        <number>2663</number>
+        <congress>115</congress>
+        <latestAction>
+          <actionDate>2018-04-12</actionDate>
+          <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>ACRE Act</latestTitle>
+      </item>
+      <item>
+        <type>S</type>
+        <number>219</number>
+        <congress>115</congress>
+        <latestAction>
+          <actionDate>2017-01-24</actionDate>
+          <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Safeguard Aquaculture Farmers Act</latestTitle>
+      </item>
+    </relatedBills>
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-02-10T16:42:17Z</date>
+                </item>
+              </activities>
+              <systemCode>hsii10</systemCode>
+              <name>National Parks, Forests, and Public Lands Subcommittee</name>
+            </item>
+            <item>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-02-10T16:42:09Z</date>
+                </item>
+              </activities>
+              <systemCode>hsii13</systemCode>
+              <name>Water, Oceans, and Wildlife Subcommittee</name>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-01-09T17:00:20Z</date>
+            </item>
+          </activities>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2017-01-09</actionDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <updateDate>2017-01-09T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-02-01T19:15:38Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[<p><b>Safeguard Aquaculture Farmers Act</b></p> <p>This bill provides the force and effect of law for certain regulations that allow for the taking of double-crested cormorants (birds) that eat fish at aquaculture facilities. </p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <version>1.0.0</version>
+    <originChamber>House</originChamber>
+    <congress>115</congress>
+    <latestAction>
+      <actionDate>2017-02-10</actionDate>
+      <text>Referred to the Subcommittee on Federal Lands.</text>
+      <links />
+    </latestAction>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-02-10</actionDate>
+        <committee>
+          <systemCode>hsii10</systemCode>
+          <name>National Parks, Forests, and Public Lands Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Federal Lands.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-02-10</actionDate>
+        <committee>
+          <systemCode>hsii13</systemCode>
+          <name>Water, Oceans, and Wildlife Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Water, Power and Oceans.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <text>Referred to the House Committee on Natural Resources.</text>
+        <actionDate>2017-01-09</actionDate>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2017-01-09</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2017-01-09</actionDate>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>2</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <createDate>2017-01-10T05:15:44Z</createDate>
+    <laws />
+    <titles>
+      <item>
+        <title>To provide the force and effect of law for certain regulations relating to the taking of double-crested cormorants to reduce depredation at aquaculture facilities and protect public resources.</title>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <title>Safeguard Aquaculture Farmers Act</title>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <title>Safeguard Aquaculture Farmers Act</title>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <title>Safeguard Aquaculture Farmers Act</title>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 5 (Monday, January 9, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. CRAWFORD:H.R. 368.Congress has the power to enact this legislation pursuantto the following:Article VI, Clause 2 of the United States Constitution asupheld by the Supreme Court in Missouri v. Holland, 252 U.S.416 (1920).[Page H235]</pre>]]></constitutionalAuthorityStatementText>
+    <introducedDate>2017-01-09</introducedDate>
+    <calendarNumbers />
+    <recordedVotes />
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr368ih/xml/BILLS-115hr368ih.xml</url>
+          </item>
+        </formats>
+        <date>2017-01-09T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <bioguideId>A000055</bioguideId>
+          <gpoId>7789</gpoId>
+          <lisID>1460</lisID>
+        </identifiers>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>ROBERT</firstName>
+        <district>4</district>
+        <fullName>Rep. Aderholt, Robert B. [R-AL-4]</fullName>
+        <lastName>ADERHOLT</lastName>
+        <sponsorshipWithdrawnDate />
+        <middleName>B.</middleName>
+        <state>AL</state>
+        <bioguideId>A000055</bioguideId>
+        <sponsorshipDate>2017-01-09</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1933</lisID>
+          <gpoId>8021</gpoId>
+          <bioguideId>H001045</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Gregg</firstName>
+        <district>3</district>
+        <fullName>Rep. Harper, Gregg [R-MS-3]</fullName>
+        <lastName>Harper</lastName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <state>MS</state>
+        <bioguideId>H001045</bioguideId>
+        <sponsorshipDate>2017-01-09</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>W000821</bioguideId>
+          <gpoId />
+          <lisID>2224</lisID>
+        </identifiers>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Bruce</firstName>
+        <district>4</district>
+        <fullName>Rep. Westerman, Bruce [R-AR-4]</fullName>
+        <lastName>Westerman</lastName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <state>AR</state>
+        <bioguideId>W000821</bioguideId>
+        <sponsorshipDate>2017-01-09</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2223</lisID>
+          <gpoId />
+          <bioguideId>H001072</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>J.</firstName>
+        <district>2</district>
+        <fullName>Rep. Hill, J. French [R-AR-2]</fullName>
+        <lastName>Hill</lastName>
+        <sponsorshipWithdrawnDate />
+        <middleName>French</middleName>
+        <state>AR</state>
+        <bioguideId>H001072</bioguideId>
+        <sponsorshipDate>2017-01-09</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1988</lisID>
+          <gpoId>7792</gpoId>
+          <bioguideId>S001185</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Terri</firstName>
+        <district>7</district>
+        <fullName>Rep. Sewell, Terri A. [D-AL-7]</fullName>
+        <lastName>Sewell</lastName>
+        <sponsorshipWithdrawnDate />
+        <middleName>A.</middleName>
+        <state>AL</state>
+        <bioguideId>S001185</bioguideId>
+        <sponsorshipDate>2017-01-09</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2035</lisID>
+          <gpoId>8022</gpoId>
+          <bioguideId>P000601</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Steven</firstName>
+        <district>4</district>
+        <fullName>Rep. Palazzo, Steven M. [R-MS-4]</fullName>
+        <lastName>Palazzo</lastName>
+        <sponsorshipWithdrawnDate />
+        <middleName>M.</middleName>
+        <state>MS</state>
+        <bioguideId>P000601</bioguideId>
+        <sponsorshipDate>2017-01-09</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1991</lisID>
+          <gpoId>7795</gpoId>
+          <bioguideId>W000809</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Steve</firstName>
+        <district>3</district>
+        <fullName>Rep. Womack, Steve [R-AR-3]</fullName>
+        <lastName>Womack</lastName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <state>AR</state>
+        <bioguideId>W000809</bioguideId>
+        <sponsorshipDate>2017-01-09</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>612</lisID>
+          <gpoId>8026</gpoId>
+          <bioguideId>J000255</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>WALTER</firstName>
+        <district>3</district>
+        <fullName>Rep. Jones, Walter B., Jr. [R-NC-3]</fullName>
+        <lastName>JONES</lastName>
+        <sponsorshipWithdrawnDate />
+        <middleName>B.</middleName>
+        <state>NC</state>
+        <bioguideId>J000255</bioguideId>
+        <sponsorshipDate>2017-03-17</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>P000258</bioguideId>
+          <gpoId>8007</gpoId>
+          <lisID>910</lisID>
+        </identifiers>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>COLLIN</firstName>
+        <district>7</district>
+        <fullName>Rep. Peterson, Collin C. [D-MN-7]</fullName>
+        <lastName>PETERSON</lastName>
+        <sponsorshipWithdrawnDate />
+        <middleName>C.</middleName>
+        <state>MN</state>
+        <bioguideId>P000258</bioguideId>
+        <sponsorshipDate>2017-11-30</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <amendments />
+    <billNumber>368</billNumber>
+    <updateDate>2019-11-15T21:31:09Z</updateDate>
+    <cboCostEstimates />
+    <title>Safeguard Aquaculture Farmers Act</title>
+    <committeeReports />
+    <policyArea>
+      <name>Animals</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <district>1</district>
+        <lastName>Crawford</lastName>
+        <firstName>Eric</firstName>
+        <state>AR</state>
+        <fullName>Rep. Crawford, Eric A. "Rick" [R-AR-1]</fullName>
+        <identifiers>
+          <lisID>1989</lisID>
+          <gpoId>7793</gpoId>
+          <bioguideId>C001087</bioguideId>
+        </identifiers>
+        <middleName>A. "Rick"</middleName>
+        <bioguideId>C001087</bioguideId>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

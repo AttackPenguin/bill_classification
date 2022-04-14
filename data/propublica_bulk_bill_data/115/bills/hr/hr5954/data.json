@@ -1,0 +1,352 @@
+{
+  "actions": [
+    {
+      "acted_at": "2018-05-24", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-05-24", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2018-05-24", 
+      "action_code": "", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on the Constitution and Civil Justice.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2018-06-13", 
+      "action_code": "", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-06-13", 
+      "action_code": "", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2018-07-23", 
+      "action_code": "H12200", 
+      "committees": [
+        "HSJU"
+      ], 
+      "links": [
+        {
+          "name": "H. Rept. 115-858", 
+          "url": "https://www.congress.gov/congressional-report/115th-congress/house-report/858"
+        }
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Judiciary. H. Rept. 115-858.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-07-23", 
+      "action_code": "H12410", 
+      "calendar": "Union", 
+      "number": "665", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 665.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2018-07-23T16:15:13-04:00", 
+      "action_code": "H30300", 
+      "references": [], 
+      "text": "Mr. Goodlatte moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-07-23T16:15:33-04:00", 
+      "action_code": "H30000", 
+      "links": [
+        {
+          "name": "H6616-6618", 
+          "url": "https://www.congress.gov/congressional-record/volume-164/house-section/page/H6616-6618"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H6616-6618", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-07-23T16:15:37-04:00", 
+      "action_code": "H8D000", 
+      "links": [
+        {
+          "name": "H.R. 5954", 
+          "url": "https://www.congress.gov/bill/115th-congress/house-bill/5954"
+        }
+      ], 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 5954.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-07-23T16:30:51-04:00", 
+      "action_code": "H37300", 
+      "how": "by voice vote", 
+      "links": [
+        {
+          "name": "H6616", 
+          "url": "https://www.congress.gov/congressional-record/volume-164/house-section/page/H6616"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H6616", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2018-07-23T16:30:53-04:00", 
+      "action_code": "H38310", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-07-24", 
+      "action_code": "", 
+      "calendar": "Senate Legislative", 
+      "number": "527", 
+      "references": [], 
+      "text": "Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 527.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5954-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [
+    "H. Rept. 115-858"
+  ], 
+  "committees": [
+    {
+      "activity": [
+        "reporting", 
+        "markup", 
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Constitution, Civil Rights, and Civil Liberties", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "D000610", 
+      "district": "22", 
+      "name": "Deutch, Theodore E.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2018-06-05", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000578", 
+      "district": "1", 
+      "name": "Gaetz, Matt", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2018-06-05", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "N000002", 
+      "district": "10", 
+      "name": "Nadler, Jerrold", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2018-05-24", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000599", 
+      "district": "8", 
+      "name": "Posey, Bill", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2018-05-24", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000602", 
+      "district": "4", 
+      "name": "Rice, Kathleen M.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2018-05-24", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000609", 
+      "district": "4", 
+      "name": "Rutherford, John H.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2018-06-06", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S000522", 
+      "district": "4", 
+      "name": "Smith, Christopher H.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2018-05-24", 
+      "state": "NJ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2018-06-13", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2018-07-23T16:30:51-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2018-05-24", 
+  "number": "5954", 
+  "official_title": "To amend title 18, United States Code, to clarify the meaning of the terms \"act of war\" and \"blocked asset\", and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2946-115", 
+      "identified_by": "CRS", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Anti-terrorism Clarification Act of 2018", 
+  "sponsor": {
+    "bioguide_id": "G000289", 
+    "district": "6", 
+    "name": "Goodlatte, Bob", 
+    "state": "VA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2018-07-23T16:30:51-04:00", 
+  "subjects": [
+    "Crime and law enforcement"
+  ], 
+  "subjects_top_term": "Crime and law enforcement", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2018-05-24T04:00:00Z", 
+    "text": "Anti-terrorism Clarification Act of 2018\n\nThis bill amends the federal criminal code to make three changes to provisions governing civil claims for damages resulting from an act of international terrorism.\n\nFirst, the bill narrows the limitation on such claims that occur during an act of war. Current law bars claims for international terrorism that occur during an armed conflict between military forces. This bill specifies that designated foreign terrorist organizations and specially designated global terrorists are not military forces.\n\nSecond, the bill makes available any asset of a terrorist party seized or frozen under the Foreign Narcotics Kingpin Designation Act for the satisfaction of court-awarded judgments against the terrorist party.\n\nThird, it allows federal courts to exercise personal jurisdiction over a foreign non-state defendant that accepts benefits from the United States (e.g., foreign assistance)."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 18, United States Code, to clarify the meaning of the terms \"act of war\" and \"blocked asset\", and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Anti-Terrorism Clarification Act of 2018", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Anti-Terrorism Clarification Act of 2018", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Anti-Terrorism Clarification Act of 2018", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Anti-Terrorism Clarification Act of 2018", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Anti-terrorism Clarification Act of 2018", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Anti-terrorism Clarification Act of 2018", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Anti-Terrorism Clarification Act of 2018", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-11-15T21:34:21Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr5954.xml"
+}

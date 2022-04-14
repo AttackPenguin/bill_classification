@@ -1,0 +1,122 @@
+{
+  "actions": [
+    {
+      "acted_at": "2018-03-14", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-03-14", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Oversight and Government Reform.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hres784-115", 
+  "bill_type": "hres", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Oversight and Reform", 
+      "committee_id": "HSGO"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "F000464", 
+      "district": "19", 
+      "name": "Faso, John J.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2018-03-14", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000210", 
+      "district": "2", 
+      "name": "King, Peter T.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2018-03-14", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000478", 
+      "district": "22", 
+      "name": "Tenney, Claudia", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2018-03-14", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2018-03-14", 
+  "number": "784", 
+  "official_title": "Honoring Chris Mazdzer of Saranac Lake, New York, for proudly representing the United States in three consecutive Olympic Winter Games.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "S001196", 
+    "district": "21", 
+    "name": "Stefanik, Elise M.", 
+    "state": "NY", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2018-03-14", 
+  "subjects": [
+    "Athletes", 
+    "Congress", 
+    "New York State", 
+    "Olympic games", 
+    "South Korea", 
+    "Sports and recreation"
+  ], 
+  "subjects_top_term": "Sports and recreation", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2018-03-14T04:00:00Z", 
+    "text": "Congratulates Chris Mazdzer and his hometown of Saranac Lake, New York, on his performance at the 2018 Winter Olympic Games in Pyeongchang, South Korea.\n\nRecognizes Mazdzer for skillfully representing the United States at three consecutive Olympic Winter Games."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Honoring Chris Mazdzer of Saranac Lake, New York, for proudly representing the United States in three consecutive Olympic Winter Games.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Honoring Chris Mazdzer of Saranac Lake, New York, for proudly representing the United States in three consecutive Olympic Winter Games.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-04-18T15:55:07Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/115/hres/BILLSTATUS-115hres784.xml"
+}

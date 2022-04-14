@@ -1,0 +1,296 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-05-03", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-05-03", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2017-05-11", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Energy and Mineral Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2017-07-26", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-07-26", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Unanimous Consent.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2017-09-05", 
+      "action_code": "H12200", 
+      "committees": [
+        "HSII"
+      ], 
+      "links": [
+        {
+          "name": "H. Rept. 115-288", 
+          "url": "https://www.congress.gov/congressional-report/115th-congress/house-report/288"
+        }
+      ], 
+      "references": [], 
+      "text": "Reported by the Committee on Natural Resources. H. Rept. 115-288.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-09-05", 
+      "action_code": "H12410", 
+      "calendar": "Union", 
+      "number": "207", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 207.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2017-10-02T17:02:01-04:00", 
+      "action_code": "H30300", 
+      "references": [], 
+      "text": "Mr. Thompson (PA) moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-10-02T17:02:12-04:00", 
+      "action_code": "H30000", 
+      "links": [
+        {
+          "name": "H7640-7641", 
+          "url": "https://www.congress.gov/congressional-record/volume-163/house-section/page/H7640-7641"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H7640-7641", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-10-02T17:02:13-04:00", 
+      "action_code": "H8D000", 
+      "links": [
+        {
+          "name": "H.R. 2316", 
+          "url": "https://www.congress.gov/bill/115th-congress/house-bill/2316"
+        }
+      ], 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 2316.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-10-02T17:06:57-04:00", 
+      "action_code": "H37300", 
+      "how": "by voice vote", 
+      "links": [
+        {
+          "name": "H7640", 
+          "url": "https://www.congress.gov/congressional-record/volume-163/house-section/page/H7640"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H7640", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2017-10-02T17:07:00-04:00", 
+      "action_code": "H38310", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-10-03", 
+      "action_code": "", 
+      "committees": [
+        "SSEG"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2316-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [
+    "H. Rept. 115-288"
+  ], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Energy and Natural Resources", 
+      "committee_id": "SSEG"
+    }, 
+    {
+      "activity": [
+        "reporting", 
+        "markup", 
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Energy and Mineral Resources", 
+      "subcommittee_id": "06"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "G000410", 
+      "district": "29", 
+      "name": "Green, Gene", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-05-03", 
+      "state": "TX", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2017-07-26", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2017-10-02T17:06:57-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-05-03", 
+  "number": "2316", 
+  "official_title": "To amend the Mineral Leasing Act and the Energy Policy Act of 1992 to repeal provisions relating only to the Allegheny National Forest.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Cooperative Management of Mineral Rights Act of 2017", 
+  "sponsor": {
+    "bioguide_id": "T000467", 
+    "district": "5", 
+    "name": "Thompson, Glenn", 
+    "state": "PA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2017-10-02T17:06:57-04:00", 
+  "subjects": [
+    "Forests, forestry, trees", 
+    "Government information and archives", 
+    "Oil and gas", 
+    "Pennsylvania", 
+    "Public lands and natural resources"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2017-10-02T13:16:00Z", 
+    "text": "(This measure has not been amended since it was introduced. The expanded summary of the House reported version is repeated here.)\n\nCooperative Management of Mineral Rights Act of 2017\n\n(Sec. 2) This bill repeals provisions of the Mineral Leasing Act and the Energy Policy Act of 1992 that require: (1) the Department of Agriculture (USDA) to provide 60 days' advance notice before commencing surface-disturbing activities related to the development of oil and gas deposits on certain land within the Allegheny National Forest in Pennsylvania; and (2) persons who propose to develop oil and gas deposits on such lands to either permit USDA to market merchantable timber owned by the United States on the land subject to such activities or arrange to purchase merchantable timber on that land from USDA, or otherwise arrange for the disposition of such timber, upon such terms as USDA may accept."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Mineral Leasing Act and the Energy Policy Act of 1992 to repeal provisions relating only to the Allegheny National Forest.", 
+      "type": "official"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Cooperative Management of Mineral Rights Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Cooperative Management of Mineral Rights Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Cooperative Management of Mineral Rights Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Cooperative Management of Mineral Rights Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Cooperative Management of Mineral Rights Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Cooperative Management of Mineral Rights Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Cooperative Management of Mineral Rights Act of 2017", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-11-15T21:29:36Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr2316.xml"
+}

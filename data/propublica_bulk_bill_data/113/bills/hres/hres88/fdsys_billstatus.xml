@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>88</billNumber>
+    <introducedDate>2013-02-27</introducedDate>
+    <cboCostEstimates />
+    <billType>HRES</billType>
+    <laws />
+    <congress>113</congress>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Foreign aid and international relief</name>
+          </item>
+          <item>
+            <name>House of Representatives</name>
+          </item>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <updateDate>2018-06-05T15:46:07Z</updateDate>
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2013-02-27T05:00:00Z</updateDate>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2013-03-04T17:48:55Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[<p> Amends Rule XXI (Restrictions on Certain Bills) of the Rules of the House of Representatives to make it out of order to consider any bill or joint resolution that appropriates foreign assistance for more than one country.</p>]]></text>
+          <actionDate>2013-02-27</actionDate>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <committeeReports />
+    <createDate>2013-02-28T07:00:51Z</createDate>
+    <originChamber>House</originChamber>
+    <titles>
+      <item>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Amending the Rules of the House of Representatives to prohibit the consideration of any bill or joint resolution that appropriates foreign assistance for more than one country.</title>
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Amending the Rules of the House of Representatives to prohibit the consideration of any bill or joint resolution that appropriates foreign assistance for more than one country.</title>
+      </item>
+    </titles>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the House Committee on Rules.</text>
+        <committee>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <actionDate>2013-02-27</actionDate>
+        <links />
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2013-02-27</actionDate>
+        <links />
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2013-02-27</actionDate>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <relatedBills />
+    <calendarNumbers />
+    <version>1.0.0</version>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2013-02-27T15:04:40Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsru00</systemCode>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <subcommittees />
+          <name>Rules Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+    <latestAction>
+      <actionDate>2013-02-27</actionDate>
+      <text>Referred to the House Committee on Rules.</text>
+      <links />
+    </latestAction>
+    <cosponsors>
+      <item>
+        <fullName>Rep. McClintock, Tom [R-CA-4]</fullName>
+        <party>R</party>
+        <middleName />
+        <sponsorshipDate>2013-02-27</sponsorshipDate>
+        <sponsorshipWithdrawnDate>2013-02-28</sponsorshipWithdrawnDate>
+        <state>CA</state>
+        <bioguideId>M001177</bioguideId>
+        <firstName>Tom</firstName>
+        <identifiers>
+          <bioguideId>M001177</bioguideId>
+          <gpoId>7809</gpoId>
+          <lisID>1908</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>4</district>
+        <lastName>McClintock</lastName>
+      </item>
+      <item>
+        <fullName>Rep. Westmoreland, Lynn A. [R-GA-3]</fullName>
+        <party>R</party>
+        <middleName>A.</middleName>
+        <sponsorshipDate>2013-02-27</sponsorshipDate>
+        <sponsorshipWithdrawnDate>2013-02-28</sponsorshipWithdrawnDate>
+        <state>GA</state>
+        <bioguideId>W000796</bioguideId>
+        <firstName>Lynn</firstName>
+        <identifiers>
+          <bioguideId>W000796</bioguideId>
+          <gpoId>7900</gpoId>
+          <lisID>1779</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>3</district>
+        <lastName>Westmoreland</lastName>
+      </item>
+      <item>
+        <fullName>Rep. Rohrabacher, Dana [R-CA-48]</fullName>
+        <party>R</party>
+        <middleName />
+        <sponsorshipDate>2013-02-27</sponsorshipDate>
+        <sponsorshipWithdrawnDate>2013-02-28</sponsorshipWithdrawnDate>
+        <state>CA</state>
+        <bioguideId>R000409</bioguideId>
+        <firstName>DANA</firstName>
+        <identifiers>
+          <bioguideId>R000409</bioguideId>
+          <gpoId>7851</gpoId>
+          <lisID>979</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>48</district>
+        <lastName>ROHRABACHER</lastName>
+      </item>
+      <item>
+        <fullName>Rep. Coffman, Mike [R-CO-6]</fullName>
+        <party>R</party>
+        <middleName />
+        <sponsorshipDate>2013-02-27</sponsorshipDate>
+        <sponsorshipWithdrawnDate>2013-02-28</sponsorshipWithdrawnDate>
+        <state>CO</state>
+        <bioguideId>C001077</bioguideId>
+        <firstName>Mike</firstName>
+        <identifiers>
+          <gpoId>7864</gpoId>
+          <lisID>1912</lisID>
+          <bioguideId>C001077</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>6</district>
+        <lastName>Coffman</lastName>
+      </item>
+      <item>
+        <fullName>Rep. Clay, Wm. Lacy [D-MO-1]</fullName>
+        <party>D</party>
+        <middleName>LACY</middleName>
+        <sponsorshipDate>2013-02-27</sponsorshipDate>
+        <sponsorshipWithdrawnDate>2013-02-28</sponsorshipWithdrawnDate>
+        <state>MO</state>
+        <bioguideId>C001049</bioguideId>
+        <firstName>WM.</firstName>
+        <identifiers>
+          <bioguideId>C001049</bioguideId>
+          <gpoId>8009</gpoId>
+          <lisID>1654</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>1</district>
+        <lastName>CLAY</lastName>
+      </item>
+      <item>
+        <fullName>Rep. Scott, David [D-GA-13]</fullName>
+        <party>D</party>
+        <middleName />
+        <sponsorshipDate>2013-02-27</sponsorshipDate>
+        <sponsorshipWithdrawnDate>2013-02-28</sponsorshipWithdrawnDate>
+        <state>GA</state>
+        <bioguideId>S001157</bioguideId>
+        <firstName>David</firstName>
+        <identifiers>
+          <gpoId>7910</gpoId>
+          <bioguideId>S001157</bioguideId>
+          <lisID>1722</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>13</district>
+        <lastName>Scott</lastName>
+      </item>
+      <item>
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <party>D</party>
+        <middleName />
+        <sponsorshipDate>2013-02-27</sponsorshipDate>
+        <sponsorshipWithdrawnDate>2013-02-28</sponsorshipWithdrawnDate>
+        <state>TN</state>
+        <bioguideId>C001068</bioguideId>
+        <firstName>Steve</firstName>
+        <identifiers>
+          <bioguideId>C001068</bioguideId>
+          <lisID>1878</lisID>
+          <gpoId>8156</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>9</district>
+        <lastName>Cohen</lastName>
+      </item>
+      <item>
+        <fullName>Rep. Diaz-Balart, Mario [R-FL-25]</fullName>
+        <party>R</party>
+        <middleName />
+        <sponsorshipDate>2013-02-27</sponsorshipDate>
+        <sponsorshipWithdrawnDate>2013-02-28</sponsorshipWithdrawnDate>
+        <state>FL</state>
+        <bioguideId>D000600</bioguideId>
+        <firstName>Mario</firstName>
+        <identifiers>
+          <bioguideId>D000600</bioguideId>
+          <gpoId>7893</gpoId>
+          <lisID>1717</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>25</district>
+        <lastName>Diaz-Balart</lastName>
+      </item>
+      <item>
+        <fullName>Rep. Sherman, Brad [D-CA-30]</fullName>
+        <party>D</party>
+        <middleName />
+        <sponsorshipDate>2013-02-27</sponsorshipDate>
+        <sponsorshipWithdrawnDate>2013-02-28</sponsorshipWithdrawnDate>
+        <state>CA</state>
+        <bioguideId>S000344</bioguideId>
+        <firstName>BRAD</firstName>
+        <identifiers>
+          <bioguideId>S000344</bioguideId>
+          <lisID>1526</lisID>
+          <gpoId>7832</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>30</district>
+        <lastName>SHERMAN</lastName>
+      </item>
+      <item>
+        <fullName>Rep. Higgins, Brian [D-NY-26]</fullName>
+        <party>D</party>
+        <middleName />
+        <sponsorshipDate>2013-02-27</sponsorshipDate>
+        <sponsorshipWithdrawnDate>2013-02-28</sponsorshipWithdrawnDate>
+        <state>NY</state>
+        <bioguideId>H001038</bioguideId>
+        <firstName>Brian</firstName>
+        <identifiers>
+          <lisID>1794</lisID>
+          <bioguideId>H001038</bioguideId>
+          <gpoId>8088</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>26</district>
+        <lastName>Higgins</lastName>
+      </item>
+      <item>
+        <fullName>Rep. Ros-Lehtinen, Ileana [R-FL-27]</fullName>
+        <party>R</party>
+        <middleName />
+        <sponsorshipDate>2013-02-27</sponsorshipDate>
+        <sponsorshipWithdrawnDate>2013-02-28</sponsorshipWithdrawnDate>
+        <state>FL</state>
+        <bioguideId>R000435</bioguideId>
+        <firstName>ILEANA</firstName>
+        <identifiers>
+          <lisID>985</lisID>
+          <gpoId>7890</gpoId>
+          <bioguideId>R000435</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>27</district>
+        <lastName>ROS-LEHTINEN</lastName>
+      </item>
+      <item>
+        <fullName>Rep. Faleomavaega, Eni F. H. [D-AS-At Large]</fullName>
+        <party>D</party>
+        <middleName>F. H.</middleName>
+        <sponsorshipDate>2013-02-27</sponsorshipDate>
+        <sponsorshipWithdrawnDate>2013-02-28</sponsorshipWithdrawnDate>
+        <state>AS</state>
+        <bioguideId>F000010</bioguideId>
+        <firstName>Eni</firstName>
+        <identifiers>
+          <gpoId>7797</gpoId>
+          <bioguideId>F000010</bioguideId>
+          <lisID>367</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>0</district>
+        <lastName>Faleomavaega</lastName>
+      </item>
+      <item>
+        <fullName>Rep. Cotton, Tom [R-AR-4]</fullName>
+        <party>R</party>
+        <middleName />
+        <sponsorshipDate>2013-02-27</sponsorshipDate>
+        <sponsorshipWithdrawnDate>2013-02-28</sponsorshipWithdrawnDate>
+        <state>AR</state>
+        <bioguideId>C001095</bioguideId>
+        <firstName>Tom</firstName>
+        <identifiers>
+          <bioguideId>C001095</bioguideId>
+          <gpoId />
+          <lisID>2098</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>4</district>
+        <lastName>Cotton</lastName>
+      </item>
+      <item>
+        <fullName>Rep. Cotton, Tom [R-AR-4]</fullName>
+        <party>R</party>
+        <middleName />
+        <sponsorshipDate>2013-03-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>AR</state>
+        <bioguideId>C001095</bioguideId>
+        <firstName>Tom</firstName>
+        <identifiers>
+          <bioguideId>C001095</bioguideId>
+          <gpoId />
+          <lisID>2098</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>4</district>
+        <lastName>Cotton</lastName>
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <fullName>Rep. Poe, Ted [R-TX-2]</fullName>
+        <identifiers>
+          <bioguideId>P000592</bioguideId>
+          <lisID>1802</lisID>
+          <gpoId>8158</gpoId>
+        </identifiers>
+        <bioguideId>P000592</bioguideId>
+        <party>R</party>
+        <state>TX</state>
+        <firstName>Ted</firstName>
+        <byRequestType />
+        <district>2</district>
+        <lastName>Poe</lastName>
+        <middleName />
+      </item>
+    </sponsors>
+    <title>Amending the Rules of the House of Representatives to prohibit the consideration of any bill or joint resolution that appropriates foreign assistance for more than one country.</title>
+    <constitutionalAuthorityStatementText />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2013-05-10</actionDate>
+        <committee>
+          <systemCode>hsif14</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-05-06</actionDate>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+      </item>
+      <item>
+        <actionDate>2013-05-06</actionDate>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <actionDate>2013-05-06</actionDate>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <committee />
+        <text>Introduced in House</text>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <district>4</district>
+        <fullName>Rep. McCollum, Betty [D-MN-4]</fullName>
+        <lastName>MCCOLLUM</lastName>
+        <middleName />
+        <state>MN</state>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>M001143</bioguideId>
+          <lisID>1653</lisID>
+          <gpoId>8004</gpoId>
+        </identifiers>
+        <firstName>BETTY</firstName>
+        <bioguideId>M001143</bioguideId>
+      </item>
+    </sponsors>
+    <congress>113</congress>
+    <constitutionalAuthorityStatementText />
+    <billNumber>199</billNumber>
+    <cboCostEstimates />
+    <updateDate>2016-10-25T15:54:44Z</updateDate>
+    <laws />
+    <createDate>2013-05-07T07:02:04Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2013-05-06T16:01:40Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2013-05-10T20:16:49Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Health Subcommittee</name>
+              <systemCode>hsif14</systemCode>
+            </item>
+          </subcommittees>
+          <name>Energy and Commerce Committee</name>
+          <type>Standing</type>
+          <systemCode>hsif00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2013-05-06T04:00:00Z</updateDate>
+          <actionDate>2013-05-06</actionDate>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p> Expresses support for: (1) the designation of National Celiac Awareness Month, and (2) research funding to find a cure for celiac disease. Recognizes the efforts of advocates and organizations that encourage awareness, promote research, and provide education, support, and hope to those impacted by celiac disease.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2013-05-24T14:12:52Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committeeReports />
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <gpoId>8079</gpoId>
+          <bioguideId>L000480</bioguideId>
+          <lisID>709</lisID>
+        </identifiers>
+        <sponsorshipDate>2013-05-06</sponsorshipDate>
+        <party>D</party>
+        <lastName>LOWEY</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>L000480</bioguideId>
+        <state>NY</state>
+        <district>17</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>M.</middleName>
+        <firstName>NITA</firstName>
+        <fullName>Rep. Lowey, Nita M. [D-NY-17]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8107</gpoId>
+          <lisID>1756</lisID>
+          <bioguideId>R000577</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2013-05-06</sponsorshipDate>
+        <party>D</party>
+        <lastName>RYAN</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>R000577</bioguideId>
+        <state>OH</state>
+        <district>13</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>TIM</firstName>
+        <fullName>Rep. Ryan, Tim [D-OH-13]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1504</lisID>
+          <gpoId>7968</gpoId>
+          <bioguideId>M000312</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2013-05-06</sponsorshipDate>
+        <party>D</party>
+        <lastName>MCGOVERN</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>M000312</bioguideId>
+        <state>MA</state>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>P.</middleName>
+        <firstName>JAMES</firstName>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>B001245</bioguideId>
+          <lisID>1723</lisID>
+          <gpoId>7911</gpoId>
+        </identifiers>
+        <sponsorshipDate>2013-05-06</sponsorshipDate>
+        <party>D</party>
+        <lastName>Bordallo</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>B001245</bioguideId>
+        <state>GU</state>
+        <district>0</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>Z.</middleName>
+        <firstName>Madeleine</firstName>
+        <fullName>Rep. Bordallo, Madeleine Z. [D-GU-At Large]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8217</gpoId>
+          <bioguideId>M001160</bioguideId>
+          <lisID>1811</lisID>
+        </identifiers>
+        <sponsorshipDate>2013-05-06</sponsorshipDate>
+        <party>D</party>
+        <lastName>Moore</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>M001160</bioguideId>
+        <state>WI</state>
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>Gwen</firstName>
+        <fullName>Rep. Moore, Gwen [D-WI-4]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>229</lisID>
+          <bioguideId>C000714</bioguideId>
+          <gpoId>7999</gpoId>
+        </identifiers>
+        <sponsorshipDate>2013-05-06</sponsorshipDate>
+        <party>D</party>
+        <lastName>CONYERS</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C000714</bioguideId>
+        <state>MI</state>
+        <district>13</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>JOHN</firstName>
+        <fullName>Rep. Conyers, John, Jr. [D-MI-13]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>944</lisID>
+          <bioguideId>R000053</bioguideId>
+          <gpoId>8076</gpoId>
+        </identifiers>
+        <sponsorshipDate>2013-05-06</sponsorshipDate>
+        <party>D</party>
+        <lastName>RANGEL</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>R000053</bioguideId>
+        <state>NY</state>
+        <district>13</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>B.</middleName>
+        <firstName>CHARLES</firstName>
+        <fullName>Rep. Rangel, Charles B. [D-NY-13]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>666</lisID>
+          <bioguideId>L000111</bioguideId>
+          <gpoId>7917</gpoId>
+        </identifiers>
+        <sponsorshipDate>2013-06-14</sponsorshipDate>
+        <party>R</party>
+        <lastName>LATHAM</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>L000111</bioguideId>
+        <state>IA</state>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>TOM</firstName>
+        <fullName>Rep. Latham, Tom [R-IA-3]</fullName>
+      </item>
+    </cosponsors>
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Digestive and metabolic diseases</name>
+          </item>
+          <item>
+            <name>Health programs administration and funding</name>
+          </item>
+          <item>
+            <name>Medical research</name>
+          </item>
+          <item>
+            <name>Research administration and funding</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>Expressing support for designation of May 2013 as "National Celiac Awareness Month".</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>Expressing support for designation of May 2013 as "National Celiac Awareness Month".</title>
+      </item>
+    </titles>
+    <originChamber>House</originChamber>
+    <notes />
+    <calendarNumbers />
+    <title>Expressing support for designation of May 2013 as "National Celiac Awareness Month".</title>
+    <billType>HRES</billType>
+    <introducedDate>2013-05-06</introducedDate>
+    <amendments />
+    <latestAction>
+      <actionDate>2013-05-10</actionDate>
+      <text>Referred to the Subcommittee on Health.</text>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

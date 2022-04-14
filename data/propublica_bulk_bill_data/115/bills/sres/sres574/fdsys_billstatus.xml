@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>MT</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Tester</lastName>
+        <sponsorshipDate>2018-07-12</sponsorshipDate>
+        <party>D</party>
+        <firstName>Jon</firstName>
+        <identifiers>
+          <gpoId>8258</gpoId>
+          <lisID>1829</lisID>
+          <bioguideId>T000464</bioguideId>
+        </identifiers>
+        <middleName />
+        <bioguideId>T000464</bioguideId>
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+      </item>
+    </cosponsors>
+    <createDate>2018-07-13T04:40:47Z</createDate>
+    <sponsors>
+      <item>
+        <fullName>Sen. Burr, Richard [R-NC]</fullName>
+        <party>R</party>
+        <state>NC</state>
+        <lastName>BURR</lastName>
+        <firstName>RICHARD</firstName>
+        <middleName />
+        <identifiers>
+          <lisID>153</lisID>
+          <bioguideId>B001135</bioguideId>
+          <gpoId>8286</gpoId>
+        </identifiers>
+        <byRequestType />
+        <bioguideId>B001135</bioguideId>
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <version>1.0.0</version>
+    <actions>
+      <item>
+        <actionDate>2018-07-12</actionDate>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-164/senate-section/page/S4953-4954</url>
+            <name>S4953-4954</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-164/senate-section/page/S4955</url>
+            <name>S4955</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S4955; text: CR S4953-4954)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionCode>17000</actionCode>
+        <type>Floor</type>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-164/senate-section/page/S4953-4954</url>
+            <name>S4953-4954</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-164/senate-section/page/S4955</url>
+            <name>S4955</name>
+          </link>
+        </links>
+        <text>Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.(consideration: CR S4955; text: CR S4953-4954)</text>
+        <actionDate>2018-07-12</actionDate>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <text>Introduced in Senate</text>
+        <actionDate>2018-07-12</actionDate>
+      </item>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <passedOrAgreedToInSenateDayOf>1</passedOrAgreedToInSenateDayOf>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <billType>SRES</billType>
+    <billNumber>574</billNumber>
+    <updateDate>2019-04-18T16:30:48Z</updateDate>
+    <committeeReports />
+    <laws />
+    <amendments />
+    <committees>
+      <billCommittees />
+    </committees>
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <latestTitle>Expressing support for the designation of July 13 as Collector Car Appreciation Day and recognizing that the collection and restoration of historic and classic cars is an important part of preserving the technological achievements and cultural heritage of the United States.</latestTitle>
+        <congress>115</congress>
+        <type>HRES</type>
+        <number>980</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <text>Referred to the House Committee on Oversight and Government Reform.</text>
+          <actionDate>2018-07-03</actionDate>
+        </latestAction>
+      </item>
+      <item>
+        <latestTitle>A resolution designating July 14, 2017, as Collector Car Appreciation Day and recognizing that the collection and restoration of historic and classic cars is an important part of preserving the technological achievements and cultural heritage of the United States.</latestTitle>
+        <congress>115</congress>
+        <type>SRES</type>
+        <number>215</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S4695)</text>
+          <actionDate>2017-08-01</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <introducedDate>2018-07-12</introducedDate>
+    <congress>115</congress>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Games and hobbies</name>
+          </item>
+          <item>
+            <name>Motor vehicles</name>
+          </item>
+          <item>
+            <name>Museums, exhibitions, cultural centers</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Transportation and Public Works</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <policyArea>
+      <name>Transportation and Public Works</name>
+    </policyArea>
+    <notes />
+    <originChamber>Senate</originChamber>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115sres574ats/xml/BILLS-115sres574ats.xml</url>
+          </item>
+        </formats>
+        <type>Agreed to Senate</type>
+        <date>2018-07-12T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <title>A resolution designating July 13, 2018, as Collector Car Appreciation Day and recognizing that the collection and restoration of historic and classic cars is an important part of preserving the technological achievements and cultural heritage of the United States.</title>
+    <titles>
+      <item>
+        <title>A resolution designating July 13, 2018, as Collector Car Appreciation Day and recognizing that the collection and restoration of historic and classic cars is an important part of preserving the technological achievements and cultural heritage of the United States.</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>A resolution designating July 13, 2018, as Collector Car Appreciation Day and recognizing that the collection and restoration of historic and classic cars is an important part of preserving the technological achievements and cultural heritage of the United States.</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Designates July 13, 2018, as Collector Car Appreciation Day. </p> <p>Recognizes that the collection and restoration of historic and classic cars is an important part of preserving the technological achievements and cultural heritage of the United States. </p>]]></text>
+          <lastSummaryUpdateDate>2018-11-15T22:05:14Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+          <actionDate>2018-07-12</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <versionCode>00</versionCode>
+          <updateDate>2018-07-12T04:00:00Z</updateDate>
+        </item>
+        <item>
+          <text><![CDATA[<p>Designates July 13, 2018, as Collector Car Appreciation Day. </p> <p>Recognizes that the collection and restoration of historic and classic cars is an important part of preserving the technological achievements and cultural heritage of the United States. </p>]]></text>
+          <lastSummaryUpdateDate>2019-01-04T16:53:32Z</lastSummaryUpdateDate>
+          <name>Passed Senate without amendment</name>
+          <actionDate>2018-07-12</actionDate>
+          <actionDesc>Passed Senate without amendment</actionDesc>
+          <versionCode>82</versionCode>
+          <updateDate>2018-07-12T12:37:40Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <latestAction>
+      <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S4955; text: CR S4953-4954)</text>
+      <actionDate>2018-07-12</actionDate>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

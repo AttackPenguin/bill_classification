@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Emergency Management</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <relatedBills />
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <subcommittees />
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-01-10T18:10:04Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <type>Standing</type>
+          <subcommittees />
+          <systemCode>hshm00</systemCode>
+          <name>Homeland Security Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2018-01-09T16:34:56Z</date>
+            </item>
+            <item>
+              <name>Markup by</name>
+              <date>2017-12-13T20:03:11Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2017-12-05T15:01:45Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2017-12-05T05:00:00Z</updateDate>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2018-01-09T19:04:29Z</lastSummaryUpdateDate>
+          <actionDate>2017-12-05</actionDate>
+          <text><![CDATA[<p><strong>DHS Interagency Counterterrorism Task Force Act of 2017</strong></p> <p>This bill amends the Homeland Security Act of 2002 to authorize the Department of Homeland Security (DHS) to assign DHS personnel to participate in overseas interagency counterterrorism task forces to: (1) facilitate the sharing of counterterrorism information; and (2) combat the threat of terrorism and associated risks to the United States stemming from overseas sources of conflict or terrorism, as determined by DHS.</p>]]></text>
+        </item>
+        <item>
+          <versionCode>36</versionCode>
+          <actionDesc>Passed House amended</actionDesc>
+          <updateDate>2018-01-09T16:55:16Z</updateDate>
+          <name>Passed House amended</name>
+          <lastSummaryUpdateDate>2018-02-16T22:05:52Z</lastSummaryUpdateDate>
+          <actionDate>2018-01-09</actionDate>
+          <text><![CDATA[<p><strong>DHS Interagency Counterterrorism Task Force Act of 2017</strong></p> <p>(Sec. 2) This bill amends the Homeland Security Act of 2002 to authorize the Department of Homeland Security (DHS) to assign DHS personnel to participate in overseas interagency counterterrorism task forces to: (1) facilitate the sharing of counterterrorism information; and (2) combat the threat of terrorism and associated risks to the United States stemming from overseas sources of conflict or terrorism, as determined by DHS.</p> <p>(Sec. 3) DHS shall report, by 18 months after this bill's enactment and annually thereafter for 3 years, on activities carried out pursuant to this bill.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <version>1.0.0</version>
+    <originChamber>House</originChamber>
+    <congress>115</congress>
+    <latestAction>
+      <actionDate>2018-01-10</actionDate>
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+      <links />
+    </latestAction>
+    <actions>
+      <actionByCounts>
+        <senate>1</senate>
+        <houseOfRepresentatives>14</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2018-01-10</actionDate>
+        <committee>
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <type>Floor</type>
+        <actionDate>2018-01-09</actionDate>
+        <actionCode>H38310</actionCode>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <actionTime>13:51:28</actionTime>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <type>Floor</type>
+        <actionDate>2018-01-09</actionDate>
+        <actionCode>H37300</actionCode>
+        <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H46)</text>
+        <actionTime>13:51:27</actionTime>
+        <links>
+          <link>
+            <name>H46</name>
+            <url>https://www.congress.gov/congressional-record/volume-164/house-section/page/H46</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <type>Floor</type>
+        <actionDate>2018-01-09</actionDate>
+        <actionCode>8000</actionCode>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H46)</text>
+        <actionTime>13:51:27</actionTime>
+        <links>
+          <link>
+            <name>H46</name>
+            <url>https://www.congress.gov/congressional-record/volume-164/house-section/page/H46</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <type>Floor</type>
+        <actionDate>2018-01-09</actionDate>
+        <actionCode>H8D000</actionCode>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4555.</text>
+        <actionTime>13:44:28</actionTime>
+        <links>
+          <link>
+            <name>H.R. 4555</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/4555</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <type>Floor</type>
+        <actionDate>2018-01-09</actionDate>
+        <actionCode>H30000</actionCode>
+        <text>Considered under suspension of the rules. (consideration: CR H46-47)</text>
+        <actionTime>13:44:27</actionTime>
+        <links>
+          <link>
+            <name>H46-47</name>
+            <url>https://www.congress.gov/congressional-record/volume-164/house-section/page/H46-47</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <type>Floor</type>
+        <actionDate>2018-01-09</actionDate>
+        <actionCode>H30300</actionCode>
+        <text>Mr. Rutherford moved to suspend the rules and pass the bill, as amended.</text>
+        <actionTime>13:44:09</actionTime>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <type>Calendars</type>
+        <actionDate>2018-01-09</actionDate>
+        <actionCode>H12410</actionCode>
+        <text>Placed on the Union Calendar, Calendar No. 372.</text>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hshm00</systemCode>
+          <name>Homeland Security Committee</name>
+        </committee>
+        <text>Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-499.</text>
+        <actionDate>2018-01-09</actionDate>
+        <actionCode>H12200</actionCode>
+        <type>Committee</type>
+        <links>
+          <link>
+            <name>H. Rept. 115-499</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/499</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hshm00</systemCode>
+          <name>Homeland Security Committee</name>
+        </committee>
+        <text>Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-499.</text>
+        <actionDate>2018-01-09</actionDate>
+        <actionCode>5000</actionCode>
+        <type>Committee</type>
+        <links>
+          <link>
+            <name>H. Rept. 115-499</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/499</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2017-12-13</actionDate>
+        <committee>
+          <systemCode>hshm00</systemCode>
+          <name>Homeland Security Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-12-13</actionDate>
+        <committee>
+          <systemCode>hshm00</systemCode>
+          <name>Homeland Security Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hshm00</systemCode>
+          <name>Homeland Security Committee</name>
+        </committee>
+        <text>Referred to the House Committee on Homeland Security.</text>
+        <actionDate>2017-12-05</actionDate>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2017-12-05</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2017-12-05</actionDate>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <generalDebate>1</generalDebate>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <considerationByHouse>1</considerationByHouse>
+        <referredToCommittee>1</referredToCommittee>
+        <reportedToHouse>1</reportedToHouse>
+        <committeeReportOfABill>1</committeeReportOfABill>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <committeeConsiderationMarkUp>1</committeeConsiderationMarkUp>
+        <orderedToBeReported>1</orderedToBeReported>
+        <unionCalendarAssignment>1</unionCalendarAssignment>
+        <introducedInHouse>1</introducedInHouse>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+      </actionTypeCounts>
+    </actions>
+    <createDate>2017-12-06T03:11:08Z</createDate>
+    <laws />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>To authorize the participation in overseas interagency counterterrorism task forces of personnel of the Department of Homeland Security, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>DHS Interagency Counterterrorism Task Force Act of 2017</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <chamberCode>H</chamberCode>
+        <title>DHS Interagency Counterterrorism Task Force Act of 2017</title>
+        <titleType>Short Titles as Reported to House</titleType>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <chamberCode>H</chamberCode>
+        <title>DHS Interagency Counterterrorism Task Force Act of 2017</title>
+        <titleType>Short Titles as Passed House</titleType>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>DHS Interagency Counterterrorism Task Force Act of 2017</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode>H</chamberCode>
+        <title>DHS Interagency Counterterrorism Task Force Act of 2017</title>
+        <titleType>(Extracted from GPO) Short Titles as Passed House</titleType>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode>H</chamberCode>
+        <title>DHS Interagency Counterterrorism Task Force Act of 2017</title>
+        <titleType>(Extracted from GPO) Short Titles as Reported to House</titleType>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>DHS Interagency Counterterrorism Task Force Act of 2017</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 198 (Tuesday, December 5, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. RUTHERFORD:H.R. 4555.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8 of the United States Constitution.[Page H9665]</pre>]]></constitutionalAuthorityStatementText>
+    <introducedDate>2017-12-05</introducedDate>
+    <calendarNumbers>
+      <item>
+        <calendar>U00372</calendar>
+        <number />
+      </item>
+    </calendarNumbers>
+    <recordedVotes />
+    <textVersions>
+      <item>
+        <type>Referred in Senate</type>
+        <date>2018-01-10T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr4555rfs/xml/BILLS-115hr4555rfs.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Engrossed in House</type>
+        <date>2018-01-09T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr4555eh/xml/BILLS-115hr4555eh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Reported in House</type>
+        <date>2018-01-09T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr4555rh/xml/BILLS-115hr4555rh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Introduced in House</type>
+        <date>2017-12-05T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr4555ih/xml/BILLS-115hr4555ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <bioguideId>H001077</bioguideId>
+          <lisID>2329</lisID>
+          <gpoId />
+        </identifiers>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Clay</firstName>
+        <district>3</district>
+        <fullName>Rep. Higgins, Clay [R-LA-3]</fullName>
+        <lastName>Higgins</lastName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <state>LA</state>
+        <bioguideId>H001077</bioguideId>
+        <sponsorshipDate>2017-12-05</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2355</lisID>
+          <gpoId />
+          <bioguideId>G000579</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Mike</firstName>
+        <district>8</district>
+        <fullName>Rep. Gallagher, Mike [R-WI-8]</fullName>
+        <lastName>Gallagher</lastName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <state>WI</state>
+        <bioguideId>G000579</bioguideId>
+        <sponsorshipDate>2017-12-05</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2345</lisID>
+          <gpoId />
+          <bioguideId>F000466</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Brian</firstName>
+        <district>8</district>
+        <fullName>Rep. Fitzpatrick, Brian K. [R-PA-8]</fullName>
+        <lastName>Fitzpatrick</lastName>
+        <sponsorshipWithdrawnDate />
+        <middleName>K.</middleName>
+        <state>PA</state>
+        <bioguideId>F000466</bioguideId>
+        <sponsorshipDate>2017-12-05</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2353</lisID>
+          <gpoId />
+          <bioguideId>G000580</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Thomas</firstName>
+        <district>5</district>
+        <fullName>Rep. Garrett, Thomas A., Jr. [R-VA-5]</fullName>
+        <lastName>Garrett</lastName>
+        <sponsorshipWithdrawnDate />
+        <middleName>A.</middleName>
+        <state>VA</state>
+        <bioguideId>G000580</bioguideId>
+        <sponsorshipDate>2017-12-05</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1804</lisID>
+          <gpoId>8166</gpoId>
+          <bioguideId>M001157</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Michael</firstName>
+        <district>10</district>
+        <fullName>Rep. McCaul, Michael T. [R-TX-10]</fullName>
+        <lastName>McCaul</lastName>
+        <sponsorshipWithdrawnDate />
+        <middleName>T.</middleName>
+        <state>TX</state>
+        <bioguideId>M001157</bioguideId>
+        <sponsorshipDate>2017-12-05</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2264</lisID>
+          <gpoId />
+          <bioguideId>K000386</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>John</firstName>
+        <district>24</district>
+        <fullName>Rep. Katko, John [R-NY-24]</fullName>
+        <lastName>Katko</lastName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <state>NY</state>
+        <bioguideId>K000386</bioguideId>
+        <sponsorshipDate>2017-12-05</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <amendments />
+    <billNumber>4555</billNumber>
+    <updateDate>2019-11-15T21:13:12Z</updateDate>
+    <cboCostEstimates>
+      <item>
+        <title>H.R. 4555, DHS Interagency Counterterrorism Task Force Act of 2017</title>
+        <url>https://www.cbo.gov/publication/53526</url>
+        <pubDate>2018-01-30T16:26:25Z</pubDate>
+      </item>
+    </cboCostEstimates>
+    <title>DHS Interagency Counterterrorism Task Force Act of 2017</title>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-499</citation>
+      </committeeReport>
+    </committeeReports>
+    <policyArea>
+      <name>Emergency Management</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <district>4</district>
+        <lastName>Rutherford</lastName>
+        <firstName>John</firstName>
+        <state>FL</state>
+        <fullName>Rep. Rutherford, John H. [R-FL-4]</fullName>
+        <identifiers>
+          <lisID>2316</lisID>
+          <gpoId />
+          <bioguideId>R000609</bioguideId>
+        </identifiers>
+        <middleName>H.</middleName>
+        <bioguideId>R000609</bioguideId>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

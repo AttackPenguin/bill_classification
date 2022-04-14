@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Rules and Administration Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <systemCode>ssra00</systemCode>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Discharged from</name>
+              <date>2018-04-18T22:36:30Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2018-04-12T22:10:49Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <congress>115</congress>
+    <originChamber>Senate</originChamber>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2018-04-12</actionDate>
+          <updateDate>2018-04-12T04:00:00Z</updateDate>
+          <text><![CDATA[<p>Authorizes a Senator who has a son or daughter under age one to bring such child onto the floor of the Senate during votes.</p>]]></text>
+          <name>Introduced in Senate</name>
+          <lastSummaryUpdateDate>2018-05-29T15:09:57Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <versionCode>00</versionCode>
+        </item>
+        <item>
+          <actionDate>2018-04-18</actionDate>
+          <updateDate>2018-04-18T14:03:57Z</updateDate>
+          <text><![CDATA[<p>(Sec. 1) Authorizes a Senator who has a son or daughter under age one to bring such child onto the floor of the Senate during votes.</p>]]></text>
+          <name>Passed Senate without amendment</name>
+          <lastSummaryUpdateDate>2018-05-29T15:10:17Z</lastSummaryUpdateDate>
+          <actionDesc>Passed Senate without amendment</actionDesc>
+          <versionCode>82</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>463</billNumber>
+    <relatedBills />
+    <laws />
+    <billType>SRES</billType>
+    <calendarNumbers />
+    <recordedVotes />
+    <textVersions>
+      <item>
+        <type>Agreed to Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115sres463ats/xml/BILLS-115sres463ats.xml</url>
+          </item>
+        </formats>
+        <date>2018-04-18T04:00:00Z</date>
+      </item>
+      <item>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115sres463is/xml/BILLS-115sres463is.xml</url>
+          </item>
+        </formats>
+        <date>2018-04-12T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <cosponsors>
+      <item>
+        <fullName>Sen. Durbin, Richard J. [D-IL]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>DURBIN</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>IL</state>
+        <firstName>RICHARD</firstName>
+        <middleName>J.</middleName>
+        <identifiers>
+          <bioguideId>D000563</bioguideId>
+          <gpoId>8326</gpoId>
+          <lisID>326</lisID>
+        </identifiers>
+        <sponsorshipDate>2018-04-17</sponsorshipDate>
+        <bioguideId>D000563</bioguideId>
+      </item>
+    </cosponsors>
+    <createDate>2018-04-13T04:25:58Z</createDate>
+    <title>A resolution authorizing a Senator to bring a young son or daughter of the Senator onto the floor of the Senate during votes.</title>
+    <amendments />
+    <actions>
+      <actionByCounts>
+        <senate>6</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <agreedToInSenate>1</agreedToInSenate>
+        <introducedInSenate>1</introducedInSenate>
+        <senateCommitteeDischarged>1</senateCommitteeDischarged>
+        <committeeDischarged>1</committeeDischarged>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2018-04-18</actionDate>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-164/senate-section/page/S2283</url>
+            <name>S2283</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S2283)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-164/senate-section/page/S2283</url>
+            <name>S2283</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>Floor</type>
+        <text>Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.(consideration: CR S2283)</text>
+        <actionDate>2018-04-18</actionDate>
+        <actionCode>17000</actionCode>
+      </item>
+      <item>
+        <actionDate>2018-04-18</actionDate>
+        <committee>
+          <systemCode>ssra00</systemCode>
+          <name>Rules and Administration Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Senate Committee on Rules and Administration discharged by Unanimous Consent.</text>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>ssra00</systemCode>
+          <name>Rules and Administration Committee</name>
+        </committee>
+        <text>Senate Committee on Rules and Administration discharged by Unanimous Consent.</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>Committee</type>
+        <links />
+        <actionDate>2018-04-18</actionDate>
+        <actionCode>14500</actionCode>
+      </item>
+      <item>
+        <actionDate>2018-04-12</actionDate>
+        <committee>
+          <systemCode>ssra00</systemCode>
+          <name>Rules and Administration Committee</name>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-164/senate-section/page/S2127</url>
+            <name>S2127</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Referred to the Committee on Rules and Administration. (text of measure as introduced: CR S2127)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <actionDate>2018-04-12</actionDate>
+        <actionCode>10000</actionCode>
+      </item>
+    </actions>
+    <introducedDate>2018-04-12</introducedDate>
+    <committeeReports />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Child health</name>
+          </item>
+          <item>
+            <name>Family relationships</name>
+          </item>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+          <item>
+            <name>Members of Congress</name>
+          </item>
+          <item>
+            <name>Senate</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <sponsors>
+      <item>
+        <state>IL</state>
+        <fullName>Sen. Duckworth, Tammy [D-IL]</fullName>
+        <party>D</party>
+        <lastName>Duckworth</lastName>
+        <firstName>Tammy</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2123</lisID>
+          <bioguideId>D000622</bioguideId>
+        </identifiers>
+        <middleName />
+        <byRequestType />
+        <bioguideId>D000622</bioguideId>
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A resolution authorizing a Senator to bring a young son or daughter of the Senator onto the floor of the Senate during votes.</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>A resolution authorizing a Senator to bring a young son or daughter of the Senator onto the floor of the Senate during votes.</title>
+      </item>
+    </titles>
+    <updateDate>2019-04-18T16:30:25Z</updateDate>
+    <notes />
+    <latestAction>
+      <text>Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S2283)</text>
+      <actionDate>2018-04-18</actionDate>
+      <links />
+    </latestAction>
+    <cboCostEstimates />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

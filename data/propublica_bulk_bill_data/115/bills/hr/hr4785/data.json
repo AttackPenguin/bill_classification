@@ -1,0 +1,183 @@
+{
+  "actions": [
+    {
+      "acted_at": "2018-01-12", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-01-12", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Financial Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2018-01-17", 
+      "action_code": "", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-01-18", 
+      "action_code": "", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-01-18", 
+      "action_code": "", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by the Yeas and Nays: 31 - 25.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2018-05-07", 
+      "action_code": "H12200", 
+      "committees": [
+        "HSBA"
+      ], 
+      "links": [
+        {
+          "name": "H. Rept. 115-663", 
+          "url": "https://www.congress.gov/congressional-report/115th-congress/house-report/663"
+        }
+      ], 
+      "references": [], 
+      "text": "Reported by the Committee on Financial Services. H. Rept. 115-663.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-05-07", 
+      "action_code": "H12410", 
+      "calendar": "Union", 
+      "number": "510", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 510.", 
+      "type": "calendar", 
+      "under": null
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4785-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [
+    "H. Rept. 115-663"
+  ], 
+  "committees": [
+    {
+      "activity": [
+        "reporting", 
+        "markup", 
+        "referral"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "H001059", 
+      "district": "14", 
+      "name": "Hultgren, Randy", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2018-01-12", 
+      "state": "IL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2018-01-17", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2018-01-12", 
+  "number": "4785", 
+  "official_title": "To prohibit the consolidated audit trail from accepting personally identifying information, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "American Customer Information Protection Act", 
+  "sponsor": {
+    "bioguide_id": "H001058", 
+    "district": "2", 
+    "name": "Huizenga, Bill", 
+    "state": "MI", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2018-01-18", 
+  "subjects": [
+    "Commerce"
+  ], 
+  "subjects_top_term": "Commerce", 
+  "summary": {
+    "as": "Reported to House without amendment", 
+    "date": "2018-05-07T18:48:18Z", 
+    "text": "American Customer Information Protection Act\n\nThis bill prohibits the\u00a0operator of the\u00a0consolidated audit trail\u00a0(a database that tracks trading\u00a0in equities and options markets)\u00a0from accepting personally identifying information, except for information accepted in connection with large traders."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To prohibit the consolidated audit trail from accepting personally identifying information, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "American Customer Information Protection Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "American Customer Information Protection Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "American Customer Information Protection Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "American Customer Information Protection Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "American Customer Information Protection Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-06-17T18:24:48Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr4785.xml"
+}

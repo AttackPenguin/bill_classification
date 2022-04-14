@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>461</billNumber>
+    <createDate>2015-10-07T09:16:28Z</createDate>
+    <updateDate>2021-02-01T22:20:20Z</updateDate>
+    <originChamber>House</originChamber>
+    <billType>HRES</billType>
+    <introducedDate>2015-10-06</introducedDate>
+    <congress>114</congress>
+    <constitutionalAuthorityStatementText />
+    <recordedVotes>
+      <recordedVote>
+        <rollNumber>538</rollNumber>
+        <url>https://clerk.house.gov/evs/2015/roll538.xml</url>
+        <fullActionName>Passage of a Measure</fullActionName>
+        <chamber>House</chamber>
+        <congress>114</congress>
+        <date>2015-10-07T21:36:34Z</date>
+        <sessionNumber>1</sessionNumber>
+      </recordedVote>
+    </recordedVotes>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Reported original measure</name>
+              <date>2015-10-07T00:35:10Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 114-288</citation>
+      </committeeReport>
+    </committeeReports>
+    <relatedBills />
+    <actions>
+      <item>
+        <actionDate>2015-10-07</actionDate>
+        <actionTime>17:36:35</actionTime>
+        <links />
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <type>Floor</type>
+        <actionCode>H38310</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2015-10-07</actionDate>
+        <actionTime>17:36:34</actionTime>
+        <links />
+        <text>On agreeing to the resolution Agreed to by the Yeas and Nays: 242 - 184 (Roll no. 538).</text>
+        <type>Floor</type>
+        <actionCode>H37100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2015-10-07</actionDate>
+        <actionTime>17:36:34</actionTime>
+        <links />
+        <text>Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 242 - 184 (Roll no. 538).</text>
+        <type>Floor</type>
+        <actionCode>8000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2015-10-07</actionDate>
+        <actionTime>15:55:30</actionTime>
+        <links />
+        <text>DEBATE - The House proceeded with one hour of debate on H. Res. 461.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2015-10-07</actionDate>
+        <actionTime>15:52:15</actionTime>
+        <links />
+        <text>Considered as privileged matter. (consideration: CR H6869-6879; text of measure as reported in House: CR H6869)</text>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2015-10-06</actionDate>
+        <links />
+        <text>Placed on the House Calendar, Calendar No. 63.</text>
+        <type>Calendars</type>
+        <actionCode>H12420</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2015-10-06</actionDate>
+        <links />
+        <text>The House Committee on Rules reported an original measure, H. Rept. 114-288, by Ms. Foxx.</text>
+        <type>Committee</type>
+        <actionCode>H12100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsru00</systemCode>
+            <name>Rules Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2015-10-06</actionDate>
+        <links />
+        <text>The House Committee on Rules reported an original measure, H. Rept. 114-288, by Ms. Foxx.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsru00</systemCode>
+            <name>Rules Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2015-10-06</actionDate>
+        <links />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <actionTypeCounts>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <generalDebate>1</generalDebate>
+        <considerationByHouse>1</considerationByHouse>
+        <houseCalendarAssignment>1</houseCalendarAssignment>
+        <committeeReportOfAnOriginalMeasure>1</committeeReportOfAnOriginalMeasure>
+        <reportedToHouse>1</reportedToHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>9</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>F000450</bioguideId>
+        <fullName>Rep. Foxx, Virginia [R-NC-5]</fullName>
+        <firstName>Virginia</firstName>
+        <middleName />
+        <lastName>Foxx</lastName>
+        <party>R</party>
+        <state>NC</state>
+        <identifiers>
+          <lisID>1791</lisID>
+          <bioguideId>F000450</bioguideId>
+          <gpoId>8028</gpoId>
+        </identifiers>
+        <district>5</district>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cosponsors />
+    <cboCostEstimates />
+    <laws />
+    <notes />
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Abortion</name>
+          </item>
+          <item>
+            <name>Child health</name>
+          </item>
+          <item>
+            <name>Congressional committees</name>
+          </item>
+          <item>
+            <name>Congressional operations and organization</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Health programs administration and funding</name>
+          </item>
+          <item>
+            <name>House Committee on Energy and Commerce</name>
+          </item>
+          <item>
+            <name>House of Representatives</name>
+          </item>
+          <item>
+            <name>Organ and tissue donation and transplantation</name>
+          </item>
+          <item>
+            <name>Women's health</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2015-10-06</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2015-10-07T19:28:58Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Establishes a Select Investigative Panel of the House Committee on Energy and Commerce to investigate and report on:</p> <ul> <li> medical procedures and business practices used by entities involved in fetal tissue procurement;</li> <li> any other relevant matters with respect to such procurement;</li> <li>federal funding and support for abortion providers; </li> <li> the practices of providers of second and third trimester abortions, including partial birth abortion and procedures that may lead to a child born alive as a result of an attempted abortion;</li> <li>medical procedures for the care of a child born alive as a result of an attempted abortion; and</li> <li> any changes in law or regulation necessary resulting from such findings. </li></ul>]]></text>
+          <updateDate>2015-10-06T04:00:00Z</updateDate>
+          <name>Introduced in House</name>
+        </item>
+        <item>
+          <versionCode>79</versionCode>
+          <actionDate>2015-10-06</actionDate>
+          <actionDesc>Reported to House without amendment</actionDesc>
+          <lastSummaryUpdateDate>2015-10-07T19:31:34Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)</p> <p>Establishes a Select Investigative Panel of the House Committee on Energy and Commerce.</p> <p> (Sec. 3) Requires the Panel to investigate and report on:</p> <ul> <li> medical procedures and business practices used by entities involved in fetal tissue procurement;</li> <li> any other relevant matters with respect to such procurement;</li> <li>federal funding and support for abortion providers; </li> <li> the practices of providers of second and third trimester abortions, including partial birth abortion and procedures that may lead to a child born alive as a result of an attempted abortion;</li> <li>medical procedures for the care of a child born alive as a result of an attempted abortion; and</li> <li> any changes in law or regulation necessary resulting from such findings.</li> </ul> <p>(Sec. 6) Terminates the Panel 30 days after filing its final report.</p>]]></text>
+          <updateDate>2015-10-06T15:59:39Z</updateDate>
+          <name>Reported to House without amendment</name>
+        </item>
+        <item>
+          <versionCode>36</versionCode>
+          <actionDate>2015-10-07</actionDate>
+          <actionDesc>Passed House amended</actionDesc>
+          <lastSummaryUpdateDate>2015-10-08T19:05:12Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The expanded summary of the House reported version is repeated here.)</p> <p>Establishes a Select Investigative Panel of the House Committee on Energy and Commerce.</p> <p> (Sec. 3) Requires the Panel to investigate and report on:</p> <ul> <li> medical procedures and business practices used by entities involved in fetal tissue procurement;</li> <li> any other relevant matters with respect to such procurement;</li> <li>federal funding and support for abortion providers; </li> <li> the practices of providers of second and third trimester abortions, including partial birth abortion and procedures that may lead to a child born alive as a result of an attempted abortion;</li> <li>medical procedures for the care of a child born alive as a result of an attempted abortion; and</li> <li> any changes in law or regulation necessary resulting from such findings.</li> </ul> <p>(Sec. 6) Terminates the Panel 30 days after filing its final report.</p>]]></text>
+          <updateDate>2015-10-07T11:45:34Z</updateDate>
+          <name>Passed House amended</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>Establishing a Select Investigative Panel of the Committee on Energy and Commerce.</title>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>Establishing a Select Investigative Panel of the Committee on Energy and Commerce.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Establishing a Select Investigative Panel of the Committee on Energy and Commerce.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <amendments>
+      <amendment>
+        <number>710</number>
+        <description>Amendment increases the size of the select panel from 13 to 14 and in so doing, increases the number of minority appointments from 5 to 6, and also clarifies the reporting requirements.</description>
+        <purpose>Amendment increases the size of the select panel from 13 to 14 and in so doing, increases the number of minority appointments from 5 to 6, and also clarifies the reporting requirements.</purpose>
+        <congress>114</congress>
+        <type>HAMDT</type>
+        <latestAction>
+          <actionDate>2015-10-07</actionDate>
+          <text>On agreeing to the Foxx amendment (A001) Agreed to by voice vote.</text>
+          <actionTime>17:08:54</actionTime>
+        </latestAction>
+        <number>710</number>
+        <description>Amendment increases the size of the select panel from 13 to 14 and in so doing, increases the number of minority appointments from 5 to 6, and also clarifies the reporting requirements.</description>
+        <purpose>Amendment increases the size of the select panel from 13 to 14 and in so doing, increases the number of minority appointments from 5 to 6, and also clarifies the reporting requirements.</purpose>
+        <congress>114</congress>
+        <type>HAMDT</type>
+        <createDate>2015-10-08T09:13:19Z</createDate>
+        <updateDate>2020-12-15T18:04:54Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>F000450</bioguideId>
+            <fullName>Rep. Foxx, Virginia [R-NC-5]</fullName>
+            <firstName>Virginia</firstName>
+            <middleName />
+            <lastName>Foxx</lastName>
+            <party>R</party>
+            <state>NC</state>
+            <identifiers>
+              <lisID>1791</lisID>
+              <bioguideId>F000450</bioguideId>
+              <gpoId>8028</gpoId>
+            </identifiers>
+            <district>5</district>
+          </item>
+        </sponsors>
+        <cosponsors>
+          <totalCount>0</totalCount>
+          <currentCount>0</currentCount>
+        </cosponsors>
+        <titles />
+        <proposedDate />
+        <submittedDate>2015-10-07T04:00:00Z</submittedDate>
+        <chamber>House of Representatives</chamber>
+        <amendedBill>
+          <congress>114</congress>
+          <type>HRES</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>461</number>
+          <title>Establishing a Select Investigative Panel of the Committee on Energy and Commerce.</title>
+        </amendedBill>
+        <amendedAmendment />
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <links />
+        <notes />
+        <actions>
+          <count>8</count>
+          <actions>
+            <item>
+              <actionDate>2015-10-07</actionDate>
+              <actionTime>17:08:54</actionTime>
+              <links />
+              <text>On agreeing to the Foxx amendment (A001) Agreed to by voice vote.</text>
+              <type>Floor</type>
+              <actionCode>H34111</actionCode>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2015-10-07</actionDate>
+              <actionTime>17:08:48</actionTime>
+              <links />
+              <text>The previous question was ordered on the amendment (A001) without objection. (consideration: CR H6879)</text>
+              <type>Floor</type>
+              <actionCode>H34180</actionCode>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2015-10-07</actionDate>
+              <actionTime>17:07:47</actionTime>
+              <links />
+              <text>Amendment (A001) offered by Ms. Foxx. (consideration: CR H6878-6879; text: CR H6878)</text>
+              <type>Floor</type>
+              <actionCode>H3A100</actionCode>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2015-10-07</actionDate>
+              <links />
+              <text />
+            </item>
+            <item>
+              <actionDate>2015-10-07</actionDate>
+              <actionTime>17:07:47</actionTime>
+              <links />
+              <text>House amendment offered/reported by : Amendment (A001) offered by Ms. Foxx.(consideration: CR H6878-6879; text: CR H6878)</text>
+              <type>NotUsed</type>
+              <actionCode>71500</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2015-10-07</actionDate>
+              <actionTime>17:08:54</actionTime>
+              <links />
+              <text>Amendment agreed to by House: On agreeing to the Foxx amendment (A001) Agreed to by voice vote.</text>
+              <type>NotUsed</type>
+              <actionCode>79000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2015-10-07</actionDate>
+              <links />
+              <text>House amendment offered</text>
+              <type>Floor</type>
+              <actionCode>71000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2015-10-07</actionDate>
+              <actionTime>17:08:54</actionTime>
+              <links />
+              <text>House amendment agreed to: On agreeing to the Foxx amendment (A001) Agreed to by voice vote.</text>
+              <type>Floor</type>
+              <actionCode>72000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+          </actions>
+          <actionTypeCounts>
+            <agreeingToTheAmendmentResults>1</agreeingToTheAmendmentResults>
+            <motionForThePreviousQuestionOffered>1</motionForThePreviousQuestionOffered>
+            <amendmentOffered>1</amendmentOffered>
+            <houseAmendmentOfferedReportedBy>1</houseAmendmentOfferedReportedBy>
+            <amendmentAgreedToByHouse>1</amendmentAgreedToByHouse>
+            <houseAmendmentOffered>1</houseAmendmentOffered>
+            <houseAmendmentAgreedTo>1</houseAmendmentAgreedTo>
+          </actionTypeCounts>
+          <actionByCounts>
+            <houseOfRepresentatives>7</houseOfRepresentatives>
+          </actionByCounts>
+        </actions>
+        <version>1.0.0</version>
+      </amendment>
+    </amendments>
+    <textVersions>
+      <item>
+        <type>Engrossed in House</type>
+        <date>2015-10-07T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-114hres461eh/xml/BILLS-114hres461eh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Reported in House</type>
+        <date>2015-10-06T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-114hres461rh/xml/BILLS-114hres461rh.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2015-10-07</actionDate>
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      <actionTime>17:36:35</actionTime>
+      <links />
+    </latestAction>
+    <calendarNumbers>
+      <item>
+        <calendar>H00063</calendar>
+        <number />
+      </item>
+    </calendarNumbers>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

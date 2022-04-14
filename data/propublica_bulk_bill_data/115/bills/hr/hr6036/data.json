@@ -1,0 +1,146 @@
+{
+  "actions": [
+    {
+      "acted_at": "2018-06-07", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-06-07", 
+      "action_code": "B00100", 
+      "links": [
+        {
+          "name": "E795-796", 
+          "url": "https://www.congress.gov/congressional-record/volume-164/extensions-of-remarks-section/page/E795-796"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR E795-796", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-06-07", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSED"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Education and the Workforce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2018-10-19", 
+      "action_code": "", 
+      "committees": [
+        "HSED"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Higher Education and Workforce Development.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr6036-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and Labor", 
+      "committee_id": "HSED"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and Labor", 
+      "committee_id": "HSED", 
+      "subcommittee": "Subcommittee on Higher Education and Workforce Investment", 
+      "subcommittee_id": "13"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001269", 
+      "district": "11", 
+      "name": "Barletta, Lou", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2018-06-07", 
+      "state": "PA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2018-06-07", 
+  "number": "6036", 
+  "official_title": "To amend the Higher Education Act of 1965, to add a work-study program for off-campus community service at selected after-school activities, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Students Helping Young Students Act of 2018", 
+  "sponsor": {
+    "bioguide_id": "C001072", 
+    "district": "7", 
+    "name": "Carson, Andre", 
+    "state": "IN", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2018-06-07", 
+  "subjects": [
+    "Education"
+  ], 
+  "subjects_top_term": "Education", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2018-06-07T04:00:00Z", 
+    "text": "Students Helping Young Students Act of 2018\n\nThis bill\u00a0expands\u00a0the federal work-study programs at\u00a0institutions of higher education to include\u00a0a work-study program that compensates students employed in the educational after-school, before-school, or out-of-school community service activities of public elementary or secondary schools."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Higher Education Act of 1965, to add a work-study program for off-campus community service at selected after-school activities, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Students Helping Young Students Act of 2018", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Students Helping Young Students Act of 2018", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Students Helping Young Students Act of 2018", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-11-15T21:04:51Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr6036.xml"
+}

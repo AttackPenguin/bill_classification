@@ -1,0 +1,107 @@
+{
+  "actions": [
+    {
+      "acted_at": "2018-07-13", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-07-13", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr6372-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "R000599", 
+      "district": "36", 
+      "name": "Ruiz, Raul", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2018-07-13", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S000250", 
+      "district": "32", 
+      "name": "Sessions, Pete", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2018-07-13", 
+      "state": "TX", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2018-07-13", 
+  "number": "6372", 
+  "official_title": "To require the Secretary of Health and Human Services issue regulations to ensure due process rights for physicians furnishing emergency medical services.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "C001092", 
+    "district": "27", 
+    "name": "Collins, Chris", 
+    "state": "NY", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2018-07-13", 
+  "subjects": [
+    "Health"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2018-07-13T04:00:00Z", 
+    "text": "This bill requires the Department of Health and Human Services to issue regulations that require a certain administrative process before hospitals may terminate or restrict the privileges of physicians who provide emergency medical services."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require the Secretary of Health and Human Services issue regulations to ensure due process rights for physicians furnishing emergency medical services.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "To require the Secretary of Health and Human Services issue regulations to ensure due process rights for physicians furnishing emergency medical services.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-10-18T16:07:28Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr6372.xml"
+}

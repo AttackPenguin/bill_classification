@@ -1,0 +1,835 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <passedSenate>1</passedSenate>
+        <measureLaidBeforeSenate>1</measureLaidBeforeSenate>
+        <amendmentAgreedTo>1</amendmentAgreedTo>
+        <introducedInSenate>1</introducedInSenate>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <referredToCommittee>1</referredToCommittee>
+        <receivedInTheHouse>1</receivedInTheHouse>
+        <orderedReported>1</orderedReported>
+        <sentToHouse>1</sentToHouse>
+        <reportedToSenate>2</reportedToSenate>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <heldAtTheDesk>1</heldAtTheDesk>
+      </actionTypeCounts>
+      <item>
+        <actionTime>22:47:46</actionTime>
+        <actionCode>H15000</actionCode>
+        <actionDate>2014-12-11</actionDate>
+        <type>Floor</type>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Held at the desk.</text>
+        <committee />
+      </item>
+      <item>
+        <actionTime>21:55:42</actionTime>
+        <actionCode>H14000</actionCode>
+        <actionDate>2014-12-11</actionDate>
+        <type>Floor</type>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Received in the House.</text>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2014-12-11</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2014-12-11</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S6657-6658</name>
+            <url>https://www.congress.gov/congressional-record/volume-160/senate-section/page/S6657-6658</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Passed Senate with an amendment by Unanimous Consent. (text: CR S6657-6658)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionCode>17000</actionCode>
+        <actionDate>2014-12-11</actionDate>
+        <type>Floor</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>S6657-6658</name>
+            <url>https://www.congress.gov/congressional-record/volume-160/senate-section/page/S6657-6658</url>
+          </link>
+        </links>
+        <text>Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text: CR S6657-6658)</text>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2014-12-11</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>The committee substitute as amended agreed to by Unanimous Consent.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2014-12-11</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S6657-6660</name>
+            <url>https://www.congress.gov/congressional-record/volume-160/senate-section/page/S6657-6660</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Measure laid before Senate by unanimous consent. (consideration: CR S6657-6660)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2014-09-15</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 560.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2014-09-15</actionDate>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. Without written report.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>14000</actionCode>
+        <actionDate>2014-09-15</actionDate>
+        <type>Committee</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <text>Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. Without written report.</text>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <actionDate>2014-09-11</actionDate>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on the Judiciary. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-09-19</actionDate>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <actionDate>2013-09-19</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <text>Introduced in Senate</text>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>11</senate>
+        <houseOfRepresentatives>2</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <introducedDate>2013-09-19</introducedDate>
+    <updateDate>2016-10-25T17:07:05Z</updateDate>
+    <createDate>2013-09-20T07:01:06Z</createDate>
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <systemCode>ssju00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Judiciary Committee</name>
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2014-09-15T18:36:14Z</date>
+            </item>
+            <item>
+              <name>Markup by</name>
+              <date>2014-09-11T17:53:47Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2013-09-19T21:22:14Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <bioguideId>C001056</bioguideId>
+        <state>TX</state>
+        <sponsorshipDate>2013-09-19</sponsorshipDate>
+        <middleName />
+        <firstName>John</firstName>
+        <party>R</party>
+        <fullName>Sen. Cornyn, John [R-TX]</fullName>
+        <lastName>Cornyn</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8295</gpoId>
+          <lisID>1692</lisID>
+          <bioguideId>C001056</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>C001088</bioguideId>
+        <state>DE</state>
+        <sponsorshipDate>2013-09-19</sponsorshipDate>
+        <middleName>A.</middleName>
+        <firstName>Christopher</firstName>
+        <party>D</party>
+        <fullName>Sen. Coons, Christopher A. [D-DE]</fullName>
+        <lastName>Coons</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1984</lisID>
+          <bioguideId>C001088</bioguideId>
+          <gpoId>8297</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>F000062</bioguideId>
+        <state>CA</state>
+        <sponsorshipDate>2013-09-19</sponsorshipDate>
+        <middleName />
+        <firstName>DIANNE</firstName>
+        <party>D</party>
+        <fullName>Sen. Feinstein, Dianne [D-CA]</fullName>
+        <lastName>FEINSTEIN</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1332</lisID>
+          <gpoId>8338</gpoId>
+          <bioguideId>F000062</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>G000359</bioguideId>
+        <state>SC</state>
+        <sponsorshipDate>2013-09-19</sponsorshipDate>
+        <middleName>O.</middleName>
+        <firstName>LINDSEY</firstName>
+        <party>R</party>
+        <fullName>Sen. Graham, Lindsey [R-SC]</fullName>
+        <lastName>GRAHAM</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>452</lisID>
+          <gpoId>8335</gpoId>
+          <bioguideId>G000359</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>H000338</bioguideId>
+        <state>UT</state>
+        <sponsorshipDate>2013-09-19</sponsorshipDate>
+        <middleName>GRANT</middleName>
+        <firstName>ORRIN</firstName>
+        <party>R</party>
+        <fullName>Sen. Hatch, Orrin G. [R-UT]</fullName>
+        <lastName>HATCH</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1351</lisID>
+          <gpoId>8314</gpoId>
+          <bioguideId>H000338</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>K000367</bioguideId>
+        <state>MN</state>
+        <sponsorshipDate>2013-09-19</sponsorshipDate>
+        <middleName />
+        <firstName>Amy</firstName>
+        <party>D</party>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <lastName>Klobuchar</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1826</lisID>
+          <gpoId>8249</gpoId>
+          <bioguideId>K000367</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>M000133</bioguideId>
+        <state>MA</state>
+        <sponsorshipDate>2013-09-19</sponsorshipDate>
+        <middleName>J.</middleName>
+        <firstName>EDWARD</firstName>
+        <party>D</party>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <lastName>MARKEY</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>735</lisID>
+          <bioguideId>M000133</bioguideId>
+          <gpoId>7972</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>M000639</bioguideId>
+        <state>NJ</state>
+        <sponsorshipDate>2013-09-19</sponsorshipDate>
+        <middleName />
+        <firstName>ROBERT</firstName>
+        <party>D</party>
+        <fullName>Sen. Menendez, Robert [D-NJ]</fullName>
+        <lastName>MENENDEZ</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>M000639</bioguideId>
+          <lisID>791</lisID>
+          <gpoId>8239</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>W000802</bioguideId>
+        <state>RI</state>
+        <sponsorshipDate>2013-09-19</sponsorshipDate>
+        <middleName />
+        <firstName>Sheldon</firstName>
+        <party>D</party>
+        <fullName>Sen. Whitehouse, Sheldon [D-RI]</fullName>
+        <lastName>Whitehouse</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1823</lisID>
+          <bioguideId>W000802</bioguideId>
+          <gpoId>8264</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>F000444</bioguideId>
+        <state>AZ</state>
+        <sponsorshipDate>2013-10-02</sponsorshipDate>
+        <middleName />
+        <firstName>JEFF</firstName>
+        <party>R</party>
+        <fullName>Sen. Flake, Jeff [R-AZ]</fullName>
+        <lastName>FLAKE</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>F000444</bioguideId>
+          <gpoId>7803</gpoId>
+          <lisID>1633</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>L000577</bioguideId>
+        <state>UT</state>
+        <sponsorshipDate>2013-10-16</sponsorshipDate>
+        <middleName />
+        <firstName>Mike</firstName>
+        <party>R</party>
+        <fullName>Sen. Lee, Mike [R-UT]</fullName>
+        <lastName>Lee</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2080</lisID>
+          <bioguideId>L000577</bioguideId>
+          <gpoId>8303</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>C001098</bioguideId>
+        <state>TX</state>
+        <sponsorshipDate>2014-09-10</sponsorshipDate>
+        <middleName />
+        <firstName>Ted</firstName>
+        <party>R</party>
+        <fullName>Sen. Cruz, Ted [R-TX]</fullName>
+        <lastName>Cruz</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2175</lisID>
+          <bioguideId>C001098</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>G000386</bioguideId>
+        <state>IA</state>
+        <sponsorshipDate>2014-09-10</sponsorshipDate>
+        <middleName>ERNEST</middleName>
+        <firstName>CHARLES</firstName>
+        <party>R</party>
+        <fullName>Sen. Grassley, Chuck [R-IA]</fullName>
+        <lastName>GRASSLEY</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>457</lisID>
+          <bioguideId>G000386</bioguideId>
+          <gpoId>8316</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>F000457</bioguideId>
+        <state>MN</state>
+        <sponsorshipDate>2014-09-10</sponsorshipDate>
+        <middleName />
+        <firstName>Al</firstName>
+        <party>D</party>
+        <fullName>Sen. Franken, Al [D-MN]</fullName>
+        <lastName>Franken</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8339</gpoId>
+          <lisID>1969</lisID>
+          <bioguideId>F000457</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>B001277</bioguideId>
+        <state>CT</state>
+        <sponsorshipDate>2014-09-11</sponsorshipDate>
+        <middleName />
+        <firstName>Richard</firstName>
+        <party>D</party>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <lastName>Blumenthal</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2076</lisID>
+          <bioguideId>B001277</bioguideId>
+          <gpoId>8332</gpoId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <congress>113</congress>
+    <billType>S</billType>
+    <title>Justice Against Sponsors of Terrorism Act</title>
+    <titles>
+      <item>
+        <titleType>Short Titles as Passed Senate</titleType>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <chamberCode>S</chamberCode>
+        <title>Justice Against Sponsors of Terrorism Act</title>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <titleType>Short Titles as Reported to Senate</titleType>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <chamberCode>S</chamberCode>
+        <title>Justice Against Sponsors of Terrorism Act</title>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Justice Against Sponsors of Terrorism Act</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>A bill to deter terrorism, provide justice for victims, and for other purposes.</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Justice Against Sponsors of Terrorism Act</title>
+        <chamberName />
+      </item>
+    </titles>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2014-09-18T19:36:52Z</lastSummaryUpdateDate>
+          <updateDate>2013-09-19T04:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+          <actionDate>2013-09-19</actionDate>
+          <text><![CDATA[<p>Justice Against Sponsors of Terrorism Act - Amends the federal judicial code to include among the exceptions to U.S. jurisdictional immunity of foreign states any statutory or common law tort claim arising out of an act of extrajudicial killing, aircraft sabotage, hostage taking, terrorism, or the provision of material support or resources for such an act, or any claim for contribution or indemnity relating to a claim arising out of such an act. </p> <p>Amends the federal criminal code to: (1) impose liability on, and grant U.S. district courts personal jurisdiction over, any person who commits, or aids, abets, or conspires with a person who commits, an act of international terrorism that injures a U.S. national; and (2) repeal provisions prohibiting civil actions against foreign states or foreign officials for damages related to acts of terrorism.</p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <versionCode>00</versionCode>
+        </item>
+        <item>
+          <lastSummaryUpdateDate>2014-12-24T21:25:12Z</lastSummaryUpdateDate>
+          <updateDate>2014-09-15T15:22:57Z</updateDate>
+          <name>Reported to Senate amended</name>
+          <actionDate>2014-09-15</actionDate>
+          <text><![CDATA[<p>Justice Against Sponsors of Terrorism Act - Amends the federal judicial code to include among the exceptions to U.S. jurisdictional immunity of foreign states any statutory or common law tort claim arising out of an act of extrajudicial killing, aircraft sabotage, hostage taking, terrorism, or the provision of material support or resources for such an act, or any claim for contribution or indemnity relating to a claim arising out of such an act.</p> <p>Amends the federal criminal code to: (1) impose liability on any person or entity that </s>aids, abets, or conspires with a person who commits an act of international terrorism that is committed, planned, or authorized by a designated foreign terrorist organization and that injures a U.S. national; and (2) repeal provisions prohibiting civil actions against foreign states or foreign officials for damages related to acts of terrorism.</p> <p>Grants U.S. district courts personal jurisdiction, to the maximum extent permissible under the Fifth Amendment, over any person who commits or aids and abets an act of international terrorism, or who otherwise sponsors such act or the person who committed such an act, that injures a U.S. national.</p>  <p>Makes this Act applicable to any civil action: (1) pending on, or commenced on or after, this Act's enactment date; and (2) arising out of an injury to a person, property, or business on or after September 11, 2001.</p>]]></text>
+          <actionDesc>Reported to Senate amended</actionDesc>
+          <versionCode>01</versionCode>
+        </item>
+        <item>
+          <lastSummaryUpdateDate>2014-12-24T21:21:42Z</lastSummaryUpdateDate>
+          <updateDate>2014-12-11T18:47:16Z</updateDate>
+          <name>Passed Senate amended</name>
+          <actionDate>2014-12-11</actionDate>
+          <text><![CDATA[<p>Justice Against Sponsors of Terrorism Act - Amends the federal judicial code to include among the exceptions to U.S. jurisdictional immunity of foreign states any statutory or common law tort claim arising out of an act of extrajudicial killing, aircraft sabotage, hostage taking, terrorism, or the provision of material support or resources for such an act, or any claim for contribution or indemnity relating to a claim arising out of such an act.</p> <p>Amends the federal criminal code to: (1) impose liability on any person who </s>aids, abets, or conspires with a person who commits an act of international terrorism that is committed, planned, or authorized by a designated foreign terrorist organization and that injures a U.S. national; and (2) repeal provisions prohibiting civil actions against foreign states or foreign officials for damages related to acts of terrorism.</p> <p>Grants U.S. district courts personal jurisdiction, to the maximum extent permissible under the Fifth Amendment, over any person who commits or aids and abets an act of international terrorism, or who otherwise sponsors such act or the person who committed such an act, that injures a U.S. national.</p>  <p>Makes this Act applicable to any civil action: (1) pending on, or commenced on or after, this Act's enactment date; and (2) arising out of an injury to a person, property, or business on or after September 11, 2001.</p>]]></text>
+          <actionDesc>Passed Senate amended</actionDesc>
+          <versionCode>35</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates>
+      <item>
+        <title>S. 1535, Justice Against Sponsors of Terrorism Act</title>
+        <url>https://www.cbo.gov/publication/49452</url>
+        <pubDate>2014-10-07T19:33:00Z</pubDate>
+      </item>
+    </cboCostEstimates>
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <congress>113</congress>
+        <type>HR</type>
+        <number>3143</number>
+        <latestAction>
+          <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+          <actionDate>2014-01-09</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Justice Against Sponsors of Terrorism Act</latestTitle>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Civil actions and liability</name>
+          </item>
+          <item>
+            <name>Crime victims</name>
+          </item>
+          <item>
+            <name>Diplomacy, foreign officials, Americans abroad</name>
+          </item>
+          <item>
+            <name>Federal district courts</name>
+          </item>
+          <item>
+            <name>Government liability</name>
+          </item>
+          <item>
+            <name>Jurisdiction and venue</name>
+          </item>
+          <item>
+            <name>Terrorism</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Held at the desk.</text>
+      <actionTime>22:47:46</actionTime>
+      <actionDate>2014-12-11</actionDate>
+    </latestAction>
+    <billNumber>1535</billNumber>
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <amendments>
+      <amendment>
+        <latestAction>
+          <actionDate>2014-12-11</actionDate>
+          <text>Amendment SA 4096 agreed to in Senate by Unanimous Consent.</text>
+        </latestAction>
+        <purpose>In the nature of substitute.</purpose>
+        <congress>113</congress>
+        <submittedDate>2014-12-11T05:00:00Z</submittedDate>
+        <number>4096</number>
+        <updateDate>2016-10-25T13:07:04Z</updateDate>
+        <type>SAMDT</type>
+        <actions>
+          <count>6</count>
+          <actions>
+            <item>
+              <actionDate>2014-12-11</actionDate>
+              <committee />
+              <links>
+                <link>
+                  <name>S.Amdt.4096</name>
+                  <url>https://www.congress.gov/amendment/113th-congress/senate-amendment/4096</url>
+                </link>
+                <link>
+                  <name>SA 4096</name>
+                  <url>https://www.congress.gov/amendment/113th-congress/senate-amendment/4096</url>
+                </link>
+              </links>
+              <sourceSystem>
+                <name>Senate</name>
+                <code>0</code>
+              </sourceSystem>
+              <text>Amendment SA 4096 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2014-12-11</actionDate>
+              <committee />
+              <links>
+                <link>
+                  <name>S.Amdt.4096</name>
+                  <url>https://www.congress.gov/amendment/113th-congress/senate-amendment/4096</url>
+                </link>
+                <link>
+                  <name>S6658</name>
+                  <url>https://www.congress.gov/congressional-record/volume-160/senate-section/page/S6658</url>
+                </link>
+                <link>
+                  <name>SA 4096</name>
+                  <url>https://www.congress.gov/amendment/113th-congress/senate-amendment/4096</url>
+                </link>
+              </links>
+              <sourceSystem>
+                <name>Senate</name>
+                <code>0</code>
+              </sourceSystem>
+              <text>Amendment SA 4096 proposed by Senator Schumer. (consideration: CR S6658; text: CR S6658)</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2014-12-11</actionDate>
+              <committee />
+              <links />
+              <text />
+            </item>
+            <item>
+              <committee />
+              <text>Senate amendment proposed (on the floor): Amendment SA 4096 proposed by Senator Schumer.(consideration: CR S6658; text: CR S6658)</text>
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+              <type>Floor</type>
+              <actionDate>2014-12-11</actionDate>
+              <actionCode>93000</actionCode>
+              <links>
+                <link>
+                  <name>S.Amdt.4096</name>
+                  <url>https://www.congress.gov/amendment/113th-congress/senate-amendment/4096</url>
+                </link>
+                <link>
+                  <name>S6658</name>
+                  <url>https://www.congress.gov/congressional-record/volume-160/senate-section/page/S6658</url>
+                </link>
+                <link>
+                  <name>SA 4096</name>
+                  <url>https://www.congress.gov/amendment/113th-congress/senate-amendment/4096</url>
+                </link>
+              </links>
+            </item>
+            <item>
+              <committee />
+              <text>Senate amendment agreed to: Amendment SA 4096 agreed to in Senate by Unanimous Consent.</text>
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+              <type>Floor</type>
+              <actionDate>2014-12-11</actionDate>
+              <actionCode>94000</actionCode>
+              <links>
+                <link>
+                  <name>S.Amdt.4096</name>
+                  <url>https://www.congress.gov/amendment/113th-congress/senate-amendment/4096</url>
+                </link>
+                <link>
+                  <name>SA 4096</name>
+                  <url>https://www.congress.gov/amendment/113th-congress/senate-amendment/4096</url>
+                </link>
+              </links>
+            </item>
+            <item>
+              <committee />
+              <text>Senate amendment submitted</text>
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+              <type>Floor</type>
+              <actionDate>2014-12-11</actionDate>
+              <actionCode>91000</actionCode>
+              <links />
+            </item>
+          </actions>
+          <actionTypeCounts>
+            <amendmentProposed>1</amendmentProposed>
+            <senateAmendmentAgreedTo>1</senateAmendmentAgreedTo>
+            <amendmentAgreedTo>1</amendmentAgreedTo>
+            <senateAmendmentSubmitted>1</senateAmendmentSubmitted>
+            <senateAmendmentProposedOnTheFloor>1</senateAmendmentProposedOnTheFloor>
+          </actionTypeCounts>
+          <actionByCounts>
+            <senate>5</senate>
+          </actionByCounts>
+        </actions>
+        <titles />
+        <sponsors>
+          <item>
+            <state>NY</state>
+            <firstName>CHARLES</firstName>
+            <bioguideId>S000148</bioguideId>
+            <fullName>Sen. Schumer, Charles E. [D-NY]</fullName>
+            <lastName>SCHUMER</lastName>
+            <party>D</party>
+            <middleName>E.</middleName>
+          </item>
+        </sponsors>
+        <description />
+        <chamber>Senate</chamber>
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <links />
+        <cosponsors>
+          <totalCount>1</totalCount>
+          <currentCount>1</currentCount>
+        </cosponsors>
+        <createDate>2014-12-12T05:02:39Z</createDate>
+        <amendedAmendment />
+        <amendedBill>
+          <congress>113</congress>
+          <type>S</type>
+          <number>1535</number>
+          <title>Justice Against Sponsors of Terrorism Act</title>
+          <originChamberCode>S</originChamberCode>
+          <originChamber>Senate</originChamber>
+        </amendedBill>
+        <proposedDate>2014-12-11T05:00:00Z</proposedDate>
+        <notes />
+        <description />
+        <type>SAMDT</type>
+        <congress>113</congress>
+        <purpose>In the nature of substitute.</purpose>
+        <number>4096</number>
+      </amendment>
+    </amendments>
+    <sponsors>
+      <item>
+        <firstName>CHARLES</firstName>
+        <party>D</party>
+        <fullName>Sen. Schumer, Charles E. [D-NY]</fullName>
+        <bioguideId>S000148</bioguideId>
+        <identifiers>
+          <lisID>1036</lisID>
+          <gpoId>8279</gpoId>
+          <bioguideId>S000148</bioguideId>
+        </identifiers>
+        <lastName>SCHUMER</lastName>
+        <middleName>E.</middleName>
+        <state>NY</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <calendarNumbers>
+      <item>
+        <number>0560</number>
+        <calendar>Senate Calendar of Business</calendar>
+      </item>
+    </calendarNumbers>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

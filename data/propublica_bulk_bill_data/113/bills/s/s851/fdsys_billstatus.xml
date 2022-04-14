@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>S</billType>
+    <introducedDate>2013-04-25</introducedDate>
+    <committeeReports>
+      <committeeReport>
+        <citation>S. Rept. 113-107</citation>
+      </committeeReport>
+    </committeeReports>
+    <congress>113</congress>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>MA</state>
+        <sponsorshipDate>2013-11-21</sponsorshipDate>
+        <bioguideId>M000133</bioguideId>
+        <firstName>EDWARD</firstName>
+        <middleName>J.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <party>D</party>
+        <lastName>MARKEY</lastName>
+        <identifiers>
+          <lisID>735</lisID>
+          <bioguideId>M000133</bioguideId>
+          <gpoId>7972</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>IL</state>
+        <sponsorshipDate>2014-09-11</sponsorshipDate>
+        <bioguideId>D000563</bioguideId>
+        <firstName>RICHARD</firstName>
+        <middleName>J.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Durbin, Richard [D-IL]</fullName>
+        <party>D</party>
+        <lastName>DURBIN</lastName>
+        <identifiers>
+          <lisID>326</lisID>
+          <bioguideId>D000563</bioguideId>
+          <gpoId>8326</gpoId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <recordedVotes />
+    <latestAction>
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 186.</text>
+      <links />
+      <actionDate>2013-09-17</actionDate>
+    </latestAction>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <actionDate>2013-11-12</actionDate>
+          <text>Referred to the Subcommittee on Health.</text>
+        </latestAction>
+        <type>HR</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Caregivers Expansion and Improvement Act of 2013</latestTitle>
+        <number>3383</number>
+      </item>
+    </relatedBills>
+    <updateDate>2016-10-25T16:23:57Z</updateDate>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <actions>
+      <item>
+        <actionDate>2013-09-17</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 186.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2013-09-17</actionDate>
+        <committee>
+          <systemCode>ssva00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>report No. 113-107</name>
+            <url>https://www.congress.gov/congressional-report/113th-congress/senate-report/107</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Veterans' Affairs. Reported by Senator Sanders without amendment. With written report No. 113-107. Minority views filed.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>ssva00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <type>Committee</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>14000</actionCode>
+        <text>Committee on Veterans' Affairs. Reported by Senator Sanders without amendment. With written report No. 113-107. Minority views filed.</text>
+        <links>
+          <link>
+            <name>report No. 113-107</name>
+            <url>https://www.congress.gov/congressional-report/113th-congress/senate-report/107</url>
+          </link>
+        </links>
+        <actionDate>2013-09-17</actionDate>
+      </item>
+      <item>
+        <actionDate>2013-07-24</actionDate>
+        <committee>
+          <systemCode>ssva00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Veterans' Affairs. Ordered to be reported without amendment favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-05-09</actionDate>
+        <committee>
+          <systemCode>ssva00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Veterans' Affairs. Hearings held. Hearings printed: S.Hrg. 113-203.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-04-25</actionDate>
+        <committee>
+          <systemCode>ssva00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>S3042</name>
+            <url>https://www.congress.gov/congressional-record/volume-159/senate-section/page/S3042</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Veterans' Affairs. (text of measure as introduced: CR S3042)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>B00100</actionCode>
+        <text>Sponsor introductory remarks on measure. (CR S3042)</text>
+        <links>
+          <link>
+            <name>S3042</name>
+            <url>https://www.congress.gov/congressional-record/volume-159/senate-section/page/S3042</url>
+          </link>
+        </links>
+        <actionDate>2013-04-25</actionDate>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <links />
+        <actionDate>2013-04-25</actionDate>
+      </item>
+      <actionByCounts>
+        <senate>7</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <placeholderTextForB>1</placeholderTextForB>
+        <referredToCommittee>1</referredToCommittee>
+        <reportedToSenate>2</reportedToSenate>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <orderedReported>1</orderedReported>
+        <introducedInSenate>1</introducedInSenate>
+        <hearingsHeld>1</hearingsHeld>
+      </actionTypeCounts>
+    </actions>
+    <calendarNumbers>
+      <item>
+        <number>0186</number>
+        <calendar>Senate Calendar of Business</calendar>
+      </item>
+    </calendarNumbers>
+    <amendments />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <name>Introduced in Senate</name>
+          <lastSummaryUpdateDate>2013-05-07T21:09:41Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Caregivers Expansion and Improvement Act of 2013 - Extends to all veterans with a serious service-connected injury the eligibility to participate in the Department of Veterans Affairs (VA) program of comprehensive assistance to family caregivers of such veterans. (Under current law, such eligibility is limited to those veterans who incurred such an injury on or after September 11, 2001.)</p>]]></text>
+          <updateDate>2013-04-25T04:00:00Z</updateDate>
+          <actionDate>2013-04-25</actionDate>
+        </item>
+        <item>
+          <versionCode>80</versionCode>
+          <actionDesc>Reported to Senate without amendment</actionDesc>
+          <name>Reported to Senate without amendment</name>
+          <lastSummaryUpdateDate>2013-11-27T14:37:23Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</b></p> <p>Caregivers Expansion and Improvement Act of 2013 - Extends to all veterans with a serious service-connected injury the eligibility to participate in the Department of Veterans Affairs (VA) program of comprehensive assistance to family caregivers of such veterans. (Under current law, such eligibility is limited to those veterans who incurred such an injury on or after September 11, 2001.)</p>]]></text>
+          <updateDate>2013-09-17T16:51:27Z</updateDate>
+          <actionDate>2013-09-17</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Disability and paralysis</name>
+          </item>
+          <item>
+            <name>Long-term, rehabilitative, and terminal care</name>
+          </item>
+          <item>
+            <name>Veterans' medical care</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <title>Caregivers Expansion and Improvement Act of 2013</title>
+    <originChamber>Senate</originChamber>
+    <sponsors>
+      <item>
+        <lastName>SANDERS</lastName>
+        <bioguideId>S000033</bioguideId>
+        <fullName>Sen. Sanders, Bernard [I-VT]</fullName>
+        <identifiers>
+          <lisID>1010</lisID>
+          <gpoId>8270</gpoId>
+          <bioguideId>S000033</bioguideId>
+        </identifiers>
+        <party>I</party>
+        <firstName>BERNARD</firstName>
+        <middleName />
+        <state>VT</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <laws />
+    <notes />
+    <createDate>2013-04-26T07:02:13Z</createDate>
+    <billNumber>851</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssva00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2013-09-17T16:41:53Z</date>
+              <name>Reported by</name>
+            </item>
+            <item>
+              <date>2013-07-24T18:02:48Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2013-05-09T19:08:28Z</date>
+              <name>Hearings by</name>
+            </item>
+            <item>
+              <date>2013-04-25T23:10:32Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <cboCostEstimates>
+      <item>
+        <url>http://www.cbo.gov/publication/44510</url>
+        <pubDate>2013-08-15T19:56:31Z</pubDate>
+        <title>S. 851, Caregivers Expansion and Improvement Act of 2013</title>
+      </item>
+      <item>
+        <url>https://www.cbo.gov/publication/44510</url>
+        <pubDate>2013-08-15T19:56:31Z</pubDate>
+        <title>S. 851, Caregivers Expansion and Improvement Act of 2013</title>
+      </item>
+    </cboCostEstimates>
+    <titles>
+      <item>
+        <titleType>Short Titles as Reported to Senate</titleType>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <chamberCode>S</chamberCode>
+        <title>Caregivers Expansion and Improvement Act of 2013</title>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Caregivers Expansion and Improvement Act of 2013</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>A bill to amend title 38, United States Code, to extend to all veterans with a serious service-connected injury eligibility to participate in the family caregiver services program.</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Caregivers Expansion and Improvement Act of 2013</title>
+        <chamberName />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

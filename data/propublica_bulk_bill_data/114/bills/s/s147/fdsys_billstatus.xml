@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>147</billNumber>
+    <createDate>2015-01-13T04:55:52Z</createDate>
+    <updateDate>2020-12-06T09:03:34Z</updateDate>
+    <originChamber>Senate</originChamber>
+    <billType>S</billType>
+    <introducedDate>2015-01-12</introducedDate>
+    <congress>114</congress>
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Reported original measure</name>
+              <date>2015-01-12T21:10:57Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports>
+      <committeeReport>
+        <citation>S. Rept. 114-1</citation>
+      </committeeReport>
+    </committeeReports>
+    <relatedBills>
+      <item>
+        <latestTitle>Keystone XL Pipeline Act</latestTitle>
+        <congress>114</congress>
+        <number>3</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2015-01-12</actionDate>
+          <text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 3.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Keystone XL Pipeline Approval Act</latestTitle>
+        <congress>114</congress>
+        <number>1</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2015-03-04</actionDate>
+          <text>Message on Senate action sent to the House.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2015-01-12</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 2.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2015-01-12</actionDate>
+        <committees>
+          <item>
+            <systemCode>sseg00</systemCode>
+            <name>Energy and Natural Resources Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Energy and Natural Resources. Original measure reported to Senate by Senator Murkowski. With written report No. 114-1. Minority views filed.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2015-01-12</actionDate>
+        <links />
+        <text>Committee on Energy and Natural Resources. Original measure reported to Senate by Senator Murkowski. With written report No. 114-1. Minority views filed.</text>
+        <type>Committee</type>
+        <actionCode>14000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>sseg00</systemCode>
+            <name>Energy and Natural Resources Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2015-01-12</actionDate>
+        <links />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <actionTypeCounts>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <originalBillReported>1</originalBillReported>
+        <reportedToSenate>1</reportedToSenate>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>4</senate>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>M001153</bioguideId>
+        <fullName>Sen. Murkowski, Lisa [R-AK]</fullName>
+        <firstName>Lisa</firstName>
+        <middleName />
+        <lastName>Murkowski</lastName>
+        <party>R</party>
+        <state>AK</state>
+        <identifiers>
+          <lisID>1694</lisID>
+          <bioguideId>M001153</bioguideId>
+          <gpoId>8234</gpoId>
+        </identifiers>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cosponsors />
+    <cboCostEstimates>
+      <item>
+        <pubDate>2015-01-20T16:50:00Z</pubDate>
+        <title>Keystone XL Pipeline Approval Act</title>
+        <url>https://www.cbo.gov/publication/49893</url>
+      </item>
+    </cboCostEstimates>
+    <laws />
+    <notes />
+    <policyArea>
+      <name>Energy</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Canada</name>
+          </item>
+          <item>
+            <name>Environmental assessment, monitoring, research</name>
+          </item>
+          <item>
+            <name>Federal appellate courts</name>
+          </item>
+          <item>
+            <name>Judicial review and appeals</name>
+          </item>
+          <item>
+            <name>Licensing and registrations</name>
+          </item>
+          <item>
+            <name>Nebraska</name>
+          </item>
+          <item>
+            <name>Oil and gas</name>
+          </item>
+          <item>
+            <name>Pipelines</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Energy</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2015-01-12</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2015-01-14T16:06:23Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Keystone XL Pipeline Approval Act</b></p> <p>Authorizes TransCanada Keystone Pipeline, L.P. to construct, connect, operate, and maintain the pipeline and cross-border facilities specified in an application filed by TransCanada Corporation to the Department of State on May 4, 2012.</p> <p>Deems the Final Supplemental Environmental Impact Statement regarding the pipeline issued by the Secretary of State in January 2014 to fully satisfy the National Environmental Policy Act of 1969 and any law that requires federal agency consultation or review, including the Endangered Species Act of 1973. </p> <p>Maintains in effect any applicable federal permit or authorization issued before enactment of this Act.</p> <p>Grants original and exclusive jurisdiction, except for review in the Supreme Court, to the U.S. Court of Appeals for the District of Columbia Circuit over any civil action for the review of a federal agency action regarding the pipeline and related facilities.</p> <p>Declares that this Act does not alter any federal, state, or local process or condition in effect on the date of enactment of this Act that is necessary to secure access from an owner of private property to construct the pipeline and cross-border facilities. </p>]]></text>
+          <updateDate>2015-01-12T05:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+        </item>
+        <item>
+          <versionCode>80</versionCode>
+          <actionDate>2015-01-12</actionDate>
+          <actionDesc>Reported to Senate without amendment</actionDesc>
+          <lastSummaryUpdateDate>2015-01-14T17:55:04Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)</p> <p><b>Keystone XL Pipeline Approval Act</b></p> <p>(Sec. 2) Authorizes TransCanada Keystone Pipeline, L.P. to construct, connect, operate, and maintain the pipeline and cross-border facilities specified in an application filed by TransCanada Corporation to the Department of State on May 4, 2012.</p> <p>Deems the Final Supplemental Environmental Impact Statement regarding the pipeline issued by the Secretary of State in January 2014 to fully satisfy the National Environmental Policy Act of 1969 and any law that requires federal agency consultation or review, including the Endangered Species Act of 1973. </p> <p>Maintains in effect any applicable federal permit or authorization issued before enactment of this Act.</p> <p>Grants original and exclusive jurisdiction, except for review in the Supreme Court, to the U.S. Court of Appeals for the District of Columbia Circuit over any civil action for the review of a federal agency action regarding the pipeline and related facilities.</p> <p>Declares that this Act does not alter any federal, state, or local process or condition in effect on the date of enactment of this Act that is necessary to secure access from an owner of private property to construct the pipeline and cross-border facilities. </p>]]></text>
+          <updateDate>2015-01-12T13:47:40Z</updateDate>
+          <name>Reported to Senate without amendment</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>Keystone XL Pipeline Approval Act</title>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>An original bill to approve the Keystone XL Pipeline.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Keystone XL Pipeline Approval Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Reported to Senate</titleType>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <title>Keystone XL Pipeline Approval Act</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Keystone XL Pipeline Approval Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <amendments />
+    <textVersions>
+      <item>
+        <type>Placed on Calendar Senate</type>
+        <date>2015-01-12T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-114s147pcs/xml/BILLS-114s147pcs.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2015-01-12</actionDate>
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 2.</text>
+      <links />
+    </latestAction>
+    <calendarNumbers>
+      <item>
+        <calendar>Senate Calendar of Business</calendar>
+        <number>0002</number>
+      </item>
+    </calendarNumbers>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

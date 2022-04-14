@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2013-06-07</actionDate>
+        <committee>
+          <name>Western Hemisphere Subcommittee</name>
+          <systemCode>hsfa07</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on the Western Hemisphere.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on Foreign Affairs.</text>
+        <actionDate>2013-05-23</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <committee>
+          <name>Foreign Affairs Committee</name>
+          <systemCode>hsfa00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionDate>2013-05-23</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionDate>2013-05-23</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <district>51</district>
+        <fullName>Rep. Vargas, Juan [D-CA-51]</fullName>
+        <lastName>Vargas</lastName>
+        <middleName />
+        <state>CA</state>
+        <party>D</party>
+        <identifiers>
+          <gpoId />
+          <lisID>2112</lisID>
+          <bioguideId>V000130</bioguideId>
+        </identifiers>
+        <firstName>Juan</firstName>
+        <bioguideId>V000130</bioguideId>
+      </item>
+    </sponsors>
+    <congress>113</congress>
+    <constitutionalAuthorityStatementText />
+    <billNumber>241</billNumber>
+    <cboCostEstimates />
+    <updateDate>2016-10-25T15:54:50Z</updateDate>
+    <laws />
+    <createDate>2013-05-24T07:01:34Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Foreign Affairs Committee</name>
+          <activities>
+            <item>
+              <date>2013-05-23T13:06:45Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <name>Western Hemisphere Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2013-06-07T17:38:12Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsfa07</systemCode>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <systemCode>hsfa00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Expresses support for the United States International Boundary Water Commission's (USIBWC's) proposed minute to address trash, sediment, and water quality between the United States and Mexico's respective sections of the International Boundary and Water Commission. Commends USIBWC, the Tijuana River Valley Recovery Team, and local environmental organizations for their leadership in addressing such issues. Reaffirms Congress's commitment to continue its partnerships with Mexico on protecting the transnational watersheds.</p>]]></text>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2013-06-27T21:02:06Z</lastSummaryUpdateDate>
+          <actionDate>2013-05-23</actionDate>
+          <updateDate>2013-05-23T04:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committeeReports />
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2013-05-23</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Peters</lastName>
+        <state>CA</state>
+        <party>D</party>
+        <district>52</district>
+        <fullName>Rep. Peters, Scott H. [D-CA-52]</fullName>
+        <middleName>H.</middleName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>P000608</bioguideId>
+          <lisID>2113</lisID>
+        </identifiers>
+        <bioguideId>P000608</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Scott</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2013-05-23</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>DAVIS</lastName>
+        <state>CA</state>
+        <party>D</party>
+        <district>53</district>
+        <fullName>Rep. Davis, Susan A. [D-CA-53]</fullName>
+        <middleName>A.</middleName>
+        <identifiers>
+          <lisID>1641</lisID>
+          <gpoId>7858</gpoId>
+          <bioguideId>D000598</bioguideId>
+        </identifiers>
+        <bioguideId>D000598</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>SUSAN</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2013-05-23</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Cardenas</lastName>
+        <state>CA</state>
+        <party>D</party>
+        <district>29</district>
+        <fullName>Rep. Cardenas, Tony [D-CA-29]</fullName>
+        <middleName />
+        <identifiers>
+          <bioguideId>C001097</bioguideId>
+          <gpoId />
+          <lisID>2107</lisID>
+        </identifiers>
+        <bioguideId>C001097</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Tony</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2013-05-23</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Grijalva</lastName>
+        <state>AZ</state>
+        <party>D</party>
+        <district>3</district>
+        <fullName>Rep. Grijalva, Raul M. [D-AZ-3]</fullName>
+        <middleName>M.</middleName>
+        <identifiers>
+          <gpoId>7804</gpoId>
+          <lisID>1708</lisID>
+          <bioguideId>G000551</bioguideId>
+        </identifiers>
+        <bioguideId>G000551</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Raul</firstName>
+      </item>
+    </cosponsors>
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Arizona</name>
+          </item>
+          <item>
+            <name>California</name>
+          </item>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>International organizations and cooperation</name>
+          </item>
+          <item>
+            <name>Latin America</name>
+          </item>
+          <item>
+            <name>Mexico</name>
+          </item>
+          <item>
+            <name>New Mexico</name>
+          </item>
+          <item>
+            <name>Solid waste and recycling</name>
+          </item>
+          <item>
+            <name>Texas</name>
+          </item>
+          <item>
+            <name>Water quality</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>Recognizing the importance of the United States International Boundary Water Commission (USIBWC) and its recent efforts to address trash, sediment, and water quality issues with their Mexican counterparts, Comision Internacional de Limites y Aguas (CILA), through a proposed minute.</title>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Recognizing the importance of the United States International Boundary Water Commission (USIBWC) and its recent efforts to address trash, sediment, and water quality issues with their Mexican counterparts, Comision Internacional de Limites y Aguas (CILA), through a proposed minute.</title>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+    </titles>
+    <originChamber>House</originChamber>
+    <notes />
+    <calendarNumbers />
+    <title>Recognizing the importance of the United States International Boundary Water Commission (USIBWC) and its recent efforts to address trash, sediment, and water quality issues with their Mexican counterparts, Comision Internacional de Limites y Aguas (CILA), through a proposed minute.</title>
+    <billType>HRES</billType>
+    <introducedDate>2013-05-23</introducedDate>
+    <amendments />
+    <latestAction>
+      <actionDate>2013-06-07</actionDate>
+      <text>Referred to the Subcommittee on the Western Hemisphere.</text>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

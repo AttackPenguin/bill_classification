@@ -1,0 +1,768 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <relatedBills>
+      <item>
+        <number>3063</number>
+        <congress>115</congress>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2018-06-13</actionDate>
+          <text>Read twice and referred to the Committee on Finance.</text>
+        </latestAction>
+        <latestTitle>Health Insurance Tax Relief Act of 2018</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <number>6311</number>
+        <congress>115</congress>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2018-07-26</actionDate>
+          <text>Received in the Senate.</text>
+        </latestAction>
+        <latestTitle>Increasing Access to Lower Premium Plans and Expanding Health Savings Accounts Act of 2018</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-05-24T13:01:45Z</date>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <name>Health Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2018-06-04T14:24:57Z</date>
+                </item>
+              </activities>
+              <systemCode>hswm02</systemCode>
+            </item>
+          </subcommittees>
+        </item>
+        <item>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-05-24T13:01:50Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2019-08-26T19:05:56Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>This bill extends the suspension of the annual fee on health-insurance providers until 2021.</p>]]></text>
+          <versionCode>00</versionCode>
+          <actionDate>2018-05-24</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2018-05-24T04:00:00Z</updateDate>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <version>1.0.0</version>
+    <originChamber>House</originChamber>
+    <congress>115</congress>
+    <latestAction>
+      <actionDate>2018-06-04</actionDate>
+      <text>Referred to the Subcommittee on Health.</text>
+      <links />
+    </latestAction>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2018-06-04</actionDate>
+        <committee>
+          <name>Health Subcommittee</name>
+          <systemCode>hswm02</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2018-05-24</actionDate>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      </item>
+      <item>
+        <actionDate>2018-05-24</actionDate>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      </item>
+      <item>
+        <actionDate>2018-05-24</actionDate>
+        <committee />
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <actionDate>2018-05-24</actionDate>
+        <committee />
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>2</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <createDate>2018-05-25T07:10:54Z</createDate>
+    <laws />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>To delay the reimposition of the annual fee on health insurance providers until after 2020.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>To delay the reimposition of the annual fee on health insurance providers until after 2020.</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 164, Number 86 (Thursday, May 24, 2018)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mrs. NOEM:H.R. 5963.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8 of the Constitution of the UnitedStates.[Page H4729]</pre>]]></constitutionalAuthorityStatementText>
+    <introducedDate>2018-05-24</introducedDate>
+    <calendarNumbers />
+    <recordedVotes />
+    <textVersions>
+      <item>
+        <date>2018-05-24T04:00:00Z</date>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr5963ih/xml/BILLS-115hr5963ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <lisID>2128</lisID>
+          <gpoId />
+          <bioguideId>W000813</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Jackie</firstName>
+        <district>2</district>
+        <fullName>Rep. Walorski, Jackie [R-IN-2]</fullName>
+        <lastName>Walorski</lastName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <state>IN</state>
+        <bioguideId>W000813</bioguideId>
+        <sponsorshipDate>2018-05-24</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>S001191</bioguideId>
+          <lisID>2099</lisID>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Kyrsten</firstName>
+        <district>9</district>
+        <fullName>Rep. Sinema, Kyrsten [D-AZ-9]</fullName>
+        <lastName>Sinema</lastName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <state>AZ</state>
+        <bioguideId>S001191</bioguideId>
+        <sponsorshipDate>2018-05-24</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2102</lisID>
+          <gpoId />
+          <bioguideId>B001287</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Ami</firstName>
+        <district>7</district>
+        <fullName>Rep. Bera, Ami [D-CA-7]</fullName>
+        <lastName>Bera</lastName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <state>CA</state>
+        <bioguideId>B001287</bioguideId>
+        <sponsorshipDate>2018-05-24</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1860</lisID>
+          <gpoId>8040</gpoId>
+          <bioguideId>S001172</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Adrian</firstName>
+        <district>3</district>
+        <fullName>Rep. Smith, Adrian [R-NE-3]</fullName>
+        <lastName>Smith</lastName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <state>NE</state>
+        <bioguideId>S001172</bioguideId>
+        <sponsorshipDate>2018-06-08</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>C001096</bioguideId>
+          <lisID>2144</lisID>
+          <gpoId />
+        </identifiers>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Kevin</firstName>
+        <district>0</district>
+        <fullName>Rep. Cramer, Kevin [R-ND-At Large]</fullName>
+        <lastName>Cramer</lastName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <state>ND</state>
+        <bioguideId>C001096</bioguideId>
+        <sponsorshipDate>2018-06-08</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>C001105</bioguideId>
+          <lisID>2273</lisID>
+          <gpoId />
+        </identifiers>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Barbara</firstName>
+        <district>10</district>
+        <fullName>Rep. Comstock, Barbara [R-VA-10]</fullName>
+        <lastName>Comstock</lastName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <state>VA</state>
+        <bioguideId>C001105</bioguideId>
+        <sponsorshipDate>2018-06-08</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>B001257</bioguideId>
+          <lisID>1838</lisID>
+          <gpoId>7881</gpoId>
+        </identifiers>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Gus</firstName>
+        <district>12</district>
+        <fullName>Rep. Bilirakis, Gus M. [R-FL-12]</fullName>
+        <lastName>Bilirakis</lastName>
+        <sponsorshipWithdrawnDate />
+        <middleName>M.</middleName>
+        <state>FL</state>
+        <bioguideId>B001257</bioguideId>
+        <sponsorshipDate>2018-06-22</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2306</lisID>
+          <gpoId />
+          <bioguideId>O000171</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Tom</firstName>
+        <district>1</district>
+        <fullName>Rep. O'Halleran, Tom [D-AZ-1]</fullName>
+        <lastName>O'Halleran</lastName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <state>AZ</state>
+        <bioguideId>O000171</bioguideId>
+        <sponsorshipDate>2018-06-28</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>B001285</bioguideId>
+          <lisID>2106</lisID>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Julia</firstName>
+        <district>26</district>
+        <fullName>Rep. Brownley, Julia [D-CA-26]</fullName>
+        <lastName>Brownley</lastName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <state>CA</state>
+        <bioguideId>B001285</bioguideId>
+        <sponsorshipDate>2018-06-28</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>E000294</bioguideId>
+          <gpoId />
+          <lisID>2253</lisID>
+        </identifiers>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Tom</firstName>
+        <district>6</district>
+        <fullName>Rep. Emmer, Tom [R-MN-6]</fullName>
+        <lastName>Emmer</lastName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <state>MN</state>
+        <bioguideId>E000294</bioguideId>
+        <sponsorshipDate>2018-06-28</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2344</lisID>
+          <gpoId />
+          <bioguideId>T000478</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Claudia</firstName>
+        <district>22</district>
+        <fullName>Rep. Tenney, Claudia [R-NY-22]</fullName>
+        <lastName>Tenney</lastName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <state>NY</state>
+        <bioguideId>T000478</bioguideId>
+        <sponsorshipDate>2018-06-28</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1954</lisID>
+          <gpoId>8148</gpoId>
+          <bioguideId>R000582</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>David</firstName>
+        <district>1</district>
+        <fullName>Rep. Roe, David P. [R-TN-1]</fullName>
+        <lastName>Roe</lastName>
+        <sponsorshipWithdrawnDate />
+        <middleName>P.</middleName>
+        <state>TN</state>
+        <bioguideId>R000582</bioguideId>
+        <sponsorshipDate>2018-06-28</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>S001196</bioguideId>
+          <gpoId />
+          <lisID>2263</lisID>
+        </identifiers>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Elise</firstName>
+        <district>21</district>
+        <fullName>Rep. Stefanik, Elise M. [R-NY-21]</fullName>
+        <lastName>Stefanik</lastName>
+        <sponsorshipWithdrawnDate />
+        <middleName>M.</middleName>
+        <state>NY</state>
+        <bioguideId>S001196</bioguideId>
+        <sponsorshipDate>2018-06-28</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2131</lisID>
+          <gpoId />
+          <bioguideId>B001282</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Andy</firstName>
+        <district>6</district>
+        <fullName>Rep. Barr, Andy [R-KY-6]</fullName>
+        <lastName>Barr</lastName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <state>KY</state>
+        <bioguideId>B001282</bioguideId>
+        <sponsorshipDate>2018-06-28</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>E000298</bioguideId>
+          <lisID>2358</lisID>
+          <gpoId />
+        </identifiers>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Ron</firstName>
+        <district>4</district>
+        <fullName>Rep. Estes, Ron [R-KS-4]</fullName>
+        <lastName>Estes</lastName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <state>KS</state>
+        <bioguideId>E000298</bioguideId>
+        <sponsorshipDate>2018-06-28</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2271</lisID>
+          <gpoId />
+          <bioguideId>L000584</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Mia</firstName>
+        <district>4</district>
+        <fullName>Rep. Love, Mia B. [R-UT-4]</fullName>
+        <lastName>Love</lastName>
+        <sponsorshipWithdrawnDate />
+        <middleName>B.</middleName>
+        <state>UT</state>
+        <bioguideId>L000584</bioguideId>
+        <sponsorshipDate>2018-06-28</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1738</lisID>
+          <gpoId>8057</gpoId>
+          <bioguideId>P000588</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Stevan</firstName>
+        <district>2</district>
+        <fullName>Rep. Pearce, Stevan [R-NM-2]</fullName>
+        <lastName>Pearce</lastName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <state>NM</state>
+        <bioguideId>P000588</bioguideId>
+        <sponsorshipDate>2018-06-28</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>K000382</bioguideId>
+          <gpoId />
+          <lisID>2145</lisID>
+        </identifiers>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Ann</firstName>
+        <district>2</district>
+        <fullName>Rep. Kuster, Ann M. [D-NH-2]</fullName>
+        <lastName>Kuster</lastName>
+        <sponsorshipWithdrawnDate />
+        <middleName>M.</middleName>
+        <state>NH</state>
+        <bioguideId>K000382</bioguideId>
+        <sponsorshipDate>2018-06-28</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2063</lisID>
+          <gpoId>8153</gpoId>
+          <bioguideId>B001273</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Diane</firstName>
+        <district>6</district>
+        <fullName>Rep. Black, Diane [R-TN-6]</fullName>
+        <lastName>Black</lastName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <state>TN</state>
+        <bioguideId>B001273</bioguideId>
+        <sponsorshipDate>2018-07-10</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2337</lisID>
+          <gpoId />
+          <bioguideId>B001298</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Don</firstName>
+        <district>2</district>
+        <fullName>Rep. Bacon, Don [R-NE-2]</fullName>
+        <lastName>Bacon</lastName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <state>NE</state>
+        <bioguideId>B001298</bioguideId>
+        <sponsorshipDate>2018-07-13</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>S001183</bioguideId>
+          <gpoId>7802</gpoId>
+          <lisID>1994</lisID>
+        </identifiers>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>David</firstName>
+        <district>6</district>
+        <fullName>Rep. Schweikert, David [R-AZ-6]</fullName>
+        <lastName>Schweikert</lastName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <state>AZ</state>
+        <bioguideId>S001183</bioguideId>
+        <sponsorshipDate>2018-07-13</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1722</lisID>
+          <gpoId>7910</gpoId>
+          <bioguideId>S001157</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>David</firstName>
+        <district>13</district>
+        <fullName>Rep. Scott, David [D-GA-13]</fullName>
+        <lastName>Scott</lastName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <state>GA</state>
+        <bioguideId>S001157</bioguideId>
+        <sponsorshipDate>2018-07-25</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2107</lisID>
+          <gpoId />
+          <bioguideId>C001097</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Tony</firstName>
+        <district>29</district>
+        <fullName>Rep. Cardenas, Tony [D-CA-29]</fullName>
+        <lastName>Cardenas</lastName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <state>CA</state>
+        <bioguideId>C001097</bioguideId>
+        <sponsorshipDate>2018-07-25</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1807</lisID>
+          <gpoId>8184</gpoId>
+          <bioguideId>C001063</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Henry</firstName>
+        <district>28</district>
+        <fullName>Rep. Cuellar, Henry [D-TX-28]</fullName>
+        <lastName>Cuellar</lastName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <state>TX</state>
+        <bioguideId>C001063</bioguideId>
+        <sponsorshipDate>2018-07-25</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2318</lisID>
+          <gpoId />
+          <bioguideId>M001202</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Stephanie</firstName>
+        <district>7</district>
+        <fullName>Rep. Murphy, Stephanie N. [D-FL-7]</fullName>
+        <lastName>Murphy</lastName>
+        <sponsorshipWithdrawnDate />
+        <middleName>N.</middleName>
+        <state>FL</state>
+        <bioguideId>M001202</bioguideId>
+        <sponsorshipDate>2018-07-25</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2338</lisID>
+          <gpoId />
+          <bioguideId>G000583</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Josh</firstName>
+        <district>5</district>
+        <fullName>Rep. Gottheimer, Josh [D-NJ-5]</fullName>
+        <lastName>Gottheimer</lastName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <state>NJ</state>
+        <bioguideId>G000583</bioguideId>
+        <sponsorshipDate>2018-07-25</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2047</lisID>
+          <gpoId>8105</gpoId>
+          <bioguideId>S001187</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Steve</firstName>
+        <district>15</district>
+        <fullName>Rep. Stivers, Steve [R-OH-15]</fullName>
+        <lastName>Stivers</lastName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <state>OH</state>
+        <bioguideId>S001187</bioguideId>
+        <sponsorshipDate>2018-07-25</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>K000386</bioguideId>
+          <gpoId />
+          <lisID>2264</lisID>
+        </identifiers>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>John</firstName>
+        <district>24</district>
+        <fullName>Rep. Katko, John [R-NY-24]</fullName>
+        <lastName>Katko</lastName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <state>NY</state>
+        <bioguideId>K000386</bioguideId>
+        <sponsorshipDate>2018-09-07</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <amendments />
+    <billNumber>5963</billNumber>
+    <updateDate>2019-11-15T21:43:17Z</updateDate>
+    <cboCostEstimates />
+    <title>To delay the reimposition of the annual fee on health insurance providers until after 2020.</title>
+    <committeeReports />
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <district>0</district>
+        <lastName>Noem</lastName>
+        <firstName>Kristi</firstName>
+        <state>SD</state>
+        <fullName>Rep. Noem, Kristi L. [R-SD-At Large]</fullName>
+        <identifiers>
+          <bioguideId>N000184</bioguideId>
+          <gpoId>8147</gpoId>
+          <lisID>2060</lisID>
+        </identifiers>
+        <middleName>L.</middleName>
+        <bioguideId>N000184</bioguideId>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,127 @@
+{
+  "actions": [
+    {
+      "acted_at": "2018-04-10", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-04-10", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSRU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Rules.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hres813-115", 
+  "bill_type": "hres", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Rules", 
+      "committee_id": "HSRU"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001298", 
+      "district": "2", 
+      "name": "Bacon, Don", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2018-04-17", 
+      "state": "NE", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001077", 
+      "district": "6", 
+      "name": "Coffman, Mike", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2018-04-10", 
+      "state": "CO", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000388", 
+      "district": "1", 
+      "name": "Kelly, Trent", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2018-04-10", 
+      "state": "MS", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000588", 
+      "district": "2", 
+      "name": "Pearce, Stevan", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2018-04-10", 
+      "state": "NM", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2018-04-10", 
+  "number": "813", 
+  "official_title": "Expressing the sense of the House of Representatives that defense appropriations bills should be considered only as stand-alone measures.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "T000470", 
+    "district": "3", 
+    "name": "Tipton, Scott  R.", 
+    "state": "CO", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2018-04-10", 
+  "subjects": [
+    "Armed forces and national security"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2018-04-10T04:00:00Z", 
+    "text": "Expresses the sense of the House of Representatives that defense appropriations bills should be considered in the House only as standalone measures."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Expressing the sense of the House of Representatives that defense appropriations bills should be considered only as stand-alone measures.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Expressing the sense of the House of Representatives that defense appropriations bills should be considered only as stand-alone measures.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-11-15T21:46:53Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/115/hres/BILLSTATUS-115hres813.xml"
+}

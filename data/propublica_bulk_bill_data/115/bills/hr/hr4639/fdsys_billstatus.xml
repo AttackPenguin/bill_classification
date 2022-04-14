@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Military Domestic Violence Reporting Enhancement Act</latestTitle>
+        <type>S</type>
+        <number>2129</number>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Armed Services.</text>
+          <actionDate>2017-11-15</actionDate>
+        </latestAction>
+        <congress>115</congress>
+      </item>
+    </relatedBills>
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Judiciary Committee</name>
+          <activities>
+            <item>
+              <date>2017-12-13T15:01:10Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <systemCode>hsju08</systemCode>
+              <name>Crime, Terrorism, and Homeland Security Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2018-01-22T20:12:35Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <systemCode>hsju00</systemCode>
+          <chamber>House</chamber>
+        </item>
+        <item>
+          <type>Standing</type>
+          <name>Armed Services Committee</name>
+          <activities>
+            <item>
+              <date>2017-12-13T15:01:05Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <systemCode>hsas02</systemCode>
+              <name>Military Personnel Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2018-01-10T20:46:19Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <systemCode>hsas00</systemCode>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2017-12-13T05:00:00Z</updateDate>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2019-05-01T16:30:28Z</lastSummaryUpdateDate>
+          <actionDate>2017-12-13</actionDate>
+          <text><![CDATA[<p><b>Military Domestic Violence Reporting Enhancement Act</b></p> <p>This bill establishes a punitive article in the Uniform Code of Military Justice on domestic violence and aggravated domestic violence against an intimate partner. &quot;Aggravated domestic violence&quot; involves the use of a weapon, or force in a manner likely to produce death or grievous bodily harm.</p> <p>Military departments must submit to the Department of Justice the identity of each member of the Armed Forces who has been convicted of a domestic violence offense for inclusion in the national instant criminal background check system.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <version>1.0.0</version>
+    <originChamber>House</originChamber>
+    <congress>115</congress>
+    <latestAction>
+      <actionDate>2018-01-22</actionDate>
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+      <links />
+    </latestAction>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>2</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>2</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2018-01-22</actionDate>
+        <committee>
+          <name>Crime, Terrorism, and Homeland Security Subcommittee</name>
+          <systemCode>hsju08</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2018-01-10</actionDate>
+        <committee>
+          <name>Military Personnel Subcommittee</name>
+          <systemCode>hsas02</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Military Personnel.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2017-12-13</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the Committee on Armed Services, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2017-12-13</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the Committee on Armed Services, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Armed Services Committee</name>
+          <systemCode>hsas00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2017-12-13</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2017-12-13</actionDate>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+    </actions>
+    <createDate>2017-12-14T03:11:08Z</createDate>
+    <laws />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>To amend title 10 United States Code, to establish a punitive article in the Uniform Code of Military Justice on domestic violence, and for other purposes.</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Military Domestic Violence Reporting Enhancement Act</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>Military Domestic Violence Reporting Enhancement Act</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Military Domestic Violence Reporting Enhancement Act</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 203 (Wednesday, December 13, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. ROSEN:H.R. 4639.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clauses 12, 13, 14, 15, 16, 18 of theU.S. Constitution: To raise and support Armies, but noAppropriation of Money to that Use shall be for a longer Termthan two Years; To provide and maintain a Navy; To make Rulesfor the Government and Regulation of the land and navalForces; To provide for calling forth the Militia to executethe Laws of the Union, suppress Insurrections and repelInvasions; To provide for organizing, arming, anddisciplining, the Militia, and for governing such Part ofthem as may be employed in the Service of the United States,reserving to the States respectively, the Appointment of theOfficers, and the Authority of training the Militia accordingto the discipline prescribed by Congress; To make all Lawswhich shall be necessary and proper for carrying intoExecution the foregoing Powers, and all other Powers vestedby this Constitution in the Government of the United States,or in any Department or Officer thereof.[Page H9900]</pre>]]></constitutionalAuthorityStatementText>
+    <introducedDate>2017-12-13</introducedDate>
+    <calendarNumbers />
+    <recordedVotes />
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr4639ih/xml/BILLS-115hr4639ih.xml</url>
+          </item>
+        </formats>
+        <date>2017-12-13T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <lisID>1921</lisID>
+          <gpoId>7950</gpoId>
+          <bioguideId>J000290</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Lynn</firstName>
+        <district>2</district>
+        <fullName>Rep. Jenkins, Lynn [R-KS-2]</fullName>
+        <lastName>Jenkins</lastName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <state>KS</state>
+        <bioguideId>J000290</bioguideId>
+        <sponsorshipDate>2017-12-13</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>511</lisID>
+          <gpoId>7895</gpoId>
+          <bioguideId>H000324</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>ALCEE</firstName>
+        <district>20</district>
+        <fullName>Rep. Hastings, Alcee L. [D-FL-20]</fullName>
+        <lastName>HASTINGS</lastName>
+        <sponsorshipWithdrawnDate />
+        <middleName>L.</middleName>
+        <state>FL</state>
+        <bioguideId>H000324</bioguideId>
+        <sponsorshipDate>2018-04-13</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1504</lisID>
+          <gpoId>7968</gpoId>
+          <bioguideId>M000312</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>JAMES</firstName>
+        <district>2</district>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <lastName>MCGOVERN</lastName>
+        <sponsorshipWithdrawnDate />
+        <middleName>P.</middleName>
+        <state>MA</state>
+        <bioguideId>M000312</bioguideId>
+        <sponsorshipDate>2018-04-13</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>M001202</bioguideId>
+          <gpoId />
+          <lisID>2318</lisID>
+        </identifiers>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Stephanie</firstName>
+        <district>7</district>
+        <fullName>Rep. Murphy, Stephanie N. [D-FL-7]</fullName>
+        <lastName>Murphy</lastName>
+        <sponsorshipWithdrawnDate />
+        <middleName>N.</middleName>
+        <state>FL</state>
+        <bioguideId>M001202</bioguideId>
+        <sponsorshipDate>2018-04-18</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1861</lisID>
+          <gpoId>7528</gpoId>
+          <bioguideId>S001170</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Carol</firstName>
+        <district>1</district>
+        <fullName>Rep. Shea-Porter, Carol [D-NH-1]</fullName>
+        <lastName>Shea-Porter</lastName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <state>NH</state>
+        <bioguideId>S001170</bioguideId>
+        <sponsorshipDate>2018-04-18</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <amendments />
+    <billNumber>4639</billNumber>
+    <updateDate>2019-11-15T21:33:56Z</updateDate>
+    <cboCostEstimates />
+    <title>Military Domestic Violence Reporting Enhancement Act</title>
+    <committeeReports />
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <district>3</district>
+        <lastName>Rosen</lastName>
+        <firstName>Jacklyn</firstName>
+        <state>NV</state>
+        <fullName>Rep. Rosen, Jacky [D-NV-3]</fullName>
+        <identifiers>
+          <lisID>2339</lisID>
+          <gpoId />
+          <bioguideId>R000608</bioguideId>
+        </identifiers>
+        <middleName />
+        <bioguideId>R000608</bioguideId>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

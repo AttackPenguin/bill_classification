@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2014-09-18</actionDate>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-160/senate-section/page/S5799</url>
+            <name>S5799</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-160/senate-section/page/S5880</url>
+            <name>S5880</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S5880; text as passed Senate: CR S5799)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <text>Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.(consideration: CR S5880; text as passed Senate: CR S5799)</text>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-160/senate-section/page/S5799</url>
+            <name>S5799</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-160/senate-section/page/S5880</url>
+            <name>S5880</name>
+          </link>
+        </links>
+        <type>Floor</type>
+        <actionDate>2014-09-18</actionDate>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2014-09-18</actionDate>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <passedOrAgreedToInSenateDayOf>1</passedOrAgreedToInSenateDayOf>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <introducedDate>2014-09-18</introducedDate>
+    <updateDate>2016-10-25T16:19:30Z</updateDate>
+    <createDate>2014-09-19T05:28:31Z</createDate>
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees />
+    </committees>
+    <cosponsors>
+      <item>
+        <bioguideId>M001111</bioguideId>
+        <identifiers>
+          <lisID>1409</lisID>
+          <bioguideId>M001111</bioguideId>
+          <gpoId>8237</gpoId>
+        </identifiers>
+        <middleName />
+        <fullName>Sen. Murray, Patty [D-WA]</fullName>
+        <firstName>PATTY</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2014-09-18</sponsorshipDate>
+        <lastName>MURRAY</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>WA</state>
+      </item>
+      <item>
+        <bioguideId>C000286</bioguideId>
+        <identifiers>
+          <bioguideId>C000286</bioguideId>
+          <lisID>188</lisID>
+          <gpoId>8284</gpoId>
+        </identifiers>
+        <middleName />
+        <fullName>Sen. Chambliss, Saxby [R-GA]</fullName>
+        <firstName>SAXBY</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2014-09-18</sponsorshipDate>
+        <lastName>CHAMBLISS</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <state>GA</state>
+      </item>
+      <item>
+        <bioguideId>I000055</bioguideId>
+        <identifiers>
+          <lisID>1608</lisID>
+          <gpoId>8323</gpoId>
+          <bioguideId>I000055</bioguideId>
+        </identifiers>
+        <middleName />
+        <fullName>Sen. Isakson, Johnny [R-GA]</fullName>
+        <firstName>Johnny</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2014-09-18</sponsorshipDate>
+        <lastName>Isakson</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <state>GA</state>
+      </item>
+      <item>
+        <bioguideId>W000805</bioguideId>
+        <identifiers>
+          <bioguideId>W000805</bioguideId>
+          <lisID>1897</lisID>
+          <gpoId>8269</gpoId>
+        </identifiers>
+        <middleName>R.</middleName>
+        <fullName>Sen. Warner, Mark R. [D-VA]</fullName>
+        <firstName>Mark</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2014-09-18</sponsorshipDate>
+        <lastName>Warner</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>VA</state>
+      </item>
+      <item>
+        <bioguideId>K000384</bioguideId>
+        <identifiers>
+          <lisID>2176</lisID>
+          <bioguideId>K000384</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <fullName>Sen. Kaine, Tim [D-VA]</fullName>
+        <firstName>Timothy</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2014-09-18</sponsorshipDate>
+        <lastName>Kaine</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>VA</state>
+      </item>
+      <item>
+        <bioguideId>B001277</bioguideId>
+        <identifiers>
+          <lisID>2076</lisID>
+          <bioguideId>B001277</bioguideId>
+          <gpoId>8332</gpoId>
+        </identifiers>
+        <middleName />
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <firstName>Richard</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2014-09-18</sponsorshipDate>
+        <lastName>Blumenthal</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>CT</state>
+      </item>
+      <item>
+        <bioguideId>M001169</bioguideId>
+        <identifiers>
+          <lisID>1837</lisID>
+          <bioguideId>M001169</bioguideId>
+          <gpoId>7870</gpoId>
+        </identifiers>
+        <middleName />
+        <fullName>Sen. Murphy, Christopher S. [D-CT]</fullName>
+        <firstName>Christopher</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2014-09-18</sponsorshipDate>
+        <lastName>Murphy</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>CT</state>
+      </item>
+      <item>
+        <bioguideId>S001181</bioguideId>
+        <identifiers>
+          <bioguideId>S001181</bioguideId>
+          <gpoId>8276</gpoId>
+          <lisID>1901</lisID>
+        </identifiers>
+        <middleName />
+        <fullName>Sen. Shaheen, Jeanne [D-NH]</fullName>
+        <firstName>Jeanne</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2014-09-18</sponsorshipDate>
+        <lastName>Shaheen</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>NH</state>
+      </item>
+      <item>
+        <bioguideId>C001035</bioguideId>
+        <identifiers>
+          <lisID>1541</lisID>
+          <bioguideId>C001035</bioguideId>
+          <gpoId>8291</gpoId>
+        </identifiers>
+        <middleName>MARGARET</middleName>
+        <fullName>Sen. Collins, Susan M. [R-ME]</fullName>
+        <firstName>SUSAN</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2014-09-18</sponsorshipDate>
+        <lastName>COLLINS</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <state>ME</state>
+      </item>
+      <item>
+        <bioguideId>H001042</bioguideId>
+        <identifiers>
+          <lisID>1844</lisID>
+          <bioguideId>H001042</bioguideId>
+          <gpoId>7913</gpoId>
+        </identifiers>
+        <middleName>K.</middleName>
+        <fullName>Sen. Hirono, Mazie K. [D-HI]</fullName>
+        <firstName>Mazie</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2014-09-18</sponsorshipDate>
+        <lastName>Hirono</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>HI</state>
+      </item>
+      <item>
+        <bioguideId>K000383</bioguideId>
+        <identifiers>
+          <bioguideId>K000383</bioguideId>
+          <lisID>2185</lisID>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <fullName>Sen. King, Angus S. Jr. [I-ME]</fullName>
+        <firstName>Angus</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2014-09-18</sponsorshipDate>
+        <lastName>King</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>I</party>
+        <state>ME</state>
+      </item>
+    </cosponsors>
+    <congress>113</congress>
+    <billType>SRES</billType>
+    <title>A resolution congratulating the Sailors of the United States Submarine Force upon the completion of 4,000 ballistic missile submarine (SSBN) deterrent patrols.</title>
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A resolution congratulating the Sailors of the United States Submarine Force upon the completion of 4,000 ballistic missile submarine (SSBN) deterrent patrols.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>A resolution congratulating the Sailors of the United States Submarine Force upon the completion of 4,000 ballistic missile submarine (SSBN) deterrent patrols.</title>
+      </item>
+    </titles>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Congratulates sailors of the U.S. Submarine Force upon the completion of 4,000 ballistic missile submarine deterrent patrols. Honors and thanks the crews and their families for their dedication and sacrifice.</p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <actionDate>2014-09-18</actionDate>
+          <updateDate>2014-09-18T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2014-09-24T19:34:22Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+          <versionCode>00</versionCode>
+        </item>
+        <item>
+          <text><![CDATA[<p><b>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</b></p> <p>Congratulates sailors of the U.S. Submarine Force upon the completion of 4,000 ballistic missile submarine deterrent patrols. Honors and thanks the crews and their families for their dedication and sacrifice.</p>]]></text>
+          <actionDesc>Passed Senate without amendment</actionDesc>
+          <actionDate>2014-09-18</actionDate>
+          <updateDate>2014-09-18T19:13:28Z</updateDate>
+          <lastSummaryUpdateDate>2014-09-24T19:34:41Z</lastSummaryUpdateDate>
+          <name>Passed Senate without amendment</name>
+          <versionCode>82</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <latestAction>
+          <actionDate>2014-09-18</actionDate>
+          <text>Referred to the House Committee on Armed Services.</text>
+        </latestAction>
+        <type>HCONRES</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Congratulating the Sailors of the United States Submarine Force upon the completion of 4,000 ballistic missile submarine (SSBN) deterrent patrols.</latestTitle>
+        <number>116</number>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Military operations and strategy</name>
+          </item>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S5880; text as passed Senate: CR S5799)</text>
+      <actionDate>2014-09-18</actionDate>
+    </latestAction>
+    <billNumber>572</billNumber>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <amendments />
+    <sponsors>
+      <item>
+        <firstName>MARIA</firstName>
+        <party>D</party>
+        <fullName>Sen. Cantwell, Maria [D-WA]</fullName>
+        <bioguideId>C000127</bioguideId>
+        <identifiers>
+          <lisID>172</lisID>
+          <gpoId>8288</gpoId>
+          <bioguideId>C000127</bioguideId>
+        </identifiers>
+        <lastName>CANTWELL</lastName>
+        <middleName />
+        <state>WA</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

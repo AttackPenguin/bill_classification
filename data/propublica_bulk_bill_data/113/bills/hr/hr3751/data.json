@@ -1,0 +1,122 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-12-12", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-12-12", 
+      "action_code": "B00100", 
+      "links": [
+        {
+          "name": "E1867-1868", 
+          "url": "https://www.congress.gov/congressional-record/volume-159/extensions-of-remarks-section/page/E1867-1868"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR E1867-1868", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-12-12", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3751-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2013-12-12", 
+  "number": "3751", 
+  "official_title": "To amend the Internal Revenue Code of 1986 to extend the rule providing parity for exclusion from income for employer-provided mass transit and parking benefits.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1882-113", 
+      "identified_by": "CRS", 
+      "reason": "identical", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr5771-113", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "N000147", 
+    "district": "0", 
+    "name": "Norton, Eleanor Holmes", 
+    "state": "DC", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2013-12-12", 
+  "subjects": [
+    "Commuting", 
+    "Employee benefits and pensions", 
+    "Income tax exclusion", 
+    "Public transit", 
+    "Taxation", 
+    "Transportation costs"
+  ], 
+  "subjects_top_term": "Taxation", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2013-12-12T05:00:00Z", 
+    "text": "Amends the Internal Revenue Code to extend through 2014 the equalization of the exclusion from gross income for employer-provided mass transit and parking benefits."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Internal Revenue Code of 1986 to extend the rule providing parity for exclusion from income for employer-provided mass transit and parking benefits.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "To amend the Internal Revenue Code of 1986 to extend the rule providing parity for exclusion from income for employer-provided mass transit and parking benefits.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2016-10-25T16:09:45Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/113/hr/BILLSTATUS-113hr3751.xml"
+}

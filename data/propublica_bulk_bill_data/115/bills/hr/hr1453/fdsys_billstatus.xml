@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Department of Homeland Security</name>
+          </item>
+          <item>
+            <name>Law enforcement administration and funding</name>
+          </item>
+          <item>
+            <name>Political movements and philosophies</name>
+          </item>
+          <item>
+            <name>Terrorism</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Emergency Management</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <relatedBills />
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Homeland Security Committee</name>
+          <activities>
+            <item>
+              <date>2017-03-09T15:01:00Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <systemCode>hshm05</systemCode>
+              <name>Intelligence and Counterterrorism Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2017-03-22T20:35:53Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <systemCode>hshm00</systemCode>
+          <chamber>House</chamber>
+        </item>
+        <item>
+          <type>Standing</type>
+          <name>Judiciary Committee</name>
+          <activities>
+            <item>
+              <date>2017-03-09T15:01:05Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <systemCode>hsju08</systemCode>
+              <name>Crime, Terrorism, and Homeland Security Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2017-03-09T14:38:30Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <systemCode>hsju00</systemCode>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-08-28T20:18:44Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><strong>Reaffirming DHS Commitment to Countering All Forms of Extremism</strong></p> <p>This bill prohibits the Department of Homeland Security (DHS) from changing the name of its Countering Violent Extremism Task Force.</p> <p>DHS may not make grants to counter Islamist extremism in an aggregate amount of more than $4 million in any fiscal year and shall ensure that any such grants made for a fiscal year are closely matched in aggregate dollar amounts in grants made to counter other forms of extremism for such fiscal year. </p>]]></text>
+          <versionCode>00</versionCode>
+          <actionDate>2017-03-09</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2017-03-09T05:00:00Z</updateDate>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <version>1.0.0</version>
+    <originChamber>House</originChamber>
+    <congress>115</congress>
+    <latestAction>
+      <actionDate>2017-03-22</actionDate>
+      <text>Referred to the Subcommittee on Counterterrorism and Intelligence.</text>
+      <links />
+    </latestAction>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>7</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>2</billReferrals>
+        <placeholderTextForH>2</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForB>1</placeholderTextForB>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-03-22</actionDate>
+        <committee>
+          <name>Intelligence and Counterterrorism Subcommittee</name>
+          <systemCode>hshm05</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Counterterrorism and Intelligence.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2017-03-09</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the Committee on Homeland Security, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2017-03-09</actionDate>
+        <actionCode>H11100-A</actionCode>
+        <text>Referred to the Committee on Homeland Security, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2017-03-09</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the Committee on Homeland Security, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Homeland Security Committee</name>
+          <systemCode>hshm00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <actionDate>2017-03-09</actionDate>
+        <committee>
+          <name>Crime, Terrorism, and Homeland Security Subcommittee</name>
+          <systemCode>hsju08</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2017-03-09</actionDate>
+        <actionCode>B00100</actionCode>
+        <text>Sponsor introductory remarks on measure. (CR H1957)</text>
+        <links>
+          <link>
+            <name>H1957</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H1957</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2017-03-09</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2017-03-09</actionDate>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+    </actions>
+    <createDate>2017-03-10T05:16:37Z</createDate>
+    <laws />
+    <titles>
+      <item>
+        <title>To reaffirm the commitment of the Department of Homeland Security to countering all forms of extremism, and for other purposes.</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>Reaffirming DHS Commitment to Countering All Forms of Extremism</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>Reaffirming DHS Commitment to Countering All Forms of Extremism</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>Reaffirming DHS Commitment to Countering All Forms of Extremism</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 41 (Thursday, March 9, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. JOHNSON of Georgia:H.R. 1453.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8 (Clauses 1 and 18), which grantsCongress the power to provide for the common Defense andgeneral Welfare of the United States; and to make all Lawswhich shall be necessary and proper for carrying intoExecution the foregoing Powers.[Page H2019]</pre>]]></constitutionalAuthorityStatementText>
+    <introducedDate>2017-03-09</introducedDate>
+    <calendarNumbers />
+    <recordedVotes />
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr1453ih/xml/BILLS-115hr1453ih.xml</url>
+          </item>
+        </formats>
+        <date>2017-03-09T05:00:00Z</date>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <lisID>2112</lisID>
+          <gpoId />
+          <bioguideId>V000130</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Juan</firstName>
+        <district>51</district>
+        <fullName>Rep. Vargas, Juan [D-CA-51]</fullName>
+        <lastName>Vargas</lastName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <state>CA</state>
+        <bioguideId>V000130</bioguideId>
+        <sponsorshipDate>2017-03-09</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>C001080</bioguideId>
+          <gpoId>7837</gpoId>
+          <lisID>1970</lisID>
+        </identifiers>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Judy</firstName>
+        <district>27</district>
+        <fullName>Rep. Chu, Judy [D-CA-27]</fullName>
+        <lastName>Chu</lastName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <state>CA</state>
+        <bioguideId>C001080</bioguideId>
+        <sponsorshipDate>2017-03-09</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1504</lisID>
+          <gpoId>7968</gpoId>
+          <bioguideId>M000312</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>JAMES</firstName>
+        <district>2</district>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <lastName>MCGOVERN</lastName>
+        <sponsorshipWithdrawnDate />
+        <middleName>P.</middleName>
+        <state>MA</state>
+        <bioguideId>M000312</bioguideId>
+        <sponsorshipDate>2017-03-09</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2104</lisID>
+          <gpoId />
+          <bioguideId>S001193</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Eric</firstName>
+        <district>15</district>
+        <fullName>Rep. Swalwell, Eric [D-CA-15]</fullName>
+        <lastName>Swalwell</lastName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <state>CA</state>
+        <bioguideId>S001193</bioguideId>
+        <sponsorshipDate>2017-03-09</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2319</lisID>
+          <gpoId />
+          <bioguideId>S001200</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Darren</firstName>
+        <district>9</district>
+        <fullName>Rep. Soto, Darren [D-FL-9]</fullName>
+        <lastName>Soto</lastName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <state>FL</state>
+        <bioguideId>S001200</bioguideId>
+        <sponsorshipDate>2017-03-09</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2110</lisID>
+          <gpoId />
+          <bioguideId>T000472</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Mark</firstName>
+        <district>41</district>
+        <fullName>Rep. Takano, Mark [D-CA-41]</fullName>
+        <lastName>Takano</lastName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <state>CA</state>
+        <bioguideId>T000472</bioguideId>
+        <sponsorshipDate>2017-03-09</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>N000147</bioguideId>
+          <gpoId>7871</gpoId>
+          <lisID>868</lisID>
+        </identifiers>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>ELEANOR</firstName>
+        <district>0</district>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <lastName>NORTON</lastName>
+        <sponsorshipWithdrawnDate />
+        <middleName>HOLMES</middleName>
+        <state>DC</state>
+        <bioguideId>N000147</bioguideId>
+        <sponsorshipDate>2017-03-09</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2332</lisID>
+          <gpoId />
+          <bioguideId>R000606</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Jamie</firstName>
+        <district>8</district>
+        <fullName>Rep. Raskin, Jamie [D-MD-8]</fullName>
+        <lastName>Raskin</lastName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <state>MD</state>
+        <bioguideId>R000606</bioguideId>
+        <sponsorshipDate>2017-03-09</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1878</lisID>
+          <gpoId>8156</gpoId>
+          <bioguideId>C001068</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Steve</firstName>
+        <district>9</district>
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <lastName>Cohen</lastName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <state>TN</state>
+        <bioguideId>C001068</bioguideId>
+        <sponsorshipDate>2017-03-09</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1708</lisID>
+          <gpoId>7804</gpoId>
+          <bioguideId>G000551</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Raul</firstName>
+        <district>3</district>
+        <fullName>Rep. Grijalva, Raul M. [D-AZ-3]</fullName>
+        <lastName>Grijalva</lastName>
+        <sponsorshipWithdrawnDate />
+        <middleName>M.</middleName>
+        <state>AZ</state>
+        <bioguideId>G000551</bioguideId>
+        <sponsorshipDate>2017-03-09</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>W000822</bioguideId>
+          <gpoId />
+          <lisID>2259</lisID>
+        </identifiers>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Bonnie</firstName>
+        <district>12</district>
+        <fullName>Rep. Watson Coleman, Bonnie [D-NJ-12]</fullName>
+        <lastName>Watson Coleman</lastName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <state>NJ</state>
+        <bioguideId>W000822</bioguideId>
+        <sponsorshipDate>2017-03-09</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1889</lisID>
+          <gpoId>7946</gpoId>
+          <bioguideId>C001072</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Andre</firstName>
+        <district>7</district>
+        <fullName>Rep. Carson, Andre [D-IN-7]</fullName>
+        <lastName>Carson</lastName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <state>IN</state>
+        <bioguideId>C001072</bioguideId>
+        <sponsorshipDate>2017-11-21</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <amendments />
+    <billNumber>1453</billNumber>
+    <updateDate>2019-11-15T21:33:53Z</updateDate>
+    <cboCostEstimates />
+    <title>Reaffirming DHS Commitment to Countering All Forms of Extremism</title>
+    <committeeReports />
+    <policyArea>
+      <name>Emergency Management</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <district>4</district>
+        <lastName>Johnson</lastName>
+        <firstName>Henry</firstName>
+        <state>GA</state>
+        <fullName>Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4]</fullName>
+        <identifiers>
+          <bioguideId>J000288</bioguideId>
+          <gpoId>7901</gpoId>
+          <lisID>1843</lisID>
+        </identifiers>
+        <middleName>C. "Hank"</middleName>
+        <bioguideId>J000288</bioguideId>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

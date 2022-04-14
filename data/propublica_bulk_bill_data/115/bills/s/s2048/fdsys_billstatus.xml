@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2017-10-31</sponsorshipDate>
+        <middleName />
+        <firstName>Bob</firstName>
+        <fullName>Sen. Casey, Robert P., Jr. [D-PA]</fullName>
+        <bioguideId>C001070</bioguideId>
+        <party>D</party>
+        <lastName>Casey</lastName>
+        <identifiers>
+          <bioguideId>C001070</bioguideId>
+          <gpoId>8282</gpoId>
+          <lisID>1828</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>PA</state>
+      </item>
+      <item>
+        <sponsorshipDate>2017-10-31</sponsorshipDate>
+        <middleName>ANN</middleName>
+        <firstName>DEBORAH</firstName>
+        <fullName>Sen. Stabenow, Debbie [D-MI]</fullName>
+        <bioguideId>S000770</bioguideId>
+        <party>D</party>
+        <lastName>STABENOW</lastName>
+        <identifiers>
+          <lisID>1531</lisID>
+          <bioguideId>S000770</bioguideId>
+          <gpoId>8261</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MI</state>
+      </item>
+    </cosponsors>
+    <createDate>2017-11-01T00:41:24Z</createDate>
+    <sponsors>
+      <item>
+        <fullName>Sen. Warner, Mark R. [D-VA]</fullName>
+        <party>D</party>
+        <state>VA</state>
+        <lastName>Warner</lastName>
+        <firstName>Mark</firstName>
+        <middleName>R.</middleName>
+        <identifiers>
+          <gpoId>8269</gpoId>
+          <lisID>1897</lisID>
+          <bioguideId>W000805</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <bioguideId>W000805</bioguideId>
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <version>1.0.0</version>
+    <actions>
+      <item>
+        <actionDate>2017-10-31</actionDate>
+        <committee>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <committee />
+        <actionCode>10000</actionCode>
+        <actionDate>2017-10-31</actionDate>
+        <links />
+        <text>Introduced in Senate</text>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <billType>S</billType>
+    <billNumber>2048</billNumber>
+    <updateDate>2019-04-18T16:39:59Z</updateDate>
+    <committeeReports />
+    <laws />
+    <amendments />
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Finance Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-10-31T22:04:14Z</date>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <type>Standing</type>
+          <systemCode>ssfi00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2018-04-16</actionDate>
+          <text>Sponsor introductory remarks on measure. (CR H3330)</text>
+        </latestAction>
+        <latestTitle>Investing in American Workers Act</latestTitle>
+        <number>5516</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <introducedDate>2017-10-31</introducedDate>
+    <congress>115</congress>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Employment and training programs</name>
+          </item>
+          <item>
+            <name>Employment taxes</name>
+          </item>
+          <item>
+            <name>Higher education</name>
+          </item>
+          <item>
+            <name>Income tax credits</name>
+          </item>
+          <item>
+            <name>Income tax rates</name>
+          </item>
+          <item>
+            <name>Licensing and registrations</name>
+          </item>
+          <item>
+            <name>Small business</name>
+          </item>
+          <item>
+            <name>Tax-exempt organizations</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <notes />
+    <originChamber>Senate</originChamber>
+    <textVersions>
+      <item>
+        <date>2017-10-31T04:00:00Z</date>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115s2048is/xml/BILLS-115s2048is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <title>Investing in American Workers Act</title>
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend the Internal Revenue Code of 1986 to provide a credit for employer-provided worker training.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Investing in American Workers Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Investing in American Workers Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Investing in American Workers Act</title>
+      </item>
+    </titles>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2018-06-01T13:48:17Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <text><![CDATA[<p><b>Investing in American Workers Act </b></p> <p>This bill amends the Internal Revenue Code to allow a business-related tax credit for employers who increase worker training expenditures.</p> <p>The credit is equal to 20% of the excess of: (1) the qualified training expenditures for the year, over (2) the average of the adjusted qualified training expenditures for the three previous years. If the employer had no qualified training expenditures in any one of the three previous years, the credit is equal to 10% of the adjusted qualified training expenditures for the year. </p> <p>The credit applies to expenditures for the training of non-highly compensated employees (annual compensation does not exceed $82,000). The training must result in the attainment of a recognized postsecondary credential and be provided through: </p> <ul> <li>an apprenticeship program; </li> <li> a program of training services that is included on a list of eligible training providers that states are required to maintain under the Workforce Innovation and Opportunity Act; </li> <li> a program which is conducted by an area career and technical education school, a community college, or a labor organization; or </li> <li> a program which is sponsored and administered by an employer, industry trade association, industry or sector partnership, or labor organization. </li> </ul> <p>Certain small businesses and tax-exempt organizations may apply the credit against payroll taxes, subject to specified limits and requirements. Eligible small businesses may also apply the credit against the alternative minimum tax. </p>]]></text>
+          <name>Introduced in Senate</name>
+          <actionDate>2017-10-31</actionDate>
+          <updateDate>2017-10-31T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <actionDate>2017-10-31</actionDate>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

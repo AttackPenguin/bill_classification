@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2013-11-13</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S8007-8008</name>
+            <url>https://www.congress.gov/congressional-record/volume-159/senate-section/page/S8007-8008</url>
+          </link>
+          <link>
+            <name>S8010-8011</name>
+            <url>https://www.congress.gov/congressional-record/volume-159/senate-section/page/S8010-8011</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S8010-8011; text as passed Senate: CR S8007-8008)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionCode>17000</actionCode>
+        <type>Floor</type>
+        <committee />
+        <actionDate>2013-11-13</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>S8007-8008</name>
+            <url>https://www.congress.gov/congressional-record/volume-159/senate-section/page/S8007-8008</url>
+          </link>
+          <link>
+            <name>S8010-8011</name>
+            <url>https://www.congress.gov/congressional-record/volume-159/senate-section/page/S8010-8011</url>
+          </link>
+        </links>
+        <text>Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.(consideration: CR S8010-8011; text as passed Senate: CR S8007-8008)</text>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2013-11-13</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <text>Introduced in Senate</text>
+      </item>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <passedOrAgreedToInSenateDayOf>1</passedOrAgreedToInSenateDayOf>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <introducedDate>2013-11-13</introducedDate>
+    <updateDate>2016-10-25T16:18:47Z</updateDate>
+    <createDate>2013-11-14T07:01:11Z</createDate>
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees />
+    </committees>
+    <cosponsors>
+      <item>
+        <bioguideId>I000024</bioguideId>
+        <state>OK</state>
+        <sponsorshipDate>2013-11-13</sponsorshipDate>
+        <middleName />
+        <firstName>JIM</firstName>
+        <party>R</party>
+        <fullName>Sen. Inhofe, James M. [R-OK]</fullName>
+        <lastName>INHOFE</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>583</lisID>
+          <gpoId>8322</gpoId>
+          <bioguideId>I000024</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>K000367</bioguideId>
+        <state>MN</state>
+        <sponsorshipDate>2013-11-13</sponsorshipDate>
+        <middleName />
+        <firstName>Amy</firstName>
+        <party>D</party>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <lastName>Klobuchar</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1826</lisID>
+          <bioguideId>K000367</bioguideId>
+          <gpoId>8249</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>G000386</bioguideId>
+        <state>IA</state>
+        <sponsorshipDate>2013-11-13</sponsorshipDate>
+        <middleName>ERNEST</middleName>
+        <firstName>CHARLES</firstName>
+        <party>R</party>
+        <fullName>Sen. Grassley, Chuck [R-IA]</fullName>
+        <lastName>GRASSLEY</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>457</lisID>
+          <bioguideId>G000386</bioguideId>
+          <gpoId>8316</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>U000039</bioguideId>
+        <state>NM</state>
+        <sponsorshipDate>2013-11-13</sponsorshipDate>
+        <middleName />
+        <firstName>TOM</firstName>
+        <party>D</party>
+        <fullName>Sen. Udall, Tom [D-NM]</fullName>
+        <lastName>UDALL</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1567</lisID>
+          <bioguideId>U000039</bioguideId>
+          <gpoId>8260</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>B000575</bioguideId>
+        <state>MO</state>
+        <sponsorshipDate>2013-11-13</sponsorshipDate>
+        <middleName />
+        <firstName>Roy</firstName>
+        <party>R</party>
+        <fullName>Sen. Blunt, Roy [R-MO]</fullName>
+        <lastName>Blunt</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8313</gpoId>
+          <lisID>1464</lisID>
+          <bioguideId>B000575</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>K000383</bioguideId>
+        <state>ME</state>
+        <sponsorshipDate>2013-11-13</sponsorshipDate>
+        <middleName />
+        <firstName>Angus</firstName>
+        <party>I</party>
+        <fullName>Sen. King, Angus S. Jr. [I-ME]</fullName>
+        <lastName>King</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2185</lisID>
+          <bioguideId>K000383</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>C001056</bioguideId>
+        <state>TX</state>
+        <sponsorshipDate>2013-11-13</sponsorshipDate>
+        <middleName />
+        <firstName>John</firstName>
+        <party>R</party>
+        <fullName>Sen. Cornyn, John [R-TX]</fullName>
+        <lastName>Cornyn</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1692</lisID>
+          <gpoId>8295</gpoId>
+          <bioguideId>C001056</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>T000250</bioguideId>
+        <state>SD</state>
+        <sponsorshipDate>2013-11-13</sponsorshipDate>
+        <middleName>R.</middleName>
+        <firstName>JOHN</firstName>
+        <party>R</party>
+        <fullName>Sen. Thune, John [R-SD]</fullName>
+        <lastName>THUNE</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8257</gpoId>
+          <lisID>1534</lisID>
+          <bioguideId>T000250</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>J000177</bioguideId>
+        <state>SD</state>
+        <sponsorshipDate>2013-11-13</sponsorshipDate>
+        <middleName />
+        <firstName>TIM</firstName>
+        <party>D</party>
+        <fullName>Sen. Johnson, Tim [D-SD]</fullName>
+        <lastName>JOHNSON</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>604</lisID>
+          <gpoId>8319</gpoId>
+          <bioguideId>J000177</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>P000449</bioguideId>
+        <state>OH</state>
+        <sponsorshipDate>2013-11-13</sponsorshipDate>
+        <middleName />
+        <firstName>ROB</firstName>
+        <party>R</party>
+        <fullName>Sen. Portman, Rob [R-OH]</fullName>
+        <lastName>PORTMAN</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>924</lisID>
+          <gpoId>8266</gpoId>
+          <bioguideId>P000449</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>W000437</bioguideId>
+        <state>MS</state>
+        <sponsorshipDate>2013-11-13</sponsorshipDate>
+        <middleName>F.</middleName>
+        <firstName>ROGER</firstName>
+        <party>R</party>
+        <fullName>Sen. Wicker, Roger F. [R-MS]</fullName>
+        <lastName>WICKER</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1226</lisID>
+          <bioguideId>W000437</bioguideId>
+          <gpoId>8263</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>F000463</bioguideId>
+        <state>NE</state>
+        <sponsorshipDate>2013-11-13</sponsorshipDate>
+        <middleName />
+        <firstName>Deb</firstName>
+        <party>R</party>
+        <fullName>Sen. Fischer, Deb [R-NE]</fullName>
+        <lastName>Fischer</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2179</lisID>
+          <bioguideId>F000463</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>M000934</bioguideId>
+        <state>KS</state>
+        <sponsorshipDate>2013-11-13</sponsorshipDate>
+        <middleName />
+        <firstName>JERRY</firstName>
+        <party>R</party>
+        <fullName>Sen. Moran, Jerry [R-KS]</fullName>
+        <lastName>MORAN</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8307</gpoId>
+          <lisID>1507</lisID>
+          <bioguideId>M000934</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>B001236</bioguideId>
+        <state>AR</state>
+        <sponsorshipDate>2013-11-13</sponsorshipDate>
+        <middleName />
+        <firstName>John</firstName>
+        <party>R</party>
+        <fullName>Sen. Boozman, John [R-AR]</fullName>
+        <lastName>Boozman</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>B001236</bioguideId>
+          <gpoId>8247</gpoId>
+          <lisID>1687</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>C000567</bioguideId>
+        <state>MS</state>
+        <sponsorshipDate>2013-11-13</sponsorshipDate>
+        <middleName />
+        <firstName>Thad</firstName>
+        <party>R</party>
+        <fullName>Sen. Cochran, Thad [R-MS]</fullName>
+        <lastName>Cochran</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>213</lisID>
+          <gpoId>8292</gpoId>
+          <bioguideId>C000567</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>H001061</bioguideId>
+        <state>ND</state>
+        <sponsorshipDate>2013-11-19</sponsorshipDate>
+        <middleName />
+        <firstName>John</firstName>
+        <party>R</party>
+        <fullName>Sen. Hoeven, John [R-ND]</fullName>
+        <lastName>Hoeven</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2079</lisID>
+          <bioguideId>H001061</bioguideId>
+          <gpoId>8331</gpoId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <congress>113</congress>
+    <billType>SRES</billType>
+    <title>A resolution expressing support for the goals of National Adoption Day and National Adoption Month by promoting national awareness of adoption and the children awaiting families, celebrating children and families involved in adoption, and encouraging the people of the United States to secure safety, permanency, and well-being for all children.</title>
+    <titles>
+      <item>
+        <title>A resolution expressing support for the goals of National Adoption Day and National Adoption Month by promoting national awareness of adoption and the children awaiting families, celebrating children and families involved in adoption, and encouraging the people of the United States to secure safety, permanency, and well-being for all children.</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>A resolution expressing support for the goals of National Adoption Day and National Adoption Month by promoting national awareness of adoption and the children awaiting families, celebrating children and families involved in adoption, and encouraging the people of the United States to secure safety, permanency, and well-being for all children.</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in Senate</name>
+          <text><![CDATA[<p> Supports the goals and ideals of National Adoption Day and National Adoption Month.</p>]]></text>
+          <lastSummaryUpdateDate>2013-12-03T22:10:18Z</lastSummaryUpdateDate>
+          <updateDate>2013-11-13T05:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDate>2013-11-13</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+        </item>
+        <item>
+          <name>Passed Senate without amendment</name>
+          <text><![CDATA[<p><b>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</b></p> <p>Supports the goals and ideals of National Adoption Day and National Adoption Month.</p>]]></text>
+          <lastSummaryUpdateDate>2013-12-03T22:10:47Z</lastSummaryUpdateDate>
+          <updateDate>2013-11-13T12:19:37Z</updateDate>
+          <versionCode>82</versionCode>
+          <actionDate>2013-11-13</actionDate>
+          <actionDesc>Passed Senate without amendment</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <congress>113</congress>
+        <latestAction>
+          <text>Referred to the House Committee on Education and the Workforce.</text>
+          <actionDate>2013-11-13</actionDate>
+        </latestAction>
+        <latestTitle>Expressing support for the goals of National Adoption Day and National Adoption Month by promoting national awareness of adoption and the children awaiting families, celebrating children and families involved in adoption, and encouraging the people of the United States to secure safety, permanency, and well-being for all children.</latestTitle>
+        <type>HRES</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>409</number>
+      </item>
+      <item>
+        <congress>113</congress>
+        <latestAction>
+          <text>Referred to the House Committee on Education and the Workforce.</text>
+          <actionDate>2013-11-12</actionDate>
+        </latestAction>
+        <latestTitle>Supporting the goals and ideals of National Adoption Day and National Adoption Month by promoting awareness of adoption and the children in foster care awaiting families, celebrating children and families involved in adoption, recognizing current programs and efforts designed to promote adoption, and encouraging people in the United States to seek improved safety, permanency, and well-being for all children.</latestTitle>
+        <type>HRES</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>407</number>
+      </item>
+      <item>
+        <congress>113</congress>
+        <latestAction>
+          <text>Referred to the House Committee on Education and the Workforce.</text>
+          <actionDate>2014-11-20</actionDate>
+        </latestAction>
+        <latestTitle>Expressing support for the goals of National Adoption Day and National Adoption Month by promoting national awareness of adoption and the children awaiting families, celebrating children and families involved in adoption, and encouraging the people of the United States to secure safety, permanency, and well-being for all children.</latestTitle>
+        <type>HRES</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>762</number>
+      </item>
+      <item>
+        <congress>113</congress>
+        <latestAction>
+          <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+          <actionDate>2014-11-20</actionDate>
+        </latestAction>
+        <latestTitle>A resolution expressing support for the goals of National Adoption Day and National Adoption Month by promoting national awareness of adoption and the children awaiting families, celebrating children and families involved in adoption, and encouraging the people of the United States to secure safety, permanency, and well-being for all children.</latestTitle>
+        <type>SRES</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>580</number>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Families</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Adoption and foster care</name>
+          </item>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S8010-8011; text as passed Senate: CR S8007-8008)</text>
+      <actionDate>2013-11-13</actionDate>
+    </latestAction>
+    <billNumber>294</billNumber>
+    <policyArea>
+      <name>Families</name>
+    </policyArea>
+    <amendments />
+    <sponsors>
+      <item>
+        <firstName>MARY</firstName>
+        <party>D</party>
+        <fullName>Sen. Landrieu, Mary L. [D-LA]</fullName>
+        <bioguideId>L000550</bioguideId>
+        <identifiers>
+          <lisID>1546</lisID>
+          <bioguideId>L000550</bioguideId>
+          <gpoId>8251</gpoId>
+        </identifiers>
+        <lastName>LANDRIEU</lastName>
+        <middleName />
+        <state>LA</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

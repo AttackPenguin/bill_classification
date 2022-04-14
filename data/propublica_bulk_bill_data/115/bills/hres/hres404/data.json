@@ -1,0 +1,96 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-06-23", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-06-23", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSHA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on House Administration.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hres404-115", 
+  "bill_type": "hres", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Administration", 
+      "committee_id": "HSHA"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-06-23", 
+  "number": "404", 
+  "official_title": "Expressing the sense of the House of Representatives regarding the need to create a small donor and public finance system for Congressional elections.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hres343-115", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "N000127", 
+    "district": "8", 
+    "name": "Nolan, Richard M.", 
+    "state": "MN", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-06-23", 
+  "subjects": [
+    "Congressional elections", 
+    "Elections, voting, political campaign regulation", 
+    "Government operations and politics", 
+    "Members of Congress"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2017-06-23T04:00:00Z", 
+    "text": "Expresses the sense of the House of Representatives that in order to eliminate the undue influence of money in politics:\n\n Congress should create a small donor and public finance system for congressional elections, which will ensure that Congress is responsible to voters instead of well-financed special interests; and Members of Congress should devote their full time to regular order and governing instead of campaign fundraising."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Expressing the sense of the House of Representatives regarding the need to create a small donor and public finance system for Congressional elections.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Expressing the sense of the House of Representatives regarding the need to create a small donor and public finance system for Congressional elections.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-04-18T15:54:04Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/115/hres/BILLSTATUS-115hres404.xml"
+}

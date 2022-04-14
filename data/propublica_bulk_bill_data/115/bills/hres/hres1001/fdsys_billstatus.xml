@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>House of Representatives</name>
+          </item>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <latestAction>
+          <actionDate>2018-07-23</actionDate>
+          <text>Received in the Senate and referred to the Committee on Finance.</text>
+        </latestAction>
+        <number>119</number>
+        <type>HCONRES</type>
+        <latestTitle>Expressing the sense of Congress that a carbon tax would be detrimental to the United States economy.</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Procedurally-related</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <type>Standing</type>
+          <systemCode>hsru00</systemCode>
+          <chamber>House</chamber>
+          <name>Rules Committee</name>
+          <activities>
+            <item>
+              <date>2018-07-17T22:36:10Z</date>
+              <name>Reported original measure</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2018-07-18T08:05:11Z</lastSummaryUpdateDate>
+          <text><![CDATA[Sets forth the rule for consideration of the concurrent resolution (H. Con. Res. 119) expressing the sense of Congress that a carbon tax would be detrimental to the United States economy.]]></text>
+          <versionCode>00</versionCode>
+          <actionDate>2018-07-17</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2018-07-17T04:00:00Z</updateDate>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <version>1.0.0</version>
+    <originChamber>House</originChamber>
+    <congress>115</congress>
+    <latestAction>
+      <actionTime>15:52:14</actionTime>
+      <actionDate>2018-07-18</actionDate>
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      <links />
+    </latestAction>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>13</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2018-07-18</actionDate>
+        <actionTime>15:52:14</actionTime>
+        <type>Floor</type>
+        <committee />
+        <actionCode>H38310</actionCode>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      </item>
+      <item>
+        <actionDate>2018-07-18</actionDate>
+        <actionTime>15:52:12</actionTime>
+        <type>Floor</type>
+        <committee />
+        <actionCode>H37100</actionCode>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-164/house-section/page/H6478</url>
+            <name>H6478</name>
+          </link>
+          <link>
+            <url>http://clerk.house.gov/evs/2018/roll340.xml</url>
+            <name>Roll no. 340</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>On agreeing to the resolution Agreed to by recorded vote: 229 - 183 (Roll no. 340). (text: CR H6478)</text>
+      </item>
+      <item>
+        <actionDate>2018-07-18</actionDate>
+        <actionTime>15:52:12</actionTime>
+        <type>Floor</type>
+        <committee />
+        <actionCode>8000</actionCode>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-164/house-section/page/H6478</url>
+            <name>H6478</name>
+          </link>
+          <link>
+            <url>http://clerk.house.gov/evs/2018/roll340.xml</url>
+            <name>Roll no. 340</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 229 - 183 (Roll no. 340).(text: CR H6478)</text>
+      </item>
+      <item>
+        <actionDate>2018-07-18</actionDate>
+        <actionTime>15:45:10</actionTime>
+        <type>Floor</type>
+        <committee />
+        <actionCode>H35000</actionCode>
+        <links>
+          <link>
+            <url>http://clerk.house.gov/evs/2018/roll339.xml</url>
+            <name>Roll no. 339</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>On ordering the previous question Agreed to by the Yeas and Nays: 226 - 186 (Roll no. 339).</text>
+      </item>
+      <item>
+        <actionDate>2018-07-18</actionDate>
+        <actionTime>15:39:23</actionTime>
+        <type>Floor</type>
+        <committee />
+        <actionCode>H30000</actionCode>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-164/house-section/page/H6496-6497</url>
+            <name>H6496-6497</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Considered as unfinished business. (consideration: CR H6496-6497)</text>
+      </item>
+      <item>
+        <actionDate>2018-07-18</actionDate>
+        <actionTime>13:45:01</actionTime>
+        <type>Floor</type>
+        <committee />
+        <actionCode>H8D000</actionCode>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/1001</url>
+            <name>H.Res. 1001</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>POSTPONED PROCEEDINGS - At the conclusion of debate on H.Res. 1001, the Chair put the question on ordering the previous question and by voice vote, announced the ayes had prevailed. Mr. McGovern demanded the yeas and nays and the Chair postponed further proceedings on ordering the previous question on H.Res. 1001 until later in the legislative day.</text>
+      </item>
+      <item>
+        <actionDate>2018-07-18</actionDate>
+        <actionTime>12:33:01</actionTime>
+        <type>Floor</type>
+        <committee />
+        <actionCode>H8D000</actionCode>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/1001</url>
+            <name>H. Res. 1001</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>DEBATE - The House proceeded with one hour of debate on H. Res. 1001.</text>
+      </item>
+      <item>
+        <actionDate>2018-07-18</actionDate>
+        <actionTime>12:31:58</actionTime>
+        <type>Floor</type>
+        <committee />
+        <actionCode>H30000</actionCode>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-164/house-section/page/H6478-6486</url>
+            <name>H6478-6486</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Considered as privileged matter. (consideration: CR H6478-6486)</text>
+      </item>
+      <item>
+        <actionDate>2018-07-17</actionDate>
+        <committee />
+        <type>Calendars</type>
+        <actionCode>H12420</actionCode>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Placed on the House Calendar, Calendar No. 169.</text>
+      </item>
+      <item>
+        <actionDate>2018-07-17</actionDate>
+        <actionTime>18:36:11</actionTime>
+        <type>Floor</type>
+        <committee />
+        <actionCode>H12700</actionCode>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-concurrent-resolution/119</url>
+            <name>H. Con. Res. 119</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Rule provides for consideration of H. Con. Res. 119 with 1 hour of general debate. Measure will be considered read. Bill is closed to amendments.</text>
+      </item>
+      <item>
+        <actionDate>2018-07-17</actionDate>
+        <committee>
+          <name>Rules Committee</name>
+          <systemCode>hsru00</systemCode>
+        </committee>
+        <type>Committee</type>
+        <actionCode>H12100</actionCode>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/834</url>
+            <name>H. Rept. 115-834</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>The House Committee on Rules reported an original measure, H. Rept. 115-834, by Mr. Newhouse.</text>
+      </item>
+      <item>
+        <actionDate>2018-07-17</actionDate>
+        <committee>
+          <name>Rules Committee</name>
+          <systemCode>hsru00</systemCode>
+        </committee>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/834</url>
+            <name>H. Rept. 115-834</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>The House Committee on Rules reported an original measure, H. Rept. 115-834, by Mr. Newhouse.</text>
+      </item>
+      <item>
+        <actionDate>2018-07-17</actionDate>
+        <committee />
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+      </item>
+      <actionTypeCounts>
+        <houseCalendarAssignment>1</houseCalendarAssignment>
+        <committeeReportOfAnOriginalMeasure>1</committeeReportOfAnOriginalMeasure>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <motionForPreviousQuestion>1</motionForPreviousQuestion>
+        <considerationByHouse>2</considerationByHouse>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <reportedToHouse>1</reportedToHouse>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <provisionsOfARule>1</provisionsOfARule>
+        <generalDebate>2</generalDebate>
+      </actionTypeCounts>
+    </actions>
+    <createDate>2018-07-18T07:10:42Z</createDate>
+    <laws />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>Providing for consideration of the concurrent resolution (H. Con. Res. 119) expressing the sense of Congress that a carbon tax would be detrimental to the United States economy.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>Providing for consideration of the concurrent resolution (H. Con. Res. 119) expressing the sense of Congress that a carbon tax would be detrimental to the United States economy.</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <constitutionalAuthorityStatementText />
+    <introducedDate>2018-07-17</introducedDate>
+    <calendarNumbers>
+      <item>
+        <calendar>H00169</calendar>
+        <number />
+      </item>
+    </calendarNumbers>
+    <recordedVotes>
+      <recordedVote>
+        <rollNumber>340</rollNumber>
+        <congress>115</congress>
+        <fullActionName>Passage of a Measure</fullActionName>
+        <sessionNumber>2</sessionNumber>
+        <chamber>House</chamber>
+        <url>http://clerk.house.gov/evs/2018/roll340.xml</url>
+        <date>2018-07-18T19:52:12Z</date>
+      </recordedVote>
+      <recordedVote>
+        <rollNumber>339</rollNumber>
+        <congress>115</congress>
+        <fullActionName>Motion for Previous Question</fullActionName>
+        <sessionNumber>2</sessionNumber>
+        <chamber>House</chamber>
+        <url>http://clerk.house.gov/evs/2018/roll339.xml</url>
+        <date>2018-07-18T19:45:10Z</date>
+      </recordedVote>
+    </recordedVotes>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hres1001eh/xml/BILLS-115hres1001eh.xml</url>
+          </item>
+        </formats>
+        <type>Engrossed in House</type>
+        <date>2018-07-18T04:00:00Z</date>
+      </item>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hres1001rh/xml/BILLS-115hres1001rh.xml</url>
+          </item>
+        </formats>
+        <type>Reported in House</type>
+        <date>2018-07-17T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <cosponsors />
+    <amendments />
+    <billNumber>1001</billNumber>
+    <updateDate>2019-11-15T21:46:55Z</updateDate>
+    <cboCostEstimates />
+    <title>Providing for consideration of the concurrent resolution (H. Con. Res. 119) expressing the sense of Congress that a carbon tax would be detrimental to the United States economy.</title>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-834</citation>
+      </committeeReport>
+    </committeeReports>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <district>4</district>
+        <lastName>Newhouse</lastName>
+        <firstName>Dan</firstName>
+        <state>WA</state>
+        <fullName>Rep. Newhouse, Dan [R-WA-4]</fullName>
+        <identifiers>
+          <lisID>2275</lisID>
+          <gpoId />
+          <bioguideId>N000189</bioguideId>
+        </identifiers>
+        <middleName />
+        <bioguideId>N000189</bioguideId>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <billType>HRES</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

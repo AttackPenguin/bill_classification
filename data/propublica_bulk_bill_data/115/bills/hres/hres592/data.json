@@ -1,0 +1,110 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-10-26", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-10-26", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2017-11-14", 
+      "action_code": "", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hres592-115", 
+  "bill_type": "hres", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Crime, Terrorism, and Homeland Security", 
+      "subcommittee_id": "08"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-10-26", 
+  "number": "592", 
+  "official_title": "Condemning the violent attack at Flint Bishop International Airport on a police officer and offering thoughts and prayers to the victim and the victim's family, and commending the efforts of law enforcement and airport personnel in their response.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "K000380", 
+    "district": "5", 
+    "name": "Kildee, Daniel T.", 
+    "state": "MI", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-10-26", 
+  "subjects": [
+    "Congressional tributes", 
+    "Crime and law enforcement", 
+    "Law enforcement officers", 
+    "Michigan", 
+    "Terrorism", 
+    "Violent crime"
+  ], 
+  "subjects_top_term": "Crime and law enforcement", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2017-10-26T04:00:00Z", 
+    "text": "Condemns the terrorist attack at Flint Bishop International Airport on June 21, 2017.\n\nOffers thoughts and prayers to Lieutenant Jeff Neville and his family."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Condemning the violent attack at Flint Bishop International Airport on a police officer and offering thoughts and prayers to the victim and the victim's family, and commending the efforts of law enforcement and airport personnel in their response.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Condemning the violent attack at Flint Bishop International Airport on a police officer and offering thoughts and prayers to the victim and the victim's family, and commending the efforts of law enforcement and airport personnel in their response.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-11-15T21:33:55Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/115/hres/BILLSTATUS-115hres592.xml"
+}

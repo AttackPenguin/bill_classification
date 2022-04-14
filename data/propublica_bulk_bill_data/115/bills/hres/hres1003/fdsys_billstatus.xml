@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>1003</billNumber>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <amendments />
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hres1003ih/xml/BILLS-115hres1003ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+        <date>2018-07-18T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <billType>HRES</billType>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>Prohibiting Members of the House of Representatives from soliciting campaign funds on any day on which the House is in session.</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>Prohibiting Members of the House of Representatives from soliciting campaign funds on any day on which the House is in session.</title>
+        <chamberName />
+      </item>
+    </titles>
+    <cosponsors>
+      <item>
+        <firstName>Mike</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-07-18</sponsorshipDate>
+        <district>8</district>
+        <lastName>Gallagher</lastName>
+        <bioguideId>G000579</bioguideId>
+        <state>WI</state>
+        <identifiers>
+          <lisID>2355</lisID>
+          <bioguideId>G000579</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Gallagher, Mike [R-WI-8]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>WALTER</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>B.</middleName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-08-24</sponsorshipDate>
+        <district>3</district>
+        <lastName>JONES</lastName>
+        <bioguideId>J000255</bioguideId>
+        <state>NC</state>
+        <identifiers>
+          <bioguideId>J000255</bioguideId>
+          <lisID>612</lisID>
+          <gpoId>8026</gpoId>
+        </identifiers>
+        <fullName>Rep. Jones, Walter B., Jr. [R-NC-3]</fullName>
+        <party>R</party>
+      </item>
+    </cosponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsso00</systemCode>
+          <name>Ethics Committee</name>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-07-18T14:02:10Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports />
+    <latestAction>
+      <actionDate>2018-07-18</actionDate>
+      <links />
+      <text>Referred to the House Committee on Ethics.</text>
+    </latestAction>
+    <notes />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <committee>
+          <name>Ethics Committee</name>
+          <systemCode>hsso00</systemCode>
+        </committee>
+        <links />
+        <actionDate>2018-07-18</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Ethics.</text>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <actionDate>2018-07-18</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <actionDate>2018-07-18</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <updateDate>2019-04-18T15:55:45Z</updateDate>
+    <congress>115</congress>
+    <relatedBills />
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2018-10-30T19:02:06Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p>Amends Rule XXIII (Code of Official Conduct) of the Rules of the House of Representatives to prohibit a Member, Delegate, or Resident Commissioner from soliciting any funds in connection with an election for federal, state, or local office on any day that the House is in session. Excludes days on which the House convenes solely in a pro forma session.</p>]]></text>
+          <updateDate>2018-07-18T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2018-07-18</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <version>1.0.0</version>
+    <createDate>2018-07-19T07:10:41Z</createDate>
+    <constitutionalAuthorityStatementText />
+    <cboCostEstimates />
+    <laws />
+    <title>Prohibiting Members of the House of Representatives from soliciting campaign funds on any day on which the House is in session.</title>
+    <originChamber>House</originChamber>
+    <introducedDate>2018-07-18</introducedDate>
+    <sponsors>
+      <item>
+        <middleName />
+        <state>MN</state>
+        <fullName>Rep. Nolan, Richard M. [D-MN-8]</fullName>
+        <bioguideId>N000127</bioguideId>
+        <identifiers>
+          <gpoId />
+          <lisID>867</lisID>
+          <bioguideId>N000127</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <byRequestType />
+        <firstName>RICHARD</firstName>
+        <district>8</district>
+        <lastName>NOLAN</lastName>
+      </item>
+    </sponsors>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

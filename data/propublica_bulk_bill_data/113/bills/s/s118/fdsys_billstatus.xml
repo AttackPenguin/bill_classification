@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>S</billType>
+    <introducedDate>2013-01-23</introducedDate>
+    <committeeReports />
+    <congress>113</congress>
+    <cosponsors>
+      <item>
+        <firstName>MARK</firstName>
+        <party>D</party>
+        <fullName>Sen. Udall, Mark [D-CO]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>U000038</bioguideId>
+        <identifiers>
+          <lisID>1595</lisID>
+          <gpoId>8259</gpoId>
+          <bioguideId>U000038</bioguideId>
+        </identifiers>
+        <lastName>UDALL</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>CO</state>
+        <sponsorshipDate>2013-01-23</sponsorshipDate>
+        <middleName />
+      </item>
+    </cosponsors>
+    <recordedVotes />
+    <latestAction>
+      <text>Read twice and referred to the Committee on Rules and Administration.</text>
+      <links />
+      <actionDate>2013-01-23</actionDate>
+    </latestAction>
+    <relatedBills>
+      <item>
+        <congress>113</congress>
+        <type>HR</type>
+        <number>94</number>
+        <latestAction>
+          <text>Placed on the Union Calendar, Calendar No. 210.</text>
+          <actionDate>2013-12-12</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>To amend the Internal Revenue Code of 1986 to prohibit the use of public funds for political party conventions.</latestTitle>
+      </item>
+    </relatedBills>
+    <updateDate>2016-10-25T16:20:07Z</updateDate>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <actions>
+      <item>
+        <actionDate>2013-01-23</actionDate>
+        <committee>
+          <name>Rules and Administration Committee</name>
+          <systemCode>ssra00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Rules and Administration.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2013-01-23</actionDate>
+        <actionCode>10000</actionCode>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <calendarNumbers />
+    <amendments />
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2013-01-23T05:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+          <text><![CDATA[Amends the Internal Revenue Code to repeal provisions providing for the use of funds from the Presidential Election Campaign Fund for presidential nominating conventions.]]></text>
+          <versionCode>00</versionCode>
+          <actionDate>2013-01-23</actionDate>
+          <lastSummaryUpdateDate>2013-02-08T16:52:57Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Elections, voting, political campaign regulation</name>
+          </item>
+          <item>
+            <name>Government trust funds</name>
+          </item>
+          <item>
+            <name>Tax administration and collection, taxpayers</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <title>A bill to amend the Internal Revenue Code of 1986 to prohibit the use of public funds for political party conventions.</title>
+    <originChamber>Senate</originChamber>
+    <sponsors>
+      <item>
+        <lastName>COBURN</lastName>
+        <bioguideId>C000560</bioguideId>
+        <fullName>Sen. Coburn, Tom [R-OK]</fullName>
+        <identifiers>
+          <lisID>212</lisID>
+          <gpoId>8293</gpoId>
+          <bioguideId>C000560</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <firstName>TOM</firstName>
+        <middleName />
+        <state>OK</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <laws />
+    <notes />
+    <createDate>2013-01-24T07:00:55Z</createDate>
+    <billNumber>118</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-01-23T22:11:13Z</date>
+            </item>
+          </activities>
+          <name>Rules and Administration Committee</name>
+          <type>Standing</type>
+          <systemCode>ssra00</systemCode>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend the Internal Revenue Code of 1986 to prohibit the use of public funds for political party conventions.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>A bill to amend the Internal Revenue Code of 1986 to prohibit the use of public funds for political party conventions.</title>
+        <chamberCode />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

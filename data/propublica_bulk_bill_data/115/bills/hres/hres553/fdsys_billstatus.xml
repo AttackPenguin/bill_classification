@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>House of Representatives</name>
+          </item>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>House</identifiedBy>
+            <type>Procedurally-related</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Establishing the congressional budget for the United States Government for fiscal year 2018 and setting forth the appropriate budgetary levels for fiscal years 2019 through 2027.</latestTitle>
+        <type>HCONRES</type>
+        <number>71</number>
+        <latestAction>
+          <actionTime>11:00:18</actionTime>
+          <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+          <actionDate>2017-10-26</actionDate>
+        </latestAction>
+        <congress>115</congress>
+      </item>
+    </relatedBills>
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <type>Standing</type>
+          <systemCode>hsru00</systemCode>
+          <chamber>House</chamber>
+          <name>Rules Committee</name>
+          <activities>
+            <item>
+              <date>2017-10-03T22:18:34Z</date>
+              <name>Reported original measure</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2017-10-03T04:00:00Z</updateDate>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2017-10-04T08:06:32Z</lastSummaryUpdateDate>
+          <actionDate>2017-10-03</actionDate>
+          <text><![CDATA[Sets forth the rule for consideration of the concurrent resolution (H. Con. Res. 71) establishing the congressional budget for the United States Government for fiscal year 2018 and setting forth the appropriate budgetary levels for fiscal years 2019 through 2027.]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <version>1.0.0</version>
+    <originChamber>House</originChamber>
+    <congress>115</congress>
+    <latestAction>
+      <actionTime>14:00:44</actionTime>
+      <actionDate>2017-10-04</actionDate>
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      <links />
+    </latestAction>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>11</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <committee />
+        <type>Floor</type>
+        <actionDate>2017-10-04</actionDate>
+        <actionCode>H38310</actionCode>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <actionTime>14:00:44</actionTime>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <type>Floor</type>
+        <actionDate>2017-10-04</actionDate>
+        <actionCode>H37100</actionCode>
+        <text>On agreeing to the resolution Agreed to by recorded vote: 232 - 188 (Roll no. 552). (text: CR H7764)</text>
+        <actionTime>14:00:42</actionTime>
+        <links>
+          <link>
+            <name>H7764</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H7764</url>
+          </link>
+          <link>
+            <name>Roll no. 552</name>
+            <url>http://clerk.house.gov/evs/2017/roll552.xml</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <type>Floor</type>
+        <actionDate>2017-10-04</actionDate>
+        <actionCode>8000</actionCode>
+        <text>Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 232 - 188 (Roll no. 552).(text: CR H7764)</text>
+        <actionTime>14:00:42</actionTime>
+        <links>
+          <link>
+            <name>H7764</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H7764</url>
+          </link>
+          <link>
+            <name>Roll no. 552</name>
+            <url>http://clerk.house.gov/evs/2017/roll552.xml</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <type>Floor</type>
+        <actionDate>2017-10-04</actionDate>
+        <actionCode>H35000</actionCode>
+        <text>On ordering the previous question Agreed to by the Yeas and Nays: 231 - 189 (Roll no. 551). (consideration: CR H7776)</text>
+        <actionTime>13:52:40</actionTime>
+        <links>
+          <link>
+            <name>H7776</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H7776</url>
+          </link>
+          <link>
+            <name>Roll no. 551</name>
+            <url>http://clerk.house.gov/evs/2017/roll551.xml</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <type>Floor</type>
+        <actionDate>2017-10-04</actionDate>
+        <actionCode>H8D000</actionCode>
+        <text>DEBATE - The House proceeded with one hour of debate on H. Res. 553.</text>
+        <actionTime>12:34:50</actionTime>
+        <links>
+          <link>
+            <name>H. Res. 553</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/553</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <type>Floor</type>
+        <actionDate>2017-10-04</actionDate>
+        <actionCode>H30000</actionCode>
+        <text>Considered as privileged matter. (consideration: CR H7764-7777)</text>
+        <actionTime>12:32:00</actionTime>
+        <links>
+          <link>
+            <name>H7764-7777</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H7764-7777</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <type>Calendars</type>
+        <actionDate>2017-10-03</actionDate>
+        <actionCode>H12420</actionCode>
+        <text>Placed on the House Calendar, Calendar No. 90.</text>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <type>Floor</type>
+        <actionDate>2017-10-03</actionDate>
+        <actionCode>H12700</actionCode>
+        <text>Rule provides for consideration of H. Con. Res. 71 with 4 hours of general debate. Measure will be considered read. Specified amendments are in order.</text>
+        <actionTime>18:18:35</actionTime>
+        <links>
+          <link>
+            <name>H. Con. Res. 71</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-concurrent-resolution/71</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+        </committee>
+        <text>The House Committee on Rules reported an original measure, H. Rept. 115-339, by Mr. Woodall.</text>
+        <actionDate>2017-10-03</actionDate>
+        <actionCode>H12100</actionCode>
+        <type>Committee</type>
+        <links>
+          <link>
+            <name>H. Rept. 115-339</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/339</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+        </committee>
+        <text>The House Committee on Rules reported an original measure, H. Rept. 115-339, by Mr. Woodall.</text>
+        <actionDate>2017-10-03</actionDate>
+        <actionCode>5000</actionCode>
+        <type>Committee</type>
+        <links>
+          <link>
+            <name>H. Rept. 115-339</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/339</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2017-10-03</actionDate>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <provisionsOfARule>1</provisionsOfARule>
+        <generalDebate>1</generalDebate>
+        <motionForPreviousQuestion>1</motionForPreviousQuestion>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <considerationByHouse>1</considerationByHouse>
+        <houseCalendarAssignment>1</houseCalendarAssignment>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <reportedToHouse>1</reportedToHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <committeeReportOfAnOriginalMeasure>1</committeeReportOfAnOriginalMeasure>
+      </actionTypeCounts>
+    </actions>
+    <createDate>2017-10-04T03:11:17Z</createDate>
+    <laws />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>Providing for consideration of the concurrent resolution (H. Con. Res. 71) establishing the congressional budget for the United States Government for fiscal year 2018 and setting forth the appropriate budgetary levels for fiscal years 2019 through 2027.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>Providing for consideration of the concurrent resolution (H. Con. Res. 71) establishing the congressional budget for the United States Government for fiscal year 2018 and setting forth the appropriate budgetary levels for fiscal years 2019 through 2027.</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <constitutionalAuthorityStatementText />
+    <introducedDate>2017-10-03</introducedDate>
+    <calendarNumbers>
+      <item>
+        <calendar>H00090</calendar>
+        <number />
+      </item>
+    </calendarNumbers>
+    <recordedVotes>
+      <recordedVote>
+        <rollNumber>552</rollNumber>
+        <congress>115</congress>
+        <fullActionName>Passage of a Measure</fullActionName>
+        <sessionNumber>1</sessionNumber>
+        <chamber>House</chamber>
+        <url>http://clerk.house.gov/evs/2017/roll552.xml</url>
+        <date>2017-10-04T18:00:42Z</date>
+      </recordedVote>
+      <recordedVote>
+        <rollNumber>551</rollNumber>
+        <congress>115</congress>
+        <fullActionName>Motion for Previous Question</fullActionName>
+        <sessionNumber>1</sessionNumber>
+        <chamber>House</chamber>
+        <url>http://clerk.house.gov/evs/2017/roll551.xml</url>
+        <date>2017-10-04T17:52:40Z</date>
+      </recordedVote>
+    </recordedVotes>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hres553eh/xml/BILLS-115hres553eh.xml</url>
+          </item>
+        </formats>
+        <type>Engrossed in House</type>
+        <date>2017-10-04T04:00:00Z</date>
+      </item>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hres553rh/xml/BILLS-115hres553rh.xml</url>
+          </item>
+        </formats>
+        <type>Reported in House</type>
+        <date>2017-10-03T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <cosponsors />
+    <amendments />
+    <billNumber>553</billNumber>
+    <updateDate>2019-11-15T21:46:59Z</updateDate>
+    <cboCostEstimates />
+    <title>Providing for consideration of the concurrent resolution (H. Con. Res. 71) establishing the congressional budget for the United States Government for fiscal year 2018 and setting forth the appropriate budgetary levels for fiscal years 2019 through 2027.</title>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-339</citation>
+      </committeeReport>
+    </committeeReports>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <district>7</district>
+        <lastName>Woodall</lastName>
+        <firstName>Rob</firstName>
+        <state>GA</state>
+        <fullName>Rep. Woodall, Rob [R-GA-7]</fullName>
+        <identifiers>
+          <lisID>2008</lisID>
+          <gpoId>7904</gpoId>
+          <bioguideId>W000810</bioguideId>
+        </identifiers>
+        <middleName />
+        <bioguideId>W000810</bioguideId>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <billType>HRES</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

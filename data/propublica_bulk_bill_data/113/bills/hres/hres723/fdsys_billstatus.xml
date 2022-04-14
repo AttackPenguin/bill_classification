@@ -1,0 +1,889 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <text>Referred to the House Committee on Oversight and Government Reform.</text>
+        <actionDate>2014-09-15</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <committee>
+          <name>Oversight and Government Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionDate>2014-09-15</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionDate>2014-09-15</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <district>29</district>
+        <fullName>Rep. Cardenas, Tony [D-CA-29]</fullName>
+        <lastName>Cardenas</lastName>
+        <middleName />
+        <state>CA</state>
+        <party>D</party>
+        <identifiers>
+          <gpoId />
+          <lisID>2107</lisID>
+          <bioguideId>C001097</bioguideId>
+        </identifiers>
+        <firstName>Tony</firstName>
+        <bioguideId>C001097</bioguideId>
+      </item>
+    </sponsors>
+    <congress>113</congress>
+    <constitutionalAuthorityStatementText />
+    <billNumber>723</billNumber>
+    <cboCostEstimates />
+    <updateDate>2016-10-25T15:56:01Z</updateDate>
+    <laws />
+    <createDate>2014-09-16T04:46:36Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Oversight and Government Reform Committee</name>
+          <subcommittees />
+          <chamber>House</chamber>
+          <systemCode>hsgo00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2014-09-15T16:02:40Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>Recognizes the celebration of Hispanic Heritage Month.</p> <p>Esteems the integral role of Latinos and their manifold heritage in the economy, culture, and identity of the United States. </p>]]></text>
+          <actionDate>2014-09-15</actionDate>
+          <lastSummaryUpdateDate>2014-09-18T10:21:27Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2014-09-15T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committeeReports />
+    <policyArea>
+      <name>Civil Rights and Liberties, Minority Issues</name>
+    </policyArea>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2014-09-15</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>HINOJOSA</lastName>
+        <state>TX</state>
+        <party>D</party>
+        <district>15</district>
+        <fullName>Rep. Hinojosa, Ruben [D-TX-15]</fullName>
+        <middleName />
+        <identifiers>
+          <bioguideId>H000636</bioguideId>
+          <lisID>1490</lisID>
+          <gpoId>8171</gpoId>
+        </identifiers>
+        <bioguideId>H000636</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>RUBEN</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2014-09-15</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>NORTON</lastName>
+        <state>DC</state>
+        <party>D</party>
+        <district>0</district>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <middleName>HOLMES</middleName>
+        <identifiers>
+          <gpoId>7871</gpoId>
+          <bioguideId>N000147</bioguideId>
+          <lisID>868</lisID>
+        </identifiers>
+        <bioguideId>N000147</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>ELEANOR</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2014-09-15</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Vargas</lastName>
+        <state>CA</state>
+        <party>D</party>
+        <district>51</district>
+        <fullName>Rep. Vargas, Juan [D-CA-51]</fullName>
+        <middleName />
+        <identifiers>
+          <gpoId />
+          <bioguideId>V000130</bioguideId>
+          <lisID>2112</lisID>
+        </identifiers>
+        <bioguideId>V000130</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Juan</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2014-09-15</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>LEE</lastName>
+        <state>CA</state>
+        <party>D</party>
+        <district>13</district>
+        <fullName>Rep. Lee, Barbara [D-CA-13]</fullName>
+        <middleName />
+        <identifiers>
+          <lisID>1501</lisID>
+          <bioguideId>L000551</bioguideId>
+          <gpoId>7814</gpoId>
+        </identifiers>
+        <bioguideId>L000551</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>BARBARA</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2014-09-15</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Vela</lastName>
+        <state>TX</state>
+        <party>D</party>
+        <district>34</district>
+        <fullName>Rep. Vela, Filemon [D-TX-34]</fullName>
+        <middleName />
+        <identifiers>
+          <gpoId />
+          <bioguideId>V000132</bioguideId>
+          <lisID>2167</lisID>
+        </identifiers>
+        <bioguideId>V000132</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Filemon</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2014-09-15</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Lujan Grisham</lastName>
+        <state>NM</state>
+        <party>D</party>
+        <district>1</district>
+        <fullName>Rep. Lujan Grisham, Michelle [D-NM-1]</fullName>
+        <middleName />
+        <identifiers>
+          <bioguideId>L000580</bioguideId>
+          <lisID>2146</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>L000580</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Michelle</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2014-09-15</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Grijalva</lastName>
+        <state>AZ</state>
+        <party>D</party>
+        <district>3</district>
+        <fullName>Rep. Grijalva, Raul M. [D-AZ-3]</fullName>
+        <middleName>M.</middleName>
+        <identifiers>
+          <gpoId>7804</gpoId>
+          <lisID>1708</lisID>
+          <bioguideId>G000551</bioguideId>
+        </identifiers>
+        <bioguideId>G000551</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Raul</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2014-09-15</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Costa</lastName>
+        <state>CA</state>
+        <party>D</party>
+        <district>16</district>
+        <fullName>Rep. Costa, Jim [D-CA-16]</fullName>
+        <middleName />
+        <identifiers>
+          <lisID>1774</lisID>
+          <gpoId>7825</gpoId>
+          <bioguideId>C001059</bioguideId>
+        </identifiers>
+        <bioguideId>C001059</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Jim</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2014-09-15</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>RANGEL</lastName>
+        <state>NY</state>
+        <party>D</party>
+        <district>13</district>
+        <fullName>Rep. Rangel, Charles B. [D-NY-13]</fullName>
+        <middleName>B.</middleName>
+        <identifiers>
+          <bioguideId>R000053</bioguideId>
+          <lisID>944</lisID>
+          <gpoId>8076</gpoId>
+        </identifiers>
+        <bioguideId>R000053</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>CHARLES</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2014-09-15</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Gallego</lastName>
+        <state>TX</state>
+        <party>D</party>
+        <district>23</district>
+        <fullName>Rep. Gallego, Pete P. [D-TX-23]</fullName>
+        <middleName>P.</middleName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>G000572</bioguideId>
+          <lisID>2164</lisID>
+        </identifiers>
+        <bioguideId>G000572</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Pete</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2014-09-15</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Speier</lastName>
+        <state>CA</state>
+        <party>D</party>
+        <district>14</district>
+        <fullName>Rep. Speier, Jackie [D-CA-14]</fullName>
+        <middleName />
+        <identifiers>
+          <lisID>1890</lisID>
+          <bioguideId>S001175</bioguideId>
+          <gpoId>7817</gpoId>
+        </identifiers>
+        <bioguideId>S001175</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Jackie</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2014-09-15</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Higgins</lastName>
+        <state>NY</state>
+        <party>D</party>
+        <district>26</district>
+        <fullName>Rep. Higgins, Brian [D-NY-26]</fullName>
+        <middleName />
+        <identifiers>
+          <lisID>1794</lisID>
+          <bioguideId>H001038</bioguideId>
+          <gpoId>8088</gpoId>
+        </identifiers>
+        <bioguideId>H001038</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Brian</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2014-09-15</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Sires</lastName>
+        <state>NJ</state>
+        <party>D</party>
+        <district>8</district>
+        <fullName>Rep. Sires, Albio [D-NJ-8]</fullName>
+        <middleName />
+        <identifiers>
+          <bioguideId>S001165</bioguideId>
+          <gpoId>8055</gpoId>
+          <lisID>1818</lisID>
+        </identifiers>
+        <bioguideId>S001165</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Albio</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2014-09-15</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>SANCHEZ</lastName>
+        <state>CA</state>
+        <party>D</party>
+        <district>38</district>
+        <fullName>Rep. Sanchez, Linda T. [D-CA-38]</fullName>
+        <middleName>T.</middleName>
+        <identifiers>
+          <lisID>1757</lisID>
+          <bioguideId>S001156</bioguideId>
+          <gpoId>7844</gpoId>
+        </identifiers>
+        <bioguideId>S001156</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>LINDA</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2014-09-15</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Moore</lastName>
+        <state>WI</state>
+        <party>D</party>
+        <district>4</district>
+        <fullName>Rep. Moore, Gwen [D-WI-4]</fullName>
+        <middleName />
+        <identifiers>
+          <lisID>1811</lisID>
+          <bioguideId>M001160</bioguideId>
+          <gpoId>8217</gpoId>
+        </identifiers>
+        <bioguideId>M001160</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Gwen</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2014-09-15</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Lujan</lastName>
+        <state>NM</state>
+        <party>D</party>
+        <district>3</district>
+        <fullName>Rep. Lujan, Ben Ray [D-NM-3]</fullName>
+        <middleName>Ray</middleName>
+        <identifiers>
+          <gpoId>8058</gpoId>
+          <lisID>1939</lisID>
+          <bioguideId>L000570</bioguideId>
+        </identifiers>
+        <bioguideId>L000570</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Ben</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2014-09-15</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Pierluisi</lastName>
+        <state>PR</state>
+        <party>D</party>
+        <district>0</district>
+        <fullName>Rep. Pierluisi, Pedro R. [D-PR-At Large]</fullName>
+        <middleName>R.</middleName>
+        <identifiers>
+          <lisID>1953</lisID>
+          <bioguideId>P000596</bioguideId>
+          <gpoId>8138</gpoId>
+        </identifiers>
+        <bioguideId>P000596</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Pedro</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2014-09-15</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>SERRANO</lastName>
+        <state>NY</state>
+        <party>D</party>
+        <district>15</district>
+        <fullName>Rep. Serrano, Jose E. [D-NY-15]</fullName>
+        <middleName>E.</middleName>
+        <identifiers>
+          <gpoId>8077</gpoId>
+          <lisID>1042</lisID>
+          <bioguideId>S000248</bioguideId>
+        </identifiers>
+        <bioguideId>S000248</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>JOSE</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2014-09-15</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Castro</lastName>
+        <state>TX</state>
+        <party>D</party>
+        <district>20</district>
+        <fullName>Rep. Castro, Joaquin [D-TX-20]</fullName>
+        <middleName />
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001091</bioguideId>
+          <lisID>2163</lisID>
+        </identifiers>
+        <bioguideId>C001091</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Joaquin</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2014-09-15</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>BECERRA</lastName>
+        <state>CA</state>
+        <party>D</party>
+        <district>34</district>
+        <fullName>Rep. Becerra, Xavier [D-CA-34]</fullName>
+        <middleName />
+        <identifiers>
+          <lisID>70</lisID>
+          <bioguideId>B000287</bioguideId>
+          <gpoId>7836</gpoId>
+        </identifiers>
+        <bioguideId>B000287</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>XAVIER</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2014-09-15</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Negrete McLeod</lastName>
+        <state>CA</state>
+        <party>D</party>
+        <district>35</district>
+        <fullName>Rep. Negrete McLeod, Gloria [D-CA-35]</fullName>
+        <middleName />
+        <identifiers>
+          <bioguideId>N000187</bioguideId>
+          <lisID>2108</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>N000187</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Gloria</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2014-09-15</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Cicilline</lastName>
+        <state>RI</state>
+        <party>D</party>
+        <district>1</district>
+        <fullName>Rep. Cicilline, David N. [D-RI-1]</fullName>
+        <middleName>N.</middleName>
+        <identifiers>
+          <gpoId>8139</gpoId>
+          <lisID>2055</lisID>
+          <bioguideId>C001084</bioguideId>
+        </identifiers>
+        <bioguideId>C001084</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>David</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2014-09-15</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Garcia</lastName>
+        <state>FL</state>
+        <party>D</party>
+        <district>26</district>
+        <fullName>Rep. Garcia, Joe [D-FL-26]</fullName>
+        <middleName />
+        <identifiers>
+          <lisID>2120</lisID>
+          <bioguideId>G000573</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>G000573</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Joe</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2014-09-15</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>NAPOLITANO</lastName>
+        <state>CA</state>
+        <party>D</party>
+        <district>32</district>
+        <fullName>Rep. Napolitano, Grace F. [D-CA-32]</fullName>
+        <middleName>F.</middleName>
+        <identifiers>
+          <bioguideId>N000179</bioguideId>
+          <lisID>1602</lisID>
+          <gpoId>7843</gpoId>
+        </identifiers>
+        <bioguideId>N000179</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>GRACE</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2014-09-15</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Ruiz</lastName>
+        <state>CA</state>
+        <party>D</party>
+        <district>36</district>
+        <fullName>Rep. Ruiz, Raul [D-CA-36]</fullName>
+        <middleName />
+        <identifiers>
+          <bioguideId>R000599</bioguideId>
+          <lisID>2109</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>R000599</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Raul</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2014-09-15</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>ROYBAL-ALLARD</lastName>
+        <state>CA</state>
+        <party>D</party>
+        <district>40</district>
+        <fullName>Rep. Roybal-Allard, Lucille [D-CA-40]</fullName>
+        <middleName />
+        <identifiers>
+          <bioguideId>R000486</bioguideId>
+          <lisID>997</lisID>
+          <gpoId>7839</gpoId>
+        </identifiers>
+        <bioguideId>R000486</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>LUCILLE</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2014-09-15</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>GUTIERREZ</lastName>
+        <state>IL</state>
+        <party>D</party>
+        <district>4</district>
+        <fullName>Rep. Gutierrez, Luis V. [D-IL-4]</fullName>
+        <middleName>V.</middleName>
+        <identifiers>
+          <bioguideId>G000535</bioguideId>
+          <lisID>478</lisID>
+          <gpoId>7924</gpoId>
+        </identifiers>
+        <bioguideId>G000535</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>LUIS</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2014-09-15</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>SANCHEZ</lastName>
+        <state>CA</state>
+        <party>D</party>
+        <district>46</district>
+        <fullName>Rep. Sanchez, Loretta [D-CA-46]</fullName>
+        <middleName />
+        <identifiers>
+          <bioguideId>S000030</bioguideId>
+          <gpoId>7852</gpoId>
+          <lisID>1522</lisID>
+        </identifiers>
+        <bioguideId>S000030</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>LORETTA</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2014-09-15</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>MCCOLLUM</lastName>
+        <state>MN</state>
+        <party>D</party>
+        <district>4</district>
+        <fullName>Rep. McCollum, Betty [D-MN-4]</fullName>
+        <middleName />
+        <identifiers>
+          <bioguideId>M001143</bioguideId>
+          <gpoId>8004</gpoId>
+          <lisID>1653</lisID>
+        </identifiers>
+        <bioguideId>M001143</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>BETTY</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2014-09-15</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Cuellar</lastName>
+        <state>TX</state>
+        <party>D</party>
+        <district>28</district>
+        <fullName>Rep. Cuellar, Henry [D-TX-28]</fullName>
+        <middleName />
+        <identifiers>
+          <lisID>1807</lisID>
+          <bioguideId>C001063</bioguideId>
+          <gpoId>8184</gpoId>
+        </identifiers>
+        <bioguideId>C001063</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Henry</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2014-09-15</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>GREEN</lastName>
+        <state>TX</state>
+        <party>D</party>
+        <district>29</district>
+        <fullName>Rep. Green, Gene [D-TX-29]</fullName>
+        <middleName />
+        <identifiers>
+          <lisID>462</lisID>
+          <bioguideId>G000410</bioguideId>
+          <gpoId>8185</gpoId>
+        </identifiers>
+        <bioguideId>G000410</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>GENE</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2014-09-18</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>VELAZQUEZ</lastName>
+        <state>NY</state>
+        <party>D</party>
+        <district>7</district>
+        <fullName>Rep. Velazquez, Nydia M. [D-NY-7]</fullName>
+        <middleName>M.</middleName>
+        <identifiers>
+          <bioguideId>V000081</bioguideId>
+          <lisID>1184</lisID>
+          <gpoId>8073</gpoId>
+        </identifiers>
+        <bioguideId>V000081</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>NYDIA</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2014-09-18</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>CAPUANO</lastName>
+        <state>MA</state>
+        <party>D</party>
+        <district>7</district>
+        <fullName>Rep. Capuano, Michael E. [D-MA-7]</fullName>
+        <middleName>E.</middleName>
+        <identifiers>
+          <bioguideId>C001037</bioguideId>
+          <lisID>1564</lisID>
+          <gpoId>7973</gpoId>
+        </identifiers>
+        <bioguideId>C001037</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>MICHAEL</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2014-09-18</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Veasey</lastName>
+        <state>TX</state>
+        <party>D</party>
+        <district>33</district>
+        <fullName>Rep. Veasey, Marc A. [D-TX-33]</fullName>
+        <middleName>A.</middleName>
+        <identifiers>
+          <lisID>2166</lisID>
+          <bioguideId>V000131</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>V000131</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Marc</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2014-09-18</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Sablan</lastName>
+        <state>MP</state>
+        <party>D</party>
+        <district>0</district>
+        <fullName>Rep. Sablan, Gregorio Kilili Camacho [D-MP-At Large]</fullName>
+        <middleName>Kilili Camacho</middleName>
+        <identifiers>
+          <bioguideId>S001177</bioguideId>
+          <lisID>1962</lisID>
+          <gpoId>8018</gpoId>
+        </identifiers>
+        <bioguideId>S001177</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Gregorio</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2014-09-18</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Swalwell</lastName>
+        <state>CA</state>
+        <party>D</party>
+        <district>15</district>
+        <fullName>Rep. Swalwell, Eric [D-CA-15]</fullName>
+        <middleName />
+        <identifiers>
+          <gpoId />
+          <lisID>2104</lisID>
+          <bioguideId>S001193</bioguideId>
+        </identifiers>
+        <bioguideId>S001193</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Eric</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2014-09-18</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Meng</lastName>
+        <state>NY</state>
+        <party>D</party>
+        <district>6</district>
+        <fullName>Rep. Meng, Grace [D-NY-6]</fullName>
+        <middleName />
+        <identifiers>
+          <bioguideId>M001188</bioguideId>
+          <lisID>2148</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>M001188</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Grace</firstName>
+      </item>
+    </cosponsors>
+    <relatedBills>
+      <item>
+        <type>HRES</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2013-09-27</actionDate>
+          <text>Referred to the House Committee on Oversight and Government Reform.</text>
+        </latestAction>
+        <number>363</number>
+        <latestTitle>Recognizing Hispanic Heritage Month and celebrating the heritage and culture of Latinos in the United States and the immense contributions of Latinos to the United States.</latestTitle>
+      </item>
+      <item>
+        <type>SRES</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2013-09-19</actionDate>
+          <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S6672; text as passed Senate: CR S6663)</text>
+        </latestAction>
+        <number>246</number>
+        <latestTitle>A resolution recognizing Hispanic Heritage Month and celebrating the heritage and culture of Latinos in the United States and the immense contributions of Latinos to the United States.</latestTitle>
+      </item>
+      <item>
+        <type>SRES</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2014-09-17</actionDate>
+          <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+        </latestAction>
+        <number>545</number>
+        <latestTitle>A resolution recognizing Hispanic Heritage Month and celebrating the heritage and culture of Latinos in the United States and the immense contributions of Latinos to the United States.</latestTitle>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Civil Rights and Liberties, Minority Issues</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Historical and cultural resources</name>
+          </item>
+          <item>
+            <name>Racial and ethnic relations</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <title>Recognizing Hispanic Heritage Month and celebrating the heritage and culture of Latinos in the United States and the immense contributions of Latinos to the United States.</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>Recognizing Hispanic Heritage Month and celebrating the heritage and culture of Latinos in the United States and the immense contributions of Latinos to the United States.</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <originChamber>House</originChamber>
+    <notes />
+    <calendarNumbers />
+    <title>Recognizing Hispanic Heritage Month and celebrating the heritage and culture of Latinos in the United States and the immense contributions of Latinos to the United States.</title>
+    <billType>HRES</billType>
+    <introducedDate>2014-09-15</introducedDate>
+    <amendments />
+    <latestAction>
+      <actionDate>2014-09-15</actionDate>
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

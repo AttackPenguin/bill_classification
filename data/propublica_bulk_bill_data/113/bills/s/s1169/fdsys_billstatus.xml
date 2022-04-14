@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2014-05-14</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 377.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2014-05-14</actionDate>
+        <committee>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>report No. 113-160</name>
+            <url>https://www.congress.gov/congressional-report/113th-congress/senate-report/160</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Energy and Natural Resources. Reported by Senator Landrieu with an amendment in the nature of a substitute. With written report No. 113-160.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+        </committee>
+        <type>Committee</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>14000</actionCode>
+        <text>Committee on Energy and Natural Resources. Reported by Senator Landrieu with an amendment in the nature of a substitute. With written report No. 113-160.</text>
+        <links>
+          <link>
+            <name>report No. 113-160</name>
+            <url>https://www.congress.gov/congressional-report/113th-congress/senate-report/160</url>
+          </link>
+        </links>
+        <actionDate>2014-05-14</actionDate>
+      </item>
+      <item>
+        <actionDate>2013-11-14</actionDate>
+        <committee>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Energy and Natural Resources. Ordered to be reported with an amendment favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-07-30</actionDate>
+        <committee>
+          <systemCode>sseg03</systemCode>
+          <name>Public Lands, Forests, and Mining Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held. With printed Hearing: S.Hrg. 113-85.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-06-13</actionDate>
+        <committee>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <links />
+        <actionDate>2013-06-13</actionDate>
+      </item>
+      <actionByCounts>
+        <senate>7</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <orderedReported>1</orderedReported>
+        <reportedToSenate>2</reportedToSenate>
+        <introducedInSenate>1</introducedInSenate>
+        <hearingsHeld>1</hearingsHeld>
+      </actionTypeCounts>
+    </actions>
+    <introducedDate>2013-06-13</introducedDate>
+    <updateDate>2016-10-25T16:25:18Z</updateDate>
+    <createDate>2013-06-14T07:01:15Z</createDate>
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <systemCode>sseg00</systemCode>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>sseg03</systemCode>
+              <activities>
+                <item>
+                  <name>Hearings by</name>
+                  <date>2013-07-30T18:27:38Z</date>
+                </item>
+              </activities>
+              <name>Public Lands, Forests, and Mining Subcommittee</name>
+            </item>
+          </subcommittees>
+          <name>Energy and Natural Resources Committee</name>
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2014-05-14T22:58:19Z</date>
+            </item>
+            <item>
+              <name>Markup by</name>
+              <date>2013-11-14T19:53:41Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2013-06-13T22:07:25Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>T000464</bioguideId>
+        <identifiers>
+          <lisID>1829</lisID>
+          <gpoId>8258</gpoId>
+          <bioguideId>T000464</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2013-06-13</sponsorshipDate>
+        <lastName>Tester</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <state>MT</state>
+        <firstName>Jon</firstName>
+      </item>
+    </cosponsors>
+    <congress>113</congress>
+    <billType>S</billType>
+    <title>Limestone Hills Training Area Withdrawal Act of 2014</title>
+    <titles>
+      <item>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+        <titleType>Short Titles as Reported to Senate</titleType>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <title>Limestone Hills Training Area Withdrawal Act of 2014</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Limestone Hills Training Area Withdrawal Act of 2013</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to withdraw and reserve certain public land in the State of Montana for the Limestone Hills Training Area, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Limestone Hills Training Area Withdrawal Act of 2014</title>
+      </item>
+    </titles>
+    <committeeReports>
+      <committeeReport>
+        <citation>S. Rept. 113-160</citation>
+      </committeeReport>
+    </committeeReports>
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in Senate</name>
+          <text><![CDATA[<p> Limestone Hills Training Area Withdrawal Act of 2013 - <times/> Withdraws from all forms of appropriation under public land laws, including the mining laws and the mineral leasing and geothermal leasing laws, 18,644 acres of public lands and interests in Broadwater County, Montana, identified on the map titled the &quot;Limestone Hills Training Area Land Withdrawal.&quot; </p> <p>Reserves the withdrawn lands for use for: (1) training for active and reserve components of the Armed Forces; (2) construction and operation of support and maintenance facilities for such components; (3) training by the Montana Department of Military Affairs; (4) training by state and local law enforcement agencies, civil defense organizations, and public education institutions; and (5) other defense-related purposes. </p> <p>Sets forth special rules regarding: (1) mining the Indian Creek Mine and the removal of unexploded ordnance, and (2) grazing permits and leases on withdrawn lands. </p> <p>Directs the Secretary of the Army and the Secretary of the Interior to enter into a specified agreement regarding the removal of unexploded ordnance. </p> <p>Requires the Secretary of the Army to take necessary precautions to prevent, and actions to, suppress brush and range fires occurring as a result of military activities on the withdrawn and reserved lands. </p> <p>Instructs such Secretary to maintain a program of decontamination of contamination caused by defense-related uses on such lands. </p>]]></text>
+          <lastSummaryUpdateDate>2013-09-13T16:57:43Z</lastSummaryUpdateDate>
+          <updateDate>2013-06-13T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDate>2013-06-13</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+        </item>
+        <item>
+          <name>Reported to Senate amended</name>
+          <text><![CDATA[<p>Limestone Hills Training Area Withdrawal Act of 2014 - <times/> (Sec. 2) Withdraws 18,644 acres of public lands and interests in Broadwater County, Montana.</p> <p>Reserves the withdrawn land for the Army for: (1) training for active and reserve forces; (2) construction and operation of support and maintenance facilities for those forces; (3) training by the Montana Department of Military Affairs; (4) training by state and local law enforcement agencies, civil defense organizations, and public education institutions; and (5) other defense-related purposes. </p> <p>Prohibits anything in this Act from being construed as altering any rights reserved for an Indian tribe for tribal use of land within the military land withdrawal area by treaty or federal law. Requires the Army to consult with any Indian tribes in the vicinity of the withdrawal area before taking action affecting tribal rights or cultural resources protected by treaty or federal law. </p> <p>(Sec. 4) Subjects the withdrawn federal land to regulations related to locatable mineral activities and mining.</p> <p>Prohibits the Army from restricting mining on the land. </p> <p>Directs the Army to remove unexploded ordnance on land subject to mining. Requires the Army and the Department of the Interior to enter into an agreement regarding coordination of defense-related uses and mining and the ongoing removal of unexploded ordnance. </p> <p>(Sec. 5) Gives Interior authority to issue grazing permits and leases on this land. </p> <p>(Sec. 6) Terminates this withdrawal and reservation on March 31, 2039.</p> <p>(Sec. 7) Permits hunting, fishing, and trapping on the withdrawn land. </p> <p>(Sec. 8) Declares that nothing in this Act shall be construed to: (1) establish a reservation in favor of the United States with respect to any water or water right on withdrawn land, or (2) authorize the appropriation of water on such land except in accordance with applicable state law. </p> <p>(Sec. 9 ) Requires the Army to take necessary precautions to prevent, and actions to, suppress brush and range fires occurring as a result of military activities on the land. </p> <p>Requires Interior, at the Army's request, to assist in the suppression of such fires, and be reimbursed by the Army. </p> <p>(Sec. 10) Instructs the Secretary of the Army to maintain a program of decontamination on the land for defense-related contamination. </p> <p>(Sec. 11) Prescribes a procedure for extending the withdrawal after its termination date. </p> <p>(Sec. 12) Declares that, upon termination of the withdrawal under this Act, the previously withdrawn land shall not be open to any form of appropriation under the public land laws, including the mining laws and the mineral leasing and geothermal leasing laws, until Interior publishes an appropriate order specifying when such land will be restored to the public domain and opened for such purposes. </p> <p>(Sec. 13) Prescribes a procedure for the Army to relinquish any or all of the lands. </p> <p>Requires the Army to decontaminate the relinquished land if practicable and economically feasible.</p> <p>Absolves Interior of any obligation to accept contaminated land or any land determined not suitable for return to the public domain. </p>]]></text>
+          <lastSummaryUpdateDate>2014-08-14T22:39:01Z</lastSummaryUpdateDate>
+          <updateDate>2014-05-14T11:22:58Z</updateDate>
+          <versionCode>01</versionCode>
+          <actionDate>2014-05-14</actionDate>
+          <actionDesc>Reported to Senate amended</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes>
+      <item>
+        <links>
+          <link>
+            <name>H.R.3304</name>
+            <url>https://www.congress.gov/bill/113th-congress/house-bill/3304</url>
+          </link>
+        </links>
+        <text><![CDATA[For further action, see H.R.3304, which became Public Law 113-66 on 12/26/2013.]]></text>
+      </item>
+    </notes>
+    <cboCostEstimates>
+      <item>
+        <title>S. 1169, Limestone Hills Training Area Withdrawal Act of 2013</title>
+        <url>http://www.cbo.gov/publication/44916</url>
+        <pubDate>2013-11-22T22:26:00Z</pubDate>
+      </item>
+      <item>
+        <title>S. 1169, Limestone Hills Training Area Withdrawal Act of 2013</title>
+        <url>https://www.cbo.gov/publication/44916</url>
+        <pubDate>2013-11-22T22:26:00Z</pubDate>
+      </item>
+    </cboCostEstimates>
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <number>1672</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Limestone Hills Training Area Withdrawal Act</latestTitle>
+        <type>HR</type>
+        <congress>113</congress>
+        <latestAction>
+          <text>Placed on the Union Calendar, Calendar No. 86.</text>
+          <actionDate>2013-06-24</actionDate>
+        </latestAction>
+      </item>
+      <item>
+        <number>1960</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>National Defense Authorization Act for Fiscal Year 2014</latestTitle>
+        <type>HR</type>
+        <congress>113</congress>
+        <latestAction>
+          <text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 126.</text>
+          <actionDate>2013-07-08</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Educational facilities and institutions</name>
+          </item>
+          <item>
+            <name>Firearms and explosives</name>
+          </item>
+          <item>
+            <name>Hazardous wastes and toxic substances</name>
+          </item>
+          <item>
+            <name>Land use and conservation</name>
+          </item>
+          <item>
+            <name>Licensing and registrations</name>
+          </item>
+          <item>
+            <name>Livestock</name>
+          </item>
+          <item>
+            <name>Military education and training</name>
+          </item>
+          <item>
+            <name>Military facilities and property</name>
+          </item>
+          <item>
+            <name>Mining</name>
+          </item>
+          <item>
+            <name>Montana</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 377.</text>
+      <actionDate>2014-05-14</actionDate>
+    </latestAction>
+    <billNumber>1169</billNumber>
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <amendments />
+    <sponsors>
+      <item>
+        <firstName>MAX</firstName>
+        <party>D</party>
+        <fullName>Sen. Baucus, Max [D-MT]</fullName>
+        <bioguideId>B000243</bioguideId>
+        <identifiers>
+          <lisID>66</lisID>
+          <bioguideId>B000243</bioguideId>
+          <gpoId>8298</gpoId>
+        </identifiers>
+        <lastName>BAUCUS</lastName>
+        <middleName>SIEBEN</middleName>
+        <state>MT</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <calendarNumbers>
+      <item>
+        <number>0377</number>
+        <calendar>Senate Calendar of Business</calendar>
+      </item>
+    </calendarNumbers>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

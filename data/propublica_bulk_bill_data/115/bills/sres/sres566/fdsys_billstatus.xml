@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <bioguideId>V000128</bioguideId>
+          <gpoId>7983</gpoId>
+          <lisID>1729</lisID>
+        </identifiers>
+        <state>MD</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Van Hollen</lastName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-06-28</sponsorshipDate>
+        <bioguideId>V000128</bioguideId>
+        <middleName />
+        <party>D</party>
+        <fullName>Sen. Van Hollen, Chris [D-MD]</fullName>
+        <firstName>Chris</firstName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1929</lisID>
+          <bioguideId>P000595</bioguideId>
+          <gpoId>7994</gpoId>
+        </identifiers>
+        <state>MI</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Peters</lastName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-06-28</sponsorshipDate>
+        <bioguideId>P000595</bioguideId>
+        <middleName>C.</middleName>
+        <party>D</party>
+        <fullName>Sen. Peters, Gary C. [D-MI]</fullName>
+        <firstName>Gary</firstName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>C001070</bioguideId>
+          <lisID>1828</lisID>
+          <gpoId>8282</gpoId>
+        </identifiers>
+        <state>PA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Casey</lastName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-06-28</sponsorshipDate>
+        <bioguideId>C001070</bioguideId>
+        <middleName />
+        <party>D</party>
+        <fullName>Sen. Casey, Robert P., Jr. [D-PA]</fullName>
+        <firstName>Bob</firstName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>H001076</bioguideId>
+          <lisID>2302</lisID>
+          <gpoId />
+        </identifiers>
+        <state>NH</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Hassan</lastName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-06-28</sponsorshipDate>
+        <bioguideId>H001076</bioguideId>
+        <middleName>Wood</middleName>
+        <party>D</party>
+        <fullName>Sen. Hassan, Margaret Wood [D-NH]</fullName>
+        <firstName>Margaret</firstName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>C000174</bioguideId>
+          <lisID>179</lisID>
+          <gpoId>8283</gpoId>
+        </identifiers>
+        <state>DE</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>CARPER</lastName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-06-28</sponsorshipDate>
+        <bioguideId>C000174</bioguideId>
+        <middleName>R.</middleName>
+        <party>D</party>
+        <fullName>Sen. Carper, Thomas R. [D-DE]</fullName>
+        <firstName>THOMAS</firstName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2076</lisID>
+          <bioguideId>B001277</bioguideId>
+          <gpoId>8332</gpoId>
+        </identifiers>
+        <state>CT</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Blumenthal</lastName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-07-09</sponsorshipDate>
+        <bioguideId>B001277</bioguideId>
+        <middleName />
+        <party>D</party>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <firstName>Richard</firstName>
+      </item>
+    </cosponsors>
+    <createDate>2018-06-29T05:25:58Z</createDate>
+    <sponsors>
+      <item>
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+        <party>D</party>
+        <state>OR</state>
+        <lastName>Merkley</lastName>
+        <firstName>Jeff</firstName>
+        <middleName />
+        <identifiers>
+          <bioguideId>M001176</bioguideId>
+          <gpoId>8238</gpoId>
+          <lisID>1900</lisID>
+        </identifiers>
+        <byRequestType />
+        <bioguideId>M001176</bioguideId>
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <version>1.0.0</version>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2018-06-28</actionDate>
+        <committee>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-164/senate-section/page/S4745</url>
+            <name>S4745</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Referred to the Committee on the Judiciary. (text of measure as introduced: CR S4745)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <actionDate>2018-06-28</actionDate>
+        <actionCode>10000</actionCode>
+      </item>
+    </actions>
+    <billType>SRES</billType>
+    <billNumber>566</billNumber>
+    <updateDate>2019-04-18T16:30:47Z</updateDate>
+    <committeeReports />
+    <laws />
+    <amendments />
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-06-28T22:14:00Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <relatedBills />
+    <introducedDate>2018-06-28</introducedDate>
+    <congress>115</congress>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Border security and unlawful immigration</name>
+          </item>
+          <item>
+            <name>Child safety and welfare</name>
+          </item>
+          <item>
+            <name>Department of Health and Human Services</name>
+          </item>
+          <item>
+            <name>Department of Homeland Security</name>
+          </item>
+          <item>
+            <name>Department of Justice</name>
+          </item>
+          <item>
+            <name>Detention of persons</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Family relationships</name>
+          </item>
+          <item>
+            <name>Immigration status and procedures</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Immigration</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <policyArea>
+      <name>Immigration</name>
+    </policyArea>
+    <notes />
+    <originChamber>Senate</originChamber>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115sres566is/xml/BILLS-115sres566is.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in Senate</type>
+        <date>2018-06-28T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <title>A resolution expressing the sense of the Senate that the President of the United States must immediately establish an interagency Office for Locating and Reuniting Children with Parents in order to protect separated children from suffering additional trauma resulting from the "Zero Tolerance" policy.</title>
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A resolution expressing the sense of the Senate that the President of the United States must immediately establish an interagency Office for Locating and Reuniting Children with Parents in order to protect separated children from suffering additional trauma resulting from the "Zero Tolerance" policy.</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>A resolution expressing the sense of the Senate that the President of the United States must immediately establish an interagency Office for Locating and Reuniting Children with Parents in order to protect separated children from suffering additional trauma resulting from the "Zero Tolerance" policy.</title>
+      </item>
+    </titles>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>Expresses the sense of the Senate that the Department of Homeland Security, the Department of Justice, and the Department of Health and Human Services must immediately establish an interagency Office for Locating and Reuniting Children with Parents.</p>]]></text>
+          <actionDate>2018-06-28</actionDate>
+          <updateDate>2018-06-28T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2018-07-11T15:24:25Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+          <actionDesc>Introduced in Senate</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <latestAction>
+      <text>Referred to the Committee on the Judiciary. (text of measure as introduced: CR S4745)</text>
+      <actionDate>2018-06-28</actionDate>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

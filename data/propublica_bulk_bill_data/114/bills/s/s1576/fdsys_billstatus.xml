@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>1576</billNumber>
+    <createDate>2015-06-16T09:28:41Z</createDate>
+    <updateDate>2021-02-01T22:20:37Z</updateDate>
+    <originChamber>Senate</originChamber>
+    <billType>S</billType>
+    <introducedDate>2015-06-15</introducedDate>
+    <congress>114</congress>
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Discharged from</name>
+              <date>2016-12-30T14:41:35Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2016-07-21T13:29:45Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Reform Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2016-07-21T13:28:45Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2015-09-09T00:30:09Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2015-07-27T20:53:04Z</date>
+            </item>
+            <item>
+              <name>Markup by</name>
+              <date>2015-06-24T14:00:00Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2015-06-15T20:18:01Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 114-695</citation>
+      </committeeReport>
+      <committeeReport>
+        <citation>S. Rept. 114-95</citation>
+      </committeeReport>
+    </committeeReports>
+    <relatedBills />
+    <actions>
+      <item>
+        <actionDate>2016-12-30</actionDate>
+        <links />
+        <text>Placed on the Union Calendar, Calendar No. 707.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2016-12-30</actionDate>
+        <links />
+        <text>Committee on the Judiciary discharged.</text>
+        <type>Discharge</type>
+        <actionCode>H12300</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsju00</systemCode>
+            <name>Judiciary Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2016-12-30</actionDate>
+        <links />
+        <text>Committee on the Judiciary discharged.</text>
+        <type>Committee</type>
+        <actionCode>5500</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsju00</systemCode>
+            <name>Judiciary Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2016-07-21</actionDate>
+        <links />
+        <text>Referred sequentially to the House Committee on the Judiciary for a period ending not later than Dec. 31, 2016 for consideration of such provisions of the bill as fall within the jurisdiction of that committee pursuant to clause 1(I) of rule X.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsju00</systemCode>
+            <name>Judiciary Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2016-07-21</actionDate>
+        <links />
+        <text>Reported by the Committee on Oversight and Government Reform. H. Rept. 114-695, Part I.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsgo00</systemCode>
+            <name>Oversight and Reform Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2016-07-21</actionDate>
+        <links />
+        <text>Reported by the Committee on Oversight and Government Reform. H. Rept. 114-695, Part I.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsgo00</systemCode>
+            <name>Oversight and Reform Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2015-10-09</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsgo00</systemCode>
+            <name>Oversight and Reform Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Ordered to be Reported by Unanimous Consent.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2015-09-08</actionDate>
+        <links />
+        <text>Referred to the House Committee on Oversight and Government Reform.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsgo00</systemCode>
+            <name>Oversight and Reform Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2015-09-08</actionDate>
+        <actionTime>14:05:54</actionTime>
+        <links />
+        <text>Received in the House.</text>
+        <type>Floor</type>
+        <actionCode>H14000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2015-08-06</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2015-08-05</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Passed Senate with amendments by Unanimous Consent. (consideration: CR S6423-6424; text of measure as reported in Senate: CR S6423-6424; text as passed Senate: CR S6424)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2015-08-05</actionDate>
+        <links />
+        <text>Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.(consideration: CR S6423-6424; text of measure as reported in Senate: CR S6423-6424; text as passed Senate: CR S6424)</text>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2015-07-27</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 167.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2015-07-27</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssga00</systemCode>
+            <name>Homeland Security and Governmental Affairs Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with amendments. With written report No. 114-95.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2015-07-27</actionDate>
+        <links />
+        <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with amendments. With written report No. 114-95.</text>
+        <type>Committee</type>
+        <actionCode>14000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>ssga00</systemCode>
+            <name>Homeland Security and Governmental Affairs Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2015-06-24</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssga00</systemCode>
+            <name>Homeland Security and Governmental Affairs Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2015-06-15</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssga00</systemCode>
+            <name>Homeland Security and Governmental Affairs Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2015-06-15</actionDate>
+        <links />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <actionTypeCounts>
+        <unionCalendarAssignment>1</unionCalendarAssignment>
+        <committeeDischarged>1</committeeDischarged>
+        <houseCommitteeDischarged>1</houseCommitteeDischarged>
+        <sequentialReferralOfBill>1</sequentialReferralOfBill>
+        <committeeReportOfABill>1</committeeReportOfABill>
+        <reportedToHouse>1</reportedToHouse>
+        <orderedToBeReported>1</orderedToBeReported>
+        <billReferrals>1</billReferrals>
+        <receivedInTheHouse>1</receivedInTheHouse>
+        <sentToHouse>1</sentToHouse>
+        <passedSenate>1</passedSenate>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <reportedToSenate>2</reportedToSenate>
+        <orderedReported>1</orderedReported>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>9</houseOfRepresentatives>
+        <senate>9</senate>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>L000575</bioguideId>
+        <fullName>Sen. Lankford, James [R-OK]</fullName>
+        <firstName>James</firstName>
+        <middleName />
+        <lastName>Lankford</lastName>
+        <party>R</party>
+        <state>OK</state>
+        <identifiers>
+          <lisID>2050</lisID>
+          <bioguideId>L000575</bioguideId>
+          <gpoId>8113</gpoId>
+        </identifiers>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>H001069</bioguideId>
+        <fullName>Sen. Heitkamp, Heidi [D-ND]</fullName>
+        <firstName>Heidi</firstName>
+        <middleName />
+        <lastName>Heitkamp</lastName>
+        <party>D</party>
+        <state>ND</state>
+        <identifiers>
+          <lisID>2174</lisID>
+          <bioguideId>H001069</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2015-06-15</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>J000293</bioguideId>
+        <fullName>Sen. Johnson, Ron [R-WI]</fullName>
+        <firstName>Ron</firstName>
+        <middleName />
+        <lastName>Johnson</lastName>
+        <party>R</party>
+        <state>WI</state>
+        <identifiers>
+          <lisID>2086</lisID>
+          <bioguideId>J000293</bioguideId>
+          <gpoId>8355</gpoId>
+        </identifiers>
+        <sponsorshipDate>2015-06-24</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <cboCostEstimates>
+      <item>
+        <pubDate>2015-07-13T18:25:00Z</pubDate>
+        <title>S. 1576, Representative Payee Fraud Prevention Act of 2015</title>
+        <url>https://www.cbo.gov/publication/50378</url>
+      </item>
+      <item>
+        <pubDate>2015-11-04T22:33:27Z</pubDate>
+        <title>S. 1576, Representative Payee Fraud Prevention Act of 2015</title>
+        <url>https://www.cbo.gov/publication/50962</url>
+      </item>
+    </cboCostEstimates>
+    <laws />
+    <notes />
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Accounting and auditing</name>
+          </item>
+          <item>
+            <name>Disability and paralysis</name>
+          </item>
+          <item>
+            <name>Employee benefits and pensions</name>
+          </item>
+          <item>
+            <name>Evidence and witnesses</name>
+          </item>
+          <item>
+            <name>Fraud offenses and financial crimes</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2015-06-15</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2015-10-01T15:31:07Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><strong>Representative Payee Fraud Prevention Act of 2015</strong></p> <p>Prohibits any person authorized by the Office of Personnel Management (OPM) to receive federal retirement payments on behalf of a minor or an individual of legal disability from embezzling or in any manner converting any amounts from such payments to a use other than for the benefit of such minor or individual. </p> <p>Considers any willful neglect or refusal to make and file proper accountings or reports concerning such payments as required by law to be prima facie evidence of the embezzlement or prohibited conversion of such amounts. </p> <p>Prohibits OPM from authorizing a person to receive payments on behalf of a minor or individual of legal disability if that person has been convicted of: (1) a violation of this Act, (2) fraud under the Social Security Act, or (3) misappropriation as a fiduciary under veterans' benefits provisions.</p>]]></text>
+          <updateDate>2015-06-15T04:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+        </item>
+        <item>
+          <versionCode>01</versionCode>
+          <actionDate>2015-07-27</actionDate>
+          <actionDesc>Reported to Senate with amendment(s)</actionDesc>
+          <lastSummaryUpdateDate>2015-10-01T15:34:59Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><strong>Representative Payee Fraud Prevention Act of 2015</strong></p> <p>(Sec. 2) Prohibits any person authorized by the Office of Personnel Management (OPM) to receive federal retirement payments on behalf of a minor or an individual of legal disability from embezzling or in any manner converting any amounts from such payments to a use other than for the benefit of such minor or individual.</p> <p>Considers any willful neglect or refusal to make and file proper accountings or reports concerning such payments as required by law to be prima facie evidence of the embezzlement or prohibited conversion of such amounts. </p> <p>Prohibits OPM from authorizing a person to receive payments on behalf of a minor or individual of legal disability if that person has been convicted of: (1) a violation of this Act, (2) fraud under the Social Security Act, or (3) misappropriation as a fiduciary under veterans' benefits provisions.</p>]]></text>
+          <updateDate>2015-07-27T15:14:29Z</updateDate>
+          <name>Reported to Senate with amendment(s)</name>
+        </item>
+        <item>
+          <versionCode>35</versionCode>
+          <actionDate>2015-08-05</actionDate>
+          <actionDesc>Passed Senate amended</actionDesc>
+          <lastSummaryUpdateDate>2015-10-01T15:37:26Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>(This measure has not been amended since it was reported to the Senate on July 27, 2015. The summary of that version is repeated here.)</p> <p><strong>Representative Payee Fraud Prevention Act of 2015</strong></p> <p>(Sec. 2) Prohibits any person authorized by the Office of Personnel Management (OPM) to receive federal retirement payments on behalf of a minor or an individual of legal disability from embezzling or in any manner converting any amounts from such payments to a use other than for the benefit of such minor or individual. </p> <p>Considers any willful neglect or refusal to make and file proper accountings or reports concerning such payments as required by law to be prima facie evidence of the embezzlement or prohibited conversion of such amounts. </p> <p>Prohibits OPM from authorizing a person to receive payments on behalf of a minor or individual of legal disability if that person has been convicted of: (1) a violation of this Act, (2) fraud under the Social Security Act, or (3) misappropriation as a fiduciary under veterans' benefits provisions.</p>]]></text>
+          <updateDate>2015-08-05T16:15:24Z</updateDate>
+          <name>Passed Senate amended</name>
+        </item>
+        <item>
+          <versionCode>79</versionCode>
+          <actionDate>2016-07-21</actionDate>
+          <actionDesc>Reported to House without amendment</actionDesc>
+          <lastSummaryUpdateDate>2016-08-30T15:39:49Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>(This measure has not been amended since it was reported to the Senate on July 27, 2015. The summary of that version is repeated here.)</p> <p><strong>Representative Payee Fraud Prevention Act of 2015</strong></p> <p>(Sec. 2) Prohibits any person authorized by the Office of Personnel Management (OPM) to receive federal retirement payments on behalf of a minor or an individual of legal disability from embezzling or in any manner converting any amounts from such payments to a use other than for the benefit of such minor or individual. </p> <p>Considers any willful neglect or refusal to make and file proper accountings or reports concerning such payments as required by law to be prima facie evidence of the embezzlement or prohibited conversion of such amounts. </p> <p>Prohibits OPM from authorizing a person to receive payments on behalf of a minor or individual of legal disability if that person has been convicted of: (1) a violation of this Act, (2) fraud under the Social Security Act, or (3) misappropriation as a fiduciary under veterans' benefits provisions.</p>]]></text>
+          <updateDate>2016-07-21T12:52:38Z</updateDate>
+          <name>Reported to House without amendment</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>Representative Payee Fraud Prevention Act of 2015</title>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to amend title 5, United States Code, to prevent fraud by representative payees.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Representative Payee Fraud Prevention Act of 2015</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Reported to House</titleType>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <title>Representative Payee Fraud Prevention Act of 2015</title>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <titleType>Short Titles as Reported to Senate</titleType>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <title>Representative Payee Fraud Prevention Act of 2015</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <titleType>Short Titles as Passed Senate</titleType>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <title>Representative Payee Fraud Prevention Act of 2015</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Representative Payee Fraud Prevention Act of 2015</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <amendments />
+    <textVersions>
+      <item>
+        <type>Reported in House</type>
+        <date>2016-12-30T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-114s1576rh/xml/BILLS-114s1576rh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Referred in House</type>
+        <date>2015-09-08T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-114s1576rfh/xml/BILLS-114s1576rfh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Engrossed in Senate</type>
+        <date>2015-08-05T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-114s1576es/xml/BILLS-114s1576es.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Reported to Senate</type>
+        <date>2015-07-27T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-114s1576rs/xml/BILLS-114s1576rs.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2015-06-15T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-114s1576is/xml/BILLS-114s1576is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2016-12-30</actionDate>
+      <text>Placed on the Union Calendar, Calendar No. 707.</text>
+      <links />
+    </latestAction>
+    <calendarNumbers>
+      <item>
+        <calendar>Senate Calendar of Business</calendar>
+        <number>0167</number>
+      </item>
+      <item>
+        <calendar>U00707</calendar>
+        <number />
+      </item>
+    </calendarNumbers>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

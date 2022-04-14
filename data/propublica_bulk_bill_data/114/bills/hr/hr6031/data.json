@@ -1,0 +1,132 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-09-14",
+      "action_code": "Intro-H",
+      "references": [],
+      "text": "Introduced in House",
+      "type": "action"
+    },
+    {
+      "acted_at": "2016-09-14",
+      "action_code": "B00100",
+      "links": [
+        {
+          "name": "E1270",
+          "url": "https://www.congress.gov/congressional-record/volume-162/extensions-of-remarks-section/page/E1270"
+        }
+      ],
+      "references": [
+        {
+          "reference": "CR E1270",
+          "type": null
+        }
+      ],
+      "text": "Sponsor introductory remarks on measure.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2016-09-14",
+      "action_code": "H11100",
+      "committees": [
+        "HSII"
+      ],
+      "references": [],
+      "status": "REFERRED",
+      "text": "Referred to the House Committee on Natural Resources.",
+      "type": "referral"
+    },
+    {
+      "acted_at": "2016-09-21",
+      "action_code": "",
+      "committees": [
+        "HSII"
+      ],
+      "references": [],
+      "text": "Referred to the Subcommittee on Energy and Mineral Resources.",
+      "type": "referral"
+    }
+  ],
+  "amendments": [],
+  "bill_id": "hr6031-114",
+  "bill_type": "hr",
+  "by_request": false,
+  "committee_reports": [],
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ],
+      "committee": "House Natural Resources",
+      "committee_id": "HSII"
+    },
+    {
+      "activity": [
+        "referral"
+      ],
+      "committee": "House Natural Resources",
+      "committee_id": "HSII",
+      "subcommittee": "Subcommittee on Energy and Mineral Resources",
+      "subcommittee_id": "06"
+    }
+  ],
+  "congress": "114",
+  "cosponsors": [],
+  "enacted_as": null,
+  "history": {
+    "active": false,
+    "awaiting_signature": false,
+    "enacted": false,
+    "vetoed": false
+  },
+  "introduced_at": "2016-09-14",
+  "number": "6031",
+  "official_title": "To amend the Coastal Zone Management Act of 1972 to allow the District of Columbia to receive Federal funding under such Act, and for other purposes.",
+  "popular_title": null,
+  "related_bills": [],
+  "short_title": "Flood Prevention Act of 2016",
+  "sponsor": {
+    "bioguide_id": "N000147",
+    "district": "0",
+    "name": "Norton, Eleanor Holmes",
+    "state": "DC",
+    "title": "Rep.",
+    "type": "person"
+  },
+  "status": "REFERRED",
+  "status_at": "2016-09-14",
+  "subjects": [
+    "District of Columbia",
+    "Floods and storm protection",
+    "Marine and coastal resources, fisheries",
+    "Public lands and natural resources"
+  ],
+  "subjects_top_term": "Public lands and natural resources",
+  "summary": {
+    "as": "Introduced in House",
+    "date": "2016-09-14T04:00:00Z",
+    "text": "Flood Prevention Act of 2016 \n\nThis bill amends the Coastal Zone Management Act of 1972 to make the District of Columbia eligible to receive federal coastal zone management funding, including flood mitigation and prevention funds."
+  },
+  "titles": [
+    {
+      "as": "introduced",
+      "is_for_portion": false,
+      "title": "To amend the Coastal Zone Management Act of 1972 to allow the District of Columbia to receive Federal funding under such Act, and for other purposes.",
+      "type": "official"
+    },
+    {
+      "as": "introduced",
+      "is_for_portion": false,
+      "title": "Flood Prevention Act of 2016",
+      "type": "short"
+    },
+    {
+      "as": null,
+      "is_for_portion": false,
+      "title": "Flood Prevention Act of 2016",
+      "type": "display"
+    }
+  ],
+  "updated_at": "2019-11-15T21:29:34Z",
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/114/hr/BILLSTATUS-114hr6031.xml"
+}

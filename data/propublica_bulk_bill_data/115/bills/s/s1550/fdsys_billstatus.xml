@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>1550</billNumber>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-07-13</actionDate>
+        <committee>
+          <systemCode>ssva00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-07-13</actionDate>
+        <text>Introduced in Senate</text>
+        <committee />
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>2357</lisID>
+          <bioguideId>S001202</bioguideId>
+          <gpoId />
+        </identifiers>
+        <state>AL</state>
+        <party>R</party>
+        <bioguideId>S001202</bioguideId>
+        <byRequestType />
+        <lastName>Strange</lastName>
+        <middleName />
+        <firstName>Luther</firstName>
+        <fullName>Sen. Strange, Luther [R-AL]</fullName>
+      </item>
+    </sponsors>
+    <originChamber>Senate</originChamber>
+    <amendments />
+    <title>Department of Veterans Affairs Quality Employment Act of 2017</title>
+    <cosponsors>
+      <item>
+        <fullName>Sen. Inhofe, James M. [R-OK]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>I000024</bioguideId>
+        <party>R</party>
+        <sponsorshipDate>2017-07-13</sponsorshipDate>
+        <state>OK</state>
+        <lastName>INHOFE</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8322</gpoId>
+          <bioguideId>I000024</bioguideId>
+          <lisID>583</lisID>
+        </identifiers>
+        <firstName>JIM</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>R000595</bioguideId>
+        <party>R</party>
+        <sponsorshipDate>2017-07-13</sponsorshipDate>
+        <state>FL</state>
+        <lastName>Rubio</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8242</gpoId>
+          <bioguideId>R000595</bioguideId>
+          <lisID>2084</lisID>
+        </identifiers>
+        <firstName>Marco</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Cotton, Tom [R-AR]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>C001095</bioguideId>
+        <party>R</party>
+        <sponsorshipDate>2017-07-13</sponsorshipDate>
+        <state>AR</state>
+        <lastName>Cotton</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2098</lisID>
+          <bioguideId>C001095</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Tom</firstName>
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>A bill to improve the authority of the Secretary of Veterans Affairs to hire and retain physicians and other employees of the Department of Veterans Affairs, and for other purposes.</title>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Department of Veterans Affairs Quality Employment Act of 2017</title>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>Department of Veterans Affairs Quality Employment Act of 2017</title>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Department of Veterans Affairs Quality Employment Act of 2017</title>
+        <chamberName />
+        <parentTitleType />
+      </item>
+    </titles>
+    <cboCostEstimates />
+    <version>1.0.0</version>
+    <updateDate>2019-05-17T18:16:46Z</updateDate>
+    <congress>115</congress>
+    <introducedDate>2017-07-13</introducedDate>
+    <laws />
+    <createDate>2017-07-14T00:41:33Z</createDate>
+    <billType>S</billType>
+    <relatedBills>
+      <item>
+        <number>1367</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>To improve the authority of the Secretary of Veterans Affairs to hire and retain physicians and other employees of the Department of Veterans Affairs, and for other purposes.</latestTitle>
+        <latestAction>
+          <text>Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.</text>
+          <actionDate>2017-03-21</actionDate>
+        </latestAction>
+        <congress>115</congress>
+        <type>HR</type>
+      </item>
+      <item>
+        <number>114</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>VA Choice and Quality Employment Act of 2017</latestTitle>
+        <latestAction>
+          <text>Became Public Law No: 115-46.</text>
+          <actionDate>2017-08-12</actionDate>
+        </latestAction>
+        <congress>115</congress>
+        <type>S</type>
+      </item>
+    </relatedBills>
+    <calendarNumbers />
+    <committeeReports />
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115s1550is/xml/BILLS-115s1550is.xml</url>
+          </item>
+        </formats>
+        <date>2017-07-13T04:00:00Z</date>
+        <type>Introduced in Senate</type>
+      </item>
+    </textVersions>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2018-03-17T16:35:23Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <actionDate>2017-07-13</actionDate>
+          <text><![CDATA[<p> <b>Department of Veterans Affairs Quality Employment Act of 2017</b></p> <p>This bill provides that the annual determination of the Veterans Health Administration (VHA) staff shortages shall include shortages for five clinical and five non-clinical occupations for each network. (Such determination currently includes the five occupations for which there are the largest Department of Veterans Affairs [VA]-wide shortages.) </p> <p>The bill establishes in the VA an executive management fellowship program to provide eligible employees of: (1) the Veterans Benefits Administration (VBA) and the VHA with private sector training and experience, and (2) a private-sector entity with VA training and experience.</p> <p>The VA shall: </p> <ul> <li>conduct an annual performance plan for each political appointee that is similar to the plan conducted for VA career senior executive employees; </li> <li>establish a single database that lists each vacant VA position that is critical, difficult to fill, or both, and each vacant mental health position; </li> <li>prescribe regulations to allow for excepted service appointments of qualifying students and recent graduates; </li> <li>provide VHA human resources with training on employee recruitment and retention; </li> <li>establish a promotional track system for employees who are technical experts to advance without being required to transition to management positions; </li> <li> develop a program to transition military medical people into VHA employment; </li> <li> develop a plan to hire qualified directors for each medical center without a permanent director; </li> <li>develop a standardized VA exit survey; and</li> <li>ensure that a recruiter for each Veterans Integrated Service Network visits, at least annually, each allopathic and osteopathic teaching institution with a graduate medical education program within the network to recruit individuals to be appointed to VHA positions.</li> </ul> <p>The VA may non-competitively appoint a qualified former career or career conditional employee to any VA position within the competitive service that is one grade higher than the position most recently occupied by the employee. </p>]]></text>
+          <name>Introduced in Senate</name>
+          <updateDate>2017-07-13T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <latestAction>
+      <actionDate>2017-07-13</actionDate>
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+      <links />
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Veterans' Affairs Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-13T17:43:04Z</date>
+            </item>
+          </activities>
+          <systemCode>ssva00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Department of Veterans Affairs</name>
+          </item>
+          <item>
+            <name>Employee hiring</name>
+          </item>
+          <item>
+            <name>Employment and training programs</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Health care quality</name>
+          </item>
+          <item>
+            <name>Health information and medical records</name>
+          </item>
+          <item>
+            <name>Health personnel</name>
+          </item>
+          <item>
+            <name>Health programs administration and funding</name>
+          </item>
+          <item>
+            <name>Medical education</name>
+          </item>
+          <item>
+            <name>Military medicine</name>
+          </item>
+          <item>
+            <name>Public-private cooperation</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

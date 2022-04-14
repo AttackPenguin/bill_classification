@@ -1,0 +1,121 @@
+{
+  "actions": [
+    {
+      "acted_at": "2018-06-19", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-06-19", 
+      "action_code": "B00100", 
+      "links": [
+        {
+          "name": "E860-861", 
+          "url": "https://www.congress.gov/congressional-record/volume-164/extensions-of-remarks-section/page/E860-861"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR E860-861", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-06-19", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Oversight and Government Reform.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr6153-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Oversight and Reform", 
+      "committee_id": "HSGO"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2018-06-19", 
+  "number": "6153", 
+  "official_title": "To amend the National Capital Revitalization and Self-Government Improvement Act of 1997 to repeal a specific criminal penalty on a person in the District of Columbia for obstructing a bridge between the District of Columbia and the Commonwealth of Virginia.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "District of Columbia Home Rule Bridges Act", 
+  "sponsor": {
+    "bioguide_id": "N000147", 
+    "district": "0", 
+    "name": "Norton, Eleanor Holmes", 
+    "state": "DC", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2018-06-19", 
+  "subjects": [
+    "District of Columbia", 
+    "Government operations and politics", 
+    "Roads and highways", 
+    "State and local government operations", 
+    "Transportation safety and security", 
+    "Virginia"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2018-06-19T04:00:00Z", 
+    "text": "District of Columbia Home Rule Bridges Act\n\nThis bill repeals a law that makes it a crime for a person in the District of Columbia to knowingly and willfully obstruct any bridge connecting the District and Virginia."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the National Capital Revitalization and Self-Government Improvement Act of 1997 to repeal a specific criminal penalty on a person in the District of Columbia for obstructing a bridge between the District of Columbia and the Commonwealth of Virginia.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "District of Columbia Home Rule Bridges Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "District of Columbia Home Rule Bridges Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "District of Columbia Home Rule Bridges Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-10-18T16:07:25Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr6153.xml"
+}
