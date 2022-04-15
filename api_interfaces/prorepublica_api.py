@@ -13,13 +13,13 @@ headers = {
     'x-api-key': api_key
 }
 
-PICKLED_DATA = 'pickled_data'
-JSON_FILES = 'json_files'
+PICKLED_DATA = '../data/pickled_data'
+JSON_FILES = '../data/json_files'
 
 
 def main():
     # Get basic data on all members of congress and chamber
-    # data = get_members_as_json(110, 'senate', save_json=True)
+    data = get_members_as_json(110, 'house', save_json=True)
     # print(data)
 
     # Get detailed data on specific congress person
@@ -32,7 +32,16 @@ def get_members_as_json(
         chamber: str,
         use_pickled: bool = True,
         save_json: bool = False
-):
+) -> dict:
+    """
+
+    :param congress: The number of the congress. e.g. 110.
+    :param chamber: One of 'senate' or 'house'
+    :param use_pickled: Whether or not to use pickled output of method with
+    specified arguments if it exists.
+    :param save_json: Whether or not to save the data as a json file.
+    :return: A
+    """
     pickled_file_path = os.path.join(
         PICKLED_DATA,
         f"get_members_as_json_{congress}_{chamber}.pickle"
