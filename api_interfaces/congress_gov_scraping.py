@@ -46,7 +46,8 @@ def get_bill_text(
         bill_number: int,
         version: str,
         version_short: str,
-        use_pickled: bool = True
+        use_pickled: bool = True,
+        wait_time: int | None = None
 ) -> str | bool:
     pickled_file_path = os.path.join(
         PICKLED_DATA,
@@ -57,6 +58,11 @@ def get_bill_text(
         with open(pickled_file_path, 'rb') as file:
             data = pickle.load(file)
     else:
+        if (congress, body, bill_number) in [
+            (111, 'house', 3619),
+            (113, 'house', 3979)
+        ]:
+            return False
         url = (
                 f"https://www.congress.gov/bill/"
                 f"{congress}th-congress/{body}-bill/"
@@ -79,6 +85,9 @@ def get_bill_text(
 
         with open(pickled_file_path, 'wb') as file:
             pickle.dump(data, file)
+
+        if wait_time:
+            time.sleep(random.uniform(1, wait_time))
 
     return data
 
@@ -115,15 +124,13 @@ def get_bill_texts(
             for bill_number in range(1, num_bills+1):
                 bill_text = get_bill_text(
                     congress, body, bill_number,
-                    version, v_short
+                    version, v_short, wait_time=wait_time
                 )
                 if bill_text:
                     data[(congress, body_s, bill_number)] = bill_text
                     print(f"Acquired {body} bill {bill_number}:")
-                    print(f"\t{bill_text[:200]}")
                 else:
                     print(f"Failed to acquire {body} bill {bill_number}")
-                time.sleep(random.uniform(1, wait_time))
 
         with open(pickled_file_path, 'wb') as file:
             pickle.dump(data, file)
