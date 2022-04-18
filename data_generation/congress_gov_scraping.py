@@ -85,13 +85,13 @@ def get_bill_text(
 
 def get_bill_texts(
         congress: int,
-        bodies: tuple[str] = bodies,
-        bodies_short: tuple[str] = bodies_short,
-        versions: tuple[str] = versions,
-        versions_short: tuple[str] = versions_short,
+        bodies: tuple[str, str] = bodies,
+        bodies_short: tuple[str, str] = bodies_short,
+        versions: tuple[str, str] = versions,
+        versions_short: tuple[str, str] = versions_short,
         wait_time: int = 3,
         use_pickled: bool = True
-) -> dict[(int, str, int), str]:
+) -> dict[tuple[int, str, int], str]:
     pickled_file_path = os.path.join(
         PICKLED_DATA,
         f"get_bill_texts_"
