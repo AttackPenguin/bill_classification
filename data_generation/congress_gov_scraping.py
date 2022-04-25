@@ -19,8 +19,8 @@ suffixes_of_interest = {
     'is': 'Introduced (Senate)'
 }
 congresses = tuple(range(107, 116))
-bodies = ('senate', 'house')
-bodies_short = ('s', 'hr')
+chambers = ('senate', 'house')
+chambers_short = ('s', 'hr')
 versions = ('Introduced in Senate', 'Introduced in House')
 versions_short = ('is', 'ih')
 
@@ -37,35 +37,35 @@ def main():
     # )
 
     for congress in congresses:
-        get_bill_texts(congress)
+        get_bill_texts_by_congress(congress)
 
 
 def get_bill_text(
         congress: int,
-        body: str,
+        chamber: str,
         bill_number: int,
         version: str,
         version_short: str,
         use_pickled: bool = True,
-        wait_time: int | None = None
+        wait_time: int | float | None = None
 ) -> str | bool:
     pickled_file_path = os.path.join(
         PICKLED_DATA,
-        f"get_bill_text_{congress}_{body}_{bill_number}_"
+        f"get_bill_text_{congress}_{chamber}_{bill_number}_"
         f"{version}_{version_short}.pickle"
     )
     if use_pickled and os.path.exists(pickled_file_path):
         with open(pickled_file_path, 'rb') as file:
             data = pickle.load(file)
     else:
-        if (congress, body, bill_number) in [
+        if (congress, chamber, bill_number) in [
             (111, 'house', 3619),
             (113, 'house', 3979)
         ]:
             return False
         url = (
                 f"https://www.congress.gov/bill/"
-                f"{congress}th-congress/{body}-bill/"
+                f"{congress}th-congress/{chamber}-bill/"
                 f"{bill_number}/text/is?format=txt"
         )
         response = requests.get(url)
@@ -87,25 +87,25 @@ def get_bill_text(
             pickle.dump(data, file)
 
         if wait_time:
-            time.sleep(random.uniform(1, wait_time))
+            time.sleep(random.uniform(1.0/wait_time, wait_time))
 
     return data
 
 
-def get_bill_texts(
+def get_bill_texts_by_congress(
         congress: int,
-        bodies: tuple[str, str] = bodies,
-        bodies_short: tuple[str, str] = bodies_short,
+        chambers: tuple[str, str] = chambers,
+        chambers_short: tuple[str, str] = chambers_short,
         versions: tuple[str, str] = versions,
         versions_short: tuple[str, str] = versions_short,
-        wait_time: int = 3,
+        wait_time: int | float = 1,
         use_pickled: bool = True
 ) -> dict[tuple[int, str, int], str]:
     pickled_file_path = os.path.join(
         PICKLED_DATA,
         f"get_bill_texts_"
         f"{congress}_"
-        f"{bodies}_{bodies_short}_"
+        f"{chambers}_{chambers_short}_"
         f"{versions}_{versions_short}.pickle"
     )
     if use_pickled and os.path.exists(pickled_file_path):
@@ -115,7 +115,7 @@ def get_bill_texts(
         data = dict()
 
         for body, body_s, version, v_short in zip(
-            bodies, bodies_short, versions, versions_short
+            chambers, chambers_short, versions, versions_short
         ):
             target_directory = os.path.join(
                 BULK_DATA_DIR, f'{congress}', 'bills', f'{body_s}'
@@ -128,7 +128,10 @@ def get_bill_texts(
                 )
                 if bill_text:
                     data[(congress, body_s, bill_number)] = bill_text
-                    print(f"Acquired {body} bill {bill_number}:")
+                    print(
+                        f"Acquired congress "
+                        f"{congress} {body} bill {bill_number}:"
+                    )
                 else:
                     print(f"Failed to acquire {body} bill {bill_number}")
 
