@@ -17,8 +17,8 @@ headers = {
     'x-api-key': api_key
 }
 
-PICKLED_DATA = '../data/pickled_data'
-JSON_FILES = '../data/json_files'
+PICKLED_DATA = '../data/pickled_data/prorepublica_api'
+JSON_FILES = '../data/json_files/prorepublica_api'
 
 
 name_map = {
@@ -226,6 +226,7 @@ def get_members_as_json(
     """
     pickled_file_path = os.path.join(
         PICKLED_DATA,
+        "get_members_as_json",
         f"get_members_as_json_{congress}_{chamber}.pickle"
     )
     if use_pickled and os.path.exists(pickled_file_path):
@@ -262,6 +263,7 @@ def get_specific_member_as_json(
 ) -> dict:
     file_path = os.path.join(
         PICKLED_DATA,
+        "get_specific_member_as_json",
         f"get_specific_member_as_json_{member_id}.pickle"
     )
     if use_pickled and os.path.exists(file_path):
@@ -313,7 +315,7 @@ def get_member_party(
     if party is None:
         # Sometimes cosponsors are from previous or following congresses.
         other_members = list()
-        for congress in [congress-1] + list(range(congress+1, 117)):
+        for congress in [congress-1] + list(range(congress+1, 116)):
             data = get_members_as_json(congress, chamber, use_pickled)
             members_other = data['results'][0]['members']
             other_members.append(members_other)
@@ -322,6 +324,8 @@ def get_member_party(
                         member['last_name'].lower() == last_name.lower()):
                     party = member['party']
                     break
+            if party is not None:
+                break
     if party is None:
         # Apparently cosponsors can also be from other chamber?
         if chamber == 'house':
@@ -329,7 +333,7 @@ def get_member_party(
         else:
             chamber = 'house'
         other_chambers = list()
-        for congress in list(range(106, 117)):
+        for congress in list(range(106, 116)):
             data = get_members_as_json(congress, chamber, use_pickled)
             members_other = data['results'][0]['members']
             other_chambers.append(members_other)
@@ -338,6 +342,8 @@ def get_member_party(
                         member['last_name'].lower() == last_name.lower()):
                     party = member['party']
                     break
+            if party is not None:
+                break
     if party is None:
         return np.NaN
     return party

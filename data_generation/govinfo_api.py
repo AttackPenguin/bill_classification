@@ -5,6 +5,8 @@ import pickle
 from bs4 import BeautifulSoup as bs
 import requests
 
+import parameters as p
+
 api_root = f"https://api.govinfo.gov/"
 api_key = 'tUvUxo2PCWHk9TjCxC66kLDrekBV6C5iO2xRsaV3'
 api_documentation = ""
@@ -13,9 +15,11 @@ headers = {
     'x-api-key': api_key
 }
 
-PICKLED_DATA = '../data/pickled_data/govinfo_api'
-JSON_FILES = '../data/json_files'
-BULK_DATA_DIR = '../data/propublica_bulk_bill_data'
+PICKLED_DATA = os.path.join(
+    p.PICKLED_DATA, 'govinfo_api'
+)
+JSON_FILES = p.JSON_FILES
+BULK_DATA = p.BULK_DATA
 
 # https://www.govinfo.gov/help/bills
 suffixes_of_interest = {
@@ -35,7 +39,7 @@ versions_short = ('is', 'ih')
 def main():
     for congress in congresses:
         print(f"Getting Congress {congress}...")
-        get_bill_text_by_congress(
+        get_bill_texts_by_congress(
             congress
         )
         print("\n\n\n")
@@ -89,10 +93,10 @@ def get_bill_text(
     return data
 
 
-def get_bill_text_by_congress(
+def get_bill_texts_by_congress(
         congress: int,
         use_pickled: bool = True
-) -> list[str]:
+) -> dict[tuple[int, str, int], str]:
 
     pickled_file_path = os.path.join(
         PICKLED_DATA,
@@ -109,7 +113,7 @@ def get_bill_text_by_congress(
             chambers, chambers_short, versions, versions_short
         ):
             target_directory = os.path.join(
-                BULK_DATA_DIR, f'{congress}', 'bills', f'{body_s}'
+                BULK_DATA, f'{congress}', 'bills', f'{body_s}'
             )
             num_bills = len(os.listdir(target_directory))
             for bill_number in range(1, num_bills+1):

@@ -14,12 +14,14 @@ import pandas as pd
 from data_generation import bulk_data as bd
 from data_generation import congress_gov_scraping as cgs
 from data_generation import prorepublica_api as pra
+from data_generation import govinfo_api
+import parameters as p
 
-PICKLED_DATA = '../data/pickled_data'
-JSON_FILES = '../data/json_files'
-BULK_DATA_DIR = '../data/propublica_bulk_bill_data'
+PICKLED_DATA = p.PICKLED_DATA
+JSON_FILES = p.JSON_FILES
+BULK_DATA_DIR = p.BULK_DATA
 
-congresses = tuple(range(107, 116))
+congresses = tuple(range(107, 115))
 bodies = ('senate', 'house')
 bodies_short = ('s', 'hr')
 versions = ('Introduced in Senate', 'Introduced in House')
@@ -29,7 +31,7 @@ versions_short = ('is', 'ih')
 
 
 def main():
-    df = build_raw_dataframe(congresses, use_pickled=False)
+    df = build_raw_dataframe(congresses, use_pickled=True)
     print('done')
 
 
@@ -77,7 +79,7 @@ def build_raw_dataframe(
     if use_pickled and os.path.exists(pickled_file_path):
         with open(pickled_file_path, 'rb') as file:
             df = pickle.load(file)
-    # Otherwise build a new dataframe from scratch.
+    # Otherwise, build a new dataframe from scratch.
     else:
         # Construct a dict to add items to. After adding all items of
         # interest, we'll use this dict to construct our data frame.
@@ -87,26 +89,28 @@ def build_raw_dataframe(
         bill_texts = dict()  # type: dict[tuple[int, str, int], str]
         for congress in congresses:
             bill_texts.update(
-                cgs.get_bill_texts_by_congress(
-                    congress, bodies, bodies_short,
-                    versions, versions_short
+                govinfo_api.get_bill_texts_by_congress(
+                    congress
                 )
             )
 
         # Create a column containing the number of the congress
-        df_data['congress'] = [key[0] for key in bill_texts.keys()]
+        df_data['congress'] = [
+            key[0] for key in bill_texts.keys()
+        ]
 
         # Create a column containing the chamber in which the bill was proposed.
         df_data['chamber'] = [
             'senate' if key[1] == 's' else 'house'
-            for key in bill_texts.keys()]
+            for key in bill_texts.keys()
+        ]
 
         # Create a column containing the bill number
-        df_data['bill number'] = [key[2] for key in bill_texts.keys()]
+        df_data['bill number'] = [
+            key[2] for key in bill_texts.keys()
+        ]
 
         # Create a column containing the raw text of the bill.
-        # TODO: Figure out how much boiler plate to chop off the front of
-        #  this raw text.
         df_data['text'] = [value for value in bill_texts.values()]
 
         # Create a column containing the tokenized text of the bill. This
@@ -120,15 +124,6 @@ def build_raw_dataframe(
         df_data['cleaned text'] = [
             ' '.join(tokens) for tokens in df_data['tokenized text']
         ]
-
-        # Create a column containing the two letter string that is used in
-        # our bulk data directory structure to specify bills introduced to
-        # the house ('ih') and introduced to the senate ('is'). This is used
-        # in methods to create other columns, and this makes the code much
-        # simpler.
-        # df_data['version_short'] = [
-        #     'is' if item == 'senate' else 'ih' for item in df_data['chamber']
-        # ]
 
         # Create a column indicating whether a bill was enacted into law.
         df_data['enacted'] = [
