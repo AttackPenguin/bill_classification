@@ -6,7 +6,6 @@ from torch import optim, nn
 from torch.nn import functional as F
 import pytorch_lightning as pl
 
-
 # define the LightningModule
 from classification.gru_cnn.dataloader import BillDataModule
 
@@ -84,7 +83,7 @@ class GRU_CNN(pl.LightningModule):
         # x dimensions = (batch_size, input_length, input_size)
 
         # Apply layer 1
-        l1_convolved = torch.empty((x.shape[0], self.input_length, 64))
+        l1_convolved = torch.empty((x.shape[0], self.input_length, 64)).type_as(x)
         for i, kernel in enumerate(self.conv_l1):
             for step in range(self.input_length):
                 word_first = step - self.kernel_length // 2
@@ -97,11 +96,11 @@ class GRU_CNN(pl.LightningModule):
                     x[:, word_first:word_last, :]
         l1_activated = F.leaky_relu(l1_convolved)
         l1_pooled = self.pool_l1(l1_activated)
-        
+
         # Apply layer 2
         l2_convolved = torch.empty(
             (x.shape[0], l1_pooled.shape[1], 16)
-        )
+        ).type_as(x)
         for i, kernel in enumerate(self.conv_l2):
             for step in range(l1_pooled.shape[1]):
                 word_first = step - self.kernel_length // 2
@@ -118,7 +117,7 @@ class GRU_CNN(pl.LightningModule):
         # Apply layer 3
         l3_convolved = torch.empty(
             (x.shape[0], l2_pooled.shape[1], 16)
-        )
+        ).type_as(x)
         for i, kernel in enumerate(self.conv_l3):
             for step in range(l1_pooled.shape[1]):
                 word_first = step - self.kernel_length // 2
@@ -140,33 +139,35 @@ class GRU_CNN(pl.LightningModule):
         l5_activated = F.leaky_relu(l5_out)
 
         # Get single output value in range [0, 1]
-        result = F.sigmoid(self.output(l5_activated))
+        return F.sigmoid(self.output(l5_activated))
 
     def training_step(self, batch, batch_idx):
         x, y = batch
         y_pred = self(x)
         loss = F.binary_cross_entropy(y_pred, y)
-        self.log("train_loss", loss)
+        self.log("train_loss", loss, sync_dist=True)
         return loss
 
     def validation_step(self, batch, batch_idx):
         x, y = batch
         y_pred = self(x)
         loss = F.binary_cross_entropy(y_pred, y)
-        self.log("val_loss", loss, prog_bar=True)
+        self.log("val_loss", loss, prog_bar=True, sync_dist=True)
 
     def test_step(self, batch, batch_idx):
         x, y = batch
         y_pred = self(x)
-        loss = F.binary_cross_entropy_with_logits(y_pred, y)
-        self.log("test_loss", loss, prog_bar=True)
+        loss = F.binary_cross_entropy(y_pred, y)
+        self.log("test_loss", loss, prog_bar=True, sync_dist=True)
 
     def configure_optimizers(self):
         optimizer = optim.Adam(self.parameters(), lr=1e-3)
         return optimizer
 
+
 model = GRU_CNN()
 datamodule = BillDataModule(batch_size=32)
 
-trainer = Trainer()
+trainer = Trainer(devices=-1, accelerator="auto", strategy="dp")
+print(model.device)
 trainer.fit(model, datamodule)
