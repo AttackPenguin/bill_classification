@@ -157,20 +157,29 @@ class GRU_CNN(pl.LightningModule):
     def training_step(self, batch, batch_idx):
         x, y = batch
         y_pred = self(x)
-        loss = F.binary_cross_entropy(y_pred, y)
+        loss = F.binary_cross_entropy(
+            torch.tensor(y_pred, dtype=torch.float32),
+            torch.tensor(y, dtype=torch.float32)
+        )
         self.log("train_loss", loss, sync_dist=True)
         return loss
 
     def validation_step(self, batch, batch_idx):
         x, y = batch
         y_pred = self(x)
-        loss = F.binary_cross_entropy(y_pred, y)
+        loss = F.binary_cross_entropy(
+            torch.tensor(y_pred, dtype=torch.float32),
+            torch.tensor(y, dtype=torch.float32)
+        )
         self.log("val_loss", loss, prog_bar=True, sync_dist=True)
 
     def test_step(self, batch, batch_idx):
         x, y = batch
         y_pred = self(x)
-        loss = F.binary_cross_entropy(y_pred, y)
+        loss = F.binary_cross_entropy(
+            torch.tensor(y_pred, dtype=torch.float32),
+            torch.tensor(y, dtype=torch.float32)
+        )
         self.log("test_loss", loss, prog_bar=True, sync_dist=True)
 
     def configure_optimizers(self):
@@ -181,7 +190,7 @@ class GRU_CNN(pl.LightningModule):
 model = GRU_CNN()
 print(model)
 
-datamodule = BillDataModule(batch_size=256)
+datamodule = BillDataModule(batch_size=64)
 
 checkpoint_callback = ModelCheckpoint(
     monitor="val_loss",
