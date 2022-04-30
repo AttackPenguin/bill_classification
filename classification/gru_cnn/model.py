@@ -151,7 +151,8 @@ class GRU_CNN(pl.LightningModule):
         l5_activated = F.leaky_relu(l5_out)
 
         # Get single output value in range [0, 1]
-        return F.sigmoid(self.output(l5_activated))
+        output = F.sigmoid(self.output(l5_activated))
+        return torch.tensor(output.flatten(), dtype=torch.float32)
 
     def training_step(self, batch, batch_idx):
         x, y = batch
@@ -180,7 +181,7 @@ class GRU_CNN(pl.LightningModule):
 model = GRU_CNN()
 print(model)
 
-datamodule = BillDataModule(batch_size=4)
+datamodule = BillDataModule(batch_size=256)
 
 checkpoint_callback = ModelCheckpoint(
     monitor="val_loss",
