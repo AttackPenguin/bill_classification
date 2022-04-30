@@ -168,6 +168,9 @@ class GRU_CNN(pl.LightningModule):
 model = GRU_CNN()
 datamodule = BillDataModule(batch_size=32)
 
-trainer = Trainer(devices=-1, accelerator="auto", strategy="dp")
+if torch.cuda.is_available():
+    trainer = Trainer(devices=-1, accelerator="gpu", strategy="dp")
+else:
+    trainer = Trainer()
 print(model.device)
 trainer.fit(model, datamodule)
