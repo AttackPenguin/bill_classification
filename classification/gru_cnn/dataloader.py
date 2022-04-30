@@ -26,7 +26,7 @@ class BDMDataset(Dataset):
         text = self.texts[idx]
         while len(text) < 65_536:
             text += text
-        return text[0:65_536], self.labels[idx]
+        return torch.tensor(text[0:65_536]), self.labels[idx]
 
 
 class BillDataModule(pl.LightningDataModule):
@@ -111,12 +111,27 @@ class BillDataModule(pl.LightningDataModule):
 
     def train_dataloader(self):
         train_dataset = BDMDataset(self.X_train, self.y_train)
-        return DataLoader(train_dataset, batch_size=self.batch_size)
+        return DataLoader(
+            train_dataset,
+            batch_size=self.batch_size,
+            shuffle=True,
+            num_workers=4
+        )
 
     def val_dataloader(self):
         val_dataset = BDMDataset(self.X_val, self.y_val)
-        return DataLoader(val_dataset, batch_size=self.batch_size)
+        return DataLoader(
+            val_dataset,
+            batch_size=self.batch_size,
+            shuffle=True,
+            num_workers=4
+        )
 
     def test_dataloader(self):
         test_dataset = BDMDataset(self.X_test, self.y_test)
-        return DataLoader(test_dataset, batch_size=self.batch_size)
+        return DataLoader(
+            test_dataset,
+            batch_size=self.batch_size,
+            shuffle=True,
+            num_workers=4
+        )
