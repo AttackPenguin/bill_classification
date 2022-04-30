@@ -1,7 +1,9 @@
 import os
 
+import numpy as np
 import torch
 from pytorch_lightning import Trainer
+from pytorch_lightning.callbacks import ModelCheckpoint
 from torch import optim, nn
 from torch.nn import functional as F
 import pytorch_lightning as pl
@@ -26,42 +28,42 @@ class GRU_CNN(pl.LightningModule):
         self.input_length = input_length
 
         # Input dimension is (batch_size, 300, 65_536)
-        self.conv_l1 = [nn.GRU(
+        self.conv_l1 = nn.ModuleList([nn.GRU(
             input_size=300,
             hidden_size=1,
             bidirectional=True,
             batch_first=True
-        )] * 64
-        self.pool_l1 = nn.MaxPool2d(
-            kernel_size=(4, 64),
-            stride=(4, 0),
-            padding=(0, 0)
+        )] * 64)
+        self.pool_l1 = nn.MaxPool1d(
+            kernel_size=4,
+            stride=4,
+            padding=0
         )
 
         # Input dimension is (batch_size, 64, 16_384)
-        self.conv_l2 = [nn.GRU(
+        self.conv_l2 = nn.ModuleList([nn.GRU(
             input_size=64,
             hidden_size=1,
             bidirectional=True,
             batch_first=True
-        )] * 16
-        self.pool_l2 = nn.MaxPool2d(
-            kernel_size=(4, 16),
-            stride=(4, 0),
-            padding=(0, 0)
+        )] * 16)
+        self.pool_l2 = nn.MaxPool1d(
+            kernel_size=4,
+            stride=4,
+            padding=0
         )
 
         # Input dimension is (batch_size, 16, 4096)
-        self.conv_l3 = [nn.GRU(
+        self.conv_l3 = nn.ModuleList([nn.GRU(
             input_size=16,
             hidden_size=1,
             bidirectional=True,
             batch_first=True
-        )] * 16
-        self.pool_l3 = nn.MaxPool2d(
-            kernel_size=(4, 16),
-            stride=(4, 0),
-            padding=(0, 0)
+        )] * 16)
+        self.pool_l3 = nn.MaxPool1d(
+            kernel_size=4,
+            stride=4,
+            padding=0
         )
 
         # Input dimension is (batch_size, 16, 1024)
@@ -83,19 +85,23 @@ class GRU_CNN(pl.LightningModule):
         # x dimensions = (batch_size, input_length, input_size)
 
         # Apply layer 1
-        l1_convolved = torch.empty((x.shape[0], self.input_length, 64)).type_as(x)
+        l1_convolved = \
+            torch.empty((x.shape[0], self.input_length, 64)).type_as(x)
         for i, kernel in enumerate(self.conv_l1):
             for step in range(self.input_length):
                 word_first = step - self.kernel_length // 2
                 if word_first < 0:
                     word_first = 0
                 word_last = step + self.kernel_length // 2
-                if word_last > self.input_length:
-                    word_first = self.input_length
+                if word_last > l1_convolved.shape[1]:
+                    word_last = l1_convolved.shape[1]
                 l1_convolved[:, step, i] = \
-                    x[:, word_first:word_last, :]
+                    kernel(x[:, word_first:word_last, :])[1] \
+                        .view(2, x.shape[0]).mean(dim=0)
         l1_activated = F.leaky_relu(l1_convolved)
+        l1_activated = l1_activated.permute(0, 2, 1)
         l1_pooled = self.pool_l1(l1_activated)
+        l1_pooled = l1_pooled.permute(0, 2, 1)
 
         # Apply layer 2
         l2_convolved = torch.empty(
@@ -107,32 +113,38 @@ class GRU_CNN(pl.LightningModule):
                 if word_first < 0:
                     word_first = 0
                 word_last = step + self.kernel_length // 2
-                if word_last > self.input_length:
-                    word_first = self.input_length
+                if word_last > l2_convolved.shape[1]:
+                    word_last = l2_convolved.shape[1]
                 l2_convolved[:, step, i] = \
-                    l1_pooled[:, word_first:word_last, :]
+                    kernel(l1_pooled[:, word_first:word_last, :])[1] \
+                        .view(2, x.shape[0]).mean(dim=0)
         l2_activated = F.leaky_relu(l2_convolved)
+        l2_activated = l2_activated.permute(0, 2, 1)
         l2_pooled = self.pool_l2(l2_activated)
+        l2_pooled = l2_pooled.permute(0, 2, 1)
 
         # Apply layer 3
         l3_convolved = torch.empty(
             (x.shape[0], l2_pooled.shape[1], 16)
         ).type_as(x)
         for i, kernel in enumerate(self.conv_l3):
-            for step in range(l1_pooled.shape[1]):
+            for step in range(l2_pooled.shape[1]):
                 word_first = step - self.kernel_length // 2
                 if word_first < 0:
                     word_first = 0
                 word_last = step + self.kernel_length // 2
-                if word_last > self.input_length:
-                    word_first = self.input_length
+                if word_last > l3_convolved.shape[1]:
+                    word_last = l3_convolved.shape[1]
                 l3_convolved[:, step, i] = \
-                    l2_pooled[:, word_first:word_last, :]
+                    kernel(l2_pooled[:, word_first:word_last, :])[1] \
+                        .view(2, x.shape[0]).mean(dim=0)
         l3_activated = F.leaky_relu(l3_convolved)
+        l3_activated = l3_activated.permute(0, 2, 1)
         l3_pooled = self.pool_l3(l3_activated)
+        l3_pooled = l3_pooled.permute(0, 2, 1)
 
         # Pass through dense layers
-        l3_linearized = l3_pooled.view(x.shape[0], -1)
+        l3_linearized = l3_pooled.reshape(-1, 1024*16)
         l4_out = self.linear_l4(l3_linearized)
         l4_activated = F.leaky_relu(l4_out)
         l5_out = self.linear_l5(l4_activated)
@@ -166,11 +178,22 @@ class GRU_CNN(pl.LightningModule):
 
 
 model = GRU_CNN()
-datamodule = BillDataModule(batch_size=32)
+print(model)
+
+datamodule = BillDataModule(batch_size=4)
+
+checkpoint_callback = ModelCheckpoint(
+    monitor="val_loss",
+    save_top_k=3
+)
 
 if torch.cuda.is_available():
-    trainer = Trainer(devices=-1, accelerator="gpu", strategy="dp")
+    trainer = Trainer(
+        devices=-1, accelerator="gpu", strategy="dp",
+        callbacks=[checkpoint_callback]
+    )
 else:
-    trainer = Trainer()
-print(model.device)
+    trainer = Trainer(
+        callbacks=[checkpoint_callback]
+    )
 trainer.fit(model, datamodule)

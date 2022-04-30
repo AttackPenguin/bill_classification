@@ -28,7 +28,7 @@ class BDMDataset(Dataset):
         while len(text) < 65_536:
             text += text
         return (
-            torch.tensor(np.array(text[0:65_536])),
+            torch.tensor(np.array(text[0:65_536]), dtype=torch.float32),
             self.labels[idx]
         )
 
