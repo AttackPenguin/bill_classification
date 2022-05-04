@@ -8,7 +8,7 @@ from sklearn.model_selection import train_test_split
 import pytorch_lightning as pl
 from torch.utils.data import DataLoader, random_split, Dataset
 
-from classification.gru_cnn.dataset import BillDataset
+from classification.word_cnn_simple.dataset import BillDataset
 
 
 def stratified_shuffle(
@@ -66,10 +66,10 @@ class BDMDataset(Dataset):
 
     def __getitem__(self, idx):
         text = self.texts[idx]
-        while len(text) < 65_536:
+        while len(text) < 8192:
             text += text
         return (
-            torch.tensor(np.array(text[0:65_536]), dtype=torch.float32),
+            np.array(text[0:8192]),
             self.labels[idx]
         )
 
@@ -105,7 +105,7 @@ class BillDataModule(pl.LightningDataModule):
             train_dataset,
             batch_size=self.batch_size,
             shuffle=True,
-            num_workers=3
+            num_workers=4
         )
 
     def val_dataloader(self):
@@ -114,7 +114,7 @@ class BillDataModule(pl.LightningDataModule):
             val_dataset,
             batch_size=self.batch_size,
             shuffle=False,
-            num_workers=3
+            num_workers=4
         )
 
     def test_dataloader(self):
@@ -123,5 +123,5 @@ class BillDataModule(pl.LightningDataModule):
             test_dataset,
             batch_size=self.batch_size,
             shuffle=False,
-            num_workers=3
+            num_workers=4
         )

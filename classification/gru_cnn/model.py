@@ -190,7 +190,7 @@ class GRU_CNN(pl.LightningModule):
 model = GRU_CNN()
 print(model)
 
-datamodule = BillDataModule(batch_size=16)
+datamodule = BillDataModule(batch_size=32)
 
 checkpoint_callback = ModelCheckpoint(
     monitor="val_loss",
