@@ -105,29 +105,30 @@ class WordCNNSimple(pl.LightningModule):
 
 
 model = WordCNNSimple()
-print(model)
+parameters = model.state_dict()
+print(model.parameters())
 
-datamodule = BillDataModule(batch_size=24)
-
-checkpoint_callback = ModelCheckpoint(
-    monitor="val_loss",
-    save_top_k=-1,
-    filename='epoch {epoch:02d} val_loss {val_loss:.3f}'
-)
-
-
-if torch.cuda.is_available():
-    devices = -1
-    accelerator = 'gpu'
-    strategy = 'dp'
-else:
-    devices = 1
-    accelerator = 'cpu'
-    strategy = None
-
-trainer = Trainer(
-    devices=devices, accelerator=accelerator, strategy=strategy,
-    callbacks=[checkpoint_callback]
-)
-
-trainer.fit(model, datamodule)
+# datamodule = BillDataModule(batch_size=24)
+#
+# checkpoint_callback = ModelCheckpoint(
+#     monitor="val_loss",
+#     save_top_k=-1,
+#     filename='epoch {epoch:02d} val_loss {val_loss:.3f}'
+# )
+#
+#
+# if torch.cuda.is_available():
+#     devices = -1
+#     accelerator = 'gpu'
+#     strategy = 'dp'
+# else:
+#     devices = 1
+#     accelerator = 'cpu'
+#     strategy = None
+#
+# trainer = Trainer(
+#     devices=devices, accelerator=accelerator, strategy=strategy,
+#     callbacks=[checkpoint_callback]
+# )
+#
+# trainer.fit(model, datamodule)

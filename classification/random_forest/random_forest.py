@@ -23,11 +23,11 @@ random_state = 666
 
 def main():
     (X_train, y_train), (X_test, y_test) = get_and_split_data(congresses)
-    vectorizer = get_fitted_vectorizer(X_train, ngram_min=3, ngram_max=5)
+    vectorizer = get_fitted_vectorizer(X_train, ngram_min=1, ngram_max=1)
     names = vectorizer.get_feature_names_out()
     for name in names:
         print(name)
-    file_path = "./classifiers/clf1.pickle"
+    file_path = "./classifiers/random_forest/clf1.pickle"
     clf2 = train_classifier(
         X_train, y_train, vectorizer
     )
