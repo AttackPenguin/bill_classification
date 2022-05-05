@@ -17,7 +17,7 @@ class WordCNN(pl.LightningModule):
             self,
             embedding_size: int = 300,
             pooling_size: int = 4,
-            input_length: int = 16_384,  # 2^14
+            input_length: int = 16_384  # 2^14
     ):
         super().__init__()
 
@@ -103,23 +103,24 @@ class WordCNN(pl.LightningModule):
         return optimizer
 
 
-model = WordCNN()
-print(model)
+if __name__ == '__main__':
+    model = WordCNN()
+    print(model)
 
-datamodule = BillDataModule(batch_size=128)
+    datamodule = BillDataModule(batch_size=128)
 
-checkpoint_callback = ModelCheckpoint(
-    monitor="val_loss",
-    save_top_k=3
-)
-
-if torch.cuda.is_available():
-    trainer = Trainer(
-        devices=-1, accelerator="gpu", strategy="dp",
-        callbacks=[checkpoint_callback]
+    checkpoint_callback = ModelCheckpoint(
+        monitor="val_loss",
+        save_top_k=3
     )
-else:
-    trainer = Trainer(
-        callbacks=[checkpoint_callback]
-    )
-trainer.fit(model, datamodule)
+
+    if torch.cuda.is_available():
+        trainer = Trainer(
+            devices=-1, accelerator="gpu", strategy="dp",
+            callbacks=[checkpoint_callback]
+        )
+    else:
+        trainer = Trainer(
+            callbacks=[checkpoint_callback]
+        )
+    trainer.fit(model, datamodule)

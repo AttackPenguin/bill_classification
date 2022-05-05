@@ -9,8 +9,10 @@ from torch import optim, nn
 from torch.nn import functional as F
 import pytorch_lightning as pl
 
-# define the LightningModule
+from classification.random_forest.random_forest \
+    import get_most_important_features as get_features
 from classification.word_cnn_simple.dataloader import BillDataModule
+from dataset import get_glove_embeddings
 
 
 class WordCNNSimple(pl.LightningModule):
@@ -29,17 +31,27 @@ class WordCNNSimple(pl.LightningModule):
         # Default input dimension is (batch_size, 300, 8192)
         self.conv_l1 = nn.Conv1d(
             in_channels=embedding_size, out_channels=256,
-            kernel_size=1, stride=1, padding=0
+            kernel_size=1, stride=1, padding=0,
+            bias=False
         )
-        self.pool_l1 = nn.MaxPool1d(
-            kernel_size=8,
-            stride=8,
-            padding=0
+        self.conv_l2 = nn.Conv1d(
+            in_channels=256, out_channels=64,
+            kernel_size=9, stride=1, padding=4
+        )
+        self.pool_l2 = nn.MaxPool1d(
+            kernel_size=8, stride=8, padding=0
+        )
+        self.conv_l3 = nn.Conv1d(
+            in_channels=64, out_channels=32,
+            kernel_size=9, stride=1, padding=4
+        )
+        self.pool_l3 = nn.MaxPool1d(
+            kernel_size=8, stride=8, padding=0
         )
 
-        # Input dimension is (batch_size, 16, 256)
+        # Input dimension is (batch_size, 32, 128)
         self.linear_l5 = nn.Linear(
-            in_features=256*1024,
+            in_features=32*128,
             out_features=256
         )
         self.linear_l6 = nn.Linear(
@@ -58,10 +70,13 @@ class WordCNNSimple(pl.LightningModule):
 
         # Apply Convolutions
         l1_convolved = F.leaky_relu(self.conv_l1(x.float()))
-        l1_pooled = self.pool_l1(l1_convolved)
+        l2_convolved = F.leaky_relu(self.conv_l2(l1_convolved))
+        l2_pooled = self.pool_l2(l2_convolved)
+        l3_convolved = F.leaky_relu(self.conv_l3(l2_pooled))
+        l3_pooled = self.pool_l3(l3_convolved)
 
         # Pass through dense layers
-        l4_linearized = l1_pooled.reshape(-1, 256*1024)
+        l4_linearized = l3_pooled.reshape(-1, 32*128)
         l5_out = F.leaky_relu(self.linear_l5(l4_linearized))
         l6_out = F.leaky_relu(self.linear_l6(l5_out))
 
@@ -106,29 +121,37 @@ class WordCNNSimple(pl.LightningModule):
 
 model = WordCNNSimple()
 parameters = model.state_dict()
-print(model.parameters())
+features, importances = get_features(
+    "../random_forest/clf1.pickle"
+)
+embeddings = get_glove_embeddings()
+feature_coordinates = [
+    embeddings[feature] for feature in features
+]
+parameters['conv_l1.weight'] = \
+    torch.Tensor(np.array(feature_coordinates).reshape((256,300,1)))
+model.load_state_dict(parameters)
+datamodule = BillDataModule(batch_size=8)
 
-# datamodule = BillDataModule(batch_size=24)
-#
-# checkpoint_callback = ModelCheckpoint(
-#     monitor="val_loss",
-#     save_top_k=-1,
-#     filename='epoch {epoch:02d} val_loss {val_loss:.3f}'
-# )
-#
-#
-# if torch.cuda.is_available():
-#     devices = -1
-#     accelerator = 'gpu'
-#     strategy = 'dp'
-# else:
-#     devices = 1
-#     accelerator = 'cpu'
-#     strategy = None
-#
-# trainer = Trainer(
-#     devices=devices, accelerator=accelerator, strategy=strategy,
-#     callbacks=[checkpoint_callback]
-# )
-#
-# trainer.fit(model, datamodule)
+checkpoint_callback = ModelCheckpoint(
+    monitor="val_loss",
+    save_top_k=-1,
+    filename='epoch {epoch:02d} val_loss {val_loss:.3f}'
+)
+
+
+if torch.cuda.is_available():
+    devices = -1
+    accelerator = 'gpu'
+    strategy = 'dp'
+else:
+    devices = 1
+    accelerator = 'cpu'
+    strategy = None
+
+trainer = Trainer(
+    devices=devices, accelerator=accelerator, strategy=strategy,
+    callbacks=[checkpoint_callback]
+)
+
+trainer.fit(model, datamodule)

@@ -84,5 +84,6 @@ def get_glove_embeddings(
     return glove_embeddings
 
 
-dataset = BillDataset(congresses)
-print('done')
+if __name__ == '__main__':
+    dataset = BillDataset(congresses)
+    print('done')

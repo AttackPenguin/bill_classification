@@ -4,13 +4,17 @@ import pickle
 
 import numpy as np
 import pandas as pd
+from matplotlib import pyplot as plt
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.inspection import permutation_importance
 from sklearn.metrics import PrecisionRecallDisplay
 from sklearn.model_selection import train_test_split
 
 from analysis import analysis
 from data_generation import build_data
+
+import parameters as p
 
 congresses = tuple(range(107, 115))
 bodies = ('senate', 'house')
@@ -23,37 +27,44 @@ random_state = 666
 
 def main():
     (X_train, y_train), (X_test, y_test) = get_and_split_data(congresses)
-    vectorizer = get_fitted_vectorizer(X_train, ngram_min=1, ngram_max=1)
-    names = vectorizer.get_feature_names_out()
-    for name in names:
-        print(name)
-    file_path = "./classifiers/random_forest/clf1.pickle"
-    clf2 = train_classifier(
-        X_train, y_train, vectorizer
-    )
-    with open(file_path, 'wb') as file:
-        pickle.dump((clf2, vectorizer), file)
-    # with open(file_path, 'rb') as file:
-    #     clf, vectorizer = pickle.load(file)
-    test_classifier(clf2, X_test, y_test, vectorizer)
+    # vectorizer = get_fitted_vectorizer(
+    #     X_train, max_features=10_000, ngram_min=1, ngram_max=1
+    # )
+    # names = vectorizer.get_feature_names_out()
+    # for i in range(0, len(names), 10):
+    #     for j in range(10):
+    #         try:
+    #             print(names[i+j] + '\t', end='')
+    #         except IndexError:
+    #             continue
+    #     print()
+    file_path = "./clf1.pickle"
+    # clf1 = train_classifier(
+    #     X_train, y_train, vectorizer
+    # )
+    # with open(file_path, 'wb') as file:
+    #     pickle.dump((clf1, vectorizer), file)
+    with open(file_path, 'rb') as file:
+        clf1, vectorizer = pickle.load(file)
+    # test_classifier(clf1, X_test, y_test, vectorizer)
+    get_most_important_features(file_path)
 
 
 def get_and_split_data(
         congresses: tuple[int] = congresses
 ) -> tuple[tuple[list[str], int],
            tuple[list[str], int]]:
-
     df = build_data.build_raw_dataframe(congresses)
     df = analysis.clean_votes_df(df)
     tokenized_texts = df['tokenized text'].to_numpy()
 
     texts = [
         ' '.join([token for token in tokenized_text if
-                    (
+                  (
                           len(token) >= 3 and
                           '-' not in token and
                           '_' not in token
-                    )
+                  )
                   ])
         for tokenized_text in tokenized_texts
     ]
@@ -94,7 +105,7 @@ def train_classifier(
     X_train = vectorizer.transform(X_train)
 
     clf = RandomForestClassifier(
-        n_estimators=1000, criterion='gini',
+        n_estimators=10_000, criterion='gini',
         max_depth=None, max_features='sqrt',
         bootstrap=True, n_jobs=4,
         random_state=random_state, verbose=2,
@@ -118,6 +129,30 @@ def test_classifier(
         clf, X_test, y_test
     )
     display.plot()
+    plt.show()
+
+
+def get_most_important_features(
+        file_path: str,
+        num_features: int = 256
+):
+    with open(file_path, 'rb') as file:
+        clf, vectorizer = pickle.load(file)
+    features = vectorizer.get_feature_names_out()
+    importances = clf.feature_importances_
+    combo = list(zip(features, importances))
+    combo = sorted(
+        combo, key=lambda x: x[1], reverse=True
+    )
+    features, importances = list(zip(*combo))
+    # fig: plt.Figure = plt.figure(figsize=[6.4, 4.6], dpi=400)
+    # ax: plt.Axes = fig.add_subplot()
+    # # ax.barh(
+    # #     list(range(256)), importances[0:256], tick_label=features[0:256]
+    # # )
+    # ax.scatter(importances[0:256], bins=100, histtype='stepfilled')
+    # fig.show()
+    return features[0:num_features], importances[0:num_features]
 
 
 if __name__ == '__main__':
