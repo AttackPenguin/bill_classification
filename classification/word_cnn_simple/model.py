@@ -1,4 +1,6 @@
 import os
+import pickle
+from collections import OrderedDict
 
 import numpy as np
 import torch
@@ -13,6 +15,11 @@ from classification.random_forest.random_forest \
     import get_most_important_features as get_features
 from classification.word_cnn_simple.dataloader import BillDataModule
 from dataset import get_glove_embeddings
+import parameters as p
+
+PICKLED_DATA = os.path.join(
+    p.PICKLED_DATA, "word_cnn_simple"
+)
 
 
 class WordCNNSimple(pl.LightningModule):
@@ -51,7 +58,7 @@ class WordCNNSimple(pl.LightningModule):
 
         # Input dimension is (batch_size, 32, 128)
         self.linear_l5 = nn.Linear(
-            in_features=32*128,
+            in_features=32 * 128,
             out_features=256
         )
         self.linear_l6 = nn.Linear(
@@ -76,7 +83,7 @@ class WordCNNSimple(pl.LightningModule):
         l3_pooled = self.pool_l3(l3_convolved)
 
         # Pass through dense layers
-        l4_linearized = l3_pooled.reshape(-1, 32*128)
+        l4_linearized = l3_pooled.reshape(-1, 32 * 128)
         l5_out = F.leaky_relu(self.linear_l5(l4_linearized))
         l6_out = F.leaky_relu(self.linear_l6(l5_out))
 
@@ -119,26 +126,46 @@ class WordCNNSimple(pl.LightningModule):
         return optimizer
 
 
+def get_feature_embeddings(
+        features: list[str],
+        use_pickled: bool = True
+):
+    pickled_file_path = os.path.join(
+        PICKLED_DATA,
+        f"get_feature_embeddings.pickle"
+    )
+    if use_pickled and os.path.exists(pickled_file_path):
+        with open(pickled_file_path, 'rb') as file:
+            feature_coordinates = pickle.load(file)
+    else:
+        embeddings = get_glove_embeddings()
+        feature_coordinates = [
+            embeddings[feature] for feature in features
+        ]
+        with open(pickled_file_path, 'wb') as file:
+            pickle.dump(feature_coordinates, file)
+
+    return feature_coordinates
+
+
 model = WordCNNSimple()
-parameters = model.state_dict()
+# parameters = model.state_dict()
 features, importances = get_features(
     "../random_forest/clf1.pickle"
 )
-embeddings = get_glove_embeddings()
-feature_coordinates = [
-    embeddings[feature] for feature in features
-]
+parameters = OrderedDict()
 parameters['conv_l1.weight'] = \
-    torch.Tensor(np.array(feature_coordinates).reshape((256,300,1)))
-model.load_state_dict(parameters)
-datamodule = BillDataModule(batch_size=8)
+    torch.Tensor(np.array(get_feature_embeddings(features)).reshape((256, 300, 1)))
+
+
+model.load_state_dict(parameters, strict=False)
+datamodule = BillDataModule(batch_size=16)
 
 checkpoint_callback = ModelCheckpoint(
     monitor="val_loss",
     save_top_k=-1,
     filename='epoch {epoch:02d} val_loss {val_loss:.3f}'
 )
-
 
 if torch.cuda.is_available():
     devices = -1
